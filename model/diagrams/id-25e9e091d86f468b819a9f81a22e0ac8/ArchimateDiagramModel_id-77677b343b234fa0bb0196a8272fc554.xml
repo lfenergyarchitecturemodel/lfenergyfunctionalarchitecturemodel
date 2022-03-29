@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OpenSTEF"
+    id="id-77677b343b234fa0bb0196a8272fc554">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-0022097408ed46c39a75bcf5f17a1feb"
+      name="OpenSTEF"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="60"
+        width="841"
+        height="193"/>
+  </children>
+</archimate:ArchimateDiagramModel>
