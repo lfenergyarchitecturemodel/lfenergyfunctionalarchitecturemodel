@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Weather Forecast Generation"
+    id="EAID_65268548_D50E_45ad_8F03_58C29D0E9F7C"
+    documentation="Generating a forecast for all aspects of weather related to demand and load forecasting.&#xA;The algorithm in the &quot;Weather Forecast Generation&quot; function be trained by retrospectively comparing the weather forecast to the weather measured for a given time and location."/>

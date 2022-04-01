@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Weather Measurements"
+    id="EAID_6C4CAEE9_8499_47e2_A441_AE01C57CC898"
+    documentation="Weather measurements are values recorded in the field at a given time from sensors including air temperature, precipitation levels, cloud coverage, sunshine levels, wind speeds, and lightning.&#xA;Weather measurements may be recorded at various time intervals and are typically stored historically."/>

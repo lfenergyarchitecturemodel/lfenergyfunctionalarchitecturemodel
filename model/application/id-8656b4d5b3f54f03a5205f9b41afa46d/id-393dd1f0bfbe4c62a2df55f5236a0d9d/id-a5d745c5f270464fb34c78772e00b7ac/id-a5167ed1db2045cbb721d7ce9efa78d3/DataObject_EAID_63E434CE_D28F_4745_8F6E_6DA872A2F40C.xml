@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Available Frequency-Responsive Demand Response"
+    id="EAID_63E434CE_D28F_4745_8F6E_6DA872A2F40C"
+    documentation="Available Frequency-responsive demand response refers to on-line generation that can measure frequency locally and change their power consumption after a non-zero frequency deviation is observed, in order to achieve power balance between supply and demand. &#xA;For example fans and pumps that are directly driven by synchronous or induction motors, will, therefore, inherently reduce demand during frequency declines (and increase when frequency increases).&#xA;Source: PNNL https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-23764.pdf"/>

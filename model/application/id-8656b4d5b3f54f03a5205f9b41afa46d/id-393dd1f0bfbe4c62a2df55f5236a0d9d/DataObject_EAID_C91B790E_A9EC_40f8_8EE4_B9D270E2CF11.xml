@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Weather Forecast"
+    id="EAID_C91B790E_A9EC_40f8_8EE4_B9D270E2CF11"
+    documentation="Estimate of weather conditions for a given location at a given moment in time (hour/day) including all aspects relevant to demand and load forecasting e.g., air temperature, precipitation levels, cloud coverage, sunshine levels, wind speeds, and lightning."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Variable Energy Resource Forecast"
+    id="EAID_92753E01_DFF5_43f8_9026_4714EB56715E"
+    documentation="The forecasted power available over time from variable energy resources for a given forecasting window (e.g., minutes, hours, days). A forecast may include metadata related to the uncertainty of its inputs and likelihood of occurrence."/>

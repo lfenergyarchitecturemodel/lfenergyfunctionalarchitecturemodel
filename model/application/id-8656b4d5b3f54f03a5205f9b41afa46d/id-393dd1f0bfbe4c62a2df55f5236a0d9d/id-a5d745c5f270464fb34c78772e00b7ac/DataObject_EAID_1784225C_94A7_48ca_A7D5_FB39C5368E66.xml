@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solar Generation Forecast"
+    id="EAID_1784225C_94A7_48ca_A7D5_FB39C5368E66"
+    documentation="The forecasted power available over time from solar generation resources for a given forecasting window (e.g., minutes, hours, days). A forecast may include metadata related to the uncertainty of its inputs and likelihood of occurrence."/>

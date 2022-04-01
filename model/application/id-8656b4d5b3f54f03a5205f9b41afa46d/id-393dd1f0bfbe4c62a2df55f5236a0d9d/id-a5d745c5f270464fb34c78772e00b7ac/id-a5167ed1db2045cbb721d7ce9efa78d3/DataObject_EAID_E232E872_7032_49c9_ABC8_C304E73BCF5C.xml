@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grid Measurements and Limits"
+    id="EAID_E232E872_7032_49c9_ABC8_C304E73BCF5C"
+    documentation="The definition of measurements and limits that apply to a particular grid.  It must be transferred with the corresponding EQ profile. Supported by the operation (OP) profile  IEC 61970-452.&#xA;&#xA;https://webstore.iec.ch/publication/64844"/>

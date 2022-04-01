@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Load Forecasting"
+    id="EAID_8498C704_8821_4d32_8D51_177A849D2326"
+    documentation="Calculates a  load forecast (demand) that must be met by a grid or market operator over minutes, hours and days.  Mostly impacted by season, day of week, holidays, weather and other events."/>

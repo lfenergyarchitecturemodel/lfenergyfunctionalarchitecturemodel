@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Net Demand Response Short Term Load Forecast"
+    id="EAID_D2A1D80E_00A2_4f71_B188_DA402CFD4AE8"
+    documentation="A short term load forecast that is adjusted for demand that is expected to be met by demand response effectively reducing the load expected and observed by the operator/market."/>

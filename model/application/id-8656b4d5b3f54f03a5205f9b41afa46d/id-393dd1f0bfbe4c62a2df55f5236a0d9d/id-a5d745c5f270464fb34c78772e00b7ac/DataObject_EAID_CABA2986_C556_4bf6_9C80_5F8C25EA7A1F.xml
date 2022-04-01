@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grid Scenario"
+    id="EAID_CABA2986_C556_4bf6_9C80_5F8C25EA7A1F"
+    documentation="A representation of a possible state (energy injections, switch states, control settings) of the grid for planning and coordination.  Is additional to the equipment model, therefore a steady state analysis would require both an Equipment and a scenario (Steady State Hypothesis, SSH profile, in CIM)"/>

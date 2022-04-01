@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energy Resource Master Data"
+    id="EAID_07D7C461_EC37_4b43_9698_B0C2A8485D56"
+    documentation="Behavioural attributes for an energy resource (gen, load, storage) including maximum power, ramp rate (curve), start up time, minimum run time etc."/>

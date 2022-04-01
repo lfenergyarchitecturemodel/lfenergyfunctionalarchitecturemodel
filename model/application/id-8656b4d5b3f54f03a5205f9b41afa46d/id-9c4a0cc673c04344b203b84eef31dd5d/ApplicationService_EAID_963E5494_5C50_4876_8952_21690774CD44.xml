@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CGMES Contingency Profile"
+    id="EAID_963E5494_5C50_4876_8952_21690774CD44"
+    documentation="Specification proposed to IEC TC57 WG 13 for standardization by ENTSO-E.&#xA;https://eepublicdownloads.entsoe.eu/clean-documents/CIM_documents/Grid_Model_CIM/Contingency_Profile_Specification_v1.0.pdf"/>

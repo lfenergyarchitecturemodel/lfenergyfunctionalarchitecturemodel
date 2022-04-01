@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Limit Violations"
+    id="EAID_2031F5FA_7968_4405_BDFB_5E5A072B182D"
+    documentation="Instances where the power system scenario (current or future) violates limits set for grid stability and security."/>

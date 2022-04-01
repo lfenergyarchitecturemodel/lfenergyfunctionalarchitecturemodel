@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Black Start Service Awards"
+    id="EAID_3BF93AF4_899B_4aea_B91F_A6CB9456CED3"
+    documentation="An award to provide black start service in the event of a black out.  Requires:&#xA;&quot;A generating unit(s) and its associated set of equipment which has the ability to be started without support from the System or is designed to remain energized without connection to the remainder of the System, with the ability to energize a bus, meeting the Transmission Operator’s restoration plan needs for Real and Reactive Power capability, frequency and voltage control, and that has been included in the Transmission Operator’s restoration plan&quot;&#xA;https://www.nerc.com/files/glossary_of_terms.pdf"/>

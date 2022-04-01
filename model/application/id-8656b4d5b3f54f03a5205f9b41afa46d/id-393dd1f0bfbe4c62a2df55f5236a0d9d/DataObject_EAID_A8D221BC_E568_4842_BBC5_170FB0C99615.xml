@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Calendar"
+    id="EAID_A8D221BC_E568_4842_BBC5_170FB0C99615"
+    documentation="A record of demand-influencing events for a given day of the year, based on the season, holidays, day of the week etc."/>

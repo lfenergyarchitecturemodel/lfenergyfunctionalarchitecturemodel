@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dynamic Security Assessment"
+    id="EAID_B1D264FA_0549_4f7b_992A_46139B679507"
+    documentation="DSA focuses on the security of system dynamics in various timescales, from transients of several seconds to slow dynamics of several minutes or even hours. It refers to the analysis and quantification of the degree and risk in a power system’s ability to survive imminent disturbances (DSA contingencies) without interruption to customer service.&#xA;&#xA;&#x9;1. DSA contingencies is a list of the largest generators and loads in the system. The DSA application function simulates the effects of these contingencies on the grid and outputs the impacts over time, including dropping frequency and stability.&#xA;&#x9;2. The DSA tool can also be used to simulate the behaviour of the grid over time, based on the current state of the grid and/or forecasted conditions, in the absence of DSA  contingency events.&#xA;&#xA;&#xA;There are four subareas in Dynamic Security/Stability Assessment:&#xA;&#x9;- Transient stability analysis&#xA;&#x9;- Small signal analysis&#xA;&#x9;- Frequency stability analysis&#xA;&#x9;- Voltage Stability Assessment">
+  <properties
+      key="First Increment"
+      value="2"/>
+</archimate:ApplicationFunction>

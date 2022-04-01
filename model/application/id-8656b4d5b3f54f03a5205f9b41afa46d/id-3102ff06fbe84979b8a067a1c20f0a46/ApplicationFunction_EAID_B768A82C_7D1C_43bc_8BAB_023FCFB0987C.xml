@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forecast Energy Resource Availability"
+    id="EAID_B768A82C_7D1C_43bc_8BAB_023FCFB0987C"
+    documentation="Forecasting the available capacity of variable energy resources based on the historical performance for that resource, the characteristics of that resource, and the weather forecast."/>

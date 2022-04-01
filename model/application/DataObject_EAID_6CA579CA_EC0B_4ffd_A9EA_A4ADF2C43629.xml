@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dynamic Security Violations"
+    id="EAID_6CA579CA_EC0B_4ffd_A9EA_A4ADF2C43629"
+    documentation="A dynamic security violation is one that requires the operator to take a dispatch action."/>

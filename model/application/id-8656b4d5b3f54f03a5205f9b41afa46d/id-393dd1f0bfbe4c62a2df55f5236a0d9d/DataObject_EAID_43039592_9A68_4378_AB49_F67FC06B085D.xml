@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DER Growth"
+    id="EAID_43039592_9A68_4378_AB49_F67FC06B085D"
+    documentation="An estimate of the growth of Distributed Energy Resource (e.g. Rooftop solar and storage, that would reduce net demand or electric vehicles that would increase it) in the last year.  Used to adjust load forecasts when using a &quot;similar day&quot; from the prior year. "/>

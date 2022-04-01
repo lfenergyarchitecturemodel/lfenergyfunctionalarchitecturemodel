@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Electro-magnetic Transient Stability Assessment"
+    id="EAID_EA9D133D_C192_4549_89A5_705EA35DEE66"
+    documentation="Assessing the security and stability issues of HVDCs by modeling the dynamics  between AC and DC susbystems during fault propagation."/>

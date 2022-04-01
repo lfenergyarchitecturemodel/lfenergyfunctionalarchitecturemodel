@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Switching Operations"
+    id="EAID_CC2AB72D_A1A3_46c2_A583_BE1042AB4AB8"
+    documentation="Switching operations that change the default switch position for a period of time e.g. summer setup are communicated as part of an outage."/>

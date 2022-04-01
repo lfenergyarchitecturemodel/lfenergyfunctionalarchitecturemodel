@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Available Non-spinning Reserves"
+    id="EAID_E5A61583_5D4D_46f4_B691_09BA5380F91F"
+    documentation="A form of secondary frequency response, non-spinning reserves must be available within ten minutes, but can be offline. "/>

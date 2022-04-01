@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EMT Stability Violations"
+    id="EAID_30AA6BE0_D5D0_411a_AC64_DAF632AAFE29"
+    documentation="Violations of security and stability on HVDCs in sub-transient dynamics."/>

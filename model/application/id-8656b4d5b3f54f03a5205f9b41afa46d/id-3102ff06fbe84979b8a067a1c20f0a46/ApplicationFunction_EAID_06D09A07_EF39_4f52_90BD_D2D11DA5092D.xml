@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Model Management"
+    id="EAID_06D09A07_EF39_4f52_90BD_D2D11DA5092D"
+    documentation="The ‘Network Model Management’ function provides a single source of truth for network analysis data and enables grid models for different purposes to be derived from that single source of truth. Network analysis is concerned solely with the electrical grid. Grid models are abstracted from facility engineering detail and describe, in mathematical form, the characteristics of the electrical components that are significant to the overall electrical system that delivers power from sources to consumers.  "/>

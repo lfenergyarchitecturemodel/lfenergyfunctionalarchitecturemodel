@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grid-Forming IBR Dynamics Models"
+    id="EAID_3CE317AD_2282_4a24_8E42_8DDD6DD7D1B7"
+    documentation="Grid-following inverters mimic current sources at their output terminals, whereas grid-forming inverters act like voltage sources and have control of voltage magnitude of frequency/phase.&#xA;&#xA;In contrast to inverter-based grid-following sources, inverter-based grid-forming sources would be designed to establish frequency and control voltage autonomously, and therefore they might be designed to both provide black-start capability and facilitate system restoration following a blackout.&#xA;&#xA;Source: https://www.nrel.gov/docs/fy21osti/73476.pdf"/>

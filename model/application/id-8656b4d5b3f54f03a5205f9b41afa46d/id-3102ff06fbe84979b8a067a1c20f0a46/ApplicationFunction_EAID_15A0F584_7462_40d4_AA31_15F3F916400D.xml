@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Short Term Load Forecast Demand Response Adjustment"
+    id="EAID_15A0F584_7462_40d4_AA31_15F3F916400D"
+    documentation="Calculates a short term load forecast that is adjusted for demand that is expected to be met by demand response effectively reducing the load expected and observed by the operator/market."/>

@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Power System State Aggregation"
+    id="EAID_9A3A6CBC_96C8_479c_A67F_24255873F90F">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_D1AA_4e65_9948_F31053711580"
+      targetConnections="EAID_DC000000_B43C_413c_98DC_2C3B5DC6D79D">
+    <bounds
+        x="546"
+        y="113"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_EAID_E66CE9E1_D1AA_4e65_9948_F31053711580.xml#EAID_E66CE9E1_D1AA_4e65_9948_F31053711580"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000000_7968_4405_BDFB_5E5A072B182D">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="EAID_DC000000_B43C_413c_98DC_2C3B5DC6D79D"
+        source="EAID_DN000000_7968_4405_BDFB_5E5A072B182D"
+        target="EAID_DN000004_D1AA_4e65_9948_F31053711580">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_EAID_E500D770_B43C_413c_98DC_2C3B5DC6D79D.xml#EAID_E500D770_B43C_413c_98DC_2C3B5DC6D79D"/>
+    </sourceConnections>
+    <bounds
+        x="409"
+        y="249"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_EAID_2031F5FA_7968_4405_BDFB_5E5A072B182D.xml#EAID_2031F5FA_7968_4405_BDFB_5E5A072B182D"/>
+  </children>
+</archimate:ArchimateDiagramModel>

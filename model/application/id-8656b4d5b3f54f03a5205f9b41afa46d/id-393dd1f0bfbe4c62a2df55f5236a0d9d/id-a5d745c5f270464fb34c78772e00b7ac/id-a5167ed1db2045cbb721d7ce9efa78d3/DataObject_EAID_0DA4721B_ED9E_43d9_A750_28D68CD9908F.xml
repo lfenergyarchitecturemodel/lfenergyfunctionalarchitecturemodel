@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Granular RES Models"
+    id="EAID_0DA4721B_ED9E_43d9_A750_28D68CD9908F"
+    documentation="The equipment and dynamics model for renewable energy sources.">
+  <properties
+      key="First Increment"
+      value="3"/>
+</archimate:DataObject>

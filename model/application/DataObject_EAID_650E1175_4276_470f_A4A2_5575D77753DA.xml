@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Equipment Dynamics Model"
+    id="EAID_650E1175_4276_470f_A4A2_5575D77753DA"
+    documentation="A mathematical model for an equipment's (synchronous machine, inverter based resources, transmission lines, load and energy storage) electro-mechanical and electro-magnetic response to control or grid changes.&#xA;A mathematical model representing the sub-cycle behaviour needed for analysis of the steady state stability (small-signal stability) and/or transient stability of a power system or parts of it. &#xA;(The DY profile of CIM.)&#xA;&#xA;More info here: https://www.nerc.com/comm/PC/Model%20Validation%20Working%20Group%20MVWG%202013/NERC%20Standardized%20Component%20Model%20Manual.pdf&#xA;https://arxiv.org/pdf/1804.04933.pdf#:~:text=POWER%20SYSTEM%20MODELS,wind%20generators%20and%20PV%20generators."/>

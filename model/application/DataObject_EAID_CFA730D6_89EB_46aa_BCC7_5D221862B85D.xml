@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inverter-Based Resource Dynamics Model"
+    id="EAID_CFA730D6_89EB_46aa_BCC7_5D221862B85D"
+    documentation="Dynamics model for inverter-based resources, including grid-following and grid-forming resources."/>

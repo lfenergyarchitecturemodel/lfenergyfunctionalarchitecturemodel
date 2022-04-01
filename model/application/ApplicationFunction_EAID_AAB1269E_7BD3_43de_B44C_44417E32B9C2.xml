@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Power Flow Analysis"
+    id="EAID_AAB1269E_7BD3_43de_B44C_44417E32B9C2"
+    documentation="Power Flow Analysis is the computational procedure (numerical algorithms) required to determine the steady state operating characteristics of a power system network from the given line data and bus data."/>

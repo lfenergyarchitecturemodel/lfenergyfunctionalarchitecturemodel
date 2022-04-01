@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Measured Resource Output"
+    id="EAID_B7179D49_CB3C_4a15_819C_0C765BDEF8F2"
+    documentation="The measured output for demand response resources for past scheduled time frames."/>

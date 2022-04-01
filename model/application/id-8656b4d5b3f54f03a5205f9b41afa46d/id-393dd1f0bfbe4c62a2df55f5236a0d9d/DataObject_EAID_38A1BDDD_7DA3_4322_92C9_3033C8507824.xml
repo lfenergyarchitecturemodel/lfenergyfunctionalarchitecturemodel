@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DSA Contingencies"
+    id="EAID_38A1BDDD_7DA3_4322_92C9_3033C8507824"
+    documentation="DSA contingencies is a list of the largest generators and loads in the system. The DSA application function simulates the effects of these contingencies on the grid and outputs the impacts over time, including dropping frequency and stability."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generator Derates"
+    id="EAID_EE4D41C6_FD5D_49a9_AD56_38B42B1911A7"
+    documentation="A derate is a partial generator outage with an associated reduction in capacity. A generator derate may be scheduled to do maintenance in the future minutes, days or months."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="State Estimation"
+    id="EAID_828E2E82_AE20_4fc4_B946_9E953F92A4DA"
+    documentation="An estimate of the current state of the grid in terms of power flow, voltages, demand and generation based on validated and adjusted direct measurements and interpolated values where no measurement is available."/>

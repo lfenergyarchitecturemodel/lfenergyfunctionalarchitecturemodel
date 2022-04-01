@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wind Generation Forecast"
+    id="EAID_D96344F8_BA88_42a6_B15C_A0CFBA9B5F4C"
+    documentation="The forecasted power available over time from wind generation resources for a given forecasting window (e.g., minutes, hours, days). A forecast may include metadata related to the uncertainty of its inputs and likelihood of occurrence."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grid Physical Model"
+    id="EAID_9BA152ED_00D6_48f2_9078_6D3A6C90ABF6"
+    documentation="A representation of the physical characteristics of the electrical grid including equipment, connectivity, short circuit properties, measurements and limits.  Supported by the CIM EQ, OP and SC profiles IEC 61970-452."/>

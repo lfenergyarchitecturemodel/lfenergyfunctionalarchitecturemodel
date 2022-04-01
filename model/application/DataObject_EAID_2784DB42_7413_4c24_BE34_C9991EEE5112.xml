@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Outages"
+    id="EAID_2784DB42_7413_4c24_BE34_C9991EEE5112"
+    documentation="Outages, scheduled or unplanned (forced), are changes to the normal operation of resources and equipment on the grid.  They include generators out of service or operating in a degraded mode, non-default switch positions or temporarily stricter operating limits.">
+  <properties
+      key="First Increment"
+      value="4"/>
+</archimate:DataObject>

@@ -1,0 +1,15 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="EAID_6D65C6E7_25F6_47b6_926E_3B1F2DA3DA43"
+    accessType="1">
+  <properties
+      key="First Increment"
+      value="4"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_EAID_B1D264FA_0549_4f7b_992A_46139B679507.xml#EAID_B1D264FA_0549_4f7b_992A_46139B679507"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_EAID_FCF60C29_8725_4490_9717_2F4C8A9EFA77.xml#EAID_FCF60C29_8725_4490_9717_2F4C8A9EFA77"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Frequency Stability"
+    id="EAID_004A02A7_6CF2_41e6_BAED_95FD9BD7E3B0"
+    documentation="Frequency stability analysis  refers to the ability of a power system to maintain steady frequency following a severe disturbance between generation and load. This depends on the ability to restore equilibrium between system generation and load, with minimum loss of load. Frequency instability may lead to sustained frequency swings leading to tripping of generating units or loads. During frequency excursions, the characteristic times of the processes and devices that are activated will range from fraction of seconds like under frequency control to several minutes, corresponding to the response of devices such as prime mover and hence frequency stability may be a short-term phenomenon or a long-term phenomenon."/>

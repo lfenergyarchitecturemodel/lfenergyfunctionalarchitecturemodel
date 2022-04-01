@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telemetry Set"
+    id="EAID_01AE7FE7_5E3A_4d6b_9922_E7601F1DB32D"
+    documentation="A set of grid measurements (analog and digital) that represent the same (as much as possible) time.  "/>

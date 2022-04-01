@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Power System State"
+    id="EAID_E66CE9E1_D1AA_4e65_9948_F31053711580"
+    documentation="State estimator solution or power flow output &#xA;- Energized State&#xA;- Island Topology&#xA;- Bus Voltage&#xA;- Bus Injections&#xA;- Terminal flows&#xA;- Controls&#xA;- Violations">
+  <properties
+      key="First Increment"
+      value="2"/>
+</archimate:DataObject>

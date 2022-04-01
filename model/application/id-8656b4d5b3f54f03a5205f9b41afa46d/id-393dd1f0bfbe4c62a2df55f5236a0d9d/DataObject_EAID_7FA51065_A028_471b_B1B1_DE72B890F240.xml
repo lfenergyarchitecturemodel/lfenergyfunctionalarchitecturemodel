@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dynamic base-case"
+    id="EAID_7FA51065_A028_471b_B1B1_DE72B890F240"
+    documentation="Snapshot from the dynamic model&#xA;Power flow solution with dynamic data">
+  <properties
+      key="First Increment"
+      value="1"/>
+</archimate:DataObject>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Equipment Out of Service"
+    id="EAID_C7848D4D_DB82_491d_96F5_8986365FA44C"
+    documentation="A planned outage for which equipment needs to be taken out of service."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transient Stability Assessment"
+    id="EAID_BC9AA8EC_7225_409a_86E3_44E1E30A62AB"
+    documentation="Transient stability analysis simulates the effect on the grid as a result of events that can cause oscillations in the speed and angles of machines and in power flows along the lines (e.g. faults, load changes, connection/disconnection of generators). Transient stability analysis is the study of the system in response to these changes and is used to determine if the system will be stable after a given disturbance. For proper operation of the system, it is essential to ensure that after a given disturbance, the system settles down to a new, stable condition."/>

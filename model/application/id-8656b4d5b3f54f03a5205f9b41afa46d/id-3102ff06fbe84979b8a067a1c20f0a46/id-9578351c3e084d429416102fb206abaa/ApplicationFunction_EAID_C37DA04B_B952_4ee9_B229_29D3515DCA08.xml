@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Small Signal Stability Assessment"
+    id="EAID_C37DA04B_B952_4ee9_B229_29D3515DCA08"
+    documentation="Small signal analysis is about power system stability when subject to small disturbances (sub-cycle). If power system oscillations caused by small disturbances can be suppressed, such that the deviations of system state variables remain small for a long time, the power system is stable. On the contrary, if the magnitude of oscillations continues to increase or sustain indefinitely, the power system is unstable.">
+  <properties
+      key="First Increment"
+      value="2"/>
+</archimate:ApplicationFunction>

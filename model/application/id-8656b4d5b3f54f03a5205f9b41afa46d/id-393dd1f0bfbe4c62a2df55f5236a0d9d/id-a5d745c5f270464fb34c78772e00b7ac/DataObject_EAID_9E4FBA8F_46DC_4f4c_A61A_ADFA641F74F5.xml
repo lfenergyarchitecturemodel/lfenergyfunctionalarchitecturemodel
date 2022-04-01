@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Short Term Load Forecast"
+    id="EAID_9E4FBA8F_46DC_4f4c_A61A_ADFA641F74F5"
+    documentation="A forecast of load (demand) that must be met by a grid or market operator over minutes, hours and days.  Mostly impacted by season, day of week, holidays, weather and other events."/>

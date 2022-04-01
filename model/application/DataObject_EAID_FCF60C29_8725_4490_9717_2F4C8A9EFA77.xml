@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Load Forecast"
+    id="EAID_FCF60C29_8725_4490_9717_2F4C8A9EFA77"
+    documentation="A forecast of load (demand) that must be met by a grid or market operator over any timeframe (minutes, hours, days, seasons, years).  Mostly impacted by season, day of week, holidays, weather and other events.">
+  <properties
+      key="First Increment"
+      value="4"/>
+</archimate:DataObject>

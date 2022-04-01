@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Market solution"
+    id="EAID_2D898591_073C_416e_B510_E9C4AEF3BAF3"
+    documentation="Replaces power system state, topology etc.">
+  <properties
+      key="First Increment"
+      value="5"/>
+</archimate:DataObject>

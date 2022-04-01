@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Short Circuit Model"
+    id="EAID_8F992F91_28FF_4200_B173_2ADAAE78773A"
+    documentation="Contains the additional information (e.g. equipment Negative and Zero Sequence Impedances) necessary to perform short circuit analysis. Supported by the SC profile in CIM, IEC 61970-452.  Must be exchanged with the corresponding EQ profile."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCADA"
+    id="EAID_D055AE5E_4ACC_4fbf_93DC_A521D967770A"
+    documentation="SCADA: Supervisory Control and Data Acquisition.&#xA;SCADA is a solution for data acquisition, monitor and control power systems covering large geographical areas. It refers to the combination of data acquisition and telemetry."/>
