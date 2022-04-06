@@ -346,15 +346,4 @@
         xsi:type="archimate:DataObject"
         href="DataObject_EAID_92753E01_DFF5_43f8_9026_4714EB56715E.xml#EAID_92753E01_DFF5_43f8_9026_4714EB56715E"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="EAID_DN000000_AA66_4b71_A125_717FF1C9A359"
-      textAlignment="1"
-      content="&amp;#169; 2022 Electric Power Research Institute, Inc. All rights reserved.">
-    <bounds
-        x="704"
-        y="692"
-        width="115"
-        height="55"/>
-  </children>
 </archimate:ArchimateDiagramModel>

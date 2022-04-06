@@ -66,17 +66,6 @@
         href="ApplicationFunction_EAID_65268548_D50E_45ad_8F03_58C29D0E9F7C.xml#EAID_65268548_D50E_45ad_8F03_58C29D0E9F7C"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="EAID_DN000000_2F0D_4a72_8DCF_63F066991A57"
-      textAlignment="1"
-      content="&amp;#169; 2022 Electric Power Research Institute, Inc. All rights reserved.">
-    <bounds
-        x="476"
-        y="597"
-        width="310"
-        height="27"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_8499_47e2_A441_AE01C57CC898"
       targetConnections="EAID_DC000000_6D10_4d43_B380_15D674937A29">

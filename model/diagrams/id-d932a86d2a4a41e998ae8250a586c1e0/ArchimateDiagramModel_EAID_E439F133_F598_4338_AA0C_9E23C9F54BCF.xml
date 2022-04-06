@@ -122,7 +122,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000000_8821_4d32_8D51_177A849D2326">
+      id="EAID_DN000000_8821_4d32_8D51_177A849D2326"
+      targetConnections="id-033d90e1ddab411f9a93fbce4f621989">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_3595_43d4_B0E8_4EA4F7073C56"
@@ -235,14 +236,24 @@
         href="ApplicationFunction_EAID_15A0F584_7462_40d4_AA31_15F3F916400D.xml#EAID_15A0F584_7462_40d4_AA31_15F3F916400D"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="EAID_DN000000_5A42_4493_A2A1_C756FA03A5E4"
-      textAlignment="1"
-      content="&amp;#169; 2022 Electric Power Research Institute, Inc. All rights reserved.">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-086877db0b3f45bb948256b7a656760d">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-033d90e1ddab411f9a93fbce4f621989"
+        source="id-086877db0b3f45bb948256b7a656760d"
+        target="EAID_DN000000_8821_4d32_8D51_177A849D2326">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-e4fb0bcc4d6c4f5ab26e7e9f4cb558af.xml#id-e4fb0bcc4d6c4f5ab26e7e9f4cb558af"/>
+    </sourceConnections>
     <bounds
-        x="710"
-        y="455"
-        width="310"
-        height="27"/>
+        x="225"
+        y="504"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-85ce86e66bbb46aa9544da6f71d5c6f8.xml#id-85ce86e66bbb46aa9544da6f71d5c6f8"/>
   </children>
 </archimate:ArchimateDiagramModel>
