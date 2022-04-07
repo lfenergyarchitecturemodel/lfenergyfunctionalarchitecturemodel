@@ -53,8 +53,13 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000003_D1AA_4e65_9948_F31053711580"
-      targetConnections="EAID_DC000000_8B1E_4660_B80C_00FAC7DAC8B3 EAID_DC000002_320F_4694_B594_48950F0CE058 EAID_DC000001_2142_40a4_ADE9_511C8D6DDBC0">
+      id="EAID_DN000003_D1AA_4e65_9948_F31053711580">
+    <targetConnections
+        href="ArchimateDiagramModel_EAID_DF9F571E_01A3_4643_96F5_E5F256006D9E.xml#EAID_DC000000_8B1E_4660_B80C_00FAC7DAC8B3"/>
+    <targetConnections
+        href="ArchimateDiagramModel_EAID_57335D17_001B_4e95_9C09_D2F13211D0E4.xml#EAID_DC000002_320F_4694_B594_48950F0CE058"/>
+    <targetConnections
+        href="ArchimateDiagramModel_EAID_57335D17_001B_4e95_9C09_D2F13211D0E4.xml#EAID_DC000001_2142_40a4_ADE9_511C8D6DDBC0"/>
     <bounds
         x="467"
         y="222"
@@ -101,8 +106,10 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_4007_42c3_B704_F32F6A0166E0"
-        source="EAID_DN000000_7BD3_43de_B44C_44417E32B9C2"
         target="EAID_DN000000_E719_48ec_B47E_38B222F8C252">
+      <source
+          xsi:type="archimate:DiagramModelArchimateObject"
+          href="ArchimateDiagramModel_EAID_DF9F571E_01A3_4643_96F5_E5F256006D9E.xml#EAID_DN000000_7BD3_43de_B44C_44417E32B9C2"/>
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_EAID_223ECB91_4007_42c3_B704_F32F6A0166E0.xml#EAID_223ECB91_4007_42c3_B704_F32F6A0166E0"/>
@@ -110,8 +117,10 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_8B1E_4660_B80C_00FAC7DAC8B3"
-        source="EAID_DN000000_7BD3_43de_B44C_44417E32B9C2"
         target="EAID_DN000003_D1AA_4e65_9948_F31053711580">
+      <source
+          xsi:type="archimate:DiagramModelArchimateObject"
+          href="ArchimateDiagramModel_EAID_DF9F571E_01A3_4643_96F5_E5F256006D9E.xml#EAID_DN000000_7BD3_43de_B44C_44417E32B9C2"/>
       <bendpoints
           startX="194"
           startY="-2"
@@ -123,8 +132,10 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_D2C7_4a4f_97CB_737A2C0FD950"
-        source="EAID_DN000000_7BD3_43de_B44C_44417E32B9C2"
         target="EAID_DN000001_9D38_4045_8091_CF622CF89574">
+      <source
+          xsi:type="archimate:DiagramModelArchimateObject"
+          href="ArchimateDiagramModel_EAID_DF9F571E_01A3_4643_96F5_E5F256006D9E.xml#EAID_DN000000_7BD3_43de_B44C_44417E32B9C2"/>
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_EAID_E5A9C67C_D2C7_4a4f_97CB_737A2C0FD950.xml#EAID_E5A9C67C_D2C7_4a4f_97CB_737A2C0FD950"/>
