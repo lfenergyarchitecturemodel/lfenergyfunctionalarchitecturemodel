@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PowSyBL"
+    id="EAID_1950658B_D4E8_4f0a_BF31_3D30D7E72397"
+    documentation="PowSyBl (Power System Blocks) is an open source library dedicated to electrical grid modeling and simulation. PowSyBl is written in Java and licensed under the Mozilla Public License 2.0.&#xA;Using PowSyBl, developers can create applications able to perform dynamic power flow simulations and security analyses on the network, handle a variety of formats including CGMES for European data exchanges, and many other tasks."/>

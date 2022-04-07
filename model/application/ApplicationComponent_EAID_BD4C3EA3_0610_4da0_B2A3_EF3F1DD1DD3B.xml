@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OperatorFabric"
+    id="EAID_BD4C3EA3_0610_4da0_B2A3_EF3F1DD1DD3B"
+    documentation="OperatorFabric is designed to aggregate notifications from all these applications into a single screen and allow the operator to act on them."/>
