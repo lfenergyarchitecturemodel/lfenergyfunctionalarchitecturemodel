@@ -9,26 +9,18 @@
       targetConnections="id-bcc2cb2fcc6d4340920b518cc9a77ea2">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="EAID_DC000001_320F_4694_B594_48950F0CE058">
-      <source
-          xsi:type="archimate:DiagramModelArchimateObject"
-          href="file:/C:/Users/pmdz002/AppData/Roaming/Archi4/model-repository/lfenergyfunctionalarchitecturemodel/model/diagrams/id-d932a86d2a4a41e998ae8250a586c1e0/ArchimateDiagramModel_EAID_DF9F571E_01A3_4643_96F5_E5F256006D9E.xml#EAID_DN000001_11BE_4985_B1D5_D5DA4380F2E1"/>
-      <target
-          xsi:type="archimate:DiagramModelArchimateObject"
-          href="file:/C:/Users/pmdz002/AppData/Roaming/Archi4/model-repository/lfenergyfunctionalarchitecturemodel/model/diagrams/id-d932a86d2a4a41e998ae8250a586c1e0/ArchimateDiagramModel_EAID_DF9F571E_01A3_4643_96F5_E5F256006D9E.xml#EAID_DN000002_D1AA_4e65_9948_F31053711580"/>
+        id="EAID_DC000001_320F_4694_B594_48950F0CE058"
+        source="EAID_DN000001_11BE_4985_B1D5_D5DA4380F2E1"
+        target="EAID_DN000002_D1AA_4e65_9948_F31053711580">
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_EAID_9E5E2F7A_320F_4694_B594_48950F0CE058.xml#EAID_9E5E2F7A_320F_4694_B594_48950F0CE058"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="EAID_DC000000_FD19_4dbd_BD0D_AE6C19C418B5">
-      <source
-          xsi:type="archimate:DiagramModelArchimateObject"
-          href="file:/C:/Users/pmdz002/AppData/Roaming/Archi4/model-repository/lfenergyfunctionalarchitecturemodel/model/diagrams/id-d932a86d2a4a41e998ae8250a586c1e0/ArchimateDiagramModel_EAID_DF9F571E_01A3_4643_96F5_E5F256006D9E.xml#EAID_DN000001_11BE_4985_B1D5_D5DA4380F2E1"/>
-      <target
-          xsi:type="archimate:DiagramModelArchimateObject"
-          href="file:/C:/Users/pmdz002/AppData/Roaming/Archi4/model-repository/lfenergyfunctionalarchitecturemodel/model/diagrams/id-d932a86d2a4a41e998ae8250a586c1e0/ArchimateDiagramModel_EAID_DF9F571E_01A3_4643_96F5_E5F256006D9E.xml#EAID_DN000000_EB00_424a_82F7_722E4D6B06AE"/>
+        id="EAID_DC000000_FD19_4dbd_BD0D_AE6C19C418B5"
+        source="EAID_DN000001_11BE_4985_B1D5_D5DA4380F2E1"
+        target="EAID_DN000000_EB00_424a_82F7_722E4D6B06AE">
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_EAID_759C2F75_FD19_4dbd_BD0D_AE6C19C418B5.xml#EAID_759C2F75_FD19_4dbd_BD0D_AE6C19C418B5"/>
@@ -49,6 +41,10 @@
         href="file:/C:/Users/pmdz002/AppData/Roaming/Archi4/model-repository/lfenergyfunctionalarchitecturemodel/model/diagrams/id-d932a86d2a4a41e998ae8250a586c1e0/ArchimateDiagramModel_EAID_503D19F9_26AD_4a5e_B037_DEC50FCF3606.xml#EAID_DC000000_2142_40a4_ADE9_511C8D6DDBC0"/>
     <targetConnections
         href="file:/C:/Users/pmdz002/AppData/Roaming/Archi4/model-repository/lfenergyfunctionalarchitecturemodel/model/diagrams/id-d932a86d2a4a41e998ae8250a586c1e0/ArchimateDiagramModel_EAID_DF9F571E_01A3_4643_96F5_E5F256006D9E.xml#EAID_DC000001_320F_4694_B594_48950F0CE058"/>
+    <targetConnections
+        href="ArchimateDiagramModel_EAID_503D19F9_26AD_4a5e_B037_DEC50FCF3606.xml#EAID_DC000001_320F_4694_B594_48950F0CE058"/>
+    <targetConnections
+        href="ArchimateDiagramModel_EAID_503D19F9_26AD_4a5e_B037_DEC50FCF3606.xml#EAID_DC000000_2142_40a4_ADE9_511C8D6DDBC0"/>
     <bounds
         x="371"
         y="222"
@@ -65,10 +61,8 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_2142_40a4_ADE9_511C8D6DDBC0"
-        source="EAID_DN000000_9D38_4045_8091_CF622CF89574">
-      <target
-          xsi:type="archimate:DiagramModelArchimateObject"
-          href="file:/C:/Users/pmdz002/AppData/Roaming/Archi4/model-repository/lfenergyfunctionalarchitecturemodel/model/diagrams/id-d932a86d2a4a41e998ae8250a586c1e0/ArchimateDiagramModel_EAID_DF9F571E_01A3_4643_96F5_E5F256006D9E.xml#EAID_DN000002_D1AA_4e65_9948_F31053711580"/>
+        source="EAID_DN000000_9D38_4045_8091_CF622CF89574"
+        target="EAID_DN000002_D1AA_4e65_9948_F31053711580">
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_EAID_4129AD6B_2142_40a4_ADE9_511C8D6DDBC0.xml#EAID_4129AD6B_2142_40a4_ADE9_511C8D6DDBC0"/>
@@ -87,6 +81,8 @@
       id="EAID_DN000000_EB00_424a_82F7_722E4D6B06AE">
     <targetConnections
         href="file:/C:/Users/pmdz002/AppData/Roaming/Archi4/model-repository/lfenergyfunctionalarchitecturemodel/model/diagrams/id-d932a86d2a4a41e998ae8250a586c1e0/ArchimateDiagramModel_EAID_DF9F571E_01A3_4643_96F5_E5F256006D9E.xml#EAID_DC000000_FD19_4dbd_BD0D_AE6C19C418B5"/>
+    <targetConnections
+        href="ArchimateDiagramModel_EAID_503D19F9_26AD_4a5e_B037_DEC50FCF3606.xml#EAID_DC000000_FD19_4dbd_BD0D_AE6C19C418B5"/>
     <bounds
         x="707"
         y="221"
@@ -138,10 +134,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-bcc2cb2fcc6d4340920b518cc9a77ea2"
-          source="id-62ba1089885e4de298c55ed948569d21">
-        <target
-            xsi:type="archimate:DiagramModelArchimateObject"
-            href="file:/C:/Users/pmdz002/AppData/Roaming/Archi4/model-repository/lfenergyfunctionalarchitecturemodel/model/diagrams/id-d932a86d2a4a41e998ae8250a586c1e0/ArchimateDiagramModel_EAID_DF9F571E_01A3_4643_96F5_E5F256006D9E.xml#EAID_DN000001_11BE_4985_B1D5_D5DA4380F2E1"/>
+          source="id-62ba1089885e4de298c55ed948569d21"
+          target="EAID_DN000001_11BE_4985_B1D5_D5DA4380F2E1">
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-a4f13c81b63642d4a36a9e18fa9ae614.xml#id-a4f13c81b63642d4a36a9e18fa9ae614"/>
