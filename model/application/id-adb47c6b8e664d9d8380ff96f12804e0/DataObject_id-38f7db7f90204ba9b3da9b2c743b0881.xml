@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Power System State"
-    id="id-38f7db7f90204ba9b3da9b2c743b0881"/>
+    id="id-38f7db7f90204ba9b3da9b2c743b0881"
+    documentation="State estimator solution or power flow output &#xD;&#xA;- Energized State&#xD;&#xA;- Island Topology&#xD;&#xA;- Bus Voltage&#xD;&#xA;- Bus Injections&#xD;&#xA;- Terminal flows&#xD;&#xA;- Controls&#xD;&#xA;- Violations&#xD;&#xA;"/>
