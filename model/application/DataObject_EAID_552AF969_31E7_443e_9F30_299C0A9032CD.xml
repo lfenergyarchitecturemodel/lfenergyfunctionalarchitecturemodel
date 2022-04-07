@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Voltage Stability Violations"
-    id="EAID_552AF969_31E7_443e_9F30_299C0A9032CD"
-    documentation="A list of the violations of the voltage stability limits whereby the voltage at a point in the network does not have sufficient voltage to surpass the voltage stability limit."/>
