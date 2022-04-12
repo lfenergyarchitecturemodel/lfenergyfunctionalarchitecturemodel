@@ -1,5 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="State Estimation"
-    id="EAID_ABF730BB_D9FC_4ef2_8632_31DBE4AE80DC"
-    documentation="State Estimation is a process to estimate the electrical state of a network by eliminating inaccuracies and errors from measurement data.  Outages are used when equipment is not telemetered.&#xA;The output of the state estimator is a set of voltage absolutes and voltage angles for all buses in the grid. "/>
