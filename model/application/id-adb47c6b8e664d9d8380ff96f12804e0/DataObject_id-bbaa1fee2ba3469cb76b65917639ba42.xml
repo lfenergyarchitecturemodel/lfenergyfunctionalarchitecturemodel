@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Demand Response Forecast"
+    id="id-bbaa1fee2ba3469cb76b65917639ba42"
+    documentation="A forecast of the available demand response from registered (dispatchable) resources."/>
