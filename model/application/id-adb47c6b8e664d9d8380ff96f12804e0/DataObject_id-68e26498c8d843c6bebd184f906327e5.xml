@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behind-the-meter Solar Generation Forecast"
+    id="id-68e26498c8d843c6bebd184f906327e5"
+    documentation="A forecast of the behind-the-meter (non-dispatchable) solar generation, usually from residential and commercial rooftop panels, that is serving local load. This can be used to calculate a potential peak demand that could occur very quickly e.g. when a storm moves in."/>

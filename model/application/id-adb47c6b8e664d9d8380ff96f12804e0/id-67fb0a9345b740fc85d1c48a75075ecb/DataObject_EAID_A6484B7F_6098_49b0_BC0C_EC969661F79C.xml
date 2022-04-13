@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Energy Resource Performance History"
+    name="Variable Energy Resource Performance History"
     id="EAID_A6484B7F_6098_49b0_BC0C_EC969661F79C"
     documentation="The history of energy resources performance (supply and demand) under various operating conditions e.g., weather."/>
