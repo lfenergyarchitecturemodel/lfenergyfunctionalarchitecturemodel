@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metrix"
-    id="id-38dbed39e5e14bc394d0ba335aacb112"/>
+    id="id-38dbed39e5e14bc394d0ba335aacb112"
+    documentation="This is mobule of PowSyBI"/>

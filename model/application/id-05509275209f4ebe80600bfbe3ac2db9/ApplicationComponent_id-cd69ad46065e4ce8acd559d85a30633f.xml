@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MPI parallel implementation"
-    id="id-cd69ad46065e4ce8acd559d85a30633f"/>
+    id="id-cd69ad46065e4ce8acd559d85a30633f"
+    documentation="This is mobule of PowSyBI"/>

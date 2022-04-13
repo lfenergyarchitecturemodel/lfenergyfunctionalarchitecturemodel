@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PowSyBl CIM-based SLD generator"
-    id="id-4a796b853e184ed6ae7eb1ac56696ac5"/>
+    id="id-4a796b853e184ed6ae7eb1ac56696ac5"
+    documentation="This is mobule of PowSyBI"/>

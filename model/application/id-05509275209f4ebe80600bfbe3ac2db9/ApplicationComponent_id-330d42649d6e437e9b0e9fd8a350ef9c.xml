@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PowSyBl exporters"
-    id="id-330d42649d6e437e9b0e9fd8a350ef9c"/>
+    id="id-330d42649d6e437e9b0e9fd8a350ef9c"
+    documentation="This is mobule of PowSyBI"/>

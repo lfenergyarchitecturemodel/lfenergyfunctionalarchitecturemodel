@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OpenSTEF "
-    id="id-85ce86e66bbb46aa9544da6f71d5c6f8"/>
+    id="id-85ce86e66bbb46aa9544da6f71d5c6f8"
+    documentation="OpenSTEF is a Python package which is used to make short term forecasts for the energy sector. This repository contains all components for the machine learning pipeline required to make a forecast. In order to use the package you need to provide your own data storage and retrieval interface. openstef is available at: https://pypi.org/project/openstef/"/>
