@@ -279,8 +279,8 @@
       textAlignment="1"
       content="Definition of Relationships&#xA;&#xA;- Realization: Represents that an entity plays a critical role in the creation, achievement, sustenance, or operation of a more abstract entity.&#xA;- Access: Represents the ability of behavior and active structure elements to observe or act upon passive structure elements.&#xA;- Composition: Represents that an element consists of one or more other concepts.&#xA;- Association: An association relationship represents an unspecified relationship, or one that is not represented by another ArchiMate relationship.&#xA;&#xA;">
     <bounds
-        x="27"
-        y="787"
+        x="29"
+        y="876"
         width="478"
         height="188"/>
   </children>
@@ -291,9 +291,9 @@
       content="Application Component&#xA;An application component represents an encapsulation of application functionality aligned to implementation structure, which is modular and replaceable.&#xA;An application component is a self-contained unit. As such, it is independently deployable, re-usable, and replaceable. An application component performs one or more application functions. It encapsulates its behavior and data, exposes services, and makes them available through interfaces. Cooperating application components are connected via application collaborations.&#xA;An application component may be assigned to one or more application functions. An application component has one or more application interfaces, which expose its functionality. Application interfaces of other application components may serve an application component. The name of an application component should preferably be a noun.">
     <bounds
         x="29"
-        y="588"
+        y="619"
         width="491"
-        height="151"/>
+        height="241"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -304,7 +304,7 @@
         x="24"
         y="375"
         width="501"
-        height="192"/>
+        height="226"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -313,8 +313,8 @@
       content="Business Function&#xA;A business function represents a collection of business behavior based on a chosen set of criteria (typically required business resources and/or competencies), closely aligned to an organization, but not necessarily explicitly governed by the organization.&#xA;&#xA;Just like a business process, a business function also describes internal behavior performed by a business role. However, while a business process groups behavior based on a sequence or flow of activities that is needed to realize a product or service, a business function typically groups behavior based on required business resources, skills, competencies, knowledge, etc.&#xA;&#xA;There is a potential many-to-many relation between business processes and business functions. Complex processes in general involve activities that offer various functions. In this sense, a business process forms a string of business functions. In general, a business function delivers added value from a business point of view. Organizational units or applications may coincide with business functions due to their specific grouping of business activities.&#xA;&#xA;A business function may be triggered by, or trigger, any other business behavior element (business event, business process, business function, or business interaction). A business function may access business objects. A business function may realize one or more business services and may be served by business, application, or technology services. A business role may be assigned to a business function. The name of a business function should clearly indicate a well-defined behavior. Examples are customer management, claims administration, member services, recycling, or payment processing">
     <bounds
         x="24"
-        y="24"
+        y="-12"
         width="501"
-        height="292"/>
+        height="373"/>
   </children>
 </archimate:ArchimateDiagramModel>
