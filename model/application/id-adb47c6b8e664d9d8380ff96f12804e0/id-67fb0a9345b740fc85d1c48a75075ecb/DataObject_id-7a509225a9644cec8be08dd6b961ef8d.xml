@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meteorological data "
-    id="id-7a509225a9644cec8be08dd6b961ef8d"/>
+    id="id-7a509225a9644cec8be08dd6b961ef8d"
+    documentation="E.g. weather data that reflect the current meteorological conditions"/>
