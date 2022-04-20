@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CIM-CGMES-Import"
+    id="id-901613156ceb4392b99d6bc368e62086"
+    documentation="Imports CIM-CGMES data from XML files to make it available to other functions."/>
