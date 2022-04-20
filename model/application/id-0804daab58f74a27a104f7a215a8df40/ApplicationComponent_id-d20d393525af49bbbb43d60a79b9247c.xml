@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DPsim"
+    id="id-d20d393525af49bbbb43d60a79b9247c"
+    documentation="power flow, EMT, DP and quasi-static simulation"/>
