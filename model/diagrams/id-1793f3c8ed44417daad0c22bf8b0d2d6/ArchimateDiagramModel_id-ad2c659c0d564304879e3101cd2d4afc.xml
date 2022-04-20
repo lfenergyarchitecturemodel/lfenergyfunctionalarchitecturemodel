@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forecasting"
+    name="Forecasting Detailed"
     id="id-ad2c659c0d564304879e3101cd2d4afc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

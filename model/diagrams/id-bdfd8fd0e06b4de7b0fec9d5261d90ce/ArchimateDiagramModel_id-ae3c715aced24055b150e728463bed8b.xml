@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Alarm Management"
+    name="Alarm Management Detailed"
     id="id-ae3c715aced24055b150e728463bed8b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -100,8 +100,8 @@
       id="id-720d5ff8d140410e921283cecf4cd340"
       targetConnections="id-00bf9189319a4bf4883d91b97d95e277">
     <bounds
-        x="772"
-        y="149"
+        x="744"
+        y="248"
         width="120"
         height="55"/>
     <archimateElement
@@ -127,7 +127,7 @@
       targetConnections="id-a60a9c3ce17d41a8855d2224ec900dd2">
     <bounds
         x="288"
-        y="372"
+        y="360"
         width="120"
         height="55"/>
     <archimateElement
@@ -140,7 +140,7 @@
       targetConnections="id-b205dbcaaefa4695ab2a168285c22f0f">
     <bounds
         x="288"
-        y="444"
+        y="432"
         width="120"
         height="55"/>
     <archimateElement
