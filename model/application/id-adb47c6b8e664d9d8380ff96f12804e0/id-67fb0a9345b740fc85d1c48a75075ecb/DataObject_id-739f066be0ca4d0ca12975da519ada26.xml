@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PMU data"
-    id="id-739f066be0ca4d0ca12975da519ada26"/>
+    name="Phasor measurement unit data"
+    id="id-739f066be0ca4d0ca12975da519ada26"
+    documentation="Voltage and current magnitude and phase, active and reactive power, measurement uncertainties"/>
