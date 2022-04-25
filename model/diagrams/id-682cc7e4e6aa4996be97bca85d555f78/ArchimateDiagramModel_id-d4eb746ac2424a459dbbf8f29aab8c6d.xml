@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OpenLoadFlow Detailed"
+    name="PowSyBI - OpenLoadFlow Detailed"
     id="id-d4eb746ac2424a459dbbf8f29aab8c6d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
