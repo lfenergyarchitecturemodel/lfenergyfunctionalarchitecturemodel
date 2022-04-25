@@ -36,16 +36,16 @@
     <bounds
         x="372"
         y="174"
-        width="222"
+        width="277"
         height="174"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_035D_43f9_85B2_36AE19053E23">
       <bounds
-          x="20"
-          y="55"
-          width="70"
-          height="74"/>
+          x="12"
+          y="59"
+          width="109"
+          height="66"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_EAID_1F2CDCC3_035D_43f9_85B2_36AE19053E23.xml#EAID_1F2CDCC3_035D_43f9_85B2_36AE19053E23"/>
@@ -54,10 +54,10 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_053F_4789_95DB_362120402791">
       <bounds
-          x="104"
-          y="48"
-          width="100"
-          height="106"/>
+          x="132"
+          y="55"
+          width="113"
+          height="73"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_EAID_A6F09A11_053F_4789_95DB_362120402791.xml#EAID_A6F09A11_053F_4789_95DB_362120402791"/>
@@ -71,8 +71,8 @@
       id="EAID_DN000002_D1AA_4e65_9948_F31053711580"
       targetConnections="EAID_DC000001_320F_4694_B594_48950F0CE058">
     <bounds
-        x="226"
-        y="104"
+        x="216"
+        y="174"
         width="97"
         height="70"/>
     <archimateElement
@@ -84,8 +84,8 @@
       id="EAID_DN000001_3859_4316_A4D3_36742DA5533D"
       targetConnections="EAID_DC000001_274F_44c9_95CA_85A87756F85F">
     <bounds
-        x="231"
-        y="299"
+        x="216"
+        y="264"
         width="97"
         height="70"/>
     <archimateElement
@@ -104,17 +104,5 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_EAID_1AFE201C_EB00_424a_82F7_722E4D6B06AE.xml#EAID_1AFE201C_EB00_424a_82F7_722E4D6B06AE"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000000_7BD3_43de_B44C_44417E32B9C2">
-    <bounds
-        x="24"
-        y="104"
-        width="105"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_EAID_AAB1269E_7BD3_43de_B44C_44417E32B9C2.xml#EAID_AAB1269E_7BD3_43de_B44C_44417E32B9C2"/>
   </children>
 </archimate:ArchimateDiagramModel>
