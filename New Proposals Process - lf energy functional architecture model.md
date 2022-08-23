@@ -38,28 +38,6 @@ Projects, Working Groups, and Special Interest Groups must be formally proposed 
 * What other organizations in the world should be interested in this project/working group/special interest group?
 * Plan for growing in maturity if accepted within LF Energy
 
-## Questions for Technical Projects ONLY
-* Project license
-* Is the project's code available now? If so provide a link to the code location.
-* Does this project have ongoing public (or private) technical meetings?
-* Do this project's community venues have a code of conduct? If so, what is it?
-* Describe the project's leadership team and decision-making process.
-* Does this project have public governance (more than just one organization)?
-* Does this project have a development schedule and/or release schedule?
-* Does this project have dependencies on other open source projects? Which ones?
-* Describe the project's documentation.
-* Describe any trademarks associated with the project.
-* Do you have a project roadmap? please attach [Are this project's roadmap and meeting minutes public posted?]
-* Does this project have a legal entity and/or registered trademarks?
-* Has this project been announced or promoted in any press?
-* Does this project compete with other open source projects or commercial products?
-
-## Questions for Standards Projects ONLY
-* Expected deliverables
-* Is this related to an existing project
-* Any existing materials or assets that will be seeded to the standards project
-
-
 ## Questions for Working Groups/Special Interest Groups ONLY
 * Expected deliverables
 * Timeline for the working group
