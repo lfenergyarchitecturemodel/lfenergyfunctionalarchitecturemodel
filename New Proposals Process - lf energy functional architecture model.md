@@ -16,7 +16,7 @@ Projects, Working Groups, and Special Interest Groups must be formally proposed 
 
 # Technical Projects
 ## General information
-Name
+* Name
 * Mission statement
 * Description (what it does, why it is valuable, origin and history)
 * Is this a new project/working group/special interest group or an existing one?
