@@ -26,7 +26,7 @@ Please read [CONTRIBUTING.md](https://github.com/lfenergyarchitecturemodel/.gith
 
 ## Modelling Guidelines
 In order to maintain consitency in the model whilst facilitating collaboration and contributions from all parties, a set of modelling guidelines have been created.
-### Contribute using a dev branch
+### Contribute using a feature branch
 If you wish to contribute to the model, (e.g., Create new diagrams or edits to existing diagrams) please create a new branch from the main model. When your draft is stable, create a pull request to merge your development branch into the master branch. The lfenergy functional architecture team will review the pull request and accept/edit the contribution from the development branch via github.
 
 The lfenergy functional architecture team will review draft branches on a monthly basis and merge them into the master branch.
