@@ -22,7 +22,7 @@ For Step-by-step guide to use the model see: https://github.com/lfenergyarchitec
 This project is licensed under the [Creative Commons Attribution 4.0 International License](https://github.com/lfenergyarchitecturemodel/.github/blob/main/LISENSE).
 
 ## Contributing
-Please read [CONTRIBUTING.md](https://github.com/lfenergyarchitecturemodel/.github/blob/main/CONTRIBUTING.md) for details on the process for submitting pull requests to us.
+Please read [MODELLING_GUIDELINES.MD](https://github.com/lfenergyarchitecturemodel/.github/blob/main/MODELLING_GUIDELINES.md) & [CONTRIBUTING.md](https://github.com/lfenergyarchitecturemodel/.github/blob/main/CONTRIBUTING.md) for details on the process for submitting pull requests to us.
 
 ## Modelling Guidelines
 In order to maintain consitency in the model whilst facilitating collaboration and contributions from all parties, a set of modelling guidelines have been created.
