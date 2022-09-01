@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration management"
+    id="id-e7509dc99d3d43dcb2a59fb6d00103ee"
+    documentation="Includes&#xD;&#xA;- Building &amp; generating configurations&#xD;&#xA;- Change configurations&#xD;&#xA;- Store configurations&#xD;&#xA;- Version management"/>
