@@ -1,9 +1,10 @@
+# Deploying Archi HTML Reports on GitHub Pages
 
 These actions leverage the code written by @WoozyMasta specifically for deploying Archi html reports with github pages.
 The documentation of @WoozyMasta's code can be found [here](https://github.com/marketplace/actions/deploy-archi-report) and an example repository can be found [here](https://github.com/WoozyMasta/archimate-ci-image-example).
 The rest of this markdown file describes how the automated deployment of the html report is set-up using the github actions provided by @WoozyMasta. 
 
-##To set-up this workflow
+## To set-up this workflow
 1. Add a new branch to the repository named 'gh-pages'
 2. Go to the settings of the repository:
   - Make sure the repository is 'public'
