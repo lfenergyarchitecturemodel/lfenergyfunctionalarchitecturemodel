@@ -8,8 +8,8 @@
       id="id-e73ed08f85894368946169066e97f7c7"
       targetConnections="id-c2cf2585e03b4843aa14130a7ed4e119">
     <bounds
-        x="391"
-        y="270"
+        x="168"
+        y="113"
         width="120"
         height="55"/>
     <archimateElement
@@ -29,8 +29,8 @@
           href="AccessRelationship_id-2fff31f230434889aa27b8de8a2fdaea.xml#id-2fff31f230434889aa27b8de8a2fdaea"/>
     </sourceConnections>
     <bounds
-        x="382"
-        y="167"
+        x="384"
+        y="216"
         width="120"
         height="55"/>
     <archimateElement
@@ -48,5 +48,17 @@
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_EAID_D5D6B2F1_11BE_4985_B1D5_D5DA4380F2E1.xml#EAID_D5D6B2F1_11BE_4985_B1D5_D5DA4380F2E1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f37b211972a44801a08338684e5e1147">
+    <bounds
+        x="372"
+        y="360"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-e508c830ee24471886d93a6d0d38d4ae.xml#id-e508c830ee24471886d93a6d0d38d4ae"/>
   </children>
 </archimate:ArchimateDiagramModel>
