@@ -9,7 +9,7 @@ SPDX-License-Identifier: CC-BY-4.0
 The repos in this github org contains Functional Architecture Model in Archimate language. 
 
 # View 
-The model can be viewed [here without the need to install Archi](https://lcrowleyepri.github.io/).
+The model can be viewed [here without the need to install Archi](https://lfenergyarchitecturemodel.github.io/lfenergyfunctionalarchitecturemodel/).
 
 # Edit  
 To contribute to the LF Energy Archimate models you need [Archi](https://www.archimatetool.com/). 
