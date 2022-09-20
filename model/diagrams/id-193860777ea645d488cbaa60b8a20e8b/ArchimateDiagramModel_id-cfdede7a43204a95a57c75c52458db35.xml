@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoMPAS Realization"
+    id="id-cfdede7a43204a95a57c75c52458db35">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0396dce99f134732ad866938f6719c2a">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-023039981ba14e98bb203fa06c9c0197"
+        source="id-0396dce99f134732ad866938f6719c2a"
+        target="id-8978de656c984f83b7e51a9e98e894d6">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-58f59a4e55914f9a9d0ae93570d4ca79.xml#id-58f59a4e55914f9a9d0ae93570d4ca79"/>
+    </sourceConnections>
+    <bounds
+        x="516"
+        y="372"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-9e5b2fec9f19480b9b649f563abcd177.xml#id-9e5b2fec9f19480b9b649f563abcd177"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8978de656c984f83b7e51a9e98e894d6"
+      targetConnections="id-023039981ba14e98bb203fa06c9c0197">
+    <bounds
+        x="516"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-e7509dc99d3d43dcb2a59fb6d00103ee.xml#id-e7509dc99d3d43dcb2a59fb6d00103ee"/>
+  </children>
+</archimate:ArchimateDiagramModel>
