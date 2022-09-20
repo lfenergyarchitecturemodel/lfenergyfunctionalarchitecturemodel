@@ -13,8 +13,9 @@ The rest of this markdown file describes how the automated deployment of the htm
 4. Add the '.archi_report' to the .gitignore for the repository
 
 ## Running this worflow
-This workflow will run whenever there is a push to main.
+This workflow will run whenever there is a push to master branch.
 Go to the Actions tab of the worflow to watch the status of the workflows and examine any errors if they occur.
+Note: it takes about 2 minutes for the workflows to run so do not panic if the webpage does not update immediately.
 
 ## Viewing the webpage
 This workflow will deploy the html report on the webpage with the following url where <repository-name> is the name of the repo: "https://<repository-name>.github.io/<repository-name>".
