@@ -162,10 +162,10 @@
           href="AssociationRelationship_EAID_25D19967_64EA_417b_A5C9_43E280CE7B97.xml#EAID_25D19967_64EA_417b_A5C9_43E280CE7B97"/>
     </sourceConnections>
     <bounds
-        x="597"
+        x="582"
         y="12"
-        width="105"
-        height="50"/>
+        width="136"
+        height="60"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_EAID_66D87CE4_668E_46bc_A893_9FA8B559644A.xml#EAID_66D87CE4_668E_46bc_A893_9FA8B559644A"/>
