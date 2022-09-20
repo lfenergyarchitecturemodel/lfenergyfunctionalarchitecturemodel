@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Feature View 2"
+    id="id-fd6876346604421b925073da6926337b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0547428a19d04e3aa7e2a39e7b45022c">
+    <bounds
+        x="228"
+        y="132"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_D8A44BF5_C3E9_417b_A627_17D9985E2E5D.xml#EAID_D8A44BF5_C3E9_417b_A627_17D9985E2E5D"/>
+  </children>
+</archimate:ArchimateDiagramModel>
