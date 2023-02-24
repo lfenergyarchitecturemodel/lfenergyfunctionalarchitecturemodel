@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Edge configuration management"
+    id="id-e7509dc99d3d43dcb2a59fb6d00103ee"
+    documentation="maintain configuration of all edge components. Enable software updates across all edge components&#xD;&#xA;Includes&#xD;&#xA;- Building &amp; generating configurations&#xD;&#xA;- Change configurations&#xD;&#xA;- Store configurations&#xD;&#xA;- Version management"/>
