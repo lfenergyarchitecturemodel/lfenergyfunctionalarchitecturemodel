@@ -1,4 +1,5 @@
 <archimate:TechnologyCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CoMPAS"
-    id="id-93c724927bfd4b66b62e5a9c3584f1d3"/>
+    id="id-93c724927bfd4b66b62e5a9c3584f1d3"
+    documentation="https://github.com/com-pas/"/>
