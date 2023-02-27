@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="makes contracts with"
+    id="id-0574f9eb66ee4727a29e12bcc158601f">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c9d8cd0e11d24785a9a7b2d2d881b879.xml#id-c9d8cd0e11d24785a9a7b2d2d881b879"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-4520262f2c1946fc93f10d8977a85392.xml#id-4520262f2c1946fc93f10d8977a85392"/>
+</archimate:AssociationRelationship>

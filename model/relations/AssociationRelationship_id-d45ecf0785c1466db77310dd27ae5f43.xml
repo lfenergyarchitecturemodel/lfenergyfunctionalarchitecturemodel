@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="administers meter information for"
+    id="id-d45ecf0785c1466db77310dd27ae5f43">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-09ea4af8562a46f59122e03fe9d76c39.xml#id-09ea4af8562a46f59122e03fe9d76c39"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-bab2a5eb2b99467e9a4e59ca166f9d93.xml#id-bab2a5eb2b99467e9a4e59ca166f9d93"/>
+</archimate:AssociationRelationship>

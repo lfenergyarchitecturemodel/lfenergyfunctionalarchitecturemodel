@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="process metered data of"
+    id="id-36c5dd702c594587bde7f36691736d37">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-589be606b88b4e26a4712b20a65d590b.xml#id-589be606b88b4e26a4712b20a65d590b"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-bab2a5eb2b99467e9a4e59ca166f9d93.xml#id-bab2a5eb2b99467e9a4e59ca166f9d93"/>
+</archimate:AssociationRelationship>

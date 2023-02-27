@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="reports planned and regulation data to"
+    id="id-28303c7c9f4e4b9b8311073bf1fcf582"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-6c64111967504a3383a6024949f082eb.xml#id-6c64111967504a3383a6024949f082eb"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-4520262f2c1946fc93f10d8977a85392.xml#id-4520262f2c1946fc93f10d8977a85392"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="financially responsible for"
+    id="id-46ecfc8812d7414eaec33e6216b9ddda">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-db4f15fb7b7644f6b0dabd1d2a4a0e50.xml#id-db4f15fb7b7644f6b0dabd1d2a4a0e50"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-16afe2ac72ea4f04bccf2700c4b8f554.xml#id-16afe2ac72ea4f04bccf2700c4b8f554"/>
+</archimate:AssociationRelationship>
