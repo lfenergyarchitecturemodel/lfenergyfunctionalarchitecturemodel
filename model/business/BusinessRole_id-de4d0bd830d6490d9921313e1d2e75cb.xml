@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Capacity Co-ordinator"
-    id="id-de4d0bd830d6490d9921313e1d2e75cb"/>
+    id="id-de4d0bd830d6490d9921313e1d2e75cb"
+    documentation="A party, acting on behalf of the System Operators involved, responsible for establishing a coordinated Offered Capacity and/or NTC and/or ATC between several Market Balance Areas."/>

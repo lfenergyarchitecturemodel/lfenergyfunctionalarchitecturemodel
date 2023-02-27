@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metered Data Collector"
-    id="id-30b1c7af5559402ab214b52656991ecb"/>
+    id="id-30b1c7af5559402ab214b52656991ecb"
+    documentation="A party responsible for meter reading and quality control of the reading."/>

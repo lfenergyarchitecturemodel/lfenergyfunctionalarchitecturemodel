@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Party Connected to grid"
-    id="id-155df7f1a9ab40e5b4a197af94053c8d"/>
+    id="id-155df7f1a9ab40e5b4a197af94053c8d"
+    documentation="A party that contracts for the right to consume or produce electricity at an Accounting Point."/>

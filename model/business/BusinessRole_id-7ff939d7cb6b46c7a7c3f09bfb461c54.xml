@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Co-ordination center operator"
-    id="id-7ff939d7cb6b46c7a7c3f09bfb461c54"/>
+    id="id-7ff939d7cb6b46c7a7c3f09bfb461c54"
+    documentation="Responsible for:&#xD;&#xA;1. The coordination of exchange programs between its related Control Blocks and for the exchanges between its associated Coordination Center Zones.&#xD;&#xA;2. Ensuring that its Control Blocks respect their obligations in respect to load frequency control.&#xD;&#xA;3. Calculating the time deviation in cooperation with the associated coordination centers.&#xD;&#xA;4. Carrying out the settlement and/or compensation between its Control Blocks and against the other Coordination Center Zones."/>

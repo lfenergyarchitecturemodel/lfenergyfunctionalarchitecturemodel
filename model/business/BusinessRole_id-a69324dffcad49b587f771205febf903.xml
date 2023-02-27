@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Reserve Allocator"
-    id="id-a69324dffcad49b587f771205febf903"/>
+    id="id-a69324dffcad49b587f771205febf903"
+    documentation="Informs the market of reserve requirements, receives tenders against the requirements and in compliance with the prequalification criteria, determines what tenders meet requirements and assigns tenders."/>

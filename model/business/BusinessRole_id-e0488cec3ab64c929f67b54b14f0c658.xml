@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Merit Order List Responsible Party"
-    id="id-e0488cec3ab64c929f67b54b14f0c658"/>
+    id="id-e0488cec3ab64c929f67b54b14f0c658"
+    documentation="Responsible for the management of the available tenders for all Acquiring System Operators to establish the order of the reserve capacity that can be activated."/>

@@ -1,4 +1,5 @@
 <archimate:Location
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Accounting Point"
-    id="id-16afe2ac72ea4f04bccf2700c4b8f554"/>
+    id="id-16afe2ac72ea4f04bccf2700c4b8f554"
+    documentation="A domain under balance responsibility where balance supplier change can take place and for which commercial business processes are defined.&#xD;&#xA;&#xD;&#xA;These domains are usually defined in a contract. Typical business processes where this would be used may be “compensation management”, “settlement”, “calculation of energy volumes”, etc&#xD;&#xA;This is a type of Metering Point."/>

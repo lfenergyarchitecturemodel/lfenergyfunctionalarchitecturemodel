@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interconnection Trade Responsible Party"
-    id="id-3baa4a5c917b4709ba064a2c63dc2aa6"/>
+    id="id-3baa4a5c917b4709ba064a2c63dc2aa6"
+    documentation="Is a Balance Responsible Party or depends on one. He is recognised by the Nomination Validator for the nomination of already allocated capacity.&#xD;&#xA;&#xD;&#xA;This is a type of Balance Responsible Party."/>

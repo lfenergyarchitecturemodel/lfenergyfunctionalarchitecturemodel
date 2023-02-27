@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Balance Responsible Party"
-    id="id-c9d8cd0e11d24785a9a7b2d2d881b879"/>
+    id="id-c9d8cd0e11d24785a9a7b2d2d881b879"
+    documentation="A party that has a contract proving financial security and identifying balance responsibility with the Imbalance Settlement Responsible of the Market Balance Area entitling the party to operate in the market. This is the only role allowing a party to nominate energy on a wholesale level.&#xD;&#xA;&#xD;&#xA;The meaning of the word “balance” in this context signifies that the quantity contracted to provide or to consume must be equal to the quantity really provided or consumed."/>

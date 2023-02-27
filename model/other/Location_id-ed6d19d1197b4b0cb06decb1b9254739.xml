@@ -1,4 +1,5 @@
 <archimate:Location
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Allocated Capacity Area"
-    id="id-ed6d19d1197b4b0cb06decb1b9254739"/>
+    id="id-ed6d19d1197b4b0cb06decb1b9254739"
+    documentation="A market area where the transmission capacity between the Balance Areas is given to the Balance Responsible Parties according to rules carried out by a Transmission Capacity Allocator. Trade between balance areas is carried out on a bilateral or unilateral basis.&#xD;&#xA;Additional information:&#xD;&#xA;This is a type of Market Area.&#xD;&#xA;&#xD;&#xA;Example are also France-Spain (Pyrenees) and Portugal-Spain."/>

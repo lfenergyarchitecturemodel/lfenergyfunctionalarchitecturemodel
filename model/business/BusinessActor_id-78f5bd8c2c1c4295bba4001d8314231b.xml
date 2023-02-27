@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Energy Service Company"
-    id="id-78f5bd8c2c1c4295bba4001d8314231b"/>
+    id="id-78f5bd8c2c1c4295bba4001d8314231b"
+    documentation="A party offering energy-related services to the Party Connected to Grid, but not directly active in the energy value chain or the physical infrastructure itself. The ESCO may provide insight services as well as energy management services."/>

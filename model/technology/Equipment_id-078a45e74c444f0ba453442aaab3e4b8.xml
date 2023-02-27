@@ -1,4 +1,5 @@
 <archimate:Equipment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resource"
-    id="id-078a45e74c444f0ba453442aaab3e4b8"/>
+    id="id-078a45e74c444f0ba453442aaab3e4b8"
+    documentation="An object that represents a grid asset, a consumption resource or a production resource related to the energy industry.&#xD;&#xA;&#xD;&#xA;A Resource can represent for example a generating unit, a consumption unit or a virtual power plant defined in a contract."/>

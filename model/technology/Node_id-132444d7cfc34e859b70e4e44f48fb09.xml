@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meter"
-    id="id-132444d7cfc34e859b70e4e44f48fb09"/>
+    id="id-132444d7cfc34e859b70e4e44f48fb09"
+    documentation="A physical device containing one or more registers."/>

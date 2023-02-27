@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Control Block Operator"
-    id="id-00b4a99e6abb46598521d900dc0921ad"/>
+    id="id-00b4a99e6abb46598521d900dc0921ad"
+    documentation="Responsible for:&#xD;&#xA;1. The coordination of exchanges between its associated Control Blocks and the organisation of the coordination of exchange programs between its related Control Areas.&#xD;&#xA;2. The load frequency control within its own block and ensuring that its Control Areas respect their obligations in respect to load frequency control and time deviation.&#xD;&#xA;3. The organisation of the settlement and/or compensation between its Control Areas."/>

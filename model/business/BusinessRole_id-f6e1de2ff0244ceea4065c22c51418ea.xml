@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Production Responsible Party"
-    id="id-f6e1de2ff0244ceea4065c22c51418ea"/>
+    id="id-f6e1de2ff0244ceea4065c22c51418ea"
+    documentation="A party who can be brought to rights, legally and financially, for any imbalance between energy nominated and produced for all associated Accounting Points.&#xD;&#xA;&#xD;&#xA;This is a type of Balance Responsible Party."/>

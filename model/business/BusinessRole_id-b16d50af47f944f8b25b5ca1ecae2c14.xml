@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Market Information Aggregator"
-    id="id-b16d50af47f944f8b25b5ca1ecae2c14"/>
+    id="id-b16d50af47f944f8b25b5ca1ecae2c14"
+    documentation="A party that provides market related information that has been compiled from the figures supplied by different actors in the market. This information may also be published or distributed for general use.&#xD;&#xA;&#xD;&#xA;The Market Information Aggregator may receive information from any market participant that is relevant for publication or distribution."/>

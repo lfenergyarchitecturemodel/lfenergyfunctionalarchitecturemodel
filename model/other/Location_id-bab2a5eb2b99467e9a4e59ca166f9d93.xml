@@ -1,4 +1,5 @@
 <archimate:Location
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metering Point"
-    id="id-bab2a5eb2b99467e9a4e59ca166f9d93"/>
+    id="id-bab2a5eb2b99467e9a4e59ca166f9d93"
+    documentation="A domain where energy products are measured or computed."/>

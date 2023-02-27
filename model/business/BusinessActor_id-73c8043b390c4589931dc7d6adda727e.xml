@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Grid Access Provider"
-    id="id-73c8043b390c4589931dc7d6adda727e"/>
+    id="id-73c8043b390c4589931dc7d6adda727e"
+    documentation="A party responsible for providing access to the grid through a Metering Point for energy consumption or production to the Party Connected to the Grid. The party is also responsible for creating and terminating Metering Points."/>

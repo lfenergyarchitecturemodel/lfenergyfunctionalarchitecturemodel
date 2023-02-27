@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resource provider"
-    id="id-88b379f3977f4268811f582f6c49cebb"/>
+    id="id-88b379f3977f4268811f582f6c49cebb"
+    documentation="A role that manages a resource and provides the schedules for it, if required."/>

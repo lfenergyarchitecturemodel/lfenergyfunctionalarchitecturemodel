@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transmission Capacity Allocator"
-    id="id-88412dc740304e1390d6c985cc641663"/>
+    id="id-88412dc740304e1390d6c985cc641663"
+    documentation="Manages the allocation of transmission capacity for an Allocated Capacity Area.&#xD;&#xA;For explicit auctions:&#xD;&#xA;The Transmission Capacity Allocator manages, on behalf of the System Operators, the allocation of available transmission capacity for an Allocated Capacity Area. He offers the available transmission capacity to the market, allocates the available transmission capacity to individual Capacity Traders and calculates the billing amount of already allocated capacities to the Capacity Traders."/>

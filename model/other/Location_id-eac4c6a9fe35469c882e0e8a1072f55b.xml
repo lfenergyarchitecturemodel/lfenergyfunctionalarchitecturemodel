@@ -1,4 +1,5 @@
 <archimate:Location
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Balance Group"
-    id="id-eac4c6a9fe35469c882e0e8a1072f55b"/>
+    id="id-eac4c6a9fe35469c882e0e8a1072f55b"
+    documentation="An energy account under responsibility of a Balance Responsible Party used to determine balance considering predefined inputs and outputs within a specific Market Balance Area."/>

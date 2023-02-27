@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metered Data Aggregator"
-    id="id-7b207a8541234bfc96f20773ed5218f9"/>
+    id="id-7b207a8541234bfc96f20773ed5218f9"
+    documentation="A party responsible for the establishment and qualification of metered data from the Metered Data Responsible. This data is aggregated according to a defined set of market rules."/>

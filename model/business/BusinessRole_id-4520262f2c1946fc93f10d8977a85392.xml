@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Imbalance Settlement Responsible Party"
-    id="id-4520262f2c1946fc93f10d8977a85392"/>
+    id="id-4520262f2c1946fc93f10d8977a85392"
+    documentation="A party that is responsible for settlement of the difference between the contracted quantities and the realised quantities of energy products for the Balance Responsible Parties in a Market Balance Area.&#xD;&#xA;&#xD;&#xA;The Imbalance Settlement Responsible has not the responsibility to invoice. The Imbalance Settlement Responsible may delegate the invoicing responsibility to a more generic role such as a Billing Agent."/>
