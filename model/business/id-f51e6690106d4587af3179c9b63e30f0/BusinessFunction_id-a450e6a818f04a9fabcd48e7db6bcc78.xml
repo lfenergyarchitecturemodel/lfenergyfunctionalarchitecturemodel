@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Congestion Management"
+    id="id-a450e6a818f04a9fabcd48e7db6bcc78"
+    documentation="To avoid a situation where the electricity supply exceeds the grid capacity (congestion)."/>

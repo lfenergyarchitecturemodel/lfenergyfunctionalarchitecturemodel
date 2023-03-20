@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Area Demands"
+    id="id-fa3e310a98ce4d60baf4aed4e186b53f"
+    documentation="Forecast of the power demand at an area level"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Alerting"
+    id="id-a40a0daef9224b3ca53334c2435fc621"
+    documentation="To notificate a user that certain parameters are either above or below a specific threshold."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Supervision "
+    id="id-fb8977d8c7ef4f589dacf286db3c3c6f"
+    documentation="Covering the digital functionalities used to determine asset status and replacement plans (e.g. using condition monitoring for predictive maintenance plans)."/>

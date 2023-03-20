@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Twin"
+    id="id-9688fc59ddd444cc9c6d68965212955e"
+    documentation="To virtually replicate and simulate the performance of a specific assets over time"/>

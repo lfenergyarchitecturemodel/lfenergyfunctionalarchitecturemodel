@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Preferences"
+    id="id-9b03569b706d48589b60bf60854a2552"
+    documentation="A register of customer needs, goals and  economics that allows energy system to optimize delivery. Allows users to configure various ied interacting with digital energy services provided by the utility/local energy community,  -> device settings: thermostat settings, storage back-up reserve, water heater settings, over-ride, EV charge schedule"/>

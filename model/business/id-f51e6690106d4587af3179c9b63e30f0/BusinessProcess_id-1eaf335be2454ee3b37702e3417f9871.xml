@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cross border capacity calculation"
+    id="id-1eaf335be2454ee3b37702e3417f9871"
+    documentation="For a given timeframe, calculation of the limits of feasible power exchanges between market areas for a given timeframe under physical and security limitations"/>

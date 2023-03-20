@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ticketing"
+    id="id-24b99f3763fd497d9a57189a9cd8e893"
+    documentation="To create work tickets to track and facilitate outage remediation work required"/>

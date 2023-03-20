@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cover Quality and System stability"
+    id="id-1d3f7c48fc344268bc120a48ca8c712e"
+    documentation="Automation of the power system to return to its normal or stable conditions after disturbances like sudden changes of load, the sudden short circuit between line and ground, line-to-line fault, all three line faults, switching, including distributed assets."/>
