@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Emergency and Crisis Management"
-    id="id-88650d863b544b4bba8b19b068e2f819"/>
+    id="id-88650d863b544b4bba8b19b068e2f819"
+    documentation="To support communications with stakeholders during a emergency or crisis"/>

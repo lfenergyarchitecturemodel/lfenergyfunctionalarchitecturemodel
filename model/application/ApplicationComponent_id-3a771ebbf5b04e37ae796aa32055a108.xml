@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Supervision/Hypervision Component"
-    id="id-3a771ebbf5b04e37ae796aa32055a108"/>
+    id="id-3a771ebbf5b04e37ae796aa32055a108"
+    documentation="To grants access to a computer software, firmware or hardware that creates and runs virtual machines. "/>

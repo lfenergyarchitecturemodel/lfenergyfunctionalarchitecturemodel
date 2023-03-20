@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="System Governance"
-    id="id-01dae297d4b84a8caac5a000886ae50d"/>
+    id="id-01dae297d4b84a8caac5a000886ae50d"
+    documentation="Covering the digital functionalities supporting systems monitoring, registering and healing to make sure that all systems together establish a grid that is stable, reliable and flexible."/>
