@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Smart Ledgers"
-    id="id-bcaeefba65c541079293ebca7fde9b53"/>
+    id="id-bcaeefba65c541079293ebca7fde9b53"
+    documentation="A distributed ledger (also called a shared ledger or distributed ledger technology or DLT) is a consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions, without a central administrator or centralized data storage"/>

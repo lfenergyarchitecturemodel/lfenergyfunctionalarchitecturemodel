@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Outage Management"
-    id="id-0ef784debd9a4d5793e51a9293a1b8be"/>
+    id="id-0ef784debd9a4d5793e51a9293a1b8be"
+    documentation="Covering the digital functionalities used to prepare and execute service calls related to planned and unplanned outages."/>

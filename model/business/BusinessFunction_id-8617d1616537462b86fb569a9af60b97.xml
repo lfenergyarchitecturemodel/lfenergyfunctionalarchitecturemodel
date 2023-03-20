@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Customer Response"
-    id="id-8617d1616537462b86fb569a9af60b97"/>
+    id="id-8617d1616537462b86fb569a9af60b97"
+    documentation="Covering the digital functionalities supporting customers providing information."/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Configuration tools"
-    id="id-15a0e2d209194095859ac0ec5e56960e"/>
+    id="id-15a0e2d209194095859ac0ec5e56960e"
+    documentation="To track configuration tools to remotely configure assets"/>

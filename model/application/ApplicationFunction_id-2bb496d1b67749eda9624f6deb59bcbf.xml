@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dispatch/Adequacy Calculation"
-    id="id-2bb496d1b67749eda9624f6deb59bcbf"/>
+    id="id-2bb496d1b67749eda9624f6deb59bcbf"
+    documentation="Simulation for balancing responsability management across power system domains to ensure power flow and resource participation for market integrated and non-market integrated services."/>

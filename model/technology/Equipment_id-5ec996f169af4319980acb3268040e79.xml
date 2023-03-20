@@ -1,4 +1,5 @@
 <archimate:Equipment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Less-critical Equipment"
-    id="id-5ec996f169af4319980acb3268040e79"/>
+    id="id-5ec996f169af4319980acb3268040e79"
+    documentation="Assets that are non-vital for the grid (e.g. substation door)."/>

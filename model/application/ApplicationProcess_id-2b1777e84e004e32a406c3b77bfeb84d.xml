@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Log analysis"
-    id="id-2b1777e84e004e32a406c3b77bfeb84d"/>
+    id="id-2b1777e84e004e32a406c3b77bfeb84d"
+    documentation="To support the clustering, aggregation and analysis on assets and processes related log files"/>

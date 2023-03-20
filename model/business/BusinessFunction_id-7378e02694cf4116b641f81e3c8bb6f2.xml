@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="System Management"
-    id="id-7378e02694cf4116b641f81e3c8bb6f2"/>
+    id="id-7378e02694cf4116b641f81e3c8bb6f2"
+    documentation="Managing the physical flow and balance of a power system."/>

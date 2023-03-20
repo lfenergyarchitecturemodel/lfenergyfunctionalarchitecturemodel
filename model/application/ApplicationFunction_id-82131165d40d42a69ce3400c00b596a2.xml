@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Equipment Communication"
-    id="id-82131165d40d42a69ce3400c00b596a2"/>
+    id="id-82131165d40d42a69ce3400c00b596a2"
+    documentation="To allow interaction and control among distributed equiment. Facilities automous functions in the edge."/>

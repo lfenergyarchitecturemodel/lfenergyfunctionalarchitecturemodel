@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Static and Dynamic Calculation"
-    id="id-9deb9668a3dd45e1b47ad7ada6e2828e"/>
+    id="id-9deb9668a3dd45e1b47ad7ada6e2828e"
+    documentation="Static - Based on a model simulate the resulting physical state&#xD;&#xA;Dynamic - Based on a model and a scenario of event, simulate the behavior of the system"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Schedules"
-    id="id-1c7d281a9fed490696718e929875c1c3"/>
+    id="id-1c7d281a9fed490696718e929875c1c3"
+    documentation="Define frequency and parameters of pre-programmed events"/>

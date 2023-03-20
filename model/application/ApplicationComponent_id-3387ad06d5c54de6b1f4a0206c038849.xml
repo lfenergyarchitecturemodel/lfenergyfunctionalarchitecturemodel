@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digital Infrastructure repository"
-    id="id-3387ad06d5c54de6b1f4a0206c038849"/>
+    id="id-3387ad06d5c54de6b1f4a0206c038849"
+    documentation="To store and track data about the available digitial infrastructure assets"/>

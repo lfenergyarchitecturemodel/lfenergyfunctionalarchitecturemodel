@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Function Viewpoint"
-    id="id-afec7743c48e4bcea97c93bd3fc3fe65">
+    id="id-afec7743c48e4bcea97c93bd3fc3fe65"
+    documentation="Functions required to support customer / investor relationship management and communication.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-eaaf3cad7c9b4441b634bcdbae7b80de">
@@ -891,8 +892,8 @@
       id="id-25154b4fe6934c8a8da41f973c0d55ac"
       targetConnections="id-2b6de365118740088d4e3cf501a6ea73">
     <bounds
-        x="2062"
-        y="516"
+        x="2068"
+        y="528"
         width="98"
         height="55"/>
     <archimateElement
@@ -1477,20 +1478,6 @@
       targetConnections="id-275da66902fa472584293eb3b32b93da">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e865ae4c11a346638aca516816048773"
-        source="id-9ebb097a01704ad9809b6e765af763a5"
-        target="id-9fa4acfcacb64e859f427a8cccab7530">
-      <bendpoints
-          startX="-162"
-          startY="6"
-          endX="12"
-          endY="-134"/>
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-2b9d85f805d5407db809231531e64b47.xml#id-2b9d85f805d5407db809231531e64b47"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2356c22aaecd4fd5af9ff3906484cefc"
         source="id-9ebb097a01704ad9809b6e765af763a5"
         target="id-b1e2ab210cbc45e689406bae47881855">
@@ -1558,19 +1545,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-9a81047618bc48bcb43b39fb59a3629d.xml#id-9a81047618bc48bcb43b39fb59a3629d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9fa4acfcacb64e859f427a8cccab7530"
-      targetConnections="id-e865ae4c11a346638aca516816048773">
-    <bounds
-        x="1081"
-        y="1212"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-50a86ff18b1a4a85bf091679a61b3acd.xml#id-50a86ff18b1a4a85bf091679a61b3acd"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

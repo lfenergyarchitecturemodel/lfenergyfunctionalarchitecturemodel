@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Power Equipment Repository"
-    id="id-d1045b19badf470989d149dfddd1c7c4"/>
+    id="id-d1045b19badf470989d149dfddd1c7c4"
+    documentation="To store and track data about all power assets"/>

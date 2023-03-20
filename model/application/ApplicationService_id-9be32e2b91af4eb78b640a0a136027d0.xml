@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Validation"
-    id="id-9be32e2b91af4eb78b640a0a136027d0"/>
+    id="id-9be32e2b91af4eb78b640a0a136027d0"
+    documentation="To provide specific well-defined guarantees for fitness, accuracy, and consistency for “user inputs” into an application or automated system. "/>

@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metering and Compensation "
-    id="id-bbdc38d1137f48d2a9a7e1bb7f11e404"/>
+    id="id-bbdc38d1137f48d2a9a7e1bb7f11e404"
+    documentation="Determination and financially handling realization of market contracts and consequences of system operation."/>

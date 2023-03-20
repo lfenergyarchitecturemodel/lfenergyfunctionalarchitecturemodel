@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Customer Relationship and Communications"
-    id="id-31f3dfa016664ab0ab2187c157fcc140"/>
+    id="id-31f3dfa016664ab0ab2187c157fcc140"
+    documentation="Functions required to support customer / investor relationship management and communication."/>

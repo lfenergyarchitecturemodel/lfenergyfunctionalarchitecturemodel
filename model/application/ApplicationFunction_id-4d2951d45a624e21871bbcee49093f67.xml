@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Real Time monitoring"
-    id="id-4d2951d45a624e21871bbcee49093f67"/>
+    id="id-4d2951d45a624e21871bbcee49093f67"
+    documentation="To monitor asset performance and readiness in real time"/>

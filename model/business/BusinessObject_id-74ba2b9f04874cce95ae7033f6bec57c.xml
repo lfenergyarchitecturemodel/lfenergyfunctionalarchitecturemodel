@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Market Prices"
-    id="id-74ba2b9f04874cce95ae7033f6bec57c"/>
+    id="id-74ba2b9f04874cce95ae7033f6bec57c"
+    documentation="Forecast the prices of energy products and multiple services"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Local Site Balance"
-    id="id-ed55b66242e0400689072308e9bde3f4"/>
+    id="id-ed55b66242e0400689072308e9bde3f4"
+    documentation="Forecast the power balance aggregated at the level of a substation or a site"/>

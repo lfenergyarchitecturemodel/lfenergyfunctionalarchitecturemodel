@@ -1,4 +1,5 @@
 <archimate:Equipment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Critical Equipment"
-    id="id-5e61fceab8fc420cb7f5f010c3a62c3a"/>
+    id="id-5e61fceab8fc420cb7f5f010c3a62c3a"
+    documentation="Covering assets that are vital for the grid (e.g. a line, circuit breaker or transformer) "/>

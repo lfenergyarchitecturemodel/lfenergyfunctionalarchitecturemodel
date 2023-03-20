@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Demand Response Management"
-    id="id-e2f72547139649d38ea36114aca2c6f5"/>
+    id="id-e2f72547139649d38ea36114aca2c6f5"
+    documentation="To encourage customers to make short-term reductions in energy demand in response to a price signal from the electricity hourly market, or a trigger initiated by the electricity grid operator. "/>

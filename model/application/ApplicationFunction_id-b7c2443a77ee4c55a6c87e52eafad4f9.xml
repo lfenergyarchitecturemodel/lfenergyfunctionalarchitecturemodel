@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="System Services"
-    id="id-b7c2443a77ee4c55a6c87e52eafad4f9"/>
+    name="System Services Forecast"
+    id="id-b7c2443a77ee4c55a6c87e52eafad4f9"
+    documentation="Forecast the system services that will be required to sustain the power system within it security limits"/>

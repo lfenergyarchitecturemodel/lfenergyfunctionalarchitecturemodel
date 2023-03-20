@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Deep Learning"
-    id="id-cd95cb7b3d9f4b65a4e2f1b6ec7272fb"/>
+    id="id-cd95cb7b3d9f4b65a4e2f1b6ec7272fb"
+    documentation="Artificial intelligence functionality that imitates the workings of the human brain in processing data and creating patterns for use in decision making, capable of learning unsupervised from data that is unstructured or unlabeled."/>

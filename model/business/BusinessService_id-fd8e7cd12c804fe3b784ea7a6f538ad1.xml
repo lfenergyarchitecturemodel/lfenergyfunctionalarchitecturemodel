@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Supply Chain "
-    id="id-fd8e7cd12c804fe3b784ea7a6f538ad1"/>
+    id="id-fd8e7cd12c804fe3b784ea7a6f538ad1"
+    documentation="To assure that the consumables, assets replacement and additional goods and services are always available to support assets management and maintenance schedules"/>

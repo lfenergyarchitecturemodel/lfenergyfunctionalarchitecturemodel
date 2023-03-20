@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balance and frequency control"
+    id="id-5ca152644a0a4ebbba92741d588f8c5f"
+    documentation="To maintain frequency stability, balances the power generation and load consumption in the grid"/>

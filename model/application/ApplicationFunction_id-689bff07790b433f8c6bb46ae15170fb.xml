@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metering"
-    id="id-689bff07790b433f8c6bb46ae15170fb"/>
+    id="id-689bff07790b433f8c6bb46ae15170fb"
+    documentation="Handles the various physical measurements (energy, power (including active- and reactive power), voltage, frequency, power quality) gathering, storage, and quality management to provide for compensation, control and / or services settlement"/>

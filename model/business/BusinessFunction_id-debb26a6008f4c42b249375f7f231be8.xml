@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Notification and communication management"
-    id="id-debb26a6008f4c42b249375f7f231be8"/>
+    id="id-debb26a6008f4c42b249375f7f231be8"
+    documentation="Enables the delivery of information (regularly or in case of specific occurrencies) to consumers / partners"/>

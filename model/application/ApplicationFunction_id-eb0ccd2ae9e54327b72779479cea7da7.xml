@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Simulation"
-    id="id-eb0ccd2ae9e54327b72779479cea7da7"/>
+    id="id-eb0ccd2ae9e54327b72779479cea7da7"
+    documentation="Simulate the system"/>

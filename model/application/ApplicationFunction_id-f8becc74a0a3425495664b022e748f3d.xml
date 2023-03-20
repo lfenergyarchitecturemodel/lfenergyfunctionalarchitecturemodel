@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="End to End encryption/KEYS"
-    id="id-f8becc74a0a3425495664b022e748f3d"/>
+    id="id-f8becc74a0a3425495664b022e748f3d"
+    documentation="To prevent data being read or secretly modified, other than by the true sender and recipient(s)."/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logging"
-    id="id-5eb45887939349dbb825d86d9e9145cc"/>
+    id="id-5eb45887939349dbb825d86d9e9145cc"
+    documentation="To create a log file. A log file is a file that records either events that occur in an system, or messages between different systems. "/>

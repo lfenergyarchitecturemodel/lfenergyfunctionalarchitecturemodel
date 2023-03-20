@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Edge Node Control"
-    id="id-8e96912196bd4ec29405ccc14859dd42"/>
+    id="id-8e96912196bd4ec29405ccc14859dd42"
+    documentation="Covering the digital functionalities that are shared amongst all nodes ."/>

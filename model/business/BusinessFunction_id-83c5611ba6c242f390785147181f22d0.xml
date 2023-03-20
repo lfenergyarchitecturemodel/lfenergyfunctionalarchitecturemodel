@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Market Signal "
-    id="id-83c5611ba6c242f390785147181f22d0"/>
+    name="Market Signal Generation"
+    id="id-83c5611ba6c242f390785147181f22d0"
+    documentation="Assessing the physical state of the system to provide information toward market actors to inflence their positions in response to physical needs."/>

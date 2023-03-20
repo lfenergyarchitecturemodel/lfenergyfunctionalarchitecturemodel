@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Investment Policy"
-    id="id-e5c4abdf76d5494ba52b17c1656836ac"/>
+    id="id-e5c4abdf76d5494ba52b17c1656836ac"
+    documentation="Covering the financial investment strategy"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Management"
-    id="id-6acc9a438a484197b77131012a386350"/>
+    id="id-6acc9a438a484197b77131012a386350"
+    documentation="Covering the digital functionalities supporting data retrieval and management."/>

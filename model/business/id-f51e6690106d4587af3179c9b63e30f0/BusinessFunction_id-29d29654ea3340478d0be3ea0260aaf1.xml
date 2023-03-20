@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centralized Automation"
+    id="id-29d29654ea3340478d0be3ea0260aaf1"
+    documentation="Based on a real time assessment of the power system state, providing real time technical signals (toward internal or external recipient) to sustain the system within its normal operational conditions (e.g. frequency or voltage secondary or tertiary control automation)."/>

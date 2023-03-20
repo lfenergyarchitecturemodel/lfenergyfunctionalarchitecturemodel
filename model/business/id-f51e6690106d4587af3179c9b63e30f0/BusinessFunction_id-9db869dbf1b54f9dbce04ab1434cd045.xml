@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avalibility"
+    id="id-9db869dbf1b54f9dbce04ab1434cd045"
+    documentation="Availablility Platform calculates  the proportion, expressed as a percentage, of the total Available Time during which assets or services are available."/>

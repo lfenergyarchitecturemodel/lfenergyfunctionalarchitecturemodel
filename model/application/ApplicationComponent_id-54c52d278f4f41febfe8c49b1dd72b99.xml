@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Asset Repository"
-    id="id-54c52d278f4f41febfe8c49b1dd72b99"/>
+    id="id-54c52d278f4f41febfe8c49b1dd72b99"
+    documentation="Covering the digital functionalities used to keep track of asset and asset related information and configuration."/>

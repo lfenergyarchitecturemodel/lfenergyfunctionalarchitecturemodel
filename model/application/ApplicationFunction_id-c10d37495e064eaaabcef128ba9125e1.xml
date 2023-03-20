@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Predictive Analytics"
-    id="id-c10d37495e064eaaabcef128ba9125e1"/>
+    id="id-c10d37495e064eaaabcef128ba9125e1"
+    documentation="To define schedules on maintenancae operations related to specific assets on the basis of hystorical data."/>

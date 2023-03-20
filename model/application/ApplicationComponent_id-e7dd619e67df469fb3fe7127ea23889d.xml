@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Distribution Node"
-    id="id-e7dd619e67df469fb3fe7127ea23889d"/>
+    id="id-e7dd619e67df469fb3fe7127ea23889d"
+    documentation="Covering the digital functionalities of a group of assets (e.g. bay, rail, circuit or group of bays)."/>

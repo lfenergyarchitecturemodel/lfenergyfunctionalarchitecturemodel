@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Monitoring and Control"
-    id="id-064bc7337da14e3ca56b1b7dba426add"/>
+    id="id-064bc7337da14e3ca56b1b7dba426add"
+    documentation="To monitor and control power assets both on grid and customer controlled in the edge"/>

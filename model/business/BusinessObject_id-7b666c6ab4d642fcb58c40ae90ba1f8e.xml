@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Smart Contracts"
-    id="id-7b666c6ab4d642fcb58c40ae90ba1f8e"/>
+    id="id-7b666c6ab4d642fcb58c40ae90ba1f8e"
+    documentation="A smart contract is a protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of credible transactions without third party intervention, in a trackable and irreversible way."/>

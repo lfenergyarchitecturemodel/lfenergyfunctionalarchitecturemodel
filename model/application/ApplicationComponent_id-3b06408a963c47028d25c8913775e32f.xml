@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Customer Side Node"
-    id="id-3b06408a963c47028d25c8913775e32f"/>
+    id="id-3b06408a963c47028d25c8913775e32f"
+    documentation="Covering the digital function of customer-specific equipment (i.e. solar panels)"/>

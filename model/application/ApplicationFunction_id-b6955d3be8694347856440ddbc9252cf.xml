@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Simulation"
-    id="id-b6955d3be8694347856440ddbc9252cf"/>
+    id="id-b6955d3be8694347856440ddbc9252cf"
+    documentation="Simulation of performance of assets with different configurations or network locations"/>

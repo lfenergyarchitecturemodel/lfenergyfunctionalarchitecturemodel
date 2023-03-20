@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Forecasts"
-    id="id-805ae7fc5d23414dbf0ffda508befffd"/>
+    id="id-805ae7fc5d23414dbf0ffda508befffd"
+    documentation="Forecast are used in a variety of processes that span from multi years ahead to a few minutes ahead timeframes"/>

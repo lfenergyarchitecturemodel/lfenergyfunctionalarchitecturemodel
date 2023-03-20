@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Configuration and Setting repository"
-    id="id-72a287cbc07745e79f365aeed40c962a"/>
+    id="id-72a287cbc07745e79f365aeed40c962a"
+    documentation="To store and track configurations and settings for all recorded and deployed assets: Configuration Management"/>

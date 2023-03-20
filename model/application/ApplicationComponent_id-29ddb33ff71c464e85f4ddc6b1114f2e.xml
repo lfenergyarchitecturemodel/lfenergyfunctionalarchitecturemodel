@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Equipment Node"
-    id="id-29ddb33ff71c464e85f4ddc6b1114f2e"/>
+    id="id-29ddb33ff71c464e85f4ddc6b1114f2e"
+    documentation="Covering the digital functionalities of a single asset or a small group of the same assets (e.g transformer, set of three circuit breakers in 3-phase system or in case smart meter: a single electricity connection) or"/>

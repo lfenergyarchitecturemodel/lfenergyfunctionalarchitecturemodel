@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Central Hub"
-    id="id-7779977b17e34e459cb4051c21a9daca"/>
+    id="id-7779977b17e34e459cb4051c21a9daca"
+    documentation="A central platform for data collection, monitoring and control equipment and nodes in the smart grid (e.g. SCADA or IoT platform)."/>
