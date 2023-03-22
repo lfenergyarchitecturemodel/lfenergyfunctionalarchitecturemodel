@@ -3709,4 +3709,15 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-ae7c5ecd255d48d293c929dc78a85fb1.xml#id-ae7c5ecd255d48d293c929dc78a85fb1"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ec01cd13a9964219b6062e19b0bf2f13"
+      textAlignment="1"
+      content="This view is not 100% archimate compliant">
+    <bounds
+        x="60"
+        y="1584"
+        width="337"
+        height="48"/>
+  </children>
 </archimate:ArchimateDiagramModel>
