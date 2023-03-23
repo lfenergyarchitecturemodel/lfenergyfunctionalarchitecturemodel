@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Function Viewpoint"
+    name="LFE High-Level Functional Architecture V1.0 - Layered architecture"
     id="id-afec7743c48e4bcea97c93bd3fc3fe65"
     documentation="This viewpoint is a draft version and work in progress. It is based on LF Energy Functional Architecture v1.0 - CC 4.0 (can be found LFE GitHub repository). ">
   <children
