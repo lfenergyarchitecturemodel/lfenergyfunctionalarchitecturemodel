@@ -8,6 +8,13 @@ SPDX-License-Identifier: CC-BY-4.0
 
 The repos in this github org contains Functional Architecture Model in Archimate language. 
 
+# Introduction
+The LF Energy members EPRI, RTE, Alliander, and Aachen University have joined together in LF Energy Archimate Working Group to create an architecture model for [LF Energy](https://www.lfenergy.org/).
+
+[LF Energy](https://www.lfenergy.org/) is an open-source foundation focused on the power systems sector, hosted within The Linux Foundation. [LF Energy](https://www.lfenergy.org/) provides a neutral, collaborative community to build the shared digital investments that will transform the world’s relationship to energy.
+
+The goal of the LF Energy Architecture Model is to become the place to go for sharing references architectures and project architectures within the LF Energy community. It aims to clarify the ecosystem of LF Energy: wherefore can the LF Energy projects be used, how they interact together, and examples of how they can be adopted in reference architectures. This will provide a clear and deep understanding of how the  LF Energy projects contribute to business functions and help the project adoption, foster synergies between projects, and limit the overlap between projects.
+
 # View 
 The model can be viewed [here without the need to install Archi](https://lfenergyarchitecturemodel.github.io/lfenergyfunctionalarchitecturemodel/).
 
