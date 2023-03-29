@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCL Data Service"
+    id="id-d99d219761204141807aa3085f480b09"
+    documentation="CoMPAS SCL Data service is a service to store and retrieve the SCL XML to a database"/>

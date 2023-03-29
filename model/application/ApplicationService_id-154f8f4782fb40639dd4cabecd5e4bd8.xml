@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CIM Mapping"
+    id="id-154f8f4782fb40639dd4cabecd5e4bd8"
+    documentation="The mapping service between IEC CIM and IEC 61850. &#xD;&#xA;(how the mapping is done can be found here: https://github.com/com-pas/compas-cim-mapping/blob/develop/MAPPING.md) "/>
