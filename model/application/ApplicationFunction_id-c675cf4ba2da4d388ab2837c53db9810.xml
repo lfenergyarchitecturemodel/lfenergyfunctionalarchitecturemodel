@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Configuration Management"
-    id="id-c675cf4ba2da4d388ab2837c53db9810"/>
+    id="id-c675cf4ba2da4d388ab2837c53db9810"
+    documentation="Container function for configuration management consist of (agrregate)&#xD;&#xA;1. Make system configuration &#xD;&#xA;&#x9;1.1. Make substation configuration &#xD;&#xA;&#x9;1.2 Make IED configuration (bij. DER) &#xD;&#xA;2. Edit system configuration &#xD;&#xA;&#x9;2.1 Idem &#xD;&#xA;&#x9;2.2 Idem &#xD;&#xA;&#x9;2.3 Grid planning import  &#xD;&#xA;3. Store system configuration &#xD;&#xA;&#x9;3.1 Idem&#xD;&#xA;&#x9;3.3 Version Management&#xD;&#xA;4. Validate&#xD;&#xA;5. Compare &#xD;&#xA;"/>
