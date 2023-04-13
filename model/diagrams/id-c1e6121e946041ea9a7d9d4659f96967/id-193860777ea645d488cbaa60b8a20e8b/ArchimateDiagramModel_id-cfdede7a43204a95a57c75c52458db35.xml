@@ -1277,11 +1277,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-5b9458788a994ac3aa4e49565d56ed2e"
       textAlignment="1"
-      content="Main ">
+      content="Link with OpFab business functions?">
     <bounds
         x="1411"
         y="414"
-        width="260"
-        height="145"/>
+        width="444"
+        height="67"/>
   </children>
 </archimate:ArchimateDiagramModel>
