@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CoMPAS"
     id="id-9e5b2fec9f19480b9b649f563abcd177"
-    documentation="Focus on IEC61850 SCL configurations. For more information, see: https://com-pas.github.io/compas-architecture/technical/TECHNICAL_ARCHITECTURE.html"/>
+    documentation="Focus on IEC61850 SCL configurations. For more information, see: https://com-pas.github.io/compas-architecture/technical/TECHNICAL_ARCHITECTURE.html&#xD;&#xA;&#xD;&#xA;To add: a description of each element in CoMPAS"/>
