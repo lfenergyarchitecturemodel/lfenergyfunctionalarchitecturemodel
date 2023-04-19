@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GXF"
-    id="id-b2a9d8848d9c46f796f5701b345b13c4"/>
+    id="id-b2a9d8848d9c46f796f5701b345b13c4"
+    documentation="Grid Exchange Fabric - GFX&#xD;&#xA;Is a software platform that enables hardware monitoring and control in the public spaces. &#xD;&#xA;GFX acts as a translating layer between applications and hardware. GXF itself has four different layers. &#xD;&#xA;&#xD;&#xA;Voormalig naam: OSGP - Open Smart Grid Platform "/>
