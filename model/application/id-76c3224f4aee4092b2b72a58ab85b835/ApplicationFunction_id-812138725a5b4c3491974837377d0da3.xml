@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data check"
-    id="id-812138725a5b4c3491974837377d0da3"/>
+    name="Data Lineage"
+    id="id-812138725a5b4c3491974837377d0da3"
+    documentation="Data lineage is the process of tracking the flow of data over time, providing a clear understanding of where the data originated, how it has changed, and its ultimate destination within the data pipeline.&#x9;&#x9;"/>
