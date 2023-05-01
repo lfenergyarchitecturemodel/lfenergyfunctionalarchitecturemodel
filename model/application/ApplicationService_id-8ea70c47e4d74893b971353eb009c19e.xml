@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MQTT"
-    id="id-8ea70c47e4d74893b971353eb009c19e"
-    documentation="Message Queing Telemetry Transport Protocol (MQTT) Protocol is a lightweight publish/subscribe messaging protocol designed for constrained devices and networks."/>

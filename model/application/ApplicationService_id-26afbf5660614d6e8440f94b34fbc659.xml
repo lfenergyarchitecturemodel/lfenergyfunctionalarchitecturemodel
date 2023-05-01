@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DLMS/COSEM"
-    id="id-26afbf5660614d6e8440f94b34fbc659"
-    documentation="DLMS - Device language message specification &#xD;&#xA;COSEM - Companion specification for energy metering &#xD;&#xA;&#xD;&#xA;is a popular protocol to read smart meters. DLMS/COSEM is the de facto standard in Europe. "/>
