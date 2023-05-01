@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IEC 61850"
-    id="id-2e6ef14c606241a8a2cd77307fe3e7a9"
-    documentation="IEC 61850 is a popular protocol in the field of smart grids. IEC 61850 started as a standard for substation automation but has expanded into other domains such as EV and solar panels. "/>
