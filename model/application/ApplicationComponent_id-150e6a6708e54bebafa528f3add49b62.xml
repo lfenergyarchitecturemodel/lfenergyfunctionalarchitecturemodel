@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CoMPAS sitipe Service"
-    id="id-150e6a6708e54bebafa528f3add49b62"/>
+    id="id-150e6a6708e54bebafa528f3add49b62"
+    documentation="Siemens SITIPE for CoMPAS&#xD;&#xA;&#xD;&#xA;This repository contains an CoMPAS extension in order to integrate with Siemens SITIPE.&#xD;&#xA;It is open source software to interact with Siemens SITIPE.&#xD;&#xA;&#xD;&#xA;https://github.com/com-pas/compas-sitipe-service"/>

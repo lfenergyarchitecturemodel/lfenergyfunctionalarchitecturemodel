@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IEC 61850 Specs."
-    id="id-58c0075bd0b14582834f5536ff215260"/>
+    name="IEC 61850 Specification"
+    id="id-58c0075bd0b14582834f5536ff215260"
+    documentation="CoMPAS can handle all kinds of SCL files, including specification files."/>

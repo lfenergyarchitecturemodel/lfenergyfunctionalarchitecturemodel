@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validate Schema"
-    id="id-6dae0570364143d5885487d836931ac2"/>
+    id="id-6dae0570364143d5885487d836931ac2"
+    documentation="Validate the SCL file based on the 61850 XSD."/>

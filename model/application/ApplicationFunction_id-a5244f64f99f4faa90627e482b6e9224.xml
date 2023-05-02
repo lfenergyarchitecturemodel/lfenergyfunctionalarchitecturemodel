@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Subscriber Data Binding (GOOSE)"
-    id="id-a5244f64f99f4faa90627e482b6e9224"/>
+    id="id-a5244f64f99f4faa90627e482b6e9224"
+    documentation="GOOSE (Generic Object Oriented Substation Event) editor to manage data binding based GOOSE."/>

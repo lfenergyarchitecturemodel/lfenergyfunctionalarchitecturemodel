@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Store IED Configuration"
-    id="id-8d65431803a641c9945536a03c9c48bb"/>
+    id="id-8d65431803a641c9945536a03c9c48bb"
+    documentation="Store IED specific configurations."/>

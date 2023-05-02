@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="View diagnostics"
-    id="id-4e4ec4e22a4841509c8365b7e60bc1fc"/>
+    id="id-4e4ec4e22a4841509c8365b7e60bc1fc"
+    documentation="Find/see/read validation and other 61850/SCL errors."/>

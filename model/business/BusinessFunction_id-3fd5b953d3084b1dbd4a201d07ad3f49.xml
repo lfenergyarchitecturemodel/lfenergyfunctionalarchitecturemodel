@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Version Management"
-    id="id-3fd5b953d3084b1dbd4a201d07ad3f49"/>
+    id="id-3fd5b953d3084b1dbd4a201d07ad3f49"
+    documentation="Manage configuration versions."/>

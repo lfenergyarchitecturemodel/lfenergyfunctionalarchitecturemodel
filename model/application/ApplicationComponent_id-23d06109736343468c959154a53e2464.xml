@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CoMPAS OpenSCD Component"
-    id="id-23d06109736343468c959154a53e2464"/>
+    id="id-23d06109736343468c959154a53e2464"
+    documentation="OpenSCD CoMPAS Edition&#xD;&#xA;Extensions on OpenSCD e.g. in order to work with the CoMPAS backend services&#xD;&#xA;https://github.com/com-pas/compas-open-scd"/>

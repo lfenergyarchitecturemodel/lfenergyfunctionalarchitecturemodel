@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Edit IED configuration"
-    id="id-8f815f4924a04321ac58addd49990037"/>
+    id="id-8f815f4924a04321ac58addd49990037"
+    documentation="Edit device specifc configuration"/>

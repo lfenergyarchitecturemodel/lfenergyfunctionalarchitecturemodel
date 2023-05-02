@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Compare IED"
-    id="id-f4a0eb03f7c34485b89922f8c15e880f"/>
+    id="id-f4a0eb03f7c34485b89922f8c15e880f"
+    documentation="Function to compare IED's. E.g. for comparing a IED with a template IED."/>

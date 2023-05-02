@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CIM specifications"
-    id="id-c0ec7ab545274677a5cc0e2b7e1d32f0"/>
+    name="CIM CGMES-EQ specifications"
+    id="id-c0ec7ab545274677a5cc0e2b7e1d32f0"
+    documentation="The CGMES-EQ file format can used to convert into 61850 SCL to act as a start of an SCL based configuration."/>

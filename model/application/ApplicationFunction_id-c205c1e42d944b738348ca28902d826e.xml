@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Import IEDs "
-    id="id-c205c1e42d944b738348ca28902d826e"/>
+    id="id-c205c1e42d944b738348ca28902d826e"
+    documentation="Import exsisting IED's (CID or ICD 61850 SCL files)."/>

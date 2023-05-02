@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CIM mapper"
-    id="id-3b6935e78b63422ca13c6c8983884daf"/>
+    id="id-3b6935e78b63422ca13c6c8983884daf"
+    documentation="A component to map CGMES-EQ on IEC 61850 SCL based on the IEC/TS 62361-102.&#xD;&#xA;https://github.com/com-pas/compas-cim-mapping"/>

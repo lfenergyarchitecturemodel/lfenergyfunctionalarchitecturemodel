@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Save Project"
-    id="id-929ff5f1ecef44459be44c108a717d0a"/>
+    id="id-929ff5f1ecef44459be44c108a717d0a"
+    documentation="Save the SCL project."/>

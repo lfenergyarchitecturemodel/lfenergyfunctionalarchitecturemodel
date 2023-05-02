@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Communication Editing"
-    id="id-2371826b034a42cd8bfd5682b1a8e908"/>
+    id="id-2371826b034a42cd8bfd5682b1a8e908"
+    documentation="Editor for the 61850 SCL communication subsection."/>

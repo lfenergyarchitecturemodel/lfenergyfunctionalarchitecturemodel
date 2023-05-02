@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Settings"
-    id="id-1f62cdcc804645f9b6d774a87162da81"/>
+    id="id-1f62cdcc804645f9b6d774a87162da81"
+    documentation="Make changes/see general OpenSCD settings."/>

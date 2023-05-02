@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Open Project"
-    id="id-a90730b1aa744250bc14698cdd1b8054"/>
+    id="id-a90730b1aa744250bc14698cdd1b8054"
+    documentation="Open and SCL file to show and/or edit."/>

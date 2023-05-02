@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Retreieve bay typicals"
-    id="id-faf1d34c19894cc9b8184b460aba653f"/>
+    name="Retreieve SITPE bay typicals"
+    id="id-faf1d34c19894cc9b8184b460aba653f"
+    documentation="Function to retreive bas typicals in Siemens SITIPE."/>

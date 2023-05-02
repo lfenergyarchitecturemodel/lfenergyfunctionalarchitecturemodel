@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validate"
-    id="id-a19213d9e84b4723a5a03f9a38565599"/>
+    id="id-a19213d9e84b4723a5a03f9a38565599"
+    documentation="Validate configurations based on known rules."/>

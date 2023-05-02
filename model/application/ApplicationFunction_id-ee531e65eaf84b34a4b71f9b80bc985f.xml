@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Log functions"
-    id="id-ee531e65eaf84b34a4b71f9b80bc985f"/>
+    id="id-ee531e65eaf84b34a4b71f9b80bc985f"
+    documentation="Show relevant logs in OpenSCD/CoMPAS."/>

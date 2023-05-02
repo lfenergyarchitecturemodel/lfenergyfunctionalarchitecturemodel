@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Compare Configuration"
-    id="id-643cef5d769945b6a240abdacda8b751"/>
+    id="id-643cef5d769945b6a240abdacda8b751"
+    documentation="Compare configurations in order to find differences."/>

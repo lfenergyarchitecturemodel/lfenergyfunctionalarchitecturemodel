@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Edit IED"
-    id="id-955d7c833b31497ba6463c483dc538c3"/>
+    id="id-955d7c833b31497ba6463c483dc538c3"
+    documentation="Editor to show IED's (intelligent electronic device)  and their content. This incluses functions (Logical nodes/LN) and parameters."/>
