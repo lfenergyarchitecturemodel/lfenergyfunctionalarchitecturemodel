@@ -15,6 +15,8 @@ The LF Energy members EPRI, RTE, Alliander, and Aachen University have joined to
 
 The goal of the LF Energy Architecture Model is to become the place to go for sharing references architectures and project architectures within the LF Energy community. It aims to clarify the ecosystem of LF Energy: wherefore can the LF Energy projects be used, how they interact together, and examples of how they can be adopted in reference architectures. This will provide a clear and deep understanding of how the  LF Energy projects contribute to business functions and help the project adoption, foster synergies between projects, and limit the overlap between projects.
 
+For more information, please watch [the special episode of TFiR: State of Energy](https://www.youtube.com/watch?v=3RO9GsljPUw) where Swapnil Bhartiya sits down with Prince Singh, Solution Architect at Alliander and Benoît Jeanson, Enterprise Architect at RTE, and talk about LF Energy Architecture Model and how it makes it easier for anybody in the world to identify LF Energy Projects that are of interest to them and how they can be integrated into their organization.
+
 # View 
 The model can be viewed [here without the need to install Archi](https://lfenergyarchitecturemodel.github.io/lfenergyfunctionalarchitecturemodel/).
 
