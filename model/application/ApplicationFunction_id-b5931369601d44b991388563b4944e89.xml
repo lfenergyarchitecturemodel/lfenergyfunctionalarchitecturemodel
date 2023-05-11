@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subscriber Later Binding (GOOSE)"
+    id="id-b5931369601d44b991388563b4944e89"
+    documentation="GOOSE (Generic Object Oriented Substation Event) editor to manage later binding based GOOSE."/>

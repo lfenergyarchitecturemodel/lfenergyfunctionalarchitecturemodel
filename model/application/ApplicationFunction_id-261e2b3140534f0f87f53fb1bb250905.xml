@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store SCL Data"
+    id="id-261e2b3140534f0f87f53fb1bb250905"
+    documentation="Function to store SCL XML files."/>

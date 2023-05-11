@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="104 address to 61850 SCL Editor"
+    id="id-818d86779bc04ba1bfb99865567471d6"
+    documentation="Editor to show/change 104 adresses mapped on IEC61850 SCL adresses based on the IEC/TS 61850-80-1."/>

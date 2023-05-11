@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Save project as"
+    id="id-cb8a7266526d467db6a3a211a5d3e524"
+    documentation="Save a SCD file under a different name in the CoMPAS database."/>

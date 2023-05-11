@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update desc. (ABB)"
+    id="id-1ecf5b34a5fa4a1db274813671afada5"
+    documentation="Function to update the describtions in the ABB IED configurations."/>

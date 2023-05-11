@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CIM CGMES-EQ to 61850 SCL"
+    id="id-827c0a10133e4378a71ecad0b85d2f21"
+    documentation="Function convert CGMES-EQ into 61850 SCL."/>

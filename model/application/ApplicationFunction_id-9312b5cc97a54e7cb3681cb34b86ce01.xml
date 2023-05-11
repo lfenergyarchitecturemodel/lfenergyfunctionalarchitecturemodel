@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project from CIM"
+    id="id-9312b5cc97a54e7cb3681cb34b86ce01"
+    documentation="Load an IEC CCGMES EQ file and convert it into 61850 SCL."/>
