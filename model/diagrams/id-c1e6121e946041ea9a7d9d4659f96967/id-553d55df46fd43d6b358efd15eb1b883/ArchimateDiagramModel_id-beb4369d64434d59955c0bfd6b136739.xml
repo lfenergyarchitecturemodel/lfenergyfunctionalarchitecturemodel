@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="FledgePower Realization"
-    id="id-beb4369d64434d59955c0bfd6b136739">
+    id="id-beb4369d64434d59955c0bfd6b136739"
+    documentation="This is the project achitecture view of the FledgePower project. FledgePOWER is a multi-protocol translation gateway for power systems based on the industrial IoT LF Edge project Fledge. For more information on FledgePower, check out the project's page:  https://lfenergy.org/projects/fledgepower/">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bcc2418f343e4721a8d5272876e0f209">

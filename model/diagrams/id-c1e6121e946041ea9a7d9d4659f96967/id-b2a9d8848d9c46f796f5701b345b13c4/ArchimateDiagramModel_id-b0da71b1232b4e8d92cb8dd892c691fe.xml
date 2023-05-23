@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GXF Realization"
     id="id-b0da71b1232b4e8d92cb8dd892c691fe"
-    documentation="Kunnen we deze functie ook aan de LFE functioneel architectuur mappen ?">
+    documentation="This is the project achitecture view of Grid eXchange Fabric (GXF) project.  GXF is a software platform that enables hardware monitoring and control in the public space. GXF provides several functions out of the box and provides scalability &amp; high availability, high security, a generic design, and no vendor lock-in. GXF is currently deployed in several public use cases, including microgrids, smart metering, public lighting, and distribution automation. For more information on GXF, check out the project's page:  https://lfenergy.org/projects/gxf/ ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e7505af2690240a6924f2fc334ccabe8"

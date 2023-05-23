@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OperatorFabric Detailed"
-    id="EAID_3C3563B0_9FD9_48df_B5AE_5DB7937DE7E7">
+    name="OperatorFabric Realization"
+    id="EAID_3C3563B0_9FD9_48df_B5AE_5DB7937DE7E7"
+    documentation="This is the project achitecture view of the OperatorFabric project. OperatorFabric provides a dashboard for the system operator that is designed to aggregate notifications on expectations and alerts from all applications into a single screen and allow the system operator to act on them. The notifications are materialized by cards sorted in a feed according to their period of relevance and their severity. For more information on OperatorFabric, check out the project's page:  https://lfenergy.org/projects/operatorfabric/">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_0610_4da0_B2A3_EF3F1DD1DD3B">
