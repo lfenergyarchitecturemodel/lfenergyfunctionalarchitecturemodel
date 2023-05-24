@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metamodel"
-    id="EAID_D62F533C_10E4_423a_9996_336A8012D5EE">
+    id="EAID_D62F533C_10E4_423a_9996_336A8012D5EE"
+    documentation="In order to maintain consitency in the model whilst facilitating collaboration and contributions from all parties, a set of modelling guidelines have been created. If you wish to contribute to the model, please follow the LF Energy Meta model.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_9E11_4a71_AF4E_CC442F5AAB8C"

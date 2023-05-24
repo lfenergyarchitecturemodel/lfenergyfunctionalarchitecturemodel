@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CoMPAS Detailed"
-    id="id-ed581230ede74ac58f961c81789b34d8">
+    id="id-ed581230ede74ac58f961c81789b34d8"
+    documentation="This is the detailed project achitecture view of the CoMPAS project. CoMPAS is going to provide common open source software blocks for the automizing the process for configuring Substation Automation Systems and has the ability to integrate third-party tools. For more information on CoMPAS, check out the project's page:  https://lfenergy.org/projects/compas/">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-99988e9223914b3f9599bfe49c8e8376">
