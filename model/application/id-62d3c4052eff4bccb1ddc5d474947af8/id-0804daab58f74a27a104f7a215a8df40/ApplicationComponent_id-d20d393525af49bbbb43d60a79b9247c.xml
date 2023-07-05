@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DPsim"
     id="id-d20d393525af49bbbb43d60a79b9247c"
-    documentation="power flow, EMT, DP and quasi-static simulation"/>
+    documentation="DPsim is a solver library for dynamic power system simulation.&#xD;&#xA;It supports the electromagnetic transient (EMT), quasi-static and dynamic phasor (DP) domain for simulation.&#xD;&#xA;A powerflow solver is included for standalone usage or to initialize dynamic simulations.&#xD;&#xA;It provides a Python module which can be embedded in any Python 3 application / scripts.&#xD;&#xA;The simulation core is implemented in highly-efficient C++ code.&#xD;&#xA;It supports real-time execution with time-steps down to 50 uS.&#xD;&#xA;It can load models in the IEC61970 Common Information Model (CIM) / Common Grid Model Exchange Standard (CGMES) XML format.&#xD;&#xA;It can be interfaced to a variety of protocols and interfaces via VILLASnode.&#xD;&#xA;https://github.com/sogno-platform/dpsim"/>
