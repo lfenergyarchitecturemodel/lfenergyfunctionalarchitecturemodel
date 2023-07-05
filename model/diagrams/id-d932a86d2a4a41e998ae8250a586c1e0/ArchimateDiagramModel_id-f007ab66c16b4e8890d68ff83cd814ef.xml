@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Organisation Viewpoint"
+    name="Actors and Roles"
     id="id-f007ab66c16b4e8890d68ff83cd814ef"
     documentation="Organisation Viewpoint is a standard viewpoint in ArchiMate and &quot;...focusses on the (internal) organistion of a company, network of companies, or of another organisational entity.&quot;&#xD;&#xA;Here, we use the organisation viewpoint to model different business actors and role in the energy market. The original document used for this viewpoint is ENTSOE The Harmonized Electricity Market Role Model Version 2017-01">
   <children
