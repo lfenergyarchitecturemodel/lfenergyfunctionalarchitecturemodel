@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Self-Healing"
+    id="id-73c5af7114ee481985ead5b2f7090307"
+    documentation="To allow a system to autonomously identify issues, self-diagnose their causes and activate mitigating measures to allow the system to continue performing its core fucntionalities "/>

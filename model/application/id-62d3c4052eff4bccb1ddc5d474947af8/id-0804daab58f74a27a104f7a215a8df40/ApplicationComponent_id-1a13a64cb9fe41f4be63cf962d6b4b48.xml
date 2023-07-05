@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CIMpy/CIM++"
-    id="id-1a13a64cb9fe41f4be63cf962d6b4b48"/>
+    name="CIMgen/CIMpy/CIM++"
+    id="id-1a13a64cb9fe41f4be63cf962d6b4b48"
+    documentation="CIMgen is a template engine based tool for code generation from the CIM / CGMES data model for several programming languages.&#xD;&#xA;CIMpy and CIM++ are the generated python and C++ libraries.&#xD;&#xA;https://github.com/sogno-platform/cimgen&#xD;&#xA;https://github.com/sogno-platform/cimpy&#xD;&#xA;https://github.com/sogno-platform/libcimpp"/>

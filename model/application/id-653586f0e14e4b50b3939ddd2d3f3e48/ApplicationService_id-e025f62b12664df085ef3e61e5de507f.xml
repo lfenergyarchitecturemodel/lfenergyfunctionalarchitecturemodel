@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message Queue"
+    id="id-e025f62b12664df085ef3e61e5de507f"
+    documentation="To queue messages that are sent between applications. It includes a sequence of work objects that are waiting to be processed. A message is the data transported between the sender and the receiver application; it's essentially a byte array with some headers at the top."/>

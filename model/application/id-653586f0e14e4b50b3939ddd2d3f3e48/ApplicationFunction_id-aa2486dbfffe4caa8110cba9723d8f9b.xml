@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Protocol Management"
+    id="id-aa2486dbfffe4caa8110cba9723d8f9b"
+    documentation="To translate the protocol of the sending device to a different protocol of another device so that compatibility and communication can be established"/>

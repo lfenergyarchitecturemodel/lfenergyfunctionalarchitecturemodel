@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Motivation"
     id="id-bc065393b0a64a70827e2039287874c1"
-    type="motivation"/>
+    type="motivation">
+  <properties
+      key=" _hide_from_export_ "
+      value="true"/>
+</archimate:Folder>

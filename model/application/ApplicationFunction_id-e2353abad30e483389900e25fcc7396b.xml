@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retrieve SCL Data"
+    id="id-e2353abad30e483389900e25fcc7396b"
+    documentation="Function to load SCL XML files."/>

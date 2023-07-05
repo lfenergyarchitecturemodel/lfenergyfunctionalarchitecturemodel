@@ -5,7 +5,7 @@
     accessType="1">
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_EAID_54E7A856_181B_4741_8B3F_456C8424070F.xml#EAID_54E7A856_181B_4741_8B3F_456C8424070F"/>
+      href="ApplicationFunction_id-c9ed4ccf17b245a4aeec04c8c20f177c.xml#id-c9ed4ccf17b245a4aeec04c8c20f177c"/>
   <target
       xsi:type="archimate:DataObject"
       href="DataObject_EAID_E66CE9E1_D1AA_4e65_9948_F31053711580.xml#EAID_E66CE9E1_D1AA_4e65_9948_F31053711580"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remote Configuration management"
+    id="id-3c4f5b4272974a58b32372a59d96d416"
+    documentation="To remotely configure and interact with a device already deployed in the field"/>

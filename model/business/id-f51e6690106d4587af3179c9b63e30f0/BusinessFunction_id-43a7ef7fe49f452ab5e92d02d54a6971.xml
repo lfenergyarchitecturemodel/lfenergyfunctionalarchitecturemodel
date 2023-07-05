@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balancing Mechanism"
+    id="id-43a7ef7fe49f452ab5e92d02d54a6971"
+    documentation="Managing the real time strategy to balance the system and cope with contingency: identification the appropriate services (demand side response / generation / aggregator / storage ...) to trigger to sustain the system for the next few hours."/>

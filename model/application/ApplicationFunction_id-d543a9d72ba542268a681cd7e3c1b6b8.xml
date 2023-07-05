@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoMPAS for Siemens SITIPE"
+    id="id-d543a9d72ba542268a681cd7e3c1b6b8"
+    documentation="Functions to interact with the Siemens SITIPE database."/>

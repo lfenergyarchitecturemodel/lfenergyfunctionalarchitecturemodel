@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration management"
+    id="id-38892a5d69f64010ad9ac7adba330dfa"
+    documentation="Container function for configuration management consist of (agrregate)&#xD;&#xA;1. Make system configuration &#xD;&#xA;&#x9;1.1. Make substation configuration &#xD;&#xA;&#x9;1.2 Make IED configuration (bij. DER) &#xD;&#xA;2. Edit system configuration &#xD;&#xA;&#x9;2.1 Idem &#xD;&#xA;&#x9;2.2 Idem &#xD;&#xA;&#x9;2.3 Grid planning import  &#xD;&#xA;3. Store system configuration &#xD;&#xA;&#x9;3.1 Idem&#xD;&#xA;&#x9;3.3 Version Management&#xD;&#xA;4. Validate&#xD;&#xA;5. Compare &#xD;&#xA;"/>

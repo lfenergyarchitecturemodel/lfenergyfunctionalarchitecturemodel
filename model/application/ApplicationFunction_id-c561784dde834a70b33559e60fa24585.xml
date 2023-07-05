@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CleanUp"
+    id="id-c561784dde834a70b33559e60fa24585"
+    documentation="Function to check and cleanup unused SCL elements."/>

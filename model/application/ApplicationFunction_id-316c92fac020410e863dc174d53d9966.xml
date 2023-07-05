@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Virtual IED"
+    id="id-316c92fac020410e863dc174d53d9966"
+    documentation="Function to create a virtual IED based on 61850 SCL data templates."/>

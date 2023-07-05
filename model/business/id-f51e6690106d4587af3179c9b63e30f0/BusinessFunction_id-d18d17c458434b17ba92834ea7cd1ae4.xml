@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Synchronisation"
+    id="id-d18d17c458434b17ba92834ea7cd1ae4"
+    documentation="To match the speed and frequency of a generator or other source to a running network. If two segments of a grid are disconnected, they cannot exchange AC power again until they are brought back into exact synchronization."/>

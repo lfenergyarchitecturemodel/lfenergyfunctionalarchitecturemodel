@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoMPAS version "
+    id="id-aebce4eca1bb46f997157fdac626845a"
+    documentation="Show and manage the CoMPAS SCL files stored in the database."/>

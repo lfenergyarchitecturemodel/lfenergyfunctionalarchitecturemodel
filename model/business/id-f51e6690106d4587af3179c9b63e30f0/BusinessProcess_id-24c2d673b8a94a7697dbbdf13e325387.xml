@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modeling"
+    id="id-24c2d673b8a94a7697dbbdf13e325387"
+    documentation="Build a model of the system for simulation, and modify it: merge of submodels, change parameters, include forecasted hypothesis"/>

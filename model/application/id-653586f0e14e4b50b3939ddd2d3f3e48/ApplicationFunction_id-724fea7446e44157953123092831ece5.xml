@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="State Estimation"
+    id="id-724fea7446e44157953123092831ece5"
+    documentation="Establish a statistical state of a given real system (measured with unperfect noisy sensors) that is coherent with a physically representative model."/>

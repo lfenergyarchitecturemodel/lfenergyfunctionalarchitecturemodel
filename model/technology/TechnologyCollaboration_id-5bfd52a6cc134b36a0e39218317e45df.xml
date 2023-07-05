@@ -1,0 +1,5 @@
+<archimate:TechnologyCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PowSyBL"
+    id="id-5bfd52a6cc134b36a0e39218317e45df"
+    documentation="PowSyBl is (partly) used to generate the single line diagram coordinates based on an SCL file."/>

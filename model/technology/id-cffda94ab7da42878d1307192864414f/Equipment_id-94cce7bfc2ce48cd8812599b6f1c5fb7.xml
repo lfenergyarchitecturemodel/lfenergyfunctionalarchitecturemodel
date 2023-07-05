@@ -1,0 +1,5 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actuator"
+    id="id-94cce7bfc2ce48cd8812599b6f1c5fb7"
+    documentation="Actuators perform an output function and are generally used to control some external device, converting energy of one kind into energy of another kind"/>
