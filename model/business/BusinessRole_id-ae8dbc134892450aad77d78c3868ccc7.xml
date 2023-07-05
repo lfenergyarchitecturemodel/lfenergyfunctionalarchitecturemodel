@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trader"
+    id="id-ae8dbc134892450aad77d78c3868ccc7"
+    documentation="A party that is selling or buying energy."/>

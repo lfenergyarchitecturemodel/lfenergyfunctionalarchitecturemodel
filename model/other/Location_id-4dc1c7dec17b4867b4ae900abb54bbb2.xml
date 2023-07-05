@@ -1,0 +1,5 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control Area"
+    id="id-4dc1c7dec17b4867b4ae900abb54bbb2"
+    documentation="The composition of one or more Market Balance Areas under the same technical load frequency control responsibility.&#xD;&#xA;&#xD;&#xA;In some cases there may be some Metering Points that belong to a Market Balance Area that is not a part of the Control Area. However, these do not impact the general definition, for example, a village in one country connected to the grid of another."/>

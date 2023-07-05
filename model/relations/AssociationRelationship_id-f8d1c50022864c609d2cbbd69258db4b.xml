@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="controls financially"
+    id="id-f8d1c50022864c609d2cbbd69258db4b"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-56dccd7fba4b422d9d530f565cc6648f.xml#id-56dccd7fba4b422d9d530f565cc6648f"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-b335149e1e3b4706add8e80ae814af73.xml#id-b335149e1e3b4706add8e80ae814af73"/>
+</archimate:AssociationRelationship>

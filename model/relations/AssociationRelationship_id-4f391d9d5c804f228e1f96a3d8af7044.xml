@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="facilitates"
+    id="id-4f391d9d5c804f228e1f96a3d8af7044">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-88412dc740304e1390d6c985cc641663.xml#id-88412dc740304e1390d6c985cc641663"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-891aefba1fbc4497b665d8b7c3516890.xml#id-891aefba1fbc4497b665d8b7c3516890"/>
+</archimate:AssociationRelationship>

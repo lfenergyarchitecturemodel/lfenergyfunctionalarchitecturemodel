@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reconcillation Accountable"
+    id="id-db4f15fb7b7644f6b0dabd1d2a4a0e50"
+    documentation="A party that is financially accountable for the reconciled volume of energy products for a profiled Accounting Point."/>

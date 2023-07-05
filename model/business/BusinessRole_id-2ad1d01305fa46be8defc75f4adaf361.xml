@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trade Responsible Party"
+    id="id-2ad1d01305fa46be8defc75f4adaf361"
+    documentation="A party who can be brought to rights, legally and financially, for any imbalance between energy nominated and consumed for all associated Accounting Points.&#xD;&#xA;&#xD;&#xA;A power exchange without any privileged responsibilities acts as a Trade Responsible Party.&#xD;&#xA;&#xD;&#xA;This is a type of Balance Responsible Party."/>

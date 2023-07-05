@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scheduling Co-ordinator"
+    id="id-2c7962bb511e43d2af30fc6f369c7959"
+    documentation="A party that is responsible for the schedule information and its exchange on behalf of a Balance Responsible Party.&#xD;&#xA;For example, in the Polish market a Scheduling Coordinator is responsible for information interchange for scheduling and settlement."/>

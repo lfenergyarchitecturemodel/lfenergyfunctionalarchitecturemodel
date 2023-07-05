@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(may have) grid usage contract"
+    id="id-a7e1a87142e74351a906d54197a90314">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d5c4e6fa7f6647be8480b2da6c96cda3.xml#id-d5c4e6fa7f6647be8480b2da6c96cda3"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-73c8043b390c4589931dc7d6adda727e.xml#id-73c8043b390c4589931dc7d6adda727e"/>
+</archimate:AssociationRelationship>

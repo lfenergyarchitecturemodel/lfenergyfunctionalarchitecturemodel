@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metering Point Administrator"
+    id="id-a77a3439aa154bc8b12e177ed6ca8a19"
+    documentation="A party responsible for registering the parties linked to the metering points in a Metering Grid Area. The party is also responsible for registering and making available the Metering Point characteristics."/>

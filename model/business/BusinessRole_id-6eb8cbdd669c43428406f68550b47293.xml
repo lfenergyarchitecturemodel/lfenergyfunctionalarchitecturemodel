@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control Area Operator"
+    id="id-6eb8cbdd669c43428406f68550b47293"
+    documentation="Responsible for:&#xD;&#xA;1. The coordination of exchange programs between its related Market Balance Areas and for the exchanges between its associated Control Areas.&#xD;&#xA;2. The load frequency control for its own area.&#xD;&#xA;3. The coordination of the correction of time deviations."/>

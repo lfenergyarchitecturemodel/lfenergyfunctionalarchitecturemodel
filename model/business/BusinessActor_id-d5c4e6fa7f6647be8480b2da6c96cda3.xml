@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balance Supplier"
+    id="id-d5c4e6fa7f6647be8480b2da6c96cda3"
+    documentation="A party that markets the difference between actual metered energy consumption and the energy bought with firm energy contracts by the Party Connected to the Grid. In addition, the Balance Supplier markets any difference with the firm energy contract (of the Party Connected to the Grid) and the metered production.&#xD;&#xA;&#xD;&#xA;There is only one Balance Supplier for each Accounting Point."/>

@@ -1,0 +1,5 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metering Grid Area"
+    id="id-b335149e1e3b4706add8e80ae814af73"
+    documentation="A Metering Grid Area is a physical area where consumption, production and exchange can be metered. It is delimited by the placement of meters for period measurement for input to, and withdrawal from the area. It can be used to establish the sum of consumption and production with no period measurement and network losses."/>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="provides access to grid through"
+    id="id-c695864618cd4c9e947a9333890fb53a"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-73c8043b390c4589931dc7d6adda727e.xml#id-73c8043b390c4589931dc7d6adda727e"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-16afe2ac72ea4f04bccf2700c4b8f554.xml#id-16afe2ac72ea4f04bccf2700c4b8f554"/>
+</archimate:AssociationRelationship>

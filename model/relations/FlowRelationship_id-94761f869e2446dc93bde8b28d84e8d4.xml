@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="provides capacity "
+    id="id-94761f869e2446dc93bde8b28d84e8d4">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-6c64111967504a3383a6024949f082eb.xml#id-6c64111967504a3383a6024949f082eb"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-6aadd1df040d4eb3ae10e38dc584cb78.xml#id-6aadd1df040d4eb3ae10e38dc584cb78"/>
+</archimate:FlowRelationship>

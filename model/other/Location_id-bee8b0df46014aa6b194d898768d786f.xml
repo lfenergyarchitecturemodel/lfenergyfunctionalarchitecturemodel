@@ -1,0 +1,5 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Market Area"
+    id="id-bee8b0df46014aa6b194d898768d786f"
+    documentation="An area made up of several Market Balance Areas interconnected through AC or DC links. Trade is allowed between different Market Balance Areas with common market rules for trading across the interconnection."/>

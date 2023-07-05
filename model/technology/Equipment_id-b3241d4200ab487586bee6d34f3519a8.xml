@@ -1,0 +1,5 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reserve Resource"
+    id="id-b3241d4200ab487586bee6d34f3519a8"
+    documentation="A resource technically pre-qualified using a uniform set of standards to supply reserve capabilities to a System Operator and is associated with one or more tele-measuring devices.&#xD;&#xA;&#xD;&#xA;This is a type of Resource."/>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="has a balance delivery contract with"
+    id="id-81298299768c44deb56c346d3ac528e5">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-155df7f1a9ab40e5b4a197af94053c8d.xml#id-155df7f1a9ab40e5b4a197af94053c8d"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d5c4e6fa7f6647be8480b2da6c96cda3.xml#id-d5c4e6fa7f6647be8480b2da6c96cda3"/>
+</archimate:AssociationRelationship>

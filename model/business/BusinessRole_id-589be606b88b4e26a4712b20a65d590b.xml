@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metered Data Responsible Party"
+    id="id-589be606b88b4e26a4712b20a65d590b"
+    documentation="A party responsible for the establishment and validation of metered data based on the collected data received from the Metered Data Collector. The party is responsible for the history of metered data for a Metering Point."/>

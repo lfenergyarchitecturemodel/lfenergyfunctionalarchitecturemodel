@@ -1,0 +1,5 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Market Balance Area"
+    id="id-0f49992c7ec84b65822338fe83a59ca9"
+    documentation="A geographic area consisting of one or more Metering Grid Areas with common market rules for which the settlement responsible party carries out a balance settlement and which has the same price for imbalance.&#xD;&#xA;A Market Balance Area may also be defined due to bottlenecks."/>

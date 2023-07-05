@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System Operator"
+    id="id-6c64111967504a3383a6024949f082eb"
+    documentation="A party that is responsible for a stable power system operation (including the organisation of physical balance) through a transmission grid in a geographical area. The System Operator will also determine and be responsible for cross border capacity and exchanges. If necessary he may reduce allocated capacity to ensure operational stability.&#xD;&#xA;Transmission as mentioned above means “the transport of electricity on the extra high or high voltage network with a view to its delivery to final customers or to distributors. Operation of transmission includes as well the tasks of system operation concerning its management of energy flows, reliability of the system and availability of all necessary system services”. (definition taken from the ENTSO-E RGCE Operation handbook Glossary).&#xD;&#xA;&#xD;&#xA;Additional obligations may be imposed through local market rules."/>

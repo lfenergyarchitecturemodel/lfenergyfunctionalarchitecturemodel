@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capacity Trader"
+    id="id-ec746d3d0e6744dcb78eb78c55075e4b"
+    documentation="A party that has a contract to participate in the Capacity Market to acquire capacity through a Transmission Capacity Allocator.&#xD;&#xA;&#xD;&#xA;The capacity may be acquired on behalf of an Interconnection Trade Responsible or for sale on secondary capacity markets."/>
