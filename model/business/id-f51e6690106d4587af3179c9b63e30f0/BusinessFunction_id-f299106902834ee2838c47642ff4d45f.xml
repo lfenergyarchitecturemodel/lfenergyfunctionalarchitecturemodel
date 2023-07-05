@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distributed outage management"
+    id="id-f299106902834ee2838c47642ff4d45f"
+    documentation="To restore the network model after an outage. "/>

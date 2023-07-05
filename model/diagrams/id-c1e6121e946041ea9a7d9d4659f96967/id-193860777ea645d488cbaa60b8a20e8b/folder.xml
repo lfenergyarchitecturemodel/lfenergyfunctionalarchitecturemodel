@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CoMPAS"
-    id="id-193860777ea645d488cbaa60b8a20e8b"/>
+    id="id-193860777ea645d488cbaa60b8a20e8b"
+    documentation="Notes:&#xD;&#xA;1. CoMPAS OpenSCD Editor geruikt Plugin en kan andere microservices (die ik als compoenent heb gemodellered, bij., SCL Auto Aligner) kan aanroepen.&#xD;&#xA;2. The description of the business functions has to be written by the team itself. The application functions which are actually the extension (from the web portal) have to be linked to the business function. "/>

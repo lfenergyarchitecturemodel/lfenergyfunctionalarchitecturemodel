@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Locamation VMU"
+    id="id-0b01d4e56eda487c81b8af463813ef7a"
+    documentation="Function to edit Locamation private 61850 extensions in order configure the Locamation Virtual merging unit software."/>

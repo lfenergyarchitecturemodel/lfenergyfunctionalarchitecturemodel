@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Substation Node"
+    id="id-a1acf936d64e46e6aebd56b4e6efcce7"
+    documentation="Covering the digital functionalities  of a substation (e.g. high-voltage substation, mid-voltage substation or low-voltage substation)."/>

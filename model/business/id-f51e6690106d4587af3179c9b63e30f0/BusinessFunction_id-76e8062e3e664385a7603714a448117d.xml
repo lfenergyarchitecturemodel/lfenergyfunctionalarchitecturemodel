@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adequacy assessment"
+    id="id-76e8062e3e664385a7603714a448117d"
+    documentation="Estimating the adequacy of the generation to meet the demand (possibly taking into account the limits of the grid)."/>

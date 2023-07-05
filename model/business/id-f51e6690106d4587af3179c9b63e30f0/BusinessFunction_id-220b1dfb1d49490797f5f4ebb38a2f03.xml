@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remote Operation"
+    id="id-220b1dfb1d49490797f5f4ebb38a2f03"
+    documentation="Supervise a control area, and trigger remote actions (SCADA console)"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update desc (SEL)"
+    id="id-3d40b2f6b32f429f8eddeaa4d1ae0323"
+    documentation="Function to update the describtions in the SEL IED configurations."/>

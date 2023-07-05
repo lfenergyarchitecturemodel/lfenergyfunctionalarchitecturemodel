@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Analysis"
+    id="id-5b14ee250ec24f04b21ea505032921b3"
+    documentation="Simulate a bunch of failures starting from an initial stable state (online security analysis being the last real time state)."/>

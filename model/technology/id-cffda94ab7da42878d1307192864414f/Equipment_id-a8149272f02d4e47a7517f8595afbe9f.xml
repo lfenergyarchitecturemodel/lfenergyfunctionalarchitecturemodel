@@ -1,0 +1,5 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensor"
+    id="id-a8149272f02d4e47a7517f8595afbe9f"
+    documentation="&quot;Assets which responds to a physical stimulus (heat, light, sound, pressure, magnetism,&#xD;&#xA;motion, etc) and convert that into an electrical signal. They perform an input function&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Device configuration data lineage"
+    id="id-d807e467e3c1431eb27c3c8a41debd9c"
+    documentation="The check that every device in the energy system has the correct configuration"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storage Management"
+    id="id-18920eee3b02480bb47f3977a9c4af7e"
+    documentation="To trigger energy storage devices to act as spinning reserves for providing short-term power supply or demand to manage instant variability in DG-generated power"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auto Align SLD (Single Line Diagram)"
+    id="id-d2a3c03d40b5409c8e20dfb5c45723ea"
+    documentation="Generate Single line diagram layout coordinates based on SCL input."/>

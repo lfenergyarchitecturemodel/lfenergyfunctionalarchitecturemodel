@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PowSyBI Detailed"
-    id="id-e6dce8c608d246129bfc98d67688caf4">
+    id="id-e6dce8c608d246129bfc98d67688caf4"
+    documentation="This is the detailed project achitecture view of the PowSyBl  project. PowSyBl is an open source library dedicated to electrical grid modeling and simulation. For more information on PowSyBl, check out the project's page:  https://lfenergy.org/projects/powsybl/">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0149c29801284ba2b26616653d6ce812">

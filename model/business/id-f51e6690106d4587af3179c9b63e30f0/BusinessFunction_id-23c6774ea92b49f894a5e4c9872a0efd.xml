@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Health Index Calculation"
+    id="id-23c6774ea92b49f894a5e4c9872a0efd"
+    documentation="Computing of health of asset from available data and predictions"/>

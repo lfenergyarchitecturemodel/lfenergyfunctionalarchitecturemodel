@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Power quality management"
+    id="id-aca682eb82b14958896ce827db08a204"
+    documentation="To ensure the good power quality. Good power quality can be defined as a steady supply voltage that stays within the prescribed range, steady a.c. frequency close to the rated value, and smooth voltage curve waveform (resembles a sine wave)."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Edit Substation"
+    id="id-76c143e6c7fe43cf8f212c2d9afa9374"
+    documentation="Editor to read/make changes to the IEC 61850 SCL substation section. This includes line and proces elements."/>

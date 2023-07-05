@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validate Templates"
+    id="id-2132664f74444efab50c8da8db614411"
+    documentation="Check the 61850 data template section against the IEC 61850 standard."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoMPAS SCL Validator"
+    id="id-469135c7fd5042338172c658852a73e1"
+    documentation="Validate SCL files based on OCL rules and the 6850 XSD.&#xD;&#xA;https://github.com/com-pas/compas-scl-validator"/>
