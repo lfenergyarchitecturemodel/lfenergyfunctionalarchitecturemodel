@@ -24,3 +24,4 @@ jobs:
           archiCsvReportEnabled: true
           archiExportModelEnabled: true
           githubToken: ${{ secrets.GITHUB_TOKEN }}
+          cname: architecture.lfenergy.org
