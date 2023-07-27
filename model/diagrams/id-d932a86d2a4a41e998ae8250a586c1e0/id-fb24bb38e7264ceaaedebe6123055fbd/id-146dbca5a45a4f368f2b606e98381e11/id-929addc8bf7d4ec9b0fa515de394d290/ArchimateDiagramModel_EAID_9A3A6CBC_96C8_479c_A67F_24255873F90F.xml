@@ -10,8 +10,8 @@
     <bounds
         x="546"
         y="113"
-        width="90"
-        height="70"/>
+        width="127"
+        height="80"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_EAID_E66CE9E1_D1AA_4e65_9948_F31053711580.xml#EAID_E66CE9E1_D1AA_4e65_9948_F31053711580"/>
@@ -29,8 +29,8 @@
           href="AggregationRelationship_EAID_E500D770_B43C_413c_98DC_2C3B5DC6D79D.xml#EAID_E500D770_B43C_413c_98DC_2C3B5DC6D79D"/>
     </sourceConnections>
     <bounds
-        x="409"
-        y="249"
+        x="565"
+        y="252"
         width="90"
         height="70"/>
     <archimateElement
