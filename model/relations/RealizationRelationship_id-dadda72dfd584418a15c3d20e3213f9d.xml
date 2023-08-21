@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="realizes"
-    id="id-d43c46b345f64890a7c1e7fff78f4ed5">
+    id="id-dadda72dfd584418a15c3d20e3213f9d">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-8177002a8dc44a5ca8b96576dde9e5c0.xml#id-8177002a8dc44a5ca8b96576dde9e5c0"/>
   <target
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-4fdae19f61ad4f68923efee2f548fd07.xml#id-4fdae19f61ad4f68923efee2f548fd07"/>
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-dbf149bc3dff4e4cb991b01b6549f78f.xml#id-dbf149bc3dff4e4cb991b01b6549f78f"/>
 </archimate:RealizationRelationship>
