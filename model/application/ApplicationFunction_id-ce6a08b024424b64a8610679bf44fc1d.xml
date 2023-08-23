@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="State Estimation"
-    id="id-ce6a08b024424b64a8610679bf44fc1d"/>
+    id="id-ce6a08b024424b64a8610679bf44fc1d"
+    documentation="State estimation is a statistical calculation method that determines the most probable state of the grid, based on network data and measurements (here measurements mean power flow or voltages values with some kind of uncertinity, which were either measure, estimated or forecasted.)"/>
