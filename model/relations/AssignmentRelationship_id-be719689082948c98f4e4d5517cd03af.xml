@@ -1,6 +1,7 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="performs"
     id="id-be719689082948c98f4e4d5517cd03af">
   <source
       xsi:type="archimate:BusinessRole"

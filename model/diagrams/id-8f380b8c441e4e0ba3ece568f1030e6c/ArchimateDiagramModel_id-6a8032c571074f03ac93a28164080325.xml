@@ -27,10 +27,10 @@
           href="AccessRelationship_id-19bd6219bbb84135a0147c04b8beab78.xml#id-19bd6219bbb84135a0147c04b8beab78"/>
     </sourceConnections>
     <bounds
-        x="300"
+        x="66"
         y="144"
-        width="120"
-        height="55"/>
+        width="156"
+        height="85"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-940e9ff987b94ddfb3b11c9846927d11.xml#id-940e9ff987b94ddfb3b11c9846927d11"/>
@@ -41,7 +41,7 @@
       targetConnections="id-d422a8cf4ba6436e8452317746b050b3 id-574f69a7ad8744769576099c10b2e4bb">
     <bounds
         x="588"
-        y="144"
+        y="180"
         width="120"
         height="55"/>
     <archimateElement
@@ -63,7 +63,7 @@
     </sourceConnections>
     <bounds
         x="576"
-        y="348"
+        y="312"
         width="120"
         height="55"/>
     <archimateElement
@@ -83,7 +83,7 @@
           href="AssignmentRelationship_id-d137654642e04d1f8a28a98e9cb67553.xml#id-d137654642e04d1f8a28a98e9cb67553"/>
     </sourceConnections>
     <bounds
-        x="492"
+        x="348"
         y="24"
         width="120"
         height="55"/>
@@ -105,8 +105,8 @@
           href="AssignmentRelationship_id-be719689082948c98f4e4d5517cd03af.xml#id-be719689082948c98f4e4d5517cd03af"/>
     </sourceConnections>
     <bounds
-        x="300"
-        y="24"
+        x="348"
+        y="132"
         width="120"
         height="55"/>
     <archimateElement
@@ -119,7 +119,7 @@
       targetConnections="id-28de259ae6d24400bb25188cd7571805">
     <bounds
         x="84"
-        y="144"
+        y="24"
         width="120"
         height="55"/>
     <archimateElement
@@ -150,15 +150,9 @@
         source="id-af95a8d96bab4315915f740d726fcac1"
         target="id-711a23bfd24d41e5aac6ad734ad3ae97">
       <bendpoints
-          startX="-11"
-          startY="-63"
-          endX="-228"
-          endY="153"/>
-      <bendpoints
-          startX="193"
-          startY="-63"
-          endX="-24"
-          endY="153"/>
+          startX="2"
+          startY="-110"
+          endY="91"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-3c761c6b2c8a47159d2e6e747ecf2534.xml#id-3c761c6b2c8a47159d2e6e747ecf2534"/>
@@ -226,13 +220,18 @@
         id="id-2bee5d1126744ed79292086bb21c6c2c"
         source="id-ff373ed190d546af86bb01c8e51a236c"
         target="id-711a23bfd24d41e5aac6ad734ad3ae97">
+      <bendpoints
+          startX="-192"
+          startY="-2"
+          endX="60"
+          endY="151"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-14c87f1ea92a41888991d66c3dd47706.xml#id-14c87f1ea92a41888991d66c3dd47706"/>
     </sourceConnections>
     <bounds
-        x="312"
-        y="348"
+        x="336"
+        y="312"
         width="120"
         height="55"/>
     <archimateElement
@@ -273,24 +272,57 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-929982a62cd84dde8fc461bfb4833344"
       textAlignment="1"
-      content="See principles in documentation ">
+      content="Generic principles in documentation ">
     <bounds
-        x="10"
-        y="592"
-        width="185"
-        height="80"/>
+        x="19"
+        y="780"
+        width="173"
+        height="60"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-aac2dd155086419bae5d317dd74d3037"
       targetConnections="id-bf15396c561a4ce4a4275b8be5464aa9">
     <bounds
-        x="516"
-        y="636"
+        x="313"
+        y="744"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_id-d1f0c7f8d21547b09b52452fc21d8084.xml#id-d1f0c7f8d21547b09b52452fc21d8084"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c8b6898d8771416dba1d6398d157d9df"
+      textAlignment="1"
+      content="proposal to update the way we have been using application service component till now">
+    <bounds
+        x="-132"
+        y="360"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-006520baf4f143e2bf3d0f022e5addf2"
+      textAlignment="1"
+      content="Make a relationship between business - data object">
+    <bounds
+        x="720"
+        y="234"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bfdf5ef71364474b9a433783c350dbec"
+      textAlignment="1"
+      content="Three elements added - Capability. Actor and Role. Helps us to bring together projects which cater to the same role. actor or realize the same capabilities ">
+    <bounds
+        x="536"
+        y="12"
+        width="305"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
