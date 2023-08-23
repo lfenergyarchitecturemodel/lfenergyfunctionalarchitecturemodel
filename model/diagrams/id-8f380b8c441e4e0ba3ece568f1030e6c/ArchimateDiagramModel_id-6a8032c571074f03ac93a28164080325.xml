@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metamodel v2"
     id="id-6a8032c571074f03ac93a28164080325"
-    documentation="Each element can have an aggregation relationship with each other&#xD;&#xA;Indirect relationships between two elements is allowed, via a association relationship">
+    documentation="1. Each element can have an aggregation relationship with each other&#xD;&#xA;2. Indirect relationships between two elements is allowed, via a association relationship">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-711a23bfd24d41e5aac6ad734ad3ae97"
