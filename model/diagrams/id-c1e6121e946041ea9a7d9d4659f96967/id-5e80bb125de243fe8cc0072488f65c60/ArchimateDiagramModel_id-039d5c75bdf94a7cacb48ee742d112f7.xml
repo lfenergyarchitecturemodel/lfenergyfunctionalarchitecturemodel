@@ -529,7 +529,7 @@
         x="1008"
         y="708"
         width="120"
-        height="73"/>
+        height="133"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-f6a81d02846d4681ad3dc1fe80dc5a31.xml#id-f6a81d02846d4681ad3dc1fe80dc5a31"/>
@@ -542,7 +542,7 @@
         x="1152"
         y="708"
         width="120"
-        height="85"/>
+        height="133"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-f56cb6cd4ce642e0b385debd784b2f5e.xml#id-f56cb6cd4ce642e0b385debd784b2f5e"/>
