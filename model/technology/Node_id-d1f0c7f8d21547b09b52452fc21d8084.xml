@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Node"
-    id="id-d1f0c7f8d21547b09b52452fc21d8084"/>
+    id="id-d1f0c7f8d21547b09b52452fc21d8084"
+    documentation="A node represents a computational or physical resource that hosts, manipulates, or interacts with other computational or physical resources.&#xD;&#xA;&#xD;&#xA;Nodes are active structure elements that perform technology behavior and execute, store, and process technology objects such as artifacts.&#xD;&#xA;Nodes can be interconnected by paths. &#xD;&#xA;A node may be assigned to an artifact to model that the artifact is deployed on the node.&#xD;&#xA;The name of a node should preferably be a noun. A node may consist of sub-nodes."/>
