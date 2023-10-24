@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realizes"
     id="id-6b0084f326ed423cb7734e9bd2084ef3">
   <source
       xsi:type="archimate:BusinessFunction"

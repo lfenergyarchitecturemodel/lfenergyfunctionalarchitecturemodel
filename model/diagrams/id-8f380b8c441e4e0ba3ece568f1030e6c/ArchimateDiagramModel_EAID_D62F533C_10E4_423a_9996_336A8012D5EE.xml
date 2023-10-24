@@ -264,10 +264,10 @@
           href="AggregationRelationship_id-0f470bd9b7f94e459225eb23774ebb09.xml#id-0f470bd9b7f94e459225eb23774ebb09"/>
     </sourceConnections>
     <bounds
-        x="780"
-        y="732"
-        width="145"
-        height="61"/>
+        x="734"
+        y="720"
+        width="259"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:TechnologyCollaboration"
         href="TechnologyCollaboration_id-04766addc7904add879417ecb4846626.xml#id-04766addc7904add879417ecb4846626"/>
@@ -277,8 +277,8 @@
       id="id-226b80772306444394c6b262ab4b0b71"
       targetConnections="id-6be0fb9a63d9463a9ef1a69846f985ee">
     <bounds
-        x="793"
-        y="840"
+        x="804"
+        y="897"
         width="120"
         height="55"/>
     <archimateElement
@@ -294,7 +294,7 @@
         x="60"
         y="228"
         width="449"
-        height="160"/>
+        height="181"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"

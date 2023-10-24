@@ -1,6 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aggregates"
     id="id-0f470bd9b7f94e459225eb23774ebb09">
   <source
       xsi:type="archimate:TechnologyCollaboration"
