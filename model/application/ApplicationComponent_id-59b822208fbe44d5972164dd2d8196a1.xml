@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="power-grid-model-io library"
     id="id-59b822208fbe44d5972164dd2d8196a1"
-    documentation="performs data conversions"/>
+    documentation="The library power-grid-model-io is a data conversion Python library which handles the conversion between Power Grid Model format and other common grid data formats."/>

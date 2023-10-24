@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PGM"
-    id="id-deca773469d64930913384ac9e0ce36b"/>
+    id="id-deca773469d64930913384ac9e0ce36b"
+    documentation="Power Grid Model is a high-performance Python/C++ library for steady-state distribution power system analysis."/>
