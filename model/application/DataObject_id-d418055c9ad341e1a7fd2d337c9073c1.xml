@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Object"
-    id="id-d418055c9ad341e1a7fd2d337c9073c1"/>
+    name="Geo location of POI's"
+    id="id-d418055c9ad341e1a7fd2d337c9073c1"
+    documentation="Geo location of contingencies ?"/>
