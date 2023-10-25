@@ -1,5 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PGM"
+    name="Power Grid Model"
     id="id-5e80bb125de243fe8cc0072488f65c60"
     documentation="Power Grid Model (PGM) enables steady state analysis of power system network. &#xD;&#xA;Useful Link: https://power-grid-model.readthedocs.io/en/stable/"/>
