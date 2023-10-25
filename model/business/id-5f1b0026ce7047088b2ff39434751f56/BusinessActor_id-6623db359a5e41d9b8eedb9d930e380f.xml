@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Actor"
+    id="id-6623db359a5e41d9b8eedb9d930e380f"
+    documentation="A business actor represents a business entity that is capable of performing behavior.&#xD;&#xA;A business actor is a business entity as opposed to a technical entity; i.e., it belongs to the Business Layer. Actors may, however, include entities outside the actual organization; e.g., customers and partners.&#xD;&#xA;&#xD;&#xA;A business actor may be assigned to one or more business roles. It can then perform the behavior to which these business roles are assigned. A business actor can be aggregated in a location. The name of a business actor should preferably be a noun."/>

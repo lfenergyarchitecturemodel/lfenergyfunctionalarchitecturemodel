@@ -1,0 +1,5 @@
+<archimate:TechnologyCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Collaboration"
+    id="id-04766addc7904add879417ecb4846626"
+    documentation="Technology Collaboration&#xD;&#xA;A technology collaboration represents an aggregate of two or more technology internal active structure elements that work together to perform collective technology behavior.&#xD;&#xA;A technology collaboration specifies which nodes and/or other technology collaborations cooperate to perform some task. The collaborative behavior, including, for example, the communication pattern of these nodes, is modeled by a technology interaction. A technology collaboration typically models a logical or temporary collaboration of nodes and does not exist as a separate entity in the enterprise.&#xD;&#xA;EPRI EA Note:&#xD;&#xA;Useful for modeling complex infrastructure/systems at an abstract level e.g. Advanced Metering Infrastructure (AMI), SCADA, Telecommunications or the power grid."/>
