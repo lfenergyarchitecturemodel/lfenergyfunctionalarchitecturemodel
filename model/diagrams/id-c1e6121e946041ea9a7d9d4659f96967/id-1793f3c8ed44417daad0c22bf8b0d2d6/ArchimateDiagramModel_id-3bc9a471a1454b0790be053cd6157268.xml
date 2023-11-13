@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dd0eab36ee7e4e6e95e71822c01a2493"
-      targetConnections="id-6170097aa7a94440a6fe953b10e20179">
+      targetConnections="id-6170097aa7a94440a6fe953b10e20179"
+      type="1">
     <bounds
         x="228"
         y="396"
@@ -68,7 +69,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-98493d14af3049799b58516875f70d86"
-      targetConnections="id-317df3389fbf45c3978743f5a0a7c8bf">
+      targetConnections="id-317df3389fbf45c3978743f5a0a7c8bf"
+      type="1">
     <bounds
         x="648"
         y="384"
@@ -80,7 +82,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-daea59178cee406b834b6df2b72ec16c">
+      id="id-daea59178cee406b834b6df2b72ec16c"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-cdeb032363024efa87293514cbb7af41"
@@ -102,7 +105,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ef0cce04dc3943a781083e2f9e3f18c5"
-      targetConnections="id-ea528f23075146a4b5f047aa47a76bfd">
+      targetConnections="id-ea528f23075146a4b5f047aa47a76bfd"
+      type="1">
     <bounds
         x="360"
         y="228"
@@ -115,7 +119,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7ef9a935a43842c9a5f7c3c16c085104"
-      targetConnections="id-38f856b505044982bd38b0d49034c19e">
+      targetConnections="id-38f856b505044982bd38b0d49034c19e"
+      type="1">
     <bounds
         x="504"
         y="228"
@@ -128,7 +133,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-367c0e96f97545cbb374a320acab9f2e"
-      targetConnections="id-cdeb032363024efa87293514cbb7af41">
+      targetConnections="id-cdeb032363024efa87293514cbb7af41"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-9533c5c82c4d4057bcff03775bd4a4bc"
