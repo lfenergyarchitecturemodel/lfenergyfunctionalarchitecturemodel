@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000004_D1AA_4e65_9948_F31053711580"
-      targetConnections="EAID_DC000000_B43C_413c_98DC_2C3B5DC6D79D">
+      targetConnections="EAID_DC000000_B43C_413c_98DC_2C3B5DC6D79D"
+      type="1">
     <bounds
         x="546"
         y="113"
@@ -18,7 +19,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000000_7968_4405_BDFB_5E5A072B182D">
+      id="EAID_DN000000_7968_4405_BDFB_5E5A072B182D"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_B43C_413c_98DC_2C3B5DC6D79D"

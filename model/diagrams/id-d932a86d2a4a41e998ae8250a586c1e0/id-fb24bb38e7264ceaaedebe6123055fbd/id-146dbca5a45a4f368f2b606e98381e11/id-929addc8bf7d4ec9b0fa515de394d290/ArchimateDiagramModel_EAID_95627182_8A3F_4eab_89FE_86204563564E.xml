@@ -5,7 +5,8 @@
     id="EAID_95627182_8A3F_4eab_89FE_86204563564E">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000000_50A9_4dd5_B994_BD6D4D20238D">
+      id="EAID_DN000000_50A9_4dd5_B994_BD6D4D20238D"
+      type="1">
     <bounds
         x="229"
         y="158"
@@ -13,7 +14,8 @@
         height="208"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="EAID_DN000000_7864_4fac_9376_AC67A60B9A20">
+        id="EAID_DN000000_7864_4fac_9376_AC67A60B9A20"
+        type="1">
       <bounds
           x="25"
           y="63"
@@ -21,7 +23,8 @@
           height="125"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="EAID_DN000000_C8D8_4397_AF37_B8A6032C3E4A">
+          id="EAID_DN000000_C8D8_4397_AF37_B8A6032C3E4A"
+          type="1">
         <bounds
             x="20"
             y="43"
@@ -33,7 +36,8 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="EAID_DN000000_EF62_4722_97A3_92B8B1DCF2DF">
+          id="EAID_DN000000_EF62_4722_97A3_92B8B1DCF2DF"
+          type="1">
         <bounds
             x="135"
             y="43"
@@ -45,7 +49,8 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="EAID_DN000000_DB58_40af_B5E2_FACCCCCA86EC">
+          id="EAID_DN000000_DB58_40af_B5E2_FACCCCCA86EC"
+          type="1">
         <bounds
             x="248"
             y="43"
@@ -57,7 +62,8 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="EAID_DN000000_1B4C_4fe2_AA66_ABC1EB5737A9">
+          id="EAID_DN000000_1B4C_4fe2_AA66_ABC1EB5737A9"
+          type="1">
         <bounds
             x="361"
             y="43"
@@ -69,7 +75,8 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="EAID_DN000000_2718_48e9_AFF2_C62DC51BE3D1">
+          id="EAID_DN000000_2718_48e9_AFF2_C62DC51BE3D1"
+          type="1">
         <bounds
             x="476"
             y="44"
@@ -85,7 +92,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="EAID_DN000000_D231_4204_95FA_A8FE2236E2EF">
+        id="EAID_DN000000_D231_4204_95FA_A8FE2236E2EF"
+        type="1">
       <bounds
           x="650"
           y="108"
