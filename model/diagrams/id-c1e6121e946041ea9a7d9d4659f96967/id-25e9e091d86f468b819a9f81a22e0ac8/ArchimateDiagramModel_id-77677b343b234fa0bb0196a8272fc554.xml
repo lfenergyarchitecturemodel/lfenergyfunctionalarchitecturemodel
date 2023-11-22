@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OpenSTEF Detailed"
+    name="OpenSTEF Detailed (archived)"
     id="id-77677b343b234fa0bb0196a8272fc554"
     documentation="This is the detailed project achitecture view of the OpenSTEF project. OpenSTEF provides software for forecasting the load and generation of electricity on the electricity grid for the next few days. OpenSTEF uses smart algorithms to produce a forecast based on measurements, weather forecasts, pricing on the energy market, and more.. For more information on OpenSTEF, check out the project's page:  https://lfenergy.org/projects/openstef/">
   <children
