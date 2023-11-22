@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telemetry Registery"
+    id="id-8337f561011a44da8fa6e79138fa8ac7"
+    documentation="Energy Management System&#xD;&#xA;Link between KTP and EMS is based on the confluence pagina of KTP Applicatie architectuur > icarus EMS  data consumer "/>

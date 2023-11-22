@@ -1,12 +1,13 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OpenSTEF Detailed"
+    name="OpenSTEF Detailed (archived)"
     id="id-77677b343b234fa0bb0196a8272fc554"
     documentation="This is the detailed project achitecture view of the OpenSTEF project. OpenSTEF provides software for forecasting the load and generation of electricity on the electricity grid for the next few days. OpenSTEF uses smart algorithms to produce a forecast based on measurements, weather forecasts, pricing on the energy market, and more.. For more information on OpenSTEF, check out the project's page:  https://lfenergy.org/projects/openstef/">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3ee7408590be49babd6da30629539361">
+      id="id-3ee7408590be49babd6da30629539361"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d6d939dbbbcc43b1b7dab6e001557661"
@@ -28,7 +29,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8b5aa14db5bb45419c926f9819198a1b"
-      targetConnections="id-4ddaae0d4e404a03b2b703125fa3f02d">
+      targetConnections="id-4ddaae0d4e404a03b2b703125fa3f02d"
+      type="1">
     <bounds
         x="696"
         y="228"
@@ -41,7 +43,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f0b5d3ea4c7243b981247ee75c8e6586"
-      targetConnections="id-395fc1c08fe547338c03cd7ce98a27ab">
+      targetConnections="id-395fc1c08fe547338c03cd7ce98a27ab"
+      type="1">
     <bounds
         x="157"
         y="237"
@@ -54,7 +57,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-102360d5e38d41ada96152aaaadf8dcc"
-      targetConnections="id-c27020fed79147bc825d4707894513cd">
+      targetConnections="id-c27020fed79147bc825d4707894513cd"
+      type="1">
     <bounds
         x="157"
         y="24"
@@ -67,7 +71,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0b12f3fff4174576b0075ecf7f3bd204"
-      targetConnections="id-2d7b7933215c49c89764f4763271630e">
+      targetConnections="id-2d7b7933215c49c89764f4763271630e"
+      type="1">
     <bounds
         x="158"
         y="384"
@@ -80,7 +85,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6f5b681989e34153afcb7660e991d9f7"
-      targetConnections="id-4f626b2f8e81470db5d3b3b8a0348c25">
+      targetConnections="id-4f626b2f8e81470db5d3b3b8a0348c25"
+      type="1">
     <bounds
         x="696"
         y="84"
@@ -187,7 +193,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5cbafe3eca97474fb5879d7fe5bc7434"
-      targetConnections="id-e0dbb13572204af887e7649339c26ce6">
+      targetConnections="id-e0dbb13572204af887e7649339c26ce6"
+      type="1">
     <bounds
         x="696"
         y="156"
@@ -200,7 +207,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-380649b268b74d319e1fe9920f563f2f"
-      targetConnections="id-461293d0e1a545d9a8e43a33b0e2723b">
+      targetConnections="id-461293d0e1a545d9a8e43a33b0e2723b"
+      type="1">
     <bounds
         x="159"
         y="312"
@@ -213,7 +221,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5e44acec4440429fb0befc9bc3734fe9"
-      targetConnections="id-5de224a0238c413c828b52684795b827">
+      targetConnections="id-5de224a0238c413c828b52684795b827"
+      type="1">
     <bounds
         x="157"
         y="168"
@@ -226,7 +235,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0c87ac13c06946859d74f497589d0c0e"
-      targetConnections="id-01aa95342f794de98e20f259d328deaa">
+      targetConnections="id-01aa95342f794de98e20f259d328deaa"
+      type="1">
     <bounds
         x="158"
         y="96"

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InfluxDB"
+    id="id-06a2299034a346a0917b1ee77b42dfdf"
+    documentation="Based on KTP confluence page icarus-influx-api (voor influxDB/MySQL)"/>
