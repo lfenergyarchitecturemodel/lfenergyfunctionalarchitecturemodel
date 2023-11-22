@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="power-grid-model library"
+    id="id-33f570c0c0f148d7837f3b1c95e9ce59"
+    documentation="The library power-grid-model is the main calculation library. It is written in C++ with native shared-memory multi-threading for parallelization in batch calculations."/>

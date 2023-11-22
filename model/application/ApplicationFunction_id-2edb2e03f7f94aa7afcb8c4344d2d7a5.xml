@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Power Flow Calculation"
+    id="id-2edb2e03f7f94aa7afcb8c4344d2d7a5"
+    documentation="Power flow is a 'what-if' based grid calculation that will calculate the node voltage and the power flow through the branches, based on assumed load/generation profiles."/>

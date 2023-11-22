@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Short Circuit Calculation"
+    id="id-926e741fc8b04b079466681f07c87cba"
+    documentation="Short circuit calculation is carried out to analyze a worse case scenario where a fault has occured. The currents flowing through branches and node voltages are calculated. "/>
