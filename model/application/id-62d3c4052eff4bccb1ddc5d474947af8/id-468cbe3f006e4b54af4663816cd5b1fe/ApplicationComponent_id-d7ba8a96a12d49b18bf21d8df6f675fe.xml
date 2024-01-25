@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RTDIP"
+    id="id-d7ba8a96a12d49b18bf21d8df6f675fe"
+    documentation="RTDIP provides easy access to high volume, historical and real time process data for analytics applications, engineers, and data scientists wherever they are. It includes a python package which is available at https://pypi.org/project/rtdip-sdk/ and detailed project information can be found at https://www.rtdip.io/"/>
