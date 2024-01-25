@@ -6,8 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000002_7413_4c24_BE34_C9991EEE5112"
-      targetConnections="EAID_DC000000_08CE_4fdf_B4A5_40A27B4C00D7 EAID_DC000000_8DB1_49da_B3F2_3B3C84F981FA EAID_DC000000_AB31_40a6_BDDE_DA9A43804F83 EAID_DC000000_4E0F_49fa_B108_572ACC1B340C"
-      type="1">
+      targetConnections="EAID_DC000000_08CE_4fdf_B4A5_40A27B4C00D7 EAID_DC000000_8DB1_49da_B3F2_3B3C84F981FA EAID_DC000000_AB31_40a6_BDDE_DA9A43804F83 EAID_DC000000_4E0F_49fa_B108_572ACC1B340C">
     <bounds
         x="444"
         y="138"
@@ -19,8 +18,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000000_DB82_491d_96F5_8986365FA44C"
-      type="1">
+      id="EAID_DN000000_DB82_491d_96F5_8986365FA44C">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_AB31_40a6_BDDE_DA9A43804F83"
@@ -41,8 +39,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000000_FD5D_49a9_AD56_38B42B1911A7"
-      type="1">
+      id="EAID_DN000000_FD5D_49a9_AD56_38B42B1911A7">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_8DB1_49da_B3F2_3B3C84F981FA"
@@ -63,8 +60,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000000_9D92_4e5e_A1CF_98385661D392"
-      type="1">
+      id="EAID_DN000000_9D92_4e5e_A1CF_98385661D392">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_08CE_4fdf_B4A5_40A27B4C00D7"
@@ -85,8 +81,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="EAID_DN000000_A1A3_46c2_A583_BE1042AB4AB8"
-      type="1">
+      id="EAID_DN000000_A1A3_46c2_A583_BE1042AB4AB8">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="EAID_DC000000_4E0F_49fa_B108_572ACC1B340C"
