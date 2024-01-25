@@ -1,0 +1,2225 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>LFE High-Level Functional Architecture V1.0 - Layered architecture</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>LFE High-Level Functional Architecture V1.0 - Layered architecture</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/id-afec7743c48e4bcea97c93bd3fc3fe65.png" alt="LFE High-Level Functional Architecture V1.0 - Layered architecture" usemap="#id-afec7743c48e4bcea97c93bd3fc3fe65map"/>
+			   <map name="id-afec7743c48e4bcea97c93bd3fc3fe65map">
+				  				<area shape="rect" coords="3302,1364,3422,1413" href="../elements/id-e7dd619e67df469fb3fe7127ea23889d.html"  target="element">
+				  				<area shape="rect" coords="3170,1364,3290,1413" href="../elements/id-a1acf936d64e46e6aebd56b4e6efcce7.html"  target="element">
+				  				<area shape="rect" coords="3038,1364,3158,1413" href="../elements/id-3b06408a963c47028d25c8913775e32f.html"  target="element">
+				  				<area shape="rect" coords="2906,1364,3026,1413" href="../elements/id-29ddb33ff71c464e85f4ddc6b1114f2e.html"  target="element">
+				  				<area shape="rect" coords="2774,1364,2894,1413" href="../elements/id-7b30136f21934cfdab38a3e04147400d.html"  target="element">
+
+				  		<area shape="rect" coords="2762,1340,3434,1424" href="../elements/id-9076cce5e172469da19f84b2dd2822d7.html"  target="element">
+				  		<area shape="rect" coords="3286,1636,3446,1688" href="../elements/id-f6baa806afb74ea482f863c4575a5645.html"  target="element">
+				  		<area shape="rect" coords="3118,1660,3262,1739" href="../elements/id-3c4f5b4272974a58b32372a59d96d416.html"  target="element">
+				  		<area shape="rect" coords="2929,1643,3103,1733" href="../elements/id-663acdd76410473fa2d44f096e2d0a25.html"  target="element">
+				  		<area shape="rect" coords="3102,1582,3250,1637" href="../elements/id-a08177bc8bc345f9b885c0086ba29b78.html"  target="element">
+				  				<area shape="rect" coords="2757,1712,2877,1796" href="../elements/id-f8becc74a0a3425495664b022e748f3d.html"  target="element">
+				  				<area shape="rect" coords="2625,1711,2745,1772" href="../elements/id-bf4ab65d56d64a76ab2045cdbb91514f.html"  target="element">
+				  				<area shape="rect" coords="2623,1567,2877,1645" href="../elements/id-fcdd7681e6ac42be8098409622d3f317.html"  target="element">
+				  				<area shape="rect" coords="2757,1651,2877,1706" href="../elements/id-b49bb18366db4bf6932efd2feb9f0b61.html"  target="element">
+				  				<area shape="rect" coords="2623,1651,2745,1706" href="../elements/id-8dfb13b7dcf540a4bce97149188310d4.html"  target="element">
+
+				  		<area shape="rect" coords="2613,1531,2889,1808" href="../elements/id-7779977b17e34e459cb4051c21a9daca.html"  target="element">
+				  		<area shape="rect" coords="2338,1779,2520,1825" href="../elements/id-82131165d40d42a69ce3400c00b596a2.html"  target="element">
+				  		<area shape="rect" coords="2373,1732,2521,1763" href="../elements/id-16d93648b62e41039fe95b073e1fba52.html"  target="element">
+				  		<area shape="rect" coords="2433,1686,2579,1715" href="../elements/id-5eb45887939349dbb825d86d9e9145cc.html"  target="element">
+				  		<area shape="rect" coords="2421,1570,2583,1681" href="../elements/id-46852cb5dce147d0a3209fda970c9553.html"  target="element">
+				  		<area shape="rect" coords="1743,1774,1863,1829" href="../elements/id-5f64a5c2b47f40a19a4dad5aedac1e26.html"  target="element">
+				  		<area shape="rect" coords="1678,1686,1888,1763" href="../elements/id-43116cd3b69245409a39a3ddf8827040.html"  target="element">
+				  		<area shape="rect" coords="1715,1619,1851,1674" href="../elements/id-aa2486dbfffe4caa8110cba9723d8f9b.html"  target="element">
+				  				<area shape="rect" coords="2125,1684,2317,1733" href="../elements/id-a450e6a818f04a9fabcd48e7db6bcc78.html"  target="element">
+				  				<area shape="rect" coords="2090,1738,2306,1793" href="../elements/id-e2f72547139649d38ea36114aca2c6f5.html"  target="element">
+				  				<area shape="rect" coords="1933,1738,2077,1793" href="../elements/id-18920eee3b02480bb47f3977a9c4af7e.html"  target="element">
+				  				<area shape="rect" coords="2090,1798,2306,1853" href="../elements/id-fadfd191df7d44f5a91daea514843a3b.html"  target="element">
+				  				<area shape="rect" coords="1930,1798,2080,1853" href="../elements/id-aca682eb82b14958896ce827db08a204.html"  target="element">
+				  				<area shape="rect" coords="2125,1622,2317,1679" href="../elements/id-064bc7337da14e3ca56b1b7dba426add.html"  target="element">
+				  				<area shape="rect" coords="1933,1678,2113,1733" href="../elements/id-5ca152644a0a4ebbba92741d588f8c5f.html"  target="element">
+				  				<area shape="rect" coords="1936,1622,2110,1669" href="../elements/id-d18d17c458434b17ba92834ea7cd1ae4.html"  target="element">
+
+				  		<area shape="rect" coords="1921,1582,2327,1871" href="../elements/id-ac3048a544534c58869c0e88628cf81e.html"  target="element">
+				  		<area shape="rect" coords="2084,1462,2204,1517" href="../elements/id-8e96912196bd4ec29405ccc14859dd42.html"  target="element">
+				  		<area shape="rect" coords="1179,1619,1311,1674" href="../elements/id-116bbd18e1d141c39c84351287cec40c.html"  target="element">
+				  		<area shape="rect" coords="1002,1642,1122,1697" href="../elements/id-f91c7a1bde804b91a5a969b0edfe61eb.html"  target="element">
+				  		<area shape="rect" coords="813,1601,951,1659" href="../elements/id-43ef461434814e60950b27a1ccd70ae2.html"  target="element">
+				  		<area shape="rect" coords="996,1534,1144,1604" href="../elements/id-5ec996f169af4319980acb3268040e79.html"  target="element">
+				  		<area shape="rect" coords="1570,1547,1702,1602" href="../elements/id-94cce7bfc2ce48cd8812599b6f1c5fb7.html"  target="element">
+				  		<area shape="rect" coords="1402,1546,1546,1603" href="../elements/id-6cd4c048f3b543c2bfa38a9c36628661.html"  target="element">
+				  		<area shape="rect" coords="1276,1547,1396,1602" href="../elements/id-a8149272f02d4e47a7517f8595afbe9f.html"  target="element">
+				  		<area shape="rect" coords="1414,1450,1558,1513" href="../elements/id-5e61fceab8fc420cb7f5f010c3a62c3a.html"  target="element">
+				  		<area shape="rect" coords="1161,1454,1299,1517" href="../elements/id-fb462a5c23554d6181cfc55d473b9a79.html"  target="element">
+				  		<area shape="rect" coords="1743,1354,2535,1409" href="../elements/id-ae7c5ecd255d48d293c929dc78a85fb1.html"  target="element">
+				  		<area shape="rect" coords="4294,1096,4414,1175" href="../elements/id-89a1a7305116425eaab0b42d0124e784.html"  target="element">
+				  		<area shape="rect" coords="4114,1102,4270,1157" href="../elements/id-1266e93f8fa74b579580d23db71ab3f6.html"  target="element">
+				  		<area shape="rect" coords="3982,1096,4102,1157" href="../elements/id-fd8e7cd12c804fe3b784ea7a6f538ad1.html"  target="element">
+				  		<area shape="rect" coords="4101,1022,4245,1077" href="../elements/id-8b75948977f64fa9b12c4ebc6f086367.html"  target="element">
+				  		<area shape="rect" coords="3826,1087,3946,1145" href="../elements/id-c10d37495e064eaaabcef128ba9125e1.html"  target="element">
+				  		<area shape="rect" coords="3826,1025,3946,1074" href="../elements/id-9688fc59ddd444cc9c6d68965212955e.html"  target="element">
+				  		<area shape="rect" coords="3658,1117,3778,1157" href="../elements/id-b6955d3be8694347856440ddbc9252cf.html"  target="element">
+				  		<area shape="rect" coords="3514,1090,3634,1151" href="../elements/id-cd95cb7b3d9f4b65a4e2f1b6ec7272fb.html"  target="element">
+				  		<area shape="rect" coords="3670,1022,3790,1077" href="../elements/id-5f67aee7e3b147e0b36568fd144ba799.html"  target="element">
+				  		<area shape="rect" coords="3514,1025,3634,1077" href="../elements/id-23c6774ea92b49f894a5e4c9872a0efd.html"  target="element">
+				  		<area shape="rect" coords="2935,886,3608,977" href="../elements/id-afeb5c961372486394672d5452739c37.html"  target="element">
+				  				<area shape="rect" coords="3304,1157,3436,1230" href="../elements/id-15a0e2d209194095859ac0ec5e56960e.html"  target="element">
+				  				<area shape="rect" coords="3160,1151,3280,1230" href="../elements/id-3387ad06d5c54de6b1f4a0206c038849.html"  target="element">
+				  				<area shape="rect" coords="3298,1068,3442,1140" href="../elements/id-d1045b19badf470989d149dfddd1c7c4.html"  target="element">
+				  				<area shape="rect" coords="3154,1067,3286,1140" href="../elements/id-72a287cbc07745e79f365aeed40c962a.html"  target="element">
+
+				  		<area shape="rect" coords="3118,1031,3454,1241" href="../elements/id-54c52d278f4f41febfe8c49b1dd72b99.html"  target="element">
+				  		<area shape="rect" coords="2950,1118,3082,1187" href="../elements/id-ca12a0de4a1642c6afbe50e60563b6f7.html"  target="element">
+				  		<area shape="rect" coords="2888,1204,3022,1282" href="../elements/id-a5db56d3bd5340ee8ca06c2d50a50cb2.html"  target="element">
+				  		<area shape="rect" coords="2769,1144,2889,1199" href="../elements/id-6b6b48834ddc4f0b99b4caab7beb0d6b.html"  target="element">
+				  		<area shape="rect" coords="2638,1204,2758,1259" href="../elements/id-2b1777e84e004e32a406c3b77bfeb84d.html"  target="element">
+				  		<area shape="rect" coords="2602,1090,2722,1145" href="../elements/id-4d2951d45a624e21871bbcee49093f67.html"  target="element">
+				  		<area shape="rect" coords="2782,1054,2936,1109" href="../elements/id-fb8977d8c7ef4f589dacf286db3c3c6f.html"  target="element">
+				  		<area shape="rect" coords="2470,1144,2602,1222" href="../elements/id-8627dcf03d454fef81243c923b4588f1.html"  target="element">
+				  		<area shape="rect" coords="2338,1144,2458,1205" href="../elements/id-e5c4abdf76d5494ba52b17c1656836ac.html"  target="element">
+				  		<area shape="rect" coords="2194,1144,2326,1222" href="../elements/id-a6eb159724e74894a49746b5e2e019d3.html"  target="element">
+				  		<area shape="rect" coords="2314,1056,2470,1111" href="../elements/id-31d53998230f4e8dab8bb7a489b2620c.html"  target="element">
+				  				<area shape="rect" coords="2043,1214,2157,1259" href="../elements/id-24b99f3763fd497d9a57189a9cd8e893.html"  target="element">
+				  				<area shape="rect" coords="1875,1200,2019,1273" href="../elements/id-e28af5ef3c304ff3a1d4406e1d0eb4f8.html"  target="element">
+				  				<area shape="rect" coords="2038,1152,2158,1207" href="../elements/id-4556460bf1e84a0292e05a510209797b.html"  target="element">
+				  				<area shape="rect" coords="2038,1092,2158,1147" href="../elements/id-f299106902834ee2838c47642ff4d45f.html"  target="element">
+				  				<area shape="rect" coords="1870,1092,2024,1188" href="../elements/id-9442ddbbadfb4cb18abcb4ad5cbf198c.html"  target="element">
+
+				  		<area shape="rect" coords="1858,1056,2170,1282" href="../elements/id-0ef784debd9a4d5793e51a9293a1b8be.html"  target="element">
+				  		<area shape="rect" coords="694,886,1330,959" href="../elements/id-8e739921e10143b1a326898d99641518.html"  target="element">
+				  				<area shape="rect" coords="1553,1108,1685,1163" href="../elements/id-1697a5356c12455480aa32ed8250193f.html"  target="element">
+				  				<area shape="rect" coords="1559,1048,1679,1103" href="../elements/id-72d3783d70404d41a4d4f269cba42ad3.html"  target="element">
+
+				  		<area shape="rect" coords="1535,988,1703,1175" href="../elements/id-f451dce13e214b9d8fa43a11764acc80.html"  target="element">
+				  		<area shape="rect" coords="1298,1258,1438,1331" href="../elements/id-91afb6db53104f66b0a3904ad02c2cbd.html"  target="element">
+				  		<area shape="rect" coords="1298,1198,1418,1253" href="../elements/id-a40a0daef9224b3ca53334c2435fc621.html"  target="element">
+				  		<area shape="rect" coords="1256,1103,1460,1168" href="../elements/id-3a771ebbf5b04e37ae796aa32055a108.html"  target="element">
+				  		<area shape="rect" coords="1161,1186,1281,1271" href="../elements/id-6037babbc6b64f5fa4b9490e45055452.html"  target="element">
+				  		<area shape="rect" coords="1222,994,1450,1066" href="../elements/id-9a81047618bc48bcb43b39fb59a3629d.html"  target="element">
+				  		<area shape="rect" coords="970,1162,1090,1217" href="../elements/id-bcf454a355484f7c8ed489c4e46d3838.html"  target="element">
+				  		<area shape="rect" coords="826,1162,946,1217" href="../elements/id-88650d863b544b4bba8b19b068e2f819.html"  target="element">
+				  		<area shape="rect" coords="862,1022,1030,1077" href="../elements/id-73f5032cd7a44ccbb7b7d10f76c1002e.html"  target="element">
+				  				<area shape="rect" coords="646,1078,790,1133" href="../elements/id-58323ff777d948dda3f0c64d66b8c0dd.html"  target="element">
+				  				<area shape="rect" coords="646,1198,790,1253" href="../elements/id-a51f022b21634115aa8299436d58b860.html"  target="element">
+				  				<area shape="rect" coords="646,1138,790,1193" href="../elements/id-3754124c3c674753a33d66834150861d.html"  target="element">
+
+				  		<area shape="rect" coords="634,1018,800,1274" href="../elements/id-c474088dfb284149a1cc606c6a1c7881.html"  target="element">
+				  		<area shape="rect" coords="466,1217,586,1338" href="../elements/id-174501b968e74948bac30bcb998d4985.html"  target="element">
+				  		<area shape="rect" coords="322,1162,442,1217" href="../elements/id-73c5af7114ee481985ead5b2f7090307.html"  target="element">
+				  		<area shape="rect" coords="310,1102,430,1157" href="../elements/id-235e6c448aaf4dc690d708446dd0aa55.html"  target="element">
+				  		<area shape="rect" coords="418,1022,550,1077" href="../elements/id-01dae297d4b84a8caac5a000886ae50d.html"  target="element">
+				  		<area shape="rect" coords="238,1022,370,1077" href="../elements/id-6acc9a438a484197b77131012a386350.html"  target="element">
+				  		<area shape="rect" coords="75,1162,195,1217" href="../elements/id-95ec64d2615445b1bd7c86b8521d4707.html"  target="element">
+				  		<area shape="rect" coords="76,1096,196,1151" href="../elements/id-9be32e2b91af4eb78b640a0a136027d0.html"  target="element">
+				  		<area shape="rect" coords="76,1022,196,1077" href="../elements/id-e025f62b12664df085ef3e61e5de507f.html"  target="element">
+				  		<area shape="rect" coords="2733,395,2843,450" href="../elements/id-2ce2fe8d3f694c29a7b891ee6fa1b42a.html"  target="element">
+				  		<area shape="rect" coords="2638,395,2722,464" href="../elements/id-ed55b66242e0400689072308e9bde3f4.html"  target="element">
+				  		<area shape="rect" coords="2530,395,2626,455" href="../elements/id-74ba2b9f04874cce95ae7033f6bec57c.html"  target="element">
+				  		<area shape="rect" coords="2398,395,2518,450" href="../elements/id-b7c2443a77ee4c55a6c87e52eafad4f9.html"  target="element">
+				  		<area shape="rect" coords="2314,454,2434,509" href="../elements/id-8fca6771b8344b868c7ff649107d8a8c.html"  target="element">
+				  		<area shape="rect" coords="2254,392,2374,436" href="../elements/id-fa3e310a98ce4d60baf4aed4e186b53f.html"  target="element">
+				  		<area shape="rect" coords="2530,316,2734,371" href="../elements/id-805ae7fc5d23414dbf0ffda508befffd.html"  target="element">
+				  				<area shape="rect" coords="2134,682,2278,731" href="../elements/id-5b14ee250ec24f04b21ea505032921b3.html"  target="element">
+				  				<area shape="rect" coords="2130,622,2282,676" href="../elements/id-2bb496d1b67749eda9624f6deb59bcbf.html"  target="element">
+				  				<area shape="rect" coords="2134,526,2278,611" href="../elements/id-9deb9668a3dd45e1b47ad7ada6e2828e.html"  target="element">
+
+				  		<area shape="rect" coords="2122,490,2290,737" href="../elements/id-eb0ccd2ae9e54327b72779479cea7da7.html"  target="element">
+				  		<area shape="rect" coords="2062,401,2182,456" href="../elements/id-724fea7446e44157953123092831ece5.html"  target="element">
+				  		<area shape="rect" coords="1954,466,2074,521" href="../elements/id-53df72de15cc49298462b98ea03548bd.html"  target="element">
+				  		<area shape="rect" coords="1870,389,1990,439" href="../elements/id-24c2d673b8a94a7697dbbdf13e325387.html"  target="element">
+				  		<area shape="rect" coords="1965,316,2135,371" href="../elements/id-c6698fed3ac54657874e49056ad08ff4.html"  target="element">
+				  		<area shape="rect" coords="1630,550,1792,605" href="../elements/id-77ad8bc55223408eb0bd49755cd0f4b5.html"  target="element">
+				  				<area shape="rect" coords="1798,550,1918,605" href="../elements/id-1c7d281a9fed490696718e929875c1c3.html"  target="element">
+				  				<area shape="rect" coords="1798,490,1918,545" href="../elements/id-1d3f7c48fc344268bc120a48ca8c712e.html"  target="element">
+				  				<area shape="rect" coords="1630,490,1786,545" href="../elements/id-29d29654ea3340478d0be3ea0260aaf1.html"  target="element">
+
+				  		<area shape="rect" coords="1606,466,1930,611" href="../elements/id-b5ab0431547e4a5c9f4e4fb9ef5216b6.html"  target="element">
+				  		<area shape="rect" coords="1582,400,1762,445" href="../elements/id-220b1dfb1d49490797f5f4ebb38a2f03.html"  target="element">
+				  		<area shape="rect" coords="1672,316,1834,371" href="../elements/id-960cca4e87d74ce2b538d460252b08c4.html"  target="element">
+				  				<area shape="rect" coords="1349,523,1489,578" href="../elements/id-1eaf335be2454ee3b37702e3417f9871.html"  target="element">
+				  				<area shape="rect" coords="1346,451,1488,511" href="../elements/id-76e8062e3e664385a7603714a448117d.html"  target="element">
+				  				<area shape="rect" coords="1349,391,1489,446" href="../elements/id-1bbc009ec22248a1bc0caf60c9acf518.html"  target="element">
+				  				<area shape="rect" coords="1349,331,1489,386" href="../elements/id-43a7ef7fe49f452ab5e92d02d54a6971.html"  target="element">
+
+				  		<area shape="rect" coords="1329,271,1521,587" href="../elements/id-83c5611ba6c242f390785147181f22d0.html"  target="element">
+				  		<area shape="rect" coords="1678,206,2374,272" href="../elements/id-7378e02694cf4116b641f81e3c8bb6f2.html"  target="element">
+				  		<area shape="rect" coords="839,463,971,548" href="../elements/id-5f042205dd3743ef87de63135f2075ad.html"  target="element">
+				  		<area shape="rect" coords="1105,250,1213,299" href="../elements/id-c4c3ab9919384cd7919d5ca0907d9b33.html"  target="element">
+				  		<area shape="rect" coords="1018,391,1162,455" href="../elements/id-42d1a383caf84b9cac603b541b84faca.html"  target="element">
+				  		<area shape="rect" coords="954,556,1106,611" href="../elements/id-0816afaba8c149e8932f590bc510c01d.html"  target="element">
+				  		<area shape="rect" coords="766,353,922,450" href="../elements/id-debb26a6008f4c42b249375f7f231be8.html"  target="element">
+				  		<area shape="rect" coords="730,250,876,330" href="../elements/id-112ad2080b174455910a7a04f0949fc5.html"  target="element">
+				  		<area shape="rect" coords="898,163,1066,248" href="../elements/id-31f3dfa016664ab0ab2187c157fcc140.html"  target="element">
+				  		<area shape="rect" coords="861,11,1031,51" href="../elements/id-7b666c6ab4d642fcb58c40ae90ba1f8e.html"  target="element">
+				  		<area shape="rect" coords="667,10,849,53" href="../elements/id-9b03569b706d48589b60bf60854a2552.html"  target="element">
+				  		<area shape="rect" coords="502,10,658,53" href="../elements/id-bcaeefba65c541079293ebca7fde9b53.html"  target="element">
+				  		<area shape="rect" coords="694,106,814,161" href="../elements/id-8617d1616537462b86fb569a9af60b97.html"  target="element">
+				  		<area shape="rect" coords="273,262,359,317" href="../elements/id-d7bd48883f0645a297d269ed154d136c.html"  target="element">
+				  		<area shape="rect" coords="75,262,261,323" href="../elements/id-78e9241890eb46e3a375a1eab8f50203.html"  target="element">
+				  		<area shape="rect" coords="10,341,130,393" href="../elements/id-689bff07790b433f8c6bb46ae15170fb.html"  target="element">
+				  				<area shape="rect" coords="612,340,703,413" href="../elements/id-ae1d53ae83aa4b8db8cc7469fdd5f6c1.html"  target="element">
+				  				<area shape="rect" coords="382,268,490,317" href="../elements/id-9db869dbf1b54f9dbce04ab1434cd045.html"  target="element">
+				  				<area shape="rect" coords="382,340,490,389" href="../elements/id-2729313bd8514d41a4f787b29c18deef.html"  target="element">
+				  				<area shape="rect" coords="609,268,706,317" href="../elements/id-8661696d88d0458a847e0cc4281aeec8.html"  target="element">
+				  				<area shape="rect" coords="500,268,606,329" href="../elements/id-137a3e81ea894bfe9e383c7578a2f417.html"  target="element">
+				  				<area shape="rect" coords="498,340,607,413" href="../elements/id-15c46bfc72a34116ad460ffad85004b1.html"  target="element">
+
+				  		<area shape="rect" coords="369,232,719,419" href="../elements/id-4c5d3f8710ba40f093bbac121bedea74.html"  target="element">
+				  		<area shape="rect" coords="76,178,262,233" href="../elements/id-bbdc38d1137f48d2a9a7e1bb7f11e404.html"  target="element">
+				  		<area shape="rect" coords="406,106,622,179" href="../elements/id-08bebb57447d41e795c40b15158e82ac.html"  target="element">
+
+			   </map>
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">This viewpoint is a draft version and work in progress. It is based on LF Energy Functional Architecture v1.0 - CC 4.0 (can be found LFE GitHub repository). </div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/id-08bebb57447d41e795c40b15158e82ac.html" target="element"> Customer and Market </a> </td>
+											    <td> <a href="../elements/id-08bebb57447d41e795c40b15158e82ac.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-bbdc38d1137f48d2a9a7e1bb7f11e404.html" target="element"> Metering and Compensation  </a> </td>
+											    <td> <a href="../elements/id-bbdc38d1137f48d2a9a7e1bb7f11e404.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-4c5d3f8710ba40f093bbac121bedea74.html" target="element"> Market Platform Gateway </a> </td>
+											    <td> <a href="../elements/id-4c5d3f8710ba40f093bbac121bedea74.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-15c46bfc72a34116ad460ffad85004b1.html" target="element"> Cross border capacity </a> </td>
+													    <td> <a href="../elements/id-15c46bfc72a34116ad460ffad85004b1.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-137a3e81ea894bfe9e383c7578a2f417.html" target="element"> Power Exchange </a> </td>
+													    <td> <a href="../elements/id-137a3e81ea894bfe9e383c7578a2f417.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-8661696d88d0458a847e0cc4281aeec8.html" target="element"> Services </a> </td>
+													    <td> <a href="../elements/id-8661696d88d0458a847e0cc4281aeec8.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-2729313bd8514d41a4f787b29c18deef.html" target="element"> Balancing Market </a> </td>
+													    <td> <a href="../elements/id-2729313bd8514d41a4f787b29c18deef.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-9db869dbf1b54f9dbce04ab1434cd045.html" target="element"> Avalibility </a> </td>
+													    <td> <a href="../elements/id-9db869dbf1b54f9dbce04ab1434cd045.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-ae1d53ae83aa4b8db8cc7469fdd5f6c1.html" target="element"> Capacity Platform </a> </td>
+													    <td> <a href="../elements/id-ae1d53ae83aa4b8db8cc7469fdd5f6c1.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-689bff07790b433f8c6bb46ae15170fb.html" target="element"> Metering </a> </td>
+											    <td> <a href="../elements/id-689bff07790b433f8c6bb46ae15170fb.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-78e9241890eb46e3a375a1eab8f50203.html" target="element"> Compensation and Settlement </a> </td>
+											    <td> <a href="../elements/id-78e9241890eb46e3a375a1eab8f50203.html" target="element" class="i18n-elementtype-BusinessProcess">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-d7bd48883f0645a297d269ed154d136c.html" target="element"> Billing </a> </td>
+											    <td> <a href="../elements/id-d7bd48883f0645a297d269ed154d136c.html" target="element" class="i18n-elementtype-BusinessProcess">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-8617d1616537462b86fb569a9af60b97.html" target="element"> Customer Response </a> </td>
+											    <td> <a href="../elements/id-8617d1616537462b86fb569a9af60b97.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-bcaeefba65c541079293ebca7fde9b53.html" target="element"> Smart Ledgers </a> </td>
+											    <td> <a href="../elements/id-bcaeefba65c541079293ebca7fde9b53.html" target="element" class="i18n-elementtype-BusinessObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-9b03569b706d48589b60bf60854a2552.html" target="element"> Customer Preferences </a> </td>
+											    <td> <a href="../elements/id-9b03569b706d48589b60bf60854a2552.html" target="element" class="i18n-elementtype-BusinessObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-7b666c6ab4d642fcb58c40ae90ba1f8e.html" target="element"> Smart Contracts </a> </td>
+											    <td> <a href="../elements/id-7b666c6ab4d642fcb58c40ae90ba1f8e.html" target="element" class="i18n-elementtype-BusinessObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-31f3dfa016664ab0ab2187c157fcc140.html" target="element"> Customer Relationship and Communications </a> </td>
+											    <td> <a href="../elements/id-31f3dfa016664ab0ab2187c157fcc140.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-112ad2080b174455910a7a04f0949fc5.html" target="element"> Acquisition, system, pricing, design </a> </td>
+											    <td> <a href="../elements/id-112ad2080b174455910a7a04f0949fc5.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-debb26a6008f4c42b249375f7f231be8.html" target="element"> Notification and communication management </a> </td>
+											    <td> <a href="../elements/id-debb26a6008f4c42b249375f7f231be8.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-0816afaba8c149e8932f590bc510c01d.html" target="element"> Consent management </a> </td>
+											    <td> <a href="../elements/id-0816afaba8c149e8932f590bc510c01d.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-42d1a383caf84b9cac603b541b84faca.html" target="element"> Customer app UX/UI </a> </td>
+											    <td> <a href="../elements/id-42d1a383caf84b9cac603b541b84faca.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-c4c3ab9919384cd7919d5ca0907d9b33.html" target="element"> Contract </a> </td>
+											    <td> <a href="../elements/id-c4c3ab9919384cd7919d5ca0907d9b33.html" target="element" class="i18n-elementtype-BusinessObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-5f042205dd3743ef87de63135f2075ad.html" target="element"> Energy and Crisis management </a> </td>
+											    <td> <a href="../elements/id-5f042205dd3743ef87de63135f2075ad.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-7378e02694cf4116b641f81e3c8bb6f2.html" target="element"> System Management </a> </td>
+											    <td> <a href="../elements/id-7378e02694cf4116b641f81e3c8bb6f2.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-83c5611ba6c242f390785147181f22d0.html" target="element"> Market Signal Generation </a> </td>
+											    <td> <a href="../elements/id-83c5611ba6c242f390785147181f22d0.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-43a7ef7fe49f452ab5e92d02d54a6971.html" target="element"> Balancing Mechanism </a> </td>
+													    <td> <a href="../elements/id-43a7ef7fe49f452ab5e92d02d54a6971.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-1bbc009ec22248a1bc0caf60c9acf518.html" target="element"> Aggregated Service Organisation </a> </td>
+													    <td> <a href="../elements/id-1bbc009ec22248a1bc0caf60c9acf518.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-76e8062e3e664385a7603714a448117d.html" target="element"> Adequacy assessment </a> </td>
+													    <td> <a href="../elements/id-76e8062e3e664385a7603714a448117d.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-1eaf335be2454ee3b37702e3417f9871.html" target="element"> Cross border capacity calculation </a> </td>
+													    <td> <a href="../elements/id-1eaf335be2454ee3b37702e3417f9871.html" target="element" class="i18n-elementtype-BusinessProcess">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-960cca4e87d74ce2b538d460252b08c4.html" target="element"> System Control </a> </td>
+											    <td> <a href="../elements/id-960cca4e87d74ce2b538d460252b08c4.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-220b1dfb1d49490797f5f4ebb38a2f03.html" target="element"> Remote Operation </a> </td>
+											    <td> <a href="../elements/id-220b1dfb1d49490797f5f4ebb38a2f03.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-b5ab0431547e4a5c9f4e4fb9ef5216b6.html" target="element"> System operation </a> </td>
+											    <td> <a href="../elements/id-b5ab0431547e4a5c9f4e4fb9ef5216b6.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-29d29654ea3340478d0be3ea0260aaf1.html" target="element"> Centralized Automation </a> </td>
+													    <td> <a href="../elements/id-29d29654ea3340478d0be3ea0260aaf1.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-1d3f7c48fc344268bc120a48ca8c712e.html" target="element"> Power Quality and System stability </a> </td>
+													    <td> <a href="../elements/id-1d3f7c48fc344268bc120a48ca8c712e.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-1c7d281a9fed490696718e929875c1c3.html" target="element"> Schedules </a> </td>
+													    <td> <a href="../elements/id-1c7d281a9fed490696718e929875c1c3.html" target="element" class="i18n-elementtype-BusinessObject">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-77ad8bc55223408eb0bd49755cd0f4b5.html" target="element"> Autonomous Function Conf. </a> </td>
+											    <td> <a href="../elements/id-77ad8bc55223408eb0bd49755cd0f4b5.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-c6698fed3ac54657874e49056ad08ff4.html" target="element"> Power System Calculation </a> </td>
+											    <td> <a href="../elements/id-c6698fed3ac54657874e49056ad08ff4.html" target="element" class="i18n-elementtype-BusinessProcess">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-24c2d673b8a94a7697dbbdf13e325387.html" target="element"> Modeling </a> </td>
+											    <td> <a href="../elements/id-24c2d673b8a94a7697dbbdf13e325387.html" target="element" class="i18n-elementtype-BusinessProcess">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-53df72de15cc49298462b98ea03548bd.html" target="element"> Model Exchanges </a> </td>
+											    <td> <a href="../elements/id-53df72de15cc49298462b98ea03548bd.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-724fea7446e44157953123092831ece5.html" target="element"> State Estimation </a> </td>
+											    <td> <a href="../elements/id-724fea7446e44157953123092831ece5.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-eb0ccd2ae9e54327b72779479cea7da7.html" target="element"> Simulation </a> </td>
+											    <td> <a href="../elements/id-eb0ccd2ae9e54327b72779479cea7da7.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-9deb9668a3dd45e1b47ad7ada6e2828e.html" target="element"> Static and Dynamic Calculation </a> </td>
+													    <td> <a href="../elements/id-9deb9668a3dd45e1b47ad7ada6e2828e.html" target="element" class="i18n-elementtype-ApplicationFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-2bb496d1b67749eda9624f6deb59bcbf.html" target="element"> Dispatch/Adequacy Calculation </a> </td>
+													    <td> <a href="../elements/id-2bb496d1b67749eda9624f6deb59bcbf.html" target="element" class="i18n-elementtype-ApplicationFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-5b14ee250ec24f04b21ea505032921b3.html" target="element"> Security Analysis </a> </td>
+													    <td> <a href="../elements/id-5b14ee250ec24f04b21ea505032921b3.html" target="element" class="i18n-elementtype-ApplicationFunction">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-805ae7fc5d23414dbf0ffda508befffd.html" target="element"> Forecasts </a> </td>
+											    <td> <a href="../elements/id-805ae7fc5d23414dbf0ffda508befffd.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-fa3e310a98ce4d60baf4aed4e186b53f.html" target="element"> Area Demands </a> </td>
+											    <td> <a href="../elements/id-fa3e310a98ce4d60baf4aed4e186b53f.html" target="element" class="i18n-elementtype-BusinessObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-8fca6771b8344b868c7ff649107d8a8c.html" target="element"> Solar Wind Resource Generation </a> </td>
+											    <td> <a href="../elements/id-8fca6771b8344b868c7ff649107d8a8c.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-b7c2443a77ee4c55a6c87e52eafad4f9.html" target="element"> System Services Forecast </a> </td>
+											    <td> <a href="../elements/id-b7c2443a77ee4c55a6c87e52eafad4f9.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-74ba2b9f04874cce95ae7033f6bec57c.html" target="element"> Market Prices </a> </td>
+											    <td> <a href="../elements/id-74ba2b9f04874cce95ae7033f6bec57c.html" target="element" class="i18n-elementtype-BusinessObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-ed55b66242e0400689072308e9bde3f4.html" target="element"> Local Site Balance </a> </td>
+											    <td> <a href="../elements/id-ed55b66242e0400689072308e9bde3f4.html" target="element" class="i18n-elementtype-BusinessObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-2ce2fe8d3f694c29a7b891ee6fa1b42a.html" target="element"> International Prices </a> </td>
+											    <td> <a href="../elements/id-2ce2fe8d3f694c29a7b891ee6fa1b42a.html" target="element" class="i18n-elementtype-BusinessObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-e025f62b12664df085ef3e61e5de507f.html" target="element"> Message Queue </a> </td>
+											    <td> <a href="../elements/id-e025f62b12664df085ef3e61e5de507f.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-9be32e2b91af4eb78b640a0a136027d0.html" target="element"> Data Validation </a> </td>
+											    <td> <a href="../elements/id-9be32e2b91af4eb78b640a0a136027d0.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-95ec64d2615445b1bd7c86b8521d4707.html" target="element"> Long term storage </a> </td>
+											    <td> <a href="../elements/id-95ec64d2615445b1bd7c86b8521d4707.html" target="element" class="i18n-elementtype-ApplicationComponent">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-6acc9a438a484197b77131012a386350.html" target="element"> Data Management </a> </td>
+											    <td> <a href="../elements/id-6acc9a438a484197b77131012a386350.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-01dae297d4b84a8caac5a000886ae50d.html" target="element"> System Governance </a> </td>
+											    <td> <a href="../elements/id-01dae297d4b84a8caac5a000886ae50d.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-235e6c448aaf4dc690d708446dd0aa55.html" target="element"> Self-registering </a> </td>
+											    <td> <a href="../elements/id-235e6c448aaf4dc690d708446dd0aa55.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-73c5af7114ee481985ead5b2f7090307.html" target="element"> Self-Healing </a> </td>
+											    <td> <a href="../elements/id-73c5af7114ee481985ead5b2f7090307.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-174501b968e74948bac30bcb998d4985.html" target="element"> Alignment with regulation and standards </a> </td>
+											    <td> <a href="../elements/id-174501b968e74948bac30bcb998d4985.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-c474088dfb284149a1cc606c6a1c7881.html" target="element"> IT management supervision </a> </td>
+											    <td> <a href="../elements/id-c474088dfb284149a1cc606c6a1c7881.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-3754124c3c674753a33d66834150861d.html" target="element"> Threat Monitoring </a> </td>
+													    <td> <a href="../elements/id-3754124c3c674753a33d66834150861d.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-a51f022b21634115aa8299436d58b860.html" target="element"> Service administration </a> </td>
+													    <td> <a href="../elements/id-a51f022b21634115aa8299436d58b860.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-58323ff777d948dda3f0c64d66b8c0dd.html" target="element"> Network administration </a> </td>
+													    <td> <a href="../elements/id-58323ff777d948dda3f0c64d66b8c0dd.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-73f5032cd7a44ccbb7b7d10f76c1002e.html" target="element"> Common communication media </a> </td>
+											    <td> <a href="../elements/id-73f5032cd7a44ccbb7b7d10f76c1002e.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-88650d863b544b4bba8b19b068e2f819.html" target="element"> Emergency and Crisis Management </a> </td>
+											    <td> <a href="../elements/id-88650d863b544b4bba8b19b068e2f819.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-bcf454a355484f7c8ed489c4e46d3838.html" target="element"> Message queing service and directory </a> </td>
+											    <td> <a href="../elements/id-bcf454a355484f7c8ed489c4e46d3838.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-9a81047618bc48bcb43b39fb59a3629d.html" target="element"> Unified Operator's UX components and Frameworks </a> </td>
+											    <td> <a href="../elements/id-9a81047618bc48bcb43b39fb59a3629d.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-6037babbc6b64f5fa4b9490e45055452.html" target="element"> Co-ordination and workflow framework </a> </td>
+											    <td> <a href="../elements/id-6037babbc6b64f5fa4b9490e45055452.html" target="element" class="i18n-elementtype-BusinessObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-3a771ebbf5b04e37ae796aa32055a108.html" target="element"> Supervision/Hypervision Component </a> </td>
+											    <td> <a href="../elements/id-3a771ebbf5b04e37ae796aa32055a108.html" target="element" class="i18n-elementtype-ApplicationComponent">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-a40a0daef9224b3ca53334c2435fc621.html" target="element"> User Alerting </a> </td>
+											    <td> <a href="../elements/id-a40a0daef9224b3ca53334c2435fc621.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-91afb6db53104f66b0a3904ad02c2cbd.html" target="element"> Field Service, Customer Care </a> </td>
+											    <td> <a href="../elements/id-91afb6db53104f66b0a3904ad02c2cbd.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-f451dce13e214b9d8fa43a11764acc80.html" target="element"> Security Management </a> </td>
+											    <td> <a href="../elements/id-f451dce13e214b9d8fa43a11764acc80.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-72d3783d70404d41a4d4f269cba42ad3.html" target="element"> Cyber Security </a> </td>
+													    <td> <a href="../elements/id-72d3783d70404d41a4d4f269cba42ad3.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-1697a5356c12455480aa32ed8250193f.html" target="element"> Privacy Management </a> </td>
+													    <td> <a href="../elements/id-1697a5356c12455480aa32ed8250193f.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-8e739921e10143b1a326898d99641518.html" target="element"> Shared Functions </a> </td>
+											    <td> <a href="../elements/id-8e739921e10143b1a326898d99641518.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-0ef784debd9a4d5793e51a9293a1b8be.html" target="element"> Outage Management </a> </td>
+											    <td> <a href="../elements/id-0ef784debd9a4d5793e51a9293a1b8be.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-9442ddbbadfb4cb18abcb4ad5cbf198c.html" target="element"> Outage coordination and stakeholder management </a> </td>
+													    <td> <a href="../elements/id-9442ddbbadfb4cb18abcb4ad5cbf198c.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-f299106902834ee2838c47642ff4d45f.html" target="element"> Distributed outage management </a> </td>
+													    <td> <a href="../elements/id-f299106902834ee2838c47642ff4d45f.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-4556460bf1e84a0292e05a510209797b.html" target="element"> Customer impact assesement </a> </td>
+													    <td> <a href="../elements/id-4556460bf1e84a0292e05a510209797b.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-e28af5ef3c304ff3a1d4406e1d0eb4f8.html" target="element"> Outage programming and planning </a> </td>
+													    <td> <a href="../elements/id-e28af5ef3c304ff3a1d4406e1d0eb4f8.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-24b99f3763fd497d9a57189a9cd8e893.html" target="element"> Ticketing </a> </td>
+													    <td> <a href="../elements/id-24b99f3763fd497d9a57189a9cd8e893.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-31d53998230f4e8dab8bb7a489b2620c.html" target="element"> Asset Investment Planning </a> </td>
+											    <td> <a href="../elements/id-31d53998230f4e8dab8bb7a489b2620c.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-a6eb159724e74894a49746b5e2e019d3.html" target="element"> Renewable policy Management </a> </td>
+											    <td> <a href="../elements/id-a6eb159724e74894a49746b5e2e019d3.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-e5c4abdf76d5494ba52b17c1656836ac.html" target="element"> Investment Policy </a> </td>
+											    <td> <a href="../elements/id-e5c4abdf76d5494ba52b17c1656836ac.html" target="element" class="i18n-elementtype-BusinessObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-8627dcf03d454fef81243c923b4588f1.html" target="element"> Project Finance Management </a> </td>
+											    <td> <a href="../elements/id-8627dcf03d454fef81243c923b4588f1.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-fb8977d8c7ef4f589dacf286db3c3c6f.html" target="element"> Asset Supervision  </a> </td>
+											    <td> <a href="../elements/id-fb8977d8c7ef4f589dacf286db3c3c6f.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-4d2951d45a624e21871bbcee49093f67.html" target="element"> Real Time monitoring </a> </td>
+											    <td> <a href="../elements/id-4d2951d45a624e21871bbcee49093f67.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-2b1777e84e004e32a406c3b77bfeb84d.html" target="element"> Log analysis </a> </td>
+											    <td> <a href="../elements/id-2b1777e84e004e32a406c3b77bfeb84d.html" target="element" class="i18n-elementtype-ApplicationProcess">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-6b6b48834ddc4f0b99b4caab7beb0d6b.html" target="element"> Asset Planning </a> </td>
+											    <td> <a href="../elements/id-6b6b48834ddc4f0b99b4caab7beb0d6b.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-a5db56d3bd5340ee8ca06c2d50a50cb2.html" target="element"> Asset lifecycle management </a> </td>
+											    <td> <a href="../elements/id-a5db56d3bd5340ee8ca06c2d50a50cb2.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-ca12a0de4a1642c6afbe50e60563b6f7.html" target="element"> Asset performance management </a> </td>
+											    <td> <a href="../elements/id-ca12a0de4a1642c6afbe50e60563b6f7.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-54c52d278f4f41febfe8c49b1dd72b99.html" target="element"> Asset Repository </a> </td>
+											    <td> <a href="../elements/id-54c52d278f4f41febfe8c49b1dd72b99.html" target="element" class="i18n-elementtype-ApplicationComponent">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-72a287cbc07745e79f365aeed40c962a.html" target="element"> Configuration and Setting repository </a> </td>
+													    <td> <a href="../elements/id-72a287cbc07745e79f365aeed40c962a.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-d1045b19badf470989d149dfddd1c7c4.html" target="element"> Power Equipment Repository </a> </td>
+													    <td> <a href="../elements/id-d1045b19badf470989d149dfddd1c7c4.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-3387ad06d5c54de6b1f4a0206c038849.html" target="element"> Digital Infrastructure repository </a> </td>
+													    <td> <a href="../elements/id-3387ad06d5c54de6b1f4a0206c038849.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-15a0e2d209194095859ac0ec5e56960e.html" target="element"> Configuration tools </a> </td>
+													    <td> <a href="../elements/id-15a0e2d209194095859ac0ec5e56960e.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-afeb5c961372486394672d5452739c37.html" target="element"> Asset management </a> </td>
+											    <td> <a href="../elements/id-afeb5c961372486394672d5452739c37.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-23c6774ea92b49f894a5e4c9872a0efd.html" target="element"> Health Index Calculation </a> </td>
+											    <td> <a href="../elements/id-23c6774ea92b49f894a5e4c9872a0efd.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-5f67aee7e3b147e0b36568fd144ba799.html" target="element"> Analytics </a> </td>
+											    <td> <a href="../elements/id-5f67aee7e3b147e0b36568fd144ba799.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-cd95cb7b3d9f4b65a4e2f1b6ec7272fb.html" target="element"> Deep Learning </a> </td>
+											    <td> <a href="../elements/id-cd95cb7b3d9f4b65a4e2f1b6ec7272fb.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-b6955d3be8694347856440ddbc9252cf.html" target="element"> Simulation </a> </td>
+											    <td> <a href="../elements/id-b6955d3be8694347856440ddbc9252cf.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-9688fc59ddd444cc9c6d68965212955e.html" target="element"> Digital Twin </a> </td>
+											    <td> <a href="../elements/id-9688fc59ddd444cc9c6d68965212955e.html" target="element" class="i18n-elementtype-ApplicationComponent">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-c10d37495e064eaaabcef128ba9125e1.html" target="element"> Predictive Analytics </a> </td>
+											    <td> <a href="../elements/id-c10d37495e064eaaabcef128ba9125e1.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-8b75948977f64fa9b12c4ebc6f086367.html" target="element"> Field Work Management </a> </td>
+											    <td> <a href="../elements/id-8b75948977f64fa9b12c4ebc6f086367.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-fd8e7cd12c804fe3b784ea7a6f538ad1.html" target="element"> Supply Chain  </a> </td>
+											    <td> <a href="../elements/id-fd8e7cd12c804fe3b784ea7a6f538ad1.html" target="element" class="i18n-elementtype-BusinessService">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-1266e93f8fa74b579580d23db71ab3f6.html" target="element"> Safety rules implementations </a> </td>
+											    <td> <a href="../elements/id-1266e93f8fa74b579580d23db71ab3f6.html" target="element" class="i18n-elementtype-BusinessProcess">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-89a1a7305116425eaab0b42d0124e784.html" target="element"> Team planning + Scheduling </a> </td>
+											    <td> <a href="../elements/id-89a1a7305116425eaab0b42d0124e784.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-ae7c5ecd255d48d293c929dc78a85fb1.html" target="element"> Acquisition and Control  </a> </td>
+											    <td> <a href="../elements/id-ae7c5ecd255d48d293c929dc78a85fb1.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-fb462a5c23554d6181cfc55d473b9a79.html" target="element"> Communication Infrastructure </a> </td>
+											    <td> <a href="../elements/id-fb462a5c23554d6181cfc55d473b9a79.html" target="element" class="i18n-elementtype-ApplicationComponent">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-5e61fceab8fc420cb7f5f010c3a62c3a.html" target="element"> Critical Equipment </a> </td>
+											    <td> <a href="../elements/id-5e61fceab8fc420cb7f5f010c3a62c3a.html" target="element" class="i18n-elementtype-Equipment">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-a8149272f02d4e47a7517f8595afbe9f.html" target="element"> Sensor </a> </td>
+											    <td> <a href="../elements/id-a8149272f02d4e47a7517f8595afbe9f.html" target="element" class="i18n-elementtype-Equipment">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-6cd4c048f3b543c2bfa38a9c36628661.html" target="element"> Protection  </a> </td>
+											    <td> <a href="../elements/id-6cd4c048f3b543c2bfa38a9c36628661.html" target="element" class="i18n-elementtype-Equipment">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-94cce7bfc2ce48cd8812599b6f1c5fb7.html" target="element"> Actuator </a> </td>
+											    <td> <a href="../elements/id-94cce7bfc2ce48cd8812599b6f1c5fb7.html" target="element" class="i18n-elementtype-Equipment">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-5ec996f169af4319980acb3268040e79.html" target="element"> Less-critical Equipment </a> </td>
+											    <td> <a href="../elements/id-5ec996f169af4319980acb3268040e79.html" target="element" class="i18n-elementtype-Equipment">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-43ef461434814e60950b27a1ccd70ae2.html" target="element"> Protection </a> </td>
+											    <td> <a href="../elements/id-43ef461434814e60950b27a1ccd70ae2.html" target="element" class="i18n-elementtype-Equipment">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-f91c7a1bde804b91a5a969b0edfe61eb.html" target="element"> Sensor </a> </td>
+											    <td> <a href="../elements/id-f91c7a1bde804b91a5a969b0edfe61eb.html" target="element" class="i18n-elementtype-Equipment">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-116bbd18e1d141c39c84351287cec40c.html" target="element"> Actuator </a> </td>
+											    <td> <a href="../elements/id-116bbd18e1d141c39c84351287cec40c.html" target="element" class="i18n-elementtype-Equipment">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-8e96912196bd4ec29405ccc14859dd42.html" target="element"> Edge Node Control </a> </td>
+											    <td> <a href="../elements/id-8e96912196bd4ec29405ccc14859dd42.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-ac3048a544534c58869c0e88628cf81e.html" target="element"> Aggregated/Distributed/Local automations </a> </td>
+											    <td> <a href="../elements/id-ac3048a544534c58869c0e88628cf81e.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-d18d17c458434b17ba92834ea7cd1ae4.html" target="element"> Synchronisation </a> </td>
+													    <td> <a href="../elements/id-d18d17c458434b17ba92834ea7cd1ae4.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-5ca152644a0a4ebbba92741d588f8c5f.html" target="element"> Balance and frequency control </a> </td>
+													    <td> <a href="../elements/id-5ca152644a0a4ebbba92741d588f8c5f.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-064bc7337da14e3ca56b1b7dba426add.html" target="element"> Monitoring and Control </a> </td>
+													    <td> <a href="../elements/id-064bc7337da14e3ca56b1b7dba426add.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-aca682eb82b14958896ce827db08a204.html" target="element"> Power quality management </a> </td>
+													    <td> <a href="../elements/id-aca682eb82b14958896ce827db08a204.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-fadfd191df7d44f5a91daea514843a3b.html" target="element"> Outage Management </a> </td>
+													    <td> <a href="../elements/id-fadfd191df7d44f5a91daea514843a3b.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-18920eee3b02480bb47f3977a9c4af7e.html" target="element"> Storage Management </a> </td>
+													    <td> <a href="../elements/id-18920eee3b02480bb47f3977a9c4af7e.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-e2f72547139649d38ea36114aca2c6f5.html" target="element"> Demand Response Management </a> </td>
+													    <td> <a href="../elements/id-e2f72547139649d38ea36114aca2c6f5.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-a450e6a818f04a9fabcd48e7db6bcc78.html" target="element"> Congestion Management </a> </td>
+													    <td> <a href="../elements/id-a450e6a818f04a9fabcd48e7db6bcc78.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-aa2486dbfffe4caa8110cba9723d8f9b.html" target="element"> Protocol Management </a> </td>
+											    <td> <a href="../elements/id-aa2486dbfffe4caa8110cba9723d8f9b.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-43116cd3b69245409a39a3ddf8827040.html" target="element"> Aggregated/Distributed/virtualized equipment protections </a> </td>
+											    <td> <a href="../elements/id-43116cd3b69245409a39a3ddf8827040.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-5f64a5c2b47f40a19a4dad5aedac1e26.html" target="element"> Failures recording </a> </td>
+											    <td> <a href="../elements/id-5f64a5c2b47f40a19a4dad5aedac1e26.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-46852cb5dce147d0a3209fda970c9553.html" target="element"> Measuring, metering, altering, sensing and actuation </a> </td>
+											    <td> <a href="../elements/id-46852cb5dce147d0a3209fda970c9553.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-5eb45887939349dbb825d86d9e9145cc.html" target="element"> Logging </a> </td>
+											    <td> <a href="../elements/id-5eb45887939349dbb825d86d9e9145cc.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-16d93648b62e41039fe95b073e1fba52.html" target="element"> Configuration  </a> </td>
+											    <td> <a href="../elements/id-16d93648b62e41039fe95b073e1fba52.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-82131165d40d42a69ce3400c00b596a2.html" target="element"> Equipment Communication </a> </td>
+											    <td> <a href="../elements/id-82131165d40d42a69ce3400c00b596a2.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-7779977b17e34e459cb4051c21a9daca.html" target="element"> Central Hub </a> </td>
+											    <td> <a href="../elements/id-7779977b17e34e459cb4051c21a9daca.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-8dfb13b7dcf540a4bce97149188310d4.html" target="element"> Protocol Conversion </a> </td>
+													    <td> <a href="../elements/id-8dfb13b7dcf540a4bce97149188310d4.html" target="element" class="i18n-elementtype-ApplicationFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-b49bb18366db4bf6932efd2feb9f0b61.html" target="element"> Data acqusition and treatment </a> </td>
+													    <td> <a href="../elements/id-b49bb18366db4bf6932efd2feb9f0b61.html" target="element" class="i18n-elementtype-ApplicationFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-fcdd7681e6ac42be8098409622d3f317.html" target="element"> Cross device/vendor and cross telecom network compatibility </a> </td>
+													    <td> <a href="../elements/id-fcdd7681e6ac42be8098409622d3f317.html" target="element" class="i18n-elementtype-ApplicationFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-bf4ab65d56d64a76ab2045cdbb91514f.html" target="element"> Short term persistency </a> </td>
+													    <td> <a href="../elements/id-bf4ab65d56d64a76ab2045cdbb91514f.html" target="element" class="i18n-elementtype-ApplicationFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-f8becc74a0a3425495664b022e748f3d.html" target="element"> End to End encryption/KEYS </a> </td>
+													    <td> <a href="../elements/id-f8becc74a0a3425495664b022e748f3d.html" target="element" class="i18n-elementtype-ApplicationFunction">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-a08177bc8bc345f9b885c0086ba29b78.html" target="element"> Infrastructure Management </a> </td>
+											    <td> <a href="../elements/id-a08177bc8bc345f9b885c0086ba29b78.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-663acdd76410473fa2d44f096e2d0a25.html" target="element"> Remote Equipment and node management </a> </td>
+											    <td> <a href="../elements/id-663acdd76410473fa2d44f096e2d0a25.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-3c4f5b4272974a58b32372a59d96d416.html" target="element"> Remote Configuration management </a> </td>
+											    <td> <a href="../elements/id-3c4f5b4272974a58b32372a59d96d416.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-f6baa806afb74ea482f863c4575a5645.html" target="element"> Comissioning and installation management </a> </td>
+											    <td> <a href="../elements/id-f6baa806afb74ea482f863c4575a5645.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-9076cce5e172469da19f84b2dd2822d7.html" target="element"> Grouping </a> </td>
+											    <td> <a href="../elements/id-9076cce5e172469da19f84b2dd2822d7.html" target="element" class="i18n-elementtype-Grouping">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-7b30136f21934cfdab38a3e04147400d.html" target="element"> Aggregation Node </a> </td>
+													    <td> <a href="../elements/id-7b30136f21934cfdab38a3e04147400d.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-29ddb33ff71c464e85f4ddc6b1114f2e.html" target="element"> Equipment Node </a> </td>
+													    <td> <a href="../elements/id-29ddb33ff71c464e85f4ddc6b1114f2e.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-3b06408a963c47028d25c8913775e32f.html" target="element"> Customer Side Node </a> </td>
+													    <td> <a href="../elements/id-3b06408a963c47028d25c8913775e32f.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-a1acf936d64e46e6aebd56b4e6efcce7.html" target="element"> Substation Node </a> </td>
+													    <td> <a href="../elements/id-a1acf936d64e46e6aebd56b4e6efcce7.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-e7dd619e67df469fb3fe7127ea23889d.html" target="element"> Distribution Node </a> </td>
+													    <td> <a href="../elements/id-e7dd619e67df469fb3fe7127ea23889d.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+											
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/id-58b512f5092e4617bed9bbdf2cbc1854.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-58b512f5092e4617bed9bbdf2cbc1854.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-08bebb57447d41e795c40b15158e82ac.html" target="element"> Customer and Market </a> </td>
+																		<td> <a href="../elements/id-bbdc38d1137f48d2a9a7e1bb7f11e404.html" target="element"> Metering and Compensation  </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-8d38ae02001b4e2aa0bb5ac42c0c9a8e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-8d38ae02001b4e2aa0bb5ac42c0c9a8e.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-08bebb57447d41e795c40b15158e82ac.html" target="element"> Customer and Market </a> </td>
+																		<td> <a href="../elements/id-4c5d3f8710ba40f093bbac121bedea74.html" target="element"> Market Platform Gateway </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-b3d69c8c29ef4c559f943310ab06faa3.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b3d69c8c29ef4c559f943310ab06faa3.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-08bebb57447d41e795c40b15158e82ac.html" target="element"> Customer and Market </a> </td>
+																		<td> <a href="../elements/id-8617d1616537462b86fb569a9af60b97.html" target="element"> Customer Response </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-e8dbeda3229d45829d530480229787c4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e8dbeda3229d45829d530480229787c4.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-08bebb57447d41e795c40b15158e82ac.html" target="element"> Customer and Market </a> </td>
+																		<td> <a href="../elements/id-31f3dfa016664ab0ab2187c157fcc140.html" target="element"> Customer Relationship and Communications </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-565d09b8c2a04b6b9de968334d5fae15.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-565d09b8c2a04b6b9de968334d5fae15.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-bbdc38d1137f48d2a9a7e1bb7f11e404.html" target="element"> Metering and Compensation  </a> </td>
+																		<td> <a href="../elements/id-78e9241890eb46e3a375a1eab8f50203.html" target="element"> Compensation and Settlement </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-79e19c66b5e04e7bba183e7a6a8da688.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-79e19c66b5e04e7bba183e7a6a8da688.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-bbdc38d1137f48d2a9a7e1bb7f11e404.html" target="element"> Metering and Compensation  </a> </td>
+																		<td> <a href="../elements/id-d7bd48883f0645a297d269ed154d136c.html" target="element"> Billing </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-24fc66d2dd89409eb0d1f69d581ac7a5.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-24fc66d2dd89409eb0d1f69d581ac7a5.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-4c5d3f8710ba40f093bbac121bedea74.html" target="element"> Market Platform Gateway </a> </td>
+																		<td> <a href="../elements/id-15c46bfc72a34116ad460ffad85004b1.html" target="element"> Cross border capacity </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-d9f10f29a8554dfdaa808bc8bb6b4d27.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-d9f10f29a8554dfdaa808bc8bb6b4d27.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-4c5d3f8710ba40f093bbac121bedea74.html" target="element"> Market Platform Gateway </a> </td>
+																		<td> <a href="../elements/id-137a3e81ea894bfe9e383c7578a2f417.html" target="element"> Power Exchange </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-2dbc07c95ec34d209b6814282ba66215.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-2dbc07c95ec34d209b6814282ba66215.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-4c5d3f8710ba40f093bbac121bedea74.html" target="element"> Market Platform Gateway </a> </td>
+																		<td> <a href="../elements/id-8661696d88d0458a847e0cc4281aeec8.html" target="element"> Services </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-a91450ed88664710b17a286e00985a25.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a91450ed88664710b17a286e00985a25.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-4c5d3f8710ba40f093bbac121bedea74.html" target="element"> Market Platform Gateway </a> </td>
+																		<td> <a href="../elements/id-2729313bd8514d41a4f787b29c18deef.html" target="element"> Balancing Market </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-1588b547d9c54771b1a0d24290d6ae2d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-1588b547d9c54771b1a0d24290d6ae2d.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-4c5d3f8710ba40f093bbac121bedea74.html" target="element"> Market Platform Gateway </a> </td>
+																		<td> <a href="../elements/id-9db869dbf1b54f9dbce04ab1434cd045.html" target="element"> Avalibility </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-496c0648e8d64912a0747c7fdcb9bd76.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-496c0648e8d64912a0747c7fdcb9bd76.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-689bff07790b433f8c6bb46ae15170fb.html" target="element"> Metering </a> </td>
+																		<td> <a href="../elements/id-bbdc38d1137f48d2a9a7e1bb7f11e404.html" target="element"> Metering and Compensation  </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-d960125a0ce444b199c54a17bec651e4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-d960125a0ce444b199c54a17bec651e4.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-bcaeefba65c541079293ebca7fde9b53.html" target="element"> Smart Ledgers </a> </td>
+																		<td> <a href="../elements/id-8617d1616537462b86fb569a9af60b97.html" target="element"> Customer Response </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-572d12e6c342461d90af1409266020b3.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-572d12e6c342461d90af1409266020b3.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-9b03569b706d48589b60bf60854a2552.html" target="element"> Customer Preferences </a> </td>
+																		<td> <a href="../elements/id-8617d1616537462b86fb569a9af60b97.html" target="element"> Customer Response </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-dd929ec80fe9485da576dee23945fd54.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-dd929ec80fe9485da576dee23945fd54.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-7b666c6ab4d642fcb58c40ae90ba1f8e.html" target="element"> Smart Contracts </a> </td>
+																		<td> <a href="../elements/id-8617d1616537462b86fb569a9af60b97.html" target="element"> Customer Response </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-e8a06214e5e945ed922d1ea98f5ee3f9.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e8a06214e5e945ed922d1ea98f5ee3f9.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-31f3dfa016664ab0ab2187c157fcc140.html" target="element"> Customer Relationship and Communications </a> </td>
+																		<td> <a href="../elements/id-112ad2080b174455910a7a04f0949fc5.html" target="element"> Acquisition, system, pricing, design </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-7c23a809f66d40d6995fbd68417a547a.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-7c23a809f66d40d6995fbd68417a547a.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-31f3dfa016664ab0ab2187c157fcc140.html" target="element"> Customer Relationship and Communications </a> </td>
+																		<td> <a href="../elements/id-debb26a6008f4c42b249375f7f231be8.html" target="element"> Notification and communication management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-f7e57d17535544858c10d53a1ef012da.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-f7e57d17535544858c10d53a1ef012da.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-31f3dfa016664ab0ab2187c157fcc140.html" target="element"> Customer Relationship and Communications </a> </td>
+																		<td> <a href="../elements/id-5f042205dd3743ef87de63135f2075ad.html" target="element"> Energy and Crisis management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-d2abe8a9b1e6412b8bc1958dc3acf2d6.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-d2abe8a9b1e6412b8bc1958dc3acf2d6.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-31f3dfa016664ab0ab2187c157fcc140.html" target="element"> Customer Relationship and Communications </a> </td>
+																		<td> <a href="../elements/id-0816afaba8c149e8932f590bc510c01d.html" target="element"> Consent management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-8bb79ae5a3c84706808195617e467326.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-8bb79ae5a3c84706808195617e467326.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-31f3dfa016664ab0ab2187c157fcc140.html" target="element"> Customer Relationship and Communications </a> </td>
+																		<td> <a href="../elements/id-42d1a383caf84b9cac603b541b84faca.html" target="element"> Customer app UX/UI </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-925343a0696342128e39d74c64971447.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-925343a0696342128e39d74c64971447.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-31f3dfa016664ab0ab2187c157fcc140.html" target="element"> Customer Relationship and Communications </a> </td>
+																		<td> <a href="../elements/id-c4c3ab9919384cd7919d5ca0907d9b33.html" target="element"> Contract </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-fe4447c30ed74f9ab5ed6018556e59c1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-fe4447c30ed74f9ab5ed6018556e59c1.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-7378e02694cf4116b641f81e3c8bb6f2.html" target="element"> System Management </a> </td>
+																		<td> <a href="../elements/id-83c5611ba6c242f390785147181f22d0.html" target="element"> Market Signal Generation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-a66f6eecd300489a8e14fbdbc4ca890f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a66f6eecd300489a8e14fbdbc4ca890f.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-7378e02694cf4116b641f81e3c8bb6f2.html" target="element"> System Management </a> </td>
+																		<td> <a href="../elements/id-960cca4e87d74ce2b538d460252b08c4.html" target="element"> System Control </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-9721a2a60bba49739e26be581de1d52f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-9721a2a60bba49739e26be581de1d52f.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-7378e02694cf4116b641f81e3c8bb6f2.html" target="element"> System Management </a> </td>
+																		<td> <a href="../elements/id-c6698fed3ac54657874e49056ad08ff4.html" target="element"> Power System Calculation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-708fec11a70e4b78914cbefab4dbbdaf.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-708fec11a70e4b78914cbefab4dbbdaf.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-7378e02694cf4116b641f81e3c8bb6f2.html" target="element"> System Management </a> </td>
+																		<td> <a href="../elements/id-805ae7fc5d23414dbf0ffda508befffd.html" target="element"> Forecasts </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-edfb6697865f4af2a1627c7a65d19d44.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-edfb6697865f4af2a1627c7a65d19d44.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-83c5611ba6c242f390785147181f22d0.html" target="element"> Market Signal Generation </a> </td>
+																		<td> <a href="../elements/id-43a7ef7fe49f452ab5e92d02d54a6971.html" target="element"> Balancing Mechanism </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-320e2501dfdb47d7a0bfcc486fd46d27.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-320e2501dfdb47d7a0bfcc486fd46d27.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-83c5611ba6c242f390785147181f22d0.html" target="element"> Market Signal Generation </a> </td>
+																		<td> <a href="../elements/id-1bbc009ec22248a1bc0caf60c9acf518.html" target="element"> Aggregated Service Organisation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-cbb54d0d594945aab738b69070f9b9cb.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-cbb54d0d594945aab738b69070f9b9cb.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-83c5611ba6c242f390785147181f22d0.html" target="element"> Market Signal Generation </a> </td>
+																		<td> <a href="../elements/id-76e8062e3e664385a7603714a448117d.html" target="element"> Adequacy assessment </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-79a55c596ad74cebabac7ce6118dba27.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-79a55c596ad74cebabac7ce6118dba27.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-83c5611ba6c242f390785147181f22d0.html" target="element"> Market Signal Generation </a> </td>
+																		<td> <a href="../elements/id-1eaf335be2454ee3b37702e3417f9871.html" target="element"> Cross border capacity calculation </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-3528556e812a4c14a696f07754b321de.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-3528556e812a4c14a696f07754b321de.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-960cca4e87d74ce2b538d460252b08c4.html" target="element"> System Control </a> </td>
+																		<td> <a href="../elements/id-220b1dfb1d49490797f5f4ebb38a2f03.html" target="element"> Remote Operation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-79b9fbdbd4ae4b0084f63889d377a764.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-79b9fbdbd4ae4b0084f63889d377a764.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-960cca4e87d74ce2b538d460252b08c4.html" target="element"> System Control </a> </td>
+																		<td> <a href="../elements/id-b5ab0431547e4a5c9f4e4fb9ef5216b6.html" target="element"> System operation </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-9af4c6399f7e43c1a1aaaec4d1896c0a.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-9af4c6399f7e43c1a1aaaec4d1896c0a.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-b5ab0431547e4a5c9f4e4fb9ef5216b6.html" target="element"> System operation </a> </td>
+																		<td> <a href="../elements/id-29d29654ea3340478d0be3ea0260aaf1.html" target="element"> Centralized Automation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-18fd68b523ba41129850dffa8f9bd972.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-18fd68b523ba41129850dffa8f9bd972.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-b5ab0431547e4a5c9f4e4fb9ef5216b6.html" target="element"> System operation </a> </td>
+																		<td> <a href="../elements/id-1d3f7c48fc344268bc120a48ca8c712e.html" target="element"> Power Quality and System stability </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-899093106b7848749e4e545dc4ebd507.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-899093106b7848749e4e545dc4ebd507.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-b5ab0431547e4a5c9f4e4fb9ef5216b6.html" target="element"> System operation </a> </td>
+																		<td> <a href="../elements/id-1c7d281a9fed490696718e929875c1c3.html" target="element"> Schedules </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-d3baefa8bcf34c70ba4f75976707dc80.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-d3baefa8bcf34c70ba4f75976707dc80.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-c6698fed3ac54657874e49056ad08ff4.html" target="element"> Power System Calculation </a> </td>
+																		<td> <a href="../elements/id-24c2d673b8a94a7697dbbdf13e325387.html" target="element"> Modeling </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-ccd0c75ca13c4865aeb7b5d687f5fd7c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-ccd0c75ca13c4865aeb7b5d687f5fd7c.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-c6698fed3ac54657874e49056ad08ff4.html" target="element"> Power System Calculation </a> </td>
+																		<td> <a href="../elements/id-53df72de15cc49298462b98ea03548bd.html" target="element"> Model Exchanges </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-41e9bd5d5f214179bf0c2ab4abe240f4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-41e9bd5d5f214179bf0c2ab4abe240f4.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-c6698fed3ac54657874e49056ad08ff4.html" target="element"> Power System Calculation </a> </td>
+																		<td> <a href="../elements/id-724fea7446e44157953123092831ece5.html" target="element"> State Estimation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-36be9fb15929420a844180da55544eea.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-36be9fb15929420a844180da55544eea.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-c6698fed3ac54657874e49056ad08ff4.html" target="element"> Power System Calculation </a> </td>
+																		<td> <a href="../elements/id-eb0ccd2ae9e54327b72779479cea7da7.html" target="element"> Simulation </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-6afeda73f26744f0bf7e7dbc42f35375.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-6afeda73f26744f0bf7e7dbc42f35375.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-eb0ccd2ae9e54327b72779479cea7da7.html" target="element"> Simulation </a> </td>
+																		<td> <a href="../elements/id-9deb9668a3dd45e1b47ad7ada6e2828e.html" target="element"> Static and Dynamic Calculation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-dc0cfb0f78694ccdbdc608bed2d83938.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-dc0cfb0f78694ccdbdc608bed2d83938.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-eb0ccd2ae9e54327b72779479cea7da7.html" target="element"> Simulation </a> </td>
+																		<td> <a href="../elements/id-2bb496d1b67749eda9624f6deb59bcbf.html" target="element"> Dispatch/Adequacy Calculation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-a19f332fc4894f9f9677ec40800f71d6.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a19f332fc4894f9f9677ec40800f71d6.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-eb0ccd2ae9e54327b72779479cea7da7.html" target="element"> Simulation </a> </td>
+																		<td> <a href="../elements/id-5b14ee250ec24f04b21ea505032921b3.html" target="element"> Security Analysis </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-5b212c0878274d729041ce459714be96.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-5b212c0878274d729041ce459714be96.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-805ae7fc5d23414dbf0ffda508befffd.html" target="element"> Forecasts </a> </td>
+																		<td> <a href="../elements/id-fa3e310a98ce4d60baf4aed4e186b53f.html" target="element"> Area Demands </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-32342078cad547439ca20e040b5cb923.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-32342078cad547439ca20e040b5cb923.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-805ae7fc5d23414dbf0ffda508befffd.html" target="element"> Forecasts </a> </td>
+																		<td> <a href="../elements/id-8fca6771b8344b868c7ff649107d8a8c.html" target="element"> Solar Wind Resource Generation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-e13a0031928b45098ca50d642e0dce29.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e13a0031928b45098ca50d642e0dce29.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-805ae7fc5d23414dbf0ffda508befffd.html" target="element"> Forecasts </a> </td>
+																		<td> <a href="../elements/id-b7c2443a77ee4c55a6c87e52eafad4f9.html" target="element"> System Services Forecast </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-d1570fe330634784b5de78767592aafc.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-d1570fe330634784b5de78767592aafc.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-805ae7fc5d23414dbf0ffda508befffd.html" target="element"> Forecasts </a> </td>
+																		<td> <a href="../elements/id-74ba2b9f04874cce95ae7033f6bec57c.html" target="element"> Market Prices </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-f6e742439c2a4450a3dbbed8ee9decf9.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-f6e742439c2a4450a3dbbed8ee9decf9.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-805ae7fc5d23414dbf0ffda508befffd.html" target="element"> Forecasts </a> </td>
+																		<td> <a href="../elements/id-ed55b66242e0400689072308e9bde3f4.html" target="element"> Local Site Balance </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-2cac648671724e069249d979f538734b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-2cac648671724e069249d979f538734b.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-805ae7fc5d23414dbf0ffda508befffd.html" target="element"> Forecasts </a> </td>
+																		<td> <a href="../elements/id-2ce2fe8d3f694c29a7b891ee6fa1b42a.html" target="element"> International Prices </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-9e817c2b66a74f808c0de81f67ff910c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-9e817c2b66a74f808c0de81f67ff910c.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-6acc9a438a484197b77131012a386350.html" target="element"> Data Management </a> </td>
+																		<td> <a href="../elements/id-e025f62b12664df085ef3e61e5de507f.html" target="element"> Message Queue </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-754b9474f65a41a4adebc8fb1283127c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-754b9474f65a41a4adebc8fb1283127c.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-6acc9a438a484197b77131012a386350.html" target="element"> Data Management </a> </td>
+																		<td> <a href="../elements/id-9be32e2b91af4eb78b640a0a136027d0.html" target="element"> Data Validation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-bbbd9d6622e34ab4a258c610dd312dbd.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-bbbd9d6622e34ab4a258c610dd312dbd.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-6acc9a438a484197b77131012a386350.html" target="element"> Data Management </a> </td>
+																		<td> <a href="../elements/id-95ec64d2615445b1bd7c86b8521d4707.html" target="element"> Long term storage </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-2c402d96f4cd4bb3bef0c7c07b0a1af0.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-2c402d96f4cd4bb3bef0c7c07b0a1af0.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-01dae297d4b84a8caac5a000886ae50d.html" target="element"> System Governance </a> </td>
+																		<td> <a href="../elements/id-235e6c448aaf4dc690d708446dd0aa55.html" target="element"> Self-registering </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-c397a8fcf3c84a289879f787b079bed8.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-c397a8fcf3c84a289879f787b079bed8.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-01dae297d4b84a8caac5a000886ae50d.html" target="element"> System Governance </a> </td>
+																		<td> <a href="../elements/id-73c5af7114ee481985ead5b2f7090307.html" target="element"> Self-Healing </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-eebc6c3044794ee59ea3106580837eca.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-eebc6c3044794ee59ea3106580837eca.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-01dae297d4b84a8caac5a000886ae50d.html" target="element"> System Governance </a> </td>
+																		<td> <a href="../elements/id-174501b968e74948bac30bcb998d4985.html" target="element"> Alignment with regulation and standards </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-6bfb6711528041b7b97a9345df7467ec.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-6bfb6711528041b7b97a9345df7467ec.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-c474088dfb284149a1cc606c6a1c7881.html" target="element"> IT management supervision </a> </td>
+																		<td> <a href="../elements/id-58323ff777d948dda3f0c64d66b8c0dd.html" target="element"> Network administration </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-86dd61ded72c49a4ada0e32e27ae6ebd.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-86dd61ded72c49a4ada0e32e27ae6ebd.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-c474088dfb284149a1cc606c6a1c7881.html" target="element"> IT management supervision </a> </td>
+																		<td> <a href="../elements/id-a51f022b21634115aa8299436d58b860.html" target="element"> Service administration </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-f7f1d9311271443b91cc2612c8da8e45.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-f7f1d9311271443b91cc2612c8da8e45.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-c474088dfb284149a1cc606c6a1c7881.html" target="element"> IT management supervision </a> </td>
+																		<td> <a href="../elements/id-3754124c3c674753a33d66834150861d.html" target="element"> Threat Monitoring </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-47b23010ee9b41df9a33a352033c8caa.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-47b23010ee9b41df9a33a352033c8caa.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-73f5032cd7a44ccbb7b7d10f76c1002e.html" target="element"> Common communication media </a> </td>
+																		<td> <a href="../elements/id-88650d863b544b4bba8b19b068e2f819.html" target="element"> Emergency and Crisis Management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-b0325fe4102d49a19ca398656472596d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b0325fe4102d49a19ca398656472596d.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-73f5032cd7a44ccbb7b7d10f76c1002e.html" target="element"> Common communication media </a> </td>
+																		<td> <a href="../elements/id-bcf454a355484f7c8ed489c4e46d3838.html" target="element"> Message queing service and directory </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-f670bf93812d4e40a9c06d9050cbd001.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-f670bf93812d4e40a9c06d9050cbd001.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-9a81047618bc48bcb43b39fb59a3629d.html" target="element"> Unified Operator's UX components and Frameworks </a> </td>
+																		<td> <a href="../elements/id-6037babbc6b64f5fa4b9490e45055452.html" target="element"> Co-ordination and workflow framework </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-8d65520c8543466ca186d72e910fe19d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-8d65520c8543466ca186d72e910fe19d.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-9a81047618bc48bcb43b39fb59a3629d.html" target="element"> Unified Operator's UX components and Frameworks </a> </td>
+																		<td> <a href="../elements/id-3a771ebbf5b04e37ae796aa32055a108.html" target="element"> Supervision/Hypervision Component </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-dca7a24876914fb5a38340d65064bff4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-dca7a24876914fb5a38340d65064bff4.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-9a81047618bc48bcb43b39fb59a3629d.html" target="element"> Unified Operator's UX components and Frameworks </a> </td>
+																		<td> <a href="../elements/id-a40a0daef9224b3ca53334c2435fc621.html" target="element"> User Alerting </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-980927081926484181ff97f9c4eb5d4f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-980927081926484181ff97f9c4eb5d4f.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-9a81047618bc48bcb43b39fb59a3629d.html" target="element"> Unified Operator's UX components and Frameworks </a> </td>
+																		<td> <a href="../elements/id-91afb6db53104f66b0a3904ad02c2cbd.html" target="element"> Field Service, Customer Care </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-aa1038570c13424e9432c5ae1059bd63.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-aa1038570c13424e9432c5ae1059bd63.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-f451dce13e214b9d8fa43a11764acc80.html" target="element"> Security Management </a> </td>
+																		<td> <a href="../elements/id-72d3783d70404d41a4d4f269cba42ad3.html" target="element"> Cyber Security </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-055b171a52564411b175db50fd2e6bd9.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-055b171a52564411b175db50fd2e6bd9.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-f451dce13e214b9d8fa43a11764acc80.html" target="element"> Security Management </a> </td>
+																		<td> <a href="../elements/id-1697a5356c12455480aa32ed8250193f.html" target="element"> Privacy Management </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-a718da9056da48be9004207384a18f98.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a718da9056da48be9004207384a18f98.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e739921e10143b1a326898d99641518.html" target="element"> Shared Functions </a> </td>
+																		<td> <a href="../elements/id-6acc9a438a484197b77131012a386350.html" target="element"> Data Management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-b6e531fdd815431eb4db1bd373b96750.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b6e531fdd815431eb4db1bd373b96750.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e739921e10143b1a326898d99641518.html" target="element"> Shared Functions </a> </td>
+																		<td> <a href="../elements/id-01dae297d4b84a8caac5a000886ae50d.html" target="element"> System Governance </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-9c7cc04705904da180d145f270ff83f4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-9c7cc04705904da180d145f270ff83f4.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e739921e10143b1a326898d99641518.html" target="element"> Shared Functions </a> </td>
+																		<td> <a href="../elements/id-73f5032cd7a44ccbb7b7d10f76c1002e.html" target="element"> Common communication media </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-50c6ce4f704e4c5eb43b6e267b6a6a0c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-50c6ce4f704e4c5eb43b6e267b6a6a0c.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e739921e10143b1a326898d99641518.html" target="element"> Shared Functions </a> </td>
+																		<td> <a href="../elements/id-9a81047618bc48bcb43b39fb59a3629d.html" target="element"> Unified Operator's UX components and Frameworks </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-fa27b63648b9440e94ca967ad2d08649.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-fa27b63648b9440e94ca967ad2d08649.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e739921e10143b1a326898d99641518.html" target="element"> Shared Functions </a> </td>
+																		<td> <a href="../elements/id-f451dce13e214b9d8fa43a11764acc80.html" target="element"> Security Management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-935f442fc32f4c50a2ffed74042b3bd4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-935f442fc32f4c50a2ffed74042b3bd4.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e739921e10143b1a326898d99641518.html" target="element"> Shared Functions </a> </td>
+																		<td> <a href="../elements/id-c474088dfb284149a1cc606c6a1c7881.html" target="element"> IT management supervision </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-1ba667fd670c48a4a78a5474a03c1d50.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-1ba667fd670c48a4a78a5474a03c1d50.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-0ef784debd9a4d5793e51a9293a1b8be.html" target="element"> Outage Management </a> </td>
+																		<td> <a href="../elements/id-9442ddbbadfb4cb18abcb4ad5cbf198c.html" target="element"> Outage coordination and stakeholder management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-139899f9263e401c8862a8d8db723383.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-139899f9263e401c8862a8d8db723383.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-0ef784debd9a4d5793e51a9293a1b8be.html" target="element"> Outage Management </a> </td>
+																		<td> <a href="../elements/id-f299106902834ee2838c47642ff4d45f.html" target="element"> Distributed outage management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-85678f9191294ed1b501140f6c4e5356.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-85678f9191294ed1b501140f6c4e5356.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-0ef784debd9a4d5793e51a9293a1b8be.html" target="element"> Outage Management </a> </td>
+																		<td> <a href="../elements/id-4556460bf1e84a0292e05a510209797b.html" target="element"> Customer impact assesement </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-71337c16757542479cf5199afea535e1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-71337c16757542479cf5199afea535e1.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-0ef784debd9a4d5793e51a9293a1b8be.html" target="element"> Outage Management </a> </td>
+																		<td> <a href="../elements/id-e28af5ef3c304ff3a1d4406e1d0eb4f8.html" target="element"> Outage programming and planning </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-c2961d97fc7144049a35475d76da888b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-c2961d97fc7144049a35475d76da888b.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-0ef784debd9a4d5793e51a9293a1b8be.html" target="element"> Outage Management </a> </td>
+																		<td> <a href="../elements/id-24b99f3763fd497d9a57189a9cd8e893.html" target="element"> Ticketing </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-ab1191945209452eb451f1797287dd1e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-ab1191945209452eb451f1797287dd1e.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-31d53998230f4e8dab8bb7a489b2620c.html" target="element"> Asset Investment Planning </a> </td>
+																		<td> <a href="../elements/id-a6eb159724e74894a49746b5e2e019d3.html" target="element"> Renewable policy Management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-727bcb4efb504aaf86b039695f463f38.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-727bcb4efb504aaf86b039695f463f38.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-31d53998230f4e8dab8bb7a489b2620c.html" target="element"> Asset Investment Planning </a> </td>
+																		<td> <a href="../elements/id-8627dcf03d454fef81243c923b4588f1.html" target="element"> Project Finance Management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-6238c46ccd8d4a7188f62240e4a93349.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-6238c46ccd8d4a7188f62240e4a93349.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-31d53998230f4e8dab8bb7a489b2620c.html" target="element"> Asset Investment Planning </a> </td>
+																		<td> <a href="../elements/id-e5c4abdf76d5494ba52b17c1656836ac.html" target="element"> Investment Policy </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-5c14e017eae44e08a7523ba7af75087a.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-5c14e017eae44e08a7523ba7af75087a.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-fb8977d8c7ef4f589dacf286db3c3c6f.html" target="element"> Asset Supervision  </a> </td>
+																		<td> <a href="../elements/id-4d2951d45a624e21871bbcee49093f67.html" target="element"> Real Time monitoring </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-f6466cab2e0c4d31a458d8bcc475f873.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-f6466cab2e0c4d31a458d8bcc475f873.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-fb8977d8c7ef4f589dacf286db3c3c6f.html" target="element"> Asset Supervision  </a> </td>
+																		<td> <a href="../elements/id-2b1777e84e004e32a406c3b77bfeb84d.html" target="element"> Log analysis </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-7eeb3b9b7fd44d7b9df8993954ee033f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-7eeb3b9b7fd44d7b9df8993954ee033f.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-fb8977d8c7ef4f589dacf286db3c3c6f.html" target="element"> Asset Supervision  </a> </td>
+																		<td> <a href="../elements/id-6b6b48834ddc4f0b99b4caab7beb0d6b.html" target="element"> Asset Planning </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-e4840f2356ab4c57977a90789234a585.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e4840f2356ab4c57977a90789234a585.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-fb8977d8c7ef4f589dacf286db3c3c6f.html" target="element"> Asset Supervision  </a> </td>
+																		<td> <a href="../elements/id-a5db56d3bd5340ee8ca06c2d50a50cb2.html" target="element"> Asset lifecycle management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-0a650e177f9b4cf1986f71b79959cd2b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-0a650e177f9b4cf1986f71b79959cd2b.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-fb8977d8c7ef4f589dacf286db3c3c6f.html" target="element"> Asset Supervision  </a> </td>
+																		<td> <a href="../elements/id-ca12a0de4a1642c6afbe50e60563b6f7.html" target="element"> Asset performance management </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-1c1d37f5ee50479bbc8b3793bebabcbb.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-1c1d37f5ee50479bbc8b3793bebabcbb.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-54c52d278f4f41febfe8c49b1dd72b99.html" target="element"> Asset Repository </a> </td>
+																		<td> <a href="../elements/id-72a287cbc07745e79f365aeed40c962a.html" target="element"> Configuration and Setting repository </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-b9cab952c79449119c4d161c05e7c7d0.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b9cab952c79449119c4d161c05e7c7d0.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-54c52d278f4f41febfe8c49b1dd72b99.html" target="element"> Asset Repository </a> </td>
+																		<td> <a href="../elements/id-d1045b19badf470989d149dfddd1c7c4.html" target="element"> Power Equipment Repository </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-0df9acf3edc54cdbb838642ad249404b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-0df9acf3edc54cdbb838642ad249404b.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-54c52d278f4f41febfe8c49b1dd72b99.html" target="element"> Asset Repository </a> </td>
+																		<td> <a href="../elements/id-3387ad06d5c54de6b1f4a0206c038849.html" target="element"> Digital Infrastructure repository </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-b244fbb7cd2f49e28d8bdd72f3d0fcf6.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b244fbb7cd2f49e28d8bdd72f3d0fcf6.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-54c52d278f4f41febfe8c49b1dd72b99.html" target="element"> Asset Repository </a> </td>
+																		<td> <a href="../elements/id-15a0e2d209194095859ac0ec5e56960e.html" target="element"> Configuration tools </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-d4271130fd804ffca17218b941bb7d49.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-d4271130fd804ffca17218b941bb7d49.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-afeb5c961372486394672d5452739c37.html" target="element"> Asset management </a> </td>
+																		<td> <a href="../elements/id-0ef784debd9a4d5793e51a9293a1b8be.html" target="element"> Outage Management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-c1e0c113844c45e9aa7cdc27419b52e4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-c1e0c113844c45e9aa7cdc27419b52e4.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-afeb5c961372486394672d5452739c37.html" target="element"> Asset management </a> </td>
+																		<td> <a href="../elements/id-31d53998230f4e8dab8bb7a489b2620c.html" target="element"> Asset Investment Planning </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-70aeac65c9fb463cb4ab15708478fdc2.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-70aeac65c9fb463cb4ab15708478fdc2.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-afeb5c961372486394672d5452739c37.html" target="element"> Asset management </a> </td>
+																		<td> <a href="../elements/id-fb8977d8c7ef4f589dacf286db3c3c6f.html" target="element"> Asset Supervision  </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-aec0052620484bbbac22ad6fca0c3d1b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-aec0052620484bbbac22ad6fca0c3d1b.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-afeb5c961372486394672d5452739c37.html" target="element"> Asset management </a> </td>
+																		<td> <a href="../elements/id-54c52d278f4f41febfe8c49b1dd72b99.html" target="element"> Asset Repository </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-099ad8f40b5543edb8c4e68f53ee70f8.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-099ad8f40b5543edb8c4e68f53ee70f8.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-afeb5c961372486394672d5452739c37.html" target="element"> Asset management </a> </td>
+																		<td> <a href="../elements/id-5f67aee7e3b147e0b36568fd144ba799.html" target="element"> Analytics </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-099117bf363749abab3df20e890de70b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-099117bf363749abab3df20e890de70b.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-afeb5c961372486394672d5452739c37.html" target="element"> Asset management </a> </td>
+																		<td> <a href="../elements/id-8b75948977f64fa9b12c4ebc6f086367.html" target="element"> Field Work Management </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-e94673055b1446e3918fefe8b1fc15fe.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e94673055b1446e3918fefe8b1fc15fe.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-5f67aee7e3b147e0b36568fd144ba799.html" target="element"> Analytics </a> </td>
+																		<td> <a href="../elements/id-23c6774ea92b49f894a5e4c9872a0efd.html" target="element"> Health Index Calculation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-5bbd68eebd8a47b69700e152dde2d2ab.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-5bbd68eebd8a47b69700e152dde2d2ab.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-5f67aee7e3b147e0b36568fd144ba799.html" target="element"> Analytics </a> </td>
+																		<td> <a href="../elements/id-cd95cb7b3d9f4b65a4e2f1b6ec7272fb.html" target="element"> Deep Learning </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-752b673872e4481d81e0efc81131f2d5.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-752b673872e4481d81e0efc81131f2d5.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-5f67aee7e3b147e0b36568fd144ba799.html" target="element"> Analytics </a> </td>
+																		<td> <a href="../elements/id-b6955d3be8694347856440ddbc9252cf.html" target="element"> Simulation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-9d1ac302ef15424a80a53226737b06f9.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-9d1ac302ef15424a80a53226737b06f9.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-5f67aee7e3b147e0b36568fd144ba799.html" target="element"> Analytics </a> </td>
+																		<td> <a href="../elements/id-9688fc59ddd444cc9c6d68965212955e.html" target="element"> Digital Twin </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-27edc5292e0a436ba5a8acadeb3f41ff.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-27edc5292e0a436ba5a8acadeb3f41ff.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-5f67aee7e3b147e0b36568fd144ba799.html" target="element"> Analytics </a> </td>
+																		<td> <a href="../elements/id-c10d37495e064eaaabcef128ba9125e1.html" target="element"> Predictive Analytics </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-fc70090a8b6e4af29afb531e37c57a6f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-fc70090a8b6e4af29afb531e37c57a6f.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8b75948977f64fa9b12c4ebc6f086367.html" target="element"> Field Work Management </a> </td>
+																		<td> <a href="../elements/id-fd8e7cd12c804fe3b784ea7a6f538ad1.html" target="element"> Supply Chain  </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-2fbed8ee81e248c096690c01cb01e8d8.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-2fbed8ee81e248c096690c01cb01e8d8.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8b75948977f64fa9b12c4ebc6f086367.html" target="element"> Field Work Management </a> </td>
+																		<td> <a href="../elements/id-1266e93f8fa74b579580d23db71ab3f6.html" target="element"> Safety rules implementations </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-94894fccbe1f454f9ea4b8150884682d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-94894fccbe1f454f9ea4b8150884682d.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8b75948977f64fa9b12c4ebc6f086367.html" target="element"> Field Work Management </a> </td>
+																		<td> <a href="../elements/id-89a1a7305116425eaab0b42d0124e784.html" target="element"> Team planning + Scheduling </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-3de24944612a4e58a187338dd4bc437e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-3de24944612a4e58a187338dd4bc437e.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ae7c5ecd255d48d293c929dc78a85fb1.html" target="element"> Acquisition and Control  </a> </td>
+																		<td> <a href="../elements/id-8e96912196bd4ec29405ccc14859dd42.html" target="element"> Edge Node Control </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-08da296e35624ddeb6df43d3474def79.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-08da296e35624ddeb6df43d3474def79.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ae7c5ecd255d48d293c929dc78a85fb1.html" target="element"> Acquisition and Control  </a> </td>
+																		<td> <a href="../elements/id-5e61fceab8fc420cb7f5f010c3a62c3a.html" target="element"> Critical Equipment </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-5183da3ba08e48c1a5232b6579f7db8d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-5183da3ba08e48c1a5232b6579f7db8d.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ae7c5ecd255d48d293c929dc78a85fb1.html" target="element"> Acquisition and Control  </a> </td>
+																		<td> <a href="../elements/id-fb462a5c23554d6181cfc55d473b9a79.html" target="element"> Communication Infrastructure </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-fb2b8e8b7e4e4442be8d88a250ace097.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-fb2b8e8b7e4e4442be8d88a250ace097.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ae7c5ecd255d48d293c929dc78a85fb1.html" target="element"> Acquisition and Control  </a> </td>
+																		<td> <a href="../elements/id-5ec996f169af4319980acb3268040e79.html" target="element"> Less-critical Equipment </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-7c201dad7f284161b0b7c3e7da4eb9ff.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-7c201dad7f284161b0b7c3e7da4eb9ff.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ae7c5ecd255d48d293c929dc78a85fb1.html" target="element"> Acquisition and Control  </a> </td>
+																		<td> <a href="../elements/id-7779977b17e34e459cb4051c21a9daca.html" target="element"> Central Hub </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-28655945617348a7bed0f7680f62ad1d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-28655945617348a7bed0f7680f62ad1d.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ae7c5ecd255d48d293c929dc78a85fb1.html" target="element"> Acquisition and Control  </a> </td>
+																		<td> <a href="../elements/id-a08177bc8bc345f9b885c0086ba29b78.html" target="element"> Infrastructure Management </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-74487aa41285400ca4e3344012801598.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-74487aa41285400ca4e3344012801598.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-5e61fceab8fc420cb7f5f010c3a62c3a.html" target="element"> Critical Equipment </a> </td>
+																		<td> <a href="../elements/id-a8149272f02d4e47a7517f8595afbe9f.html" target="element"> Sensor </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-10c8e4a95a314436a8bcdbf72d529c6c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-10c8e4a95a314436a8bcdbf72d529c6c.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-5e61fceab8fc420cb7f5f010c3a62c3a.html" target="element"> Critical Equipment </a> </td>
+																		<td> <a href="../elements/id-6cd4c048f3b543c2bfa38a9c36628661.html" target="element"> Protection  </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-ce9d69a99a344b299e2f6771ec4e4edb.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-ce9d69a99a344b299e2f6771ec4e4edb.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-5e61fceab8fc420cb7f5f010c3a62c3a.html" target="element"> Critical Equipment </a> </td>
+																		<td> <a href="../elements/id-94cce7bfc2ce48cd8812599b6f1c5fb7.html" target="element"> Actuator </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-1949f7aeb1704f30b7f805b3400bf94b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-1949f7aeb1704f30b7f805b3400bf94b.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-5ec996f169af4319980acb3268040e79.html" target="element"> Less-critical Equipment </a> </td>
+																		<td> <a href="../elements/id-f91c7a1bde804b91a5a969b0edfe61eb.html" target="element"> Sensor </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-9fc4baa49f9747b6896b8201f3aa1cfc.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-9fc4baa49f9747b6896b8201f3aa1cfc.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-5ec996f169af4319980acb3268040e79.html" target="element"> Less-critical Equipment </a> </td>
+																		<td> <a href="../elements/id-43ef461434814e60950b27a1ccd70ae2.html" target="element"> Protection </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-c5229f9746c947f98197b0157f449d04.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-c5229f9746c947f98197b0157f449d04.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-5ec996f169af4319980acb3268040e79.html" target="element"> Less-critical Equipment </a> </td>
+																		<td> <a href="../elements/id-116bbd18e1d141c39c84351287cec40c.html" target="element"> Actuator </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-1ae49d4364a94354a75bfe6cc4cf80a6.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-1ae49d4364a94354a75bfe6cc4cf80a6.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e96912196bd4ec29405ccc14859dd42.html" target="element"> Edge Node Control </a> </td>
+																		<td> <a href="../elements/id-aa2486dbfffe4caa8110cba9723d8f9b.html" target="element"> Protocol Management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-202cbe1b2c9a41ad9e23cdff62f52e4c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-202cbe1b2c9a41ad9e23cdff62f52e4c.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e96912196bd4ec29405ccc14859dd42.html" target="element"> Edge Node Control </a> </td>
+																		<td> <a href="../elements/id-43116cd3b69245409a39a3ddf8827040.html" target="element"> Aggregated/Distributed/virtualized equipment protections </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-99a27d95570d4aafbca9c45a9b40e1be.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-99a27d95570d4aafbca9c45a9b40e1be.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e96912196bd4ec29405ccc14859dd42.html" target="element"> Edge Node Control </a> </td>
+																		<td> <a href="../elements/id-5f64a5c2b47f40a19a4dad5aedac1e26.html" target="element"> Failures recording </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-2471e2cb823349d3a912252a2ee4367f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-2471e2cb823349d3a912252a2ee4367f.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e96912196bd4ec29405ccc14859dd42.html" target="element"> Edge Node Control </a> </td>
+																		<td> <a href="../elements/id-ac3048a544534c58869c0e88628cf81e.html" target="element"> Aggregated/Distributed/Local automations </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-505bfbd4d7bb4013a0f9247fa36672c1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-505bfbd4d7bb4013a0f9247fa36672c1.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e96912196bd4ec29405ccc14859dd42.html" target="element"> Edge Node Control </a> </td>
+																		<td> <a href="../elements/id-46852cb5dce147d0a3209fda970c9553.html" target="element"> Measuring, metering, altering, sensing and actuation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-7de9611cd8384eba987b610a282e5e34.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-7de9611cd8384eba987b610a282e5e34.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e96912196bd4ec29405ccc14859dd42.html" target="element"> Edge Node Control </a> </td>
+																		<td> <a href="../elements/id-5eb45887939349dbb825d86d9e9145cc.html" target="element"> Logging </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-17995d704fdd4926aebaf7ce76561b95.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-17995d704fdd4926aebaf7ce76561b95.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e96912196bd4ec29405ccc14859dd42.html" target="element"> Edge Node Control </a> </td>
+																		<td> <a href="../elements/id-16d93648b62e41039fe95b073e1fba52.html" target="element"> Configuration  </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-d816cb68b61c41b4b764197ae334da89.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-d816cb68b61c41b4b764197ae334da89.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8e96912196bd4ec29405ccc14859dd42.html" target="element"> Edge Node Control </a> </td>
+																		<td> <a href="../elements/id-82131165d40d42a69ce3400c00b596a2.html" target="element"> Equipment Communication </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-1003e7e1665f45b3ad30294a50fea3ba.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-1003e7e1665f45b3ad30294a50fea3ba.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ac3048a544534c58869c0e88628cf81e.html" target="element"> Aggregated/Distributed/Local automations </a> </td>
+																		<td> <a href="../elements/id-d18d17c458434b17ba92834ea7cd1ae4.html" target="element"> Synchronisation </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-33e967baefaa4a7b8fe7f66a9d88a237.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-33e967baefaa4a7b8fe7f66a9d88a237.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ac3048a544534c58869c0e88628cf81e.html" target="element"> Aggregated/Distributed/Local automations </a> </td>
+																		<td> <a href="../elements/id-5ca152644a0a4ebbba92741d588f8c5f.html" target="element"> Balance and frequency control </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-83e8b96d403f4bea8ebe36d612cb79fb.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-83e8b96d403f4bea8ebe36d612cb79fb.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ac3048a544534c58869c0e88628cf81e.html" target="element"> Aggregated/Distributed/Local automations </a> </td>
+																		<td> <a href="../elements/id-064bc7337da14e3ca56b1b7dba426add.html" target="element"> Monitoring and Control </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-e36037604eb4487c80ed99d2bb565470.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e36037604eb4487c80ed99d2bb565470.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ac3048a544534c58869c0e88628cf81e.html" target="element"> Aggregated/Distributed/Local automations </a> </td>
+																		<td> <a href="../elements/id-a450e6a818f04a9fabcd48e7db6bcc78.html" target="element"> Congestion Management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-cbf102b667414878bc7f7aa29695b3d6.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-cbf102b667414878bc7f7aa29695b3d6.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ac3048a544534c58869c0e88628cf81e.html" target="element"> Aggregated/Distributed/Local automations </a> </td>
+																		<td> <a href="../elements/id-aca682eb82b14958896ce827db08a204.html" target="element"> Power quality management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-e337e468247a48d0ad652f53fe39bece.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e337e468247a48d0ad652f53fe39bece.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ac3048a544534c58869c0e88628cf81e.html" target="element"> Aggregated/Distributed/Local automations </a> </td>
+																		<td> <a href="../elements/id-fadfd191df7d44f5a91daea514843a3b.html" target="element"> Outage Management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-e15a0bbdacc14fb898dd3694ccb7a34b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e15a0bbdacc14fb898dd3694ccb7a34b.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ac3048a544534c58869c0e88628cf81e.html" target="element"> Aggregated/Distributed/Local automations </a> </td>
+																		<td> <a href="../elements/id-18920eee3b02480bb47f3977a9c4af7e.html" target="element"> Storage Management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-24c27ebcc86d455da85470c180384a4e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-24c27ebcc86d455da85470c180384a4e.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ac3048a544534c58869c0e88628cf81e.html" target="element"> Aggregated/Distributed/Local automations </a> </td>
+																		<td> <a href="../elements/id-e2f72547139649d38ea36114aca2c6f5.html" target="element"> Demand Response Management </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-1c084b62dfdf45fb9fa45a01b1aa85b3.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-1c084b62dfdf45fb9fa45a01b1aa85b3.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-7779977b17e34e459cb4051c21a9daca.html" target="element"> Central Hub </a> </td>
+																		<td> <a href="../elements/id-8dfb13b7dcf540a4bce97149188310d4.html" target="element"> Protocol Conversion </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-afaaadf209fa4f61a74c8d0fc5912dee.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-afaaadf209fa4f61a74c8d0fc5912dee.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-7779977b17e34e459cb4051c21a9daca.html" target="element"> Central Hub </a> </td>
+																		<td> <a href="../elements/id-b49bb18366db4bf6932efd2feb9f0b61.html" target="element"> Data acqusition and treatment </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-69d62b50675e483ca1b66d0a68a8beef.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-69d62b50675e483ca1b66d0a68a8beef.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-7779977b17e34e459cb4051c21a9daca.html" target="element"> Central Hub </a> </td>
+																		<td> <a href="../elements/id-fcdd7681e6ac42be8098409622d3f317.html" target="element"> Cross device/vendor and cross telecom network compatibility </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-b246773fcab34173acda2618a1680c13.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b246773fcab34173acda2618a1680c13.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-7779977b17e34e459cb4051c21a9daca.html" target="element"> Central Hub </a> </td>
+																		<td> <a href="../elements/id-bf4ab65d56d64a76ab2045cdbb91514f.html" target="element"> Short term persistency </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-fff165e76242425abc02b9a34af47914.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-fff165e76242425abc02b9a34af47914.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-7779977b17e34e459cb4051c21a9daca.html" target="element"> Central Hub </a> </td>
+																		<td> <a href="../elements/id-f8becc74a0a3425495664b022e748f3d.html" target="element"> End to End encryption/KEYS </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-99e136c848d44b76b4868068bfe4b2b0.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-99e136c848d44b76b4868068bfe4b2b0.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a08177bc8bc345f9b885c0086ba29b78.html" target="element"> Infrastructure Management </a> </td>
+																		<td> <a href="../elements/id-663acdd76410473fa2d44f096e2d0a25.html" target="element"> Remote Equipment and node management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-53ce5ee613af4b6b9e92b000780ea182.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-53ce5ee613af4b6b9e92b000780ea182.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a08177bc8bc345f9b885c0086ba29b78.html" target="element"> Infrastructure Management </a> </td>
+																		<td> <a href="../elements/id-3c4f5b4272974a58b32372a59d96d416.html" target="element"> Remote Configuration management </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-3a322282d0db420c9ec0b3cd2dd204aa.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-3a322282d0db420c9ec0b3cd2dd204aa.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a08177bc8bc345f9b885c0086ba29b78.html" target="element"> Infrastructure Management </a> </td>
+																		<td> <a href="../elements/id-f6baa806afb74ea482f863c4575a5645.html" target="element"> Comissioning and installation management </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-177a434da10d4a05b2558ec485c59c12.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-177a434da10d4a05b2558ec485c59c12.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-9076cce5e172469da19f84b2dd2822d7.html" target="element"> Grouping </a> </td>
+																		<td> <a href="../elements/id-a1acf936d64e46e6aebd56b4e6efcce7.html" target="element"> Substation Node </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-7946e2d127004ea792f2f869aaa8c56c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-7946e2d127004ea792f2f869aaa8c56c.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-9076cce5e172469da19f84b2dd2822d7.html" target="element"> Grouping </a> </td>
+																		<td> <a href="../elements/id-7b30136f21934cfdab38a3e04147400d.html" target="element"> Aggregation Node </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-007c563096ab40209b55a51ecbf82709.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-007c563096ab40209b55a51ecbf82709.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-9076cce5e172469da19f84b2dd2822d7.html" target="element"> Grouping </a> </td>
+																		<td> <a href="../elements/id-29ddb33ff71c464e85f4ddc6b1114f2e.html" target="element"> Equipment Node </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-37dc4590a60945b48eea4f01116561f7.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-37dc4590a60945b48eea4f01116561f7.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-9076cce5e172469da19f84b2dd2822d7.html" target="element"> Grouping </a> </td>
+																		<td> <a href="../elements/id-3b06408a963c47028d25c8913775e32f.html" target="element"> Customer Side Node </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-611a2a6efdf04e55ba132ab12be837ef.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-611a2a6efdf04e55ba132ab12be837ef.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-9076cce5e172469da19f84b2dd2822d7.html" target="element"> Grouping </a> </td>
+																		<td> <a href="../elements/id-e7dd619e67df469fb3fe7127ea23889d.html" target="element"> Distribution Node </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-b669b8a19a154bacbe54a7f04295be1b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b669b8a19a154bacbe54a7f04295be1b.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-9076cce5e172469da19f84b2dd2822d7.html" target="element"> Grouping </a> </td>
+																		<td> <a href="../elements/id-ae7c5ecd255d48d293c929dc78a85fb1.html" target="element"> Acquisition and Control  </a> </td>
+																	</tr>
+
+											
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
