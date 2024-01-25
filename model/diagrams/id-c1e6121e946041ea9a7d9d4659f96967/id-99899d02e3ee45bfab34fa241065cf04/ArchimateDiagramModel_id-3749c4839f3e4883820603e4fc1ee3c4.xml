@@ -771,4 +771,15 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-4c7097d9d41049599cfef838ff2ae8a4.xml#id-4c7097d9d41049599cfef838ff2ae8a4"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-063dc90f130b426f8e7614eac9b0f5e5"
+      textAlignment="1"
+      content="Draft">
+    <bounds
+        x="168"
+        y="732"
+        width="132"
+        height="48"/>
+  </children>
 </archimate:ArchimateDiagramModel>
