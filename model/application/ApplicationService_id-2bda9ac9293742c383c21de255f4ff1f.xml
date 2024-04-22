@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IEC 61850-8-1 (GOOSE="
+    name="IEC 61850-8-1 (GOOSE)"
     id="id-2bda9ac9293742c383c21de255f4ff1f"
     documentation="Information exchange between IEDs in a Substation over the Ethernet."/>

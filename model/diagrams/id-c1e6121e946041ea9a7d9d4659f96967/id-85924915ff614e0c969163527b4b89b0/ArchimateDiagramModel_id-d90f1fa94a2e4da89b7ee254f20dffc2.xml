@@ -217,7 +217,7 @@
           href="RealizationRelationship_id-9cbd2b9b2d55491690027fccb4d3e48c.xml#id-9cbd2b9b2d55491690027fccb4d3e48c"/>
     </sourceConnections>
     <bounds
-        x="696"
+        x="660"
         y="1980"
         width="205"
         height="67"/>
@@ -396,8 +396,8 @@
           href="ServingRelationship_id-84d8e7bde31244d8a20e7e0eab65fcb2.xml#id-84d8e7bde31244d8a20e7e0eab65fcb2"/>
     </sourceConnections>
     <bounds
-        x="444"
-        y="1476"
+        x="447"
+        y="1404"
         width="672"
         height="103"/>
     <children
@@ -424,8 +424,8 @@
       textAlignment="1"
       content="= IEDs&#xD;&#xA;ArchiMate - NODE object">
     <bounds
-        x="1130"
-        y="1489"
+        x="1356"
+        y="1417"
         width="185"
         height="54"/>
   </children>
@@ -435,8 +435,8 @@
       targetConnections="id-21bbf5d6603c445cbe2d8d1be18174b9"
       font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
     <bounds
-        x="628"
-        y="1357"
+        x="631"
+        y="1285"
         width="169"
         height="47"/>
     <archimateElement
@@ -550,7 +550,7 @@
       content="Also used as equipement Node ?">
     <bounds
         x="192"
-        y="1474"
+        y="1404"
         width="185"
         height="80"/>
   </children>
@@ -559,12 +559,79 @@
       id="id-4a3545e18dca4da7a1c4fea5b29748ff"
       type="1">
     <bounds
-        x="264"
-        y="1542"
+        x="267"
+        y="1447"
         width="120"
         height="49"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-29ddb33ff71c464e85f4ddc6b1114f2e.xml#id-29ddb33ff71c464e85f4ddc6b1114f2e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-70b7356e517e4f80909eb2cc39409919"
+      targetConnections="id-18a7d562eefb4b7ab90b900d039288c7">
+    <bounds
+        x="660"
+        y="1536"
+        width="121"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-73c5af7114ee481985ead5b2f7090307.xml#id-73c5af7114ee481985ead5b2f7090307"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f9f04478887b4a2594f7edef24248432"
+      textAlignment="1"
+      content="re use this existing fonction for fault détection and recovery? ">
+    <bounds
+        x="552"
+        y="1536"
+        width="109"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9f8edf5404e14f0fb6682999a34547d7">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-18a7d562eefb4b7ab90b900d039288c7"
+        source="id-9f8edf5404e14f0fb6682999a34547d7"
+        target="id-70b7356e517e4f80909eb2cc39409919">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-c397a8fcf3c84a289879f787b079bed8.xml#id-c397a8fcf3c84a289879f787b079bed8"/>
+    </sourceConnections>
+    <bounds
+        x="799"
+        y="1536"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-01dae297d4b84a8caac5a000886ae50d.xml#id-01dae297d4b84a8caac5a000886ae50d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-087bc6a58025413f977816dbc84fe19f"
+      textAlignment="1"
+      content="réalise the associated fonctions ">
+    <bounds
+        x="1368"
+        y="1776"
+        width="193"
+        height="64"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3f522218ff674ea2a9b0fed685a8c26a"
+      textAlignment="1"
+      content="réalise the associated business fonctions or processes&#xD;&#xA; ">
+    <bounds
+        x="1368"
+        y="1676"
+        width="193"
+        height="64"/>
   </children>
 </archimate:ArchimateDiagramModel>
