@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Shapshifter"
-    id="id-7948eb62fc4045ac9018251efefdbf0a"/>
+    id="id-7948eb62fc4045ac9018251efefdbf0a"
+    documentation="Shapeshifter implements the Universal Smart Energy Framework for flexibility forecasting, offering, ordering, and settlement processes. Additionally, ShapeShifter enables trading via DSO/TSO coordination platforms that also support the protocol.&#xD;&#xA;&#xD;&#xA;https://lfenergy.org/projects/shapeshifter/"/>
