@@ -127,7 +127,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c9701d6f26864bc9990ae37547034a15"
-          targetConnections="id-94bc380dc2da45439a10fbcb07960790">
+          targetConnections="id-94bc380dc2da45439a10fbcb07960790 id-c402af932f62422aa9861ac465a7243d">
         <bounds
             x="20"
             y="24"
@@ -371,6 +371,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c9bac0df2904454e87a93fb21470152c"
+        lineColor="#ff0000"
         source="id-6e2224ebff1d4622af9e151073a69a0f"
         target="id-241fcf187d4f44139ebfb633ef8f57af">
       <archimateRelationship
@@ -571,6 +572,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-70b7356e517e4f80909eb2cc39409919"
       targetConnections="id-18a7d562eefb4b7ab90b900d039288c7">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c402af932f62422aa9861ac465a7243d"
+        source="id-70b7356e517e4f80909eb2cc39409919"
+        target="id-c9701d6f26864bc9990ae37547034a15">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-8f25002a0abc43e0be3d7c8c34be1cb6.xml#id-8f25002a0abc43e0be3d7c8c34be1cb6"/>
+    </sourceConnections>
     <bounds
         x="660"
         y="1536"
@@ -648,10 +658,12 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-727457fdef1a4a85af5422b02ac76ce7"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#80ff80"
+      content="Set non plateforme service as business fonctions ">
     <bounds
-        x="841"
-        y="1202"
+        x="852"
+        y="1252"
         width="185"
         height="80"/>
   </children>
