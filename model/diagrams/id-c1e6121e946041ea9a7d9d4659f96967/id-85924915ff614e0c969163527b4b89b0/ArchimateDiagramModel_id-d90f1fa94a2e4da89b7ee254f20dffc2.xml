@@ -137,7 +137,7 @@
       <bounds
           x="24"
           y="252"
-          width="241"
+          width="235"
           height="37"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
@@ -393,6 +393,15 @@
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-844cf84da5844c9d9f32c19fb5c683a1.xml#id-844cf84da5844c9d9f32c19fb5c683a1"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-05122e81226142f8ba5bab3dca04860c"
+          source="id-a603fb84e3c547d2b227b518f78f761d"
+          target="id-995bd2e763f44c64ad18985f200071f2">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-05d0f0a5731d4a759ba4dc3edbb9086d.xml#id-05d0f0a5731d4a759ba4dc3edbb9086d"/>
       </sourceConnections>
       <bounds
           x="840"
@@ -1091,12 +1100,12 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-995bd2e763f44c64ad18985f200071f2"
-      fillColor="#ff8080">
+      targetConnections="id-05122e81226142f8ba5bab3dca04860c">
     <bounds
-        x="1524"
+        x="1548"
         y="1716"
         width="120"
-        height="55"/>
+        height="48"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-bb1bab2c3a7149368d5c9f212ebc2d45.xml#id-bb1bab2c3a7149368d5c9f212ebc2d45"/>
@@ -1109,6 +1118,17 @@
     <bounds
         x="1332"
         y="1277"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5c868cfb4f6346419cbf92202d8876da"
+      textAlignment="1"
+      content="properties for key goals of seapath final &#xD;&#xA;components&#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="469"
+        y="2004"
         width="185"
         height="80"/>
   </children>
