@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Configuration recommendations of a GNU/LINUX system"
+    name="Configuration recommendations of a GNU/LINUX system (ANSSI)"
     id="id-c2eb4c77fe8c48adbf42566decfb71b2"
     documentation="https://cyber.gouv.fr/sites/default/files/document/linux_configuration-en-v2.pdf"/>
