@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netcomponenten ontwikkelen"
+    id="id-718694"
+    documentation="Het vermogen om netcomponenten te ontwikkelen al dan niet in samenwerking met fabrikanten/partners. Netcomponenten kunnen automaire netcomponenten betreffen zoals een apparaat of samengestelde netcomponenten zoals een station maar ook digitale componenten of functies.">
+  <properties
+      key="Code"
+      value="C.3.3.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop grid components"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to develop grid components, whether or not in collaboration with manufacturers/partners. Net components can be automic net components such as a device or composite net components such as a station, but also digital components or functions."/>
+</archimate:BusinessFunction>

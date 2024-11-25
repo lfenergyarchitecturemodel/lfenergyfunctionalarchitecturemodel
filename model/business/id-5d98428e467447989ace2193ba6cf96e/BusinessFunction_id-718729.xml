@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkzaamheden adviseren aan opdrachtgevers"
+    id="id-718729"
+    documentation="Het vermogen werkzaamheden in te schatten en/of te adviseren aan de opdrachtgever (zoals Asset manager).">
+  <properties
+      key="Code"
+      value="C.5.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Advise clients on work"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to estimate work and to advise clients, like an asset manager, on this work"/>
+</archimate:BusinessFunction>

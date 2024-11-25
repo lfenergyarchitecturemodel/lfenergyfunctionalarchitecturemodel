@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkzaamheden coördineren"
+    id="id-718731"
+    documentation="Het vermogen om werkzaamheden te coördineren. Denk hierbij aan projectmanagement en managen van uitval van orders.">
+  <properties
+      key="Code"
+      value="C.5.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Coordinate work execution"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to coordinate work, like projectmanagement and managing failure of orders."/>
+</archimate:BusinessFunction>

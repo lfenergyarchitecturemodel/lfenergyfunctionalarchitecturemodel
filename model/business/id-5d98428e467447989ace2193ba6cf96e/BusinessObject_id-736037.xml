@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel plan"
+    id="id-736037"
+    documentation="Een door een organisatie in detail voorgenomen handelswijze om financiën te besturen zodat zij haar doelstellingen realiseert.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Financial plan"/>
+  <properties
+      key="Search term"
+      value="budget"/>
+  <properties
+      key="Search term"
+      value="begroting"/>
+</archimate:BusinessObject>

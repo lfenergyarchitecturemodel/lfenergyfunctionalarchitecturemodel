@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedieningsplannen opstellen"
+    id="id-718754"
+    documentation="Het vermogen om volgordelijke overzichten te maken van uit te voeren acties (bediening) op netcomponenten.">
+  <properties
+      key="Code"
+      value="C.2.3.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Create switching plans"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to create sequential overviews of actions to be performed (operation) on grid components."/>
+</archimate:BusinessFunction>

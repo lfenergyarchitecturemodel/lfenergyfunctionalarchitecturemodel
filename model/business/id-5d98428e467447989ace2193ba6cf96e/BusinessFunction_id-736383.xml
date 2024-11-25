@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiële informatie verstrekken en adviseren"
+    id="id-736383"
+    documentation="Het vermogen om financiële informatie te verstrekken en te adviseren over financiën/financiële informatie. Dit omvat ook financial + business control (analyse, control, advies) en financial audit. Dit omvat ook niet financiële formele informatie.">
+  <properties
+      key="Code"
+      value="E.7.1.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Report financial information and consultancy"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

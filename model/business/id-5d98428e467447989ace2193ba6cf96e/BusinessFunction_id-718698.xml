@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Omgevingsanalyses verrichten"
+    id="id-718698"
+    documentation="Het vermogen om omgevingsanalyses te verrichten. Denk onder meer aan: bodemgesteldheid, asbest, flora, fauna, juridisch eigenaarschap, etc.">
+  <properties
+      key="Code"
+      value="C.3.1.6"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Perform environmental analysis"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to perform environmental analysis. Think about: soil conditions, asbestos, flora, fauna, legal ownership."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energietransport besturen"
+    id="id-718757"
+    documentation="Het vermogen om stuuracties te bepalen en naar specifieke netcomponenten te zenden, ondersteund door signaal- en/of meetgegevens en geformaliseerde logica teneinde de energie te transporteren en de balans te handhaven. Inclusief reageren op verzoek andere netbeheerder, bv. activatie balancing van TenneT; Uitvoeren direct ingrijpen bij netuitval of technische congestie (incl. melden aan relevante netbeheerder bv. TenneT).">
+  <properties
+      key="Code"
+      value="C.2.1.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Control energy transport"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine and send control actions to specific net components, supported by signal and/or measurement data and formalised logic to keep energy flowing and maintain balance."/>
+</archimate:BusinessFunction>

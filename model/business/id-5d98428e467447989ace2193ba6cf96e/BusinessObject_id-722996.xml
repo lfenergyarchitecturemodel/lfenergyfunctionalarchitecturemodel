@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorlopig of definitief ontwerp"
+    id="id-722996"
+    documentation="Een omschrijving die laat zien hoe een netaanpassing er technisch uit gaat zien. Het gaat hier om de inzet van netcomponenttypes op netfuncties.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Preliminary or final design"/>
+  <properties
+      key="Search term"
+      value="voorontwerp"/>
+  <properties
+      key="Search term"
+      value="detailontwerp"/>
+  <properties
+      key="Search term"
+      value="netontwerp"/>
+</archimate:BusinessObject>

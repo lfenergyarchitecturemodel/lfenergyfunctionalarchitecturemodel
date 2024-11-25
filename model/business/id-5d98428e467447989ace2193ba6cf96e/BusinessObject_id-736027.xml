@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Waardering"
+    id="id-736027"
+    documentation="Een vaststelling van de geldelijke waarde van bezittingen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Valuation"/>
+  <properties
+      key="Source"
+      value="waardering (Van Dale)"/>
+  <properties
+      key="Search term"
+      value="vaste activa"/>
+  <properties
+      key="Search term"
+      value="materieel vast actief"/>
+  <properties
+      key="Search term"
+      value="waardebepaling"/>
+  <properties
+      key="Search term"
+      value="taxatie"/>
+  <properties
+      key="Search term"
+      value="afschrijving"/>
+</archimate:BusinessObject>

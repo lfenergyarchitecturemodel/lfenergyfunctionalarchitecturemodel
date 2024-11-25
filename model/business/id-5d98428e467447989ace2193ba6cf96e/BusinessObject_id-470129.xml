@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantofferte"
+    id="id-470129"
+    documentation="Een formeel aanbod tot het sluiten van een overeenkomst, opgesteld op verzoek van een (potentiële) klant.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer quote"/>
+  <properties
+      key="Source"
+      value="offerte (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="uitgaande offerte"/>
+</archimate:BusinessObject>

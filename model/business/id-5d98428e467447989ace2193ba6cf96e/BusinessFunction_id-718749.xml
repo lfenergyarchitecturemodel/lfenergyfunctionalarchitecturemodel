@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storingen analyseren"
+    id="id-718749"
+    documentation="Het vermogen om (momentaan) de oorzaak/oorzaken en/of gevolgen van de storing te achterhalen. Ten behoeve van oplossen van de storing, veelal door de monteur en/of bedrijfsvoerder.">
+  <properties
+      key="Code"
+      value="C.2.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Analyse disturbances"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to (instantly) determine the cause/causes and/or consequences of the malfunction. For the purpose of solving the malfunction, usually by the technician and/or operator."/>
+</archimate:BusinessFunction>

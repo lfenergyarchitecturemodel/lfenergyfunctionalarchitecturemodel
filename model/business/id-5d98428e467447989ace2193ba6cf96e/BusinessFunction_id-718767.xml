@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transportbehoefte inventariseren"
+    id="id-718767"
+    documentation="Het vermogen om de behoefte aan energietransport van partijen in de omgeving in te schatten door (in overleggen) informatie te verzamelen en te verwerken, denk hierbij aan RES, overheids- en zakelijke initiatieven.">
+  <properties
+      key="Code"
+      value="C.1.1.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Collect energy demand"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to estimate the energy demand of parties in the area by collecting and processing information (in consultations), such as Regional Energy Strategy (RES), government and business initiatives."/>
+</archimate:BusinessFunction>

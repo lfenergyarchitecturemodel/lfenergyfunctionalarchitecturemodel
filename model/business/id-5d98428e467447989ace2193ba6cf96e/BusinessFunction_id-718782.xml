@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energiemarkten beheren"
+    id="id-718782"
+    documentation="Het vermogen om energiemarkten te beheren opdat energiediensten kunnen worden verhandeld zoals over-the-counter-markten en energiebeurzen, markten voor de verhandeling van energie, capaciteit, balancerings- en ondersteunende diensten in alle tijdsbestekken, waaronder termijn-, day-ahead- en intraday-markten.">
+  <properties
+      key="Code"
+      value="C.6.1.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage energy markets"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage energy markets enabling trading of energy services."/>
+</archimate:BusinessFunction>

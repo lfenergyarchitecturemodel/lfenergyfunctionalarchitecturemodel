@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Graafschade voorkomen"
+    id="id-718706"
+    documentation="Het vermogen om graafschade te voorkomen. Denk ondermeer aan de risicoanalyse en mitigerende maatregelen nav een graafbericht en de uitwisseling van liggingsgegevens van het energienet (GIS) in het kader van de WIBON. De melding bij werken aan het energienet is onderdeel van werkvoorbereiding capability.">
+  <properties
+      key="Code"
+      value="C.3.2.7"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Prevent excavation damage"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to prevent excavation damage."/>
+</archimate:BusinessFunction>

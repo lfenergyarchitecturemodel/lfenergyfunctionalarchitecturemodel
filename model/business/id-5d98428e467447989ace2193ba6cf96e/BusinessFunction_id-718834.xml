@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitale producten ontwikkelen en beheren"
+    id="id-718834"
+    documentation="Het vermogen om digitale producten te ontwikkelen en te beheren met informatie en operationele technologieën.  Dit betreft de informatie technologie (IT) en de (centrale) operationele technologie (OT, ook wel de IT van de OT genoemd). Let op: De secundaire assets zijn niet in scope en worden bestuurd in het domein 'Ontwikkeling en instandhouding van energienetten besturen' Het omvat tevens de digitale werkplek. (IT4IT value delivery)">
+  <properties
+      key="Code"
+      value="E.4"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Develop and maintain digital technology"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT - Value delivery)"/>
+</archimate:BusinessFunction>

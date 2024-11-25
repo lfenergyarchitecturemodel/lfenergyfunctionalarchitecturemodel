@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoopplan"
+    id="id-736057"
+    documentation="Een door een organisatie in detail voorgenomen handelswijze om goederen en diensten te verkrijgen zodat zij haar doelstellingen realiseert.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Purchasing plan"/>
+</archimate:BusinessObject>

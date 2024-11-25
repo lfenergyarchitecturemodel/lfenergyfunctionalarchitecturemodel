@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkersprestatie"
+    id="id-736081"
+    documentation="De verzameling bedrijfsobjecten nodig om medewerkers te ontwikkelen.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Worker performance"/>
+</archimate:BusinessObject>

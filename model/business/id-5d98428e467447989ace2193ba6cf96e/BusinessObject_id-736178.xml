@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaalproductprestatie"
+    id="id-736178"
+    documentation="De verzameling bedrijfsobjecten nodig om digitale producten te exploiteren.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Digital product performance"/>
+</archimate:BusinessObject>

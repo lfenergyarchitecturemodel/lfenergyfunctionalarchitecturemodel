@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klant"
+    id="id-729632"
+    documentation="De verzameling bedrijfsobjecten nodig om klanten te bedienen.">
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Customer"/>
+</archimate:BusinessObject>

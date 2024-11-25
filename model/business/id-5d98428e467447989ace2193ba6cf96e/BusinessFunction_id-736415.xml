@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiële strategie opstellen"
+    id="id-736415"
+    documentation="Het vermogen om de financiële strategie op te stellen. Dit omvat ook de financieringsstrategie en het garanderen van de financiering.">
+  <properties
+      key="Code"
+      value="E.7.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Formulate finance strategy"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

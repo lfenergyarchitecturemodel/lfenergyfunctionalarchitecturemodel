@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderhouds- of inspectieplan"
+    id="id-479865"
+    documentation="Een omschrijving van de beoogde activiteiten aan netcomponenten die nodig zijn om het energienet in aanvaardbare conditie te houden.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Maintenance or inspection plan"/>
+  <properties
+      key="Search term"
+      value="activiteitenplan"/>
+</archimate:BusinessObject>

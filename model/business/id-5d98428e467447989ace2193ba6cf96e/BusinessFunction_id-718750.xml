@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melding/vraag/verzoek van klanten behandelen"
+    id="id-718750"
+    documentation="Het vermogen om meldingen, vragen en verzoeken van klanten in behandeling te nemen en naar tevredenheid af te handelen.">
+  <properties
+      key="Code"
+      value="C.1.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Handle customer report/question/request"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to handle and satisfactorily address customer reports, questions and requests."/>
+</archimate:BusinessFunction>

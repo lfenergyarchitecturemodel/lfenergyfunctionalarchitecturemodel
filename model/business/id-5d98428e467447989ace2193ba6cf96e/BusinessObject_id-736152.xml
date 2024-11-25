@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veranderinitiatief"
+    id="id-736152"
+    documentation="Een verandering van de structuur en/of werkwijze van een organisatie.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Change initiative"/>
+  <properties
+      key="Search term"
+      value="project"/>
+  <properties
+      key="Search term"
+      value="epic"/>
+  <properties
+      key="Search term"
+      value="backlog"/>
+  <properties
+      key="Search term"
+      value="feature"/>
+  <properties
+      key="Search term"
+      value="story"/>
+  <properties
+      key="Search term"
+      value="enabler"/>
+</archimate:BusinessObject>

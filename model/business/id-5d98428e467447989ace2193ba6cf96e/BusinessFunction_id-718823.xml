@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantervaring monitoren en beïnvloeden"
+    id="id-718823"
+    documentation="Het vermogen om klantervaringen via diverse (social media) kanalen te meten, te monitoren en hierop te reageren.">
+  <properties
+      key="Code"
+      value="C.1.1.6"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Monitor and influence customer experience"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to measure, monitor and influence the customer experience."/>
+</archimate:BusinessFunction>

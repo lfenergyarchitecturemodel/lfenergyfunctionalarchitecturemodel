@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorlopige en definitieve ontwerpen van energienetten opstellen"
+    id="id-718736"
+    documentation="Het vermogen om voorlopige en definitieve ontwerpen van energienetten op te stellen binnen de (technische) richtlijnen en functioneel ontwerp/programma van eisen.">
+  <properties
+      key="Code"
+      value="C.5.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Create preliminary and final design of energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to create preliminary and final design of energy grids, taking into account (technical) guidelines and function design/program requirements."/>
+</archimate:BusinessFunction>

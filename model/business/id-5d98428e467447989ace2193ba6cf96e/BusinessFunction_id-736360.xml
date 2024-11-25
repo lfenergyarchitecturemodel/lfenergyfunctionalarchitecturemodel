@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategie bepalen"
+    id="id-736360"
+    documentation="Het vermogen om de strategie (wat we moeten doen) te bepalen aan de hand van strategische doelstellingen die zijn afgeleid uit de missie en visie.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.1.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine strategy"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsgebouwen onderhouden"
+    id="id-736396"
+    documentation="Het vermogen om bedrijfsgebouwen te onderhouden. Dit omvat ook het plannen en uitvoeren van onderhoud en het beheren van bedrijfsgebouwinstallates zoals werkbouwkundige en elektrische voorzieningen (bv. energievoorzieningen, liften, verlichting, 'uit' bordjes).&#xA;Het vermogen om gebouwen te onderhouden. Dit omvat ook het plannen en uitvoeren van onderhoud.&#xA;Het vermogen om gebouwinstallates te beheren. Dit omvat ook werkbouwkundige en elektrische voorzieningen zoals energievoorzieningen, liften, verlichting, 'uit' bordjes. ">
+  <properties
+      key="Code"
+      value="E.6.1.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Maintain real estate"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

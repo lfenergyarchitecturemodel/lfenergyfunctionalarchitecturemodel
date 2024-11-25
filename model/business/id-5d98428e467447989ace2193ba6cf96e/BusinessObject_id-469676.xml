@@ -1,0 +1,36 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technische bedrijfsstandaard"
+    id="id-469676"
+    documentation="Een norm die aangeeft waaraan een bepaald product in technisch opzicht zou moeten voldoen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Technical business standard"/>
+  <properties
+      key="Source"
+      value="technische standaard (Kennisconsult)"/>
+  <properties
+      key="Source"
+      value="standaard (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="productblad"/>
+  <properties
+      key="Search term"
+      value="opdrachtproduct"/>
+  <properties
+      key="Search term"
+      value="technische standaard"/>
+  <properties
+      key="Search term"
+      value="PxQ-product"/>
+  <properties
+      key="Search term"
+      value="handboek techniek"/>
+  <properties
+      key="Search term"
+      value="productspecificatie"/>
+</archimate:BusinessObject>

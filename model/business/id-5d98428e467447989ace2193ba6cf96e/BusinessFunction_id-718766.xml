@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service verlenen aan klanten in kanalen"
+    id="id-718766"
+    documentation="Het vermogen om klanten diensten en ondersteuning aan te bieden via (digitale) kanalen zoals website, social media, email, telefoon, etc">
+  <properties
+      key="Code"
+      value="C.1.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Provide service to customers"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to offer customers and market parties services and support via (digital) channels, e.g. via telephone, email, website, social media, etc."/>
+</archimate:BusinessFunction>

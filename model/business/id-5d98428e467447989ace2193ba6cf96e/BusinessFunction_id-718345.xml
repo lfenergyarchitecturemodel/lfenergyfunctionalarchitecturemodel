@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktdata beheren"
+    id="id-718345"
+    documentation="Het vermogen om marktdata te beheren voor facilitering van de energiemarkt.">
+  <properties
+      key="Code"
+      value="C.6.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Manage market data"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to managing market date for facilitating the energy market."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personenmobiliteit faciliteren"
+    id="id-736377"
+    documentation="Het vermogen om de mobiliteit van personen te faciliteren. Dit omvat vervoer per wagen en openbaar vervoer.">
+  <properties
+      key="Code"
+      value="E.6.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage personal mobility"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

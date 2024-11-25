@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaalproductprestatie"
+    id="id-736180"
+    documentation="De mate waarin de instantie van een digitaal product afgesproken prestatiedoelen behaalt.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Digital product performance"/>
+  <properties
+      key="Search term"
+      value="incident"/>
+  <properties
+      key="Search term"
+      value="problem"/>
+  <properties
+      key="Search term"
+      value="alert"/>
+  <properties
+      key="Search term"
+      value="event log"/>
+</archimate:BusinessObject>

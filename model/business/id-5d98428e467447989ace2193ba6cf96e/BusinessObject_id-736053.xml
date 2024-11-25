@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoopstrategie"
+    id="id-736053"
+    documentation="De verzameling bedrijfsobjecten nodig om goederen- en dienstenstrategie en -plannen op te stellen en te besturen.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Purchasing strategy"/>
+</archimate:BusinessObject>

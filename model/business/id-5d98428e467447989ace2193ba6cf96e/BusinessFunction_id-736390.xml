@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Faciliteiten beschikbaar stellen"
+    id="id-736390"
+    documentation="Het vermogen om faciliteiten beschikbaar te stellen">
+  <properties
+      key="Code"
+      value="E.6.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Manage facilities"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

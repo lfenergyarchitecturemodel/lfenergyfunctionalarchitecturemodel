@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaalproductenportfolio ontwikkelen en beheren"
+    id="id-736496"
+    documentation="Het vermogen om portfolio van digitale producten te ontwikkelen en te beheren. (IT4IT - Portfolio)">
+  <properties
+      key="Code"
+      value="E.4.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage digital product portfolio"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT Portfolio)"/>
+</archimate:BusinessFunction>

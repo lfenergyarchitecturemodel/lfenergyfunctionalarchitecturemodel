@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energie-uitwisseling vaststellen"
+    id="id-718780"
+    documentation="Het vermogen om energie-uitwisseling vast te stellen, inclusief berekenen van energie-uitwisseling ((standaardjaar)verbruik),  vaststellen onbemeten, berekeningen bij seriële allocatiepunten, berekening toegekende energieverlies, volume afgenomen marktdiensten (zoals balancering, opregel-, afregelaanbod). Inclusief oplevering van de energie-uitwisseling van de meetverantwoordelijke, de oplevering van derden (CPO (charge point operator)), opgaven van gemeenten tbv openbare verlichting (berekening energie-uitwisseling via belastingprofiel).">
+  <properties
+      key="Code"
+      value="C.6.3.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine energy exchange"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to calculate consumption and generation estimations like energy consumption according to the standard annual consumption method."/>
+</archimate:BusinessFunction>

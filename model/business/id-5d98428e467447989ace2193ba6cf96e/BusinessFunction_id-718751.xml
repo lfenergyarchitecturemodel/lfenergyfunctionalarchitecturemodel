@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storingen toewijzen"
+    id="id-718751"
+    documentation="Het vermogen om een monteur aan de storing te koppelen voor lokale analyse en herstel, al dan niet voorzien van een urgentie of prioriteit van de storing.">
+  <properties
+      key="Code"
+      value="C.2.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Assign disturbances"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to associate a technician with the fault for local analysis and remediation, whether or not provided with an urgency or priority of the fault."/>
+</archimate:BusinessFunction>

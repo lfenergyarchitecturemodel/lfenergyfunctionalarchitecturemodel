@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantovereenkomst"
+    id="id-469480"
+    documentation="Een afspraak tussen een klant en de netbeheerder over wat ze met elkaar of voor elkaar zullen gaan doen of laten.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer agreement"/>
+  <properties
+      key="Source"
+      value="overeenkomst (contract) (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="klantopdracht"/>
+  <properties
+      key="Search term"
+      value="klantorder"/>
+  <properties
+      key="Search term"
+      value="restrictiecontract"/>
+  <properties
+      key="Search term"
+      value="aansluit- en transportovereenkomst (ATO)"/>
+</archimate:BusinessObject>

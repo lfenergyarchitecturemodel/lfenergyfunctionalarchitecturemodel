@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meting"
+    id="id-469105"
+    documentation="Een aan het energienet gerelateerde waardebepaling met behulp van een meetinstrument.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Measurement"/>
+  <properties
+      key="Search term"
+      value="meetgegeven"/>
+  <properties
+      key="Search term"
+      value="meetdata"/>
+  <properties
+      key="Search term"
+      value="meterstand"/>
+  <properties
+      key="Search term"
+      value="meetpunt"/>
+</archimate:BusinessObject>

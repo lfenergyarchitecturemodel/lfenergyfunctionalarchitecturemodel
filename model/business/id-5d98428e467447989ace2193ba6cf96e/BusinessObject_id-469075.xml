@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investeringsplan"
+    id="id-469075"
+    documentation="Een door de netbeheerder periodiek opgesteld plan waarin alle noodzakelijke uitbreidings- en vervangingsinvesteringen worden beschreven en onderbouwd.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Investment plan"/>
+  <properties
+      key="Source"
+      value="investeringsplan (Elektriciteitswet 1998)"/>
+  <properties
+      key="Source"
+      value="investeringsplan (Gaswet)"/>
+  <properties
+      key="Search term"
+      value="IP"/>
+  <properties
+      key="Search term"
+      value="netstructuurplan"/>
+  <properties
+      key="Search term"
+      value="strategisch assetmanagementplan"/>
+</archimate:BusinessObject>

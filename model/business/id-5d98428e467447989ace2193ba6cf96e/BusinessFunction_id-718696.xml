@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategie op energienetten ontwikkelen"
+    id="id-718696"
+    documentation="Het vermogen om een strategie op energienetten en de energievoorziening te ontwikkelen.">
+  <properties
+      key="Code"
+      value="C.3.3.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop strategy on energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to develop a strategy on energy grids and the energy supply."/>
+</archimate:BusinessFunction>

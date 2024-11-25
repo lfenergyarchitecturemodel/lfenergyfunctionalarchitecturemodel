@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitale producten exploiteren"
+    id="id-736308"
+    documentation="Het vermogen om digitale  producten te exploiteren. Dit omvat het bewaken van prestatie afspraken. (IT4IT Detect to Correct)">
+  <properties
+      key="Code"
+      value="E.4.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Assure Digital products"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT - Detect to Correct)"/>
+</archimate:BusinessFunction>

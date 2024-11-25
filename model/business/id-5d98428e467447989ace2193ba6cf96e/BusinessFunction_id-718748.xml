@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definitief herstel storingen initiëren"
+    id="id-718748"
+    documentation="Het vermogen om het energienet 'in standaard operatie' te brengen in de nasleep van een storing.">
+  <properties
+      key="Code"
+      value="C.2.2.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Initiate permanent disturbance recovery"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to bring the energy grid 'into standard operation' after maintenance or to bring it back in the aftermath of a failure."/>
+</archimate:BusinessFunction>

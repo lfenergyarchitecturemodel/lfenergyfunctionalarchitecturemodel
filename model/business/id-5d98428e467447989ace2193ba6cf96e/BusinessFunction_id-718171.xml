@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klanten bedienen"
+    id="id-718171"
+    documentation="Het vermogen om klanten te bedienen, zodat zij onze producten en diensten afnemen en optimaal gebruiken.">
+  <properties
+      key="Code"
+      value="C.1"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Serve customers"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to optimally serve our customers in their use of our products and services"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Congestiegebieden beheren"
+    id="id-718789"
+    documentation="Het vermogen om gebieden met transportschaarste te beheren.">
+  <properties
+      key="Code"
+      value="C.6.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage congestion areas"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage congestion areas"/>
+</archimate:BusinessFunction>

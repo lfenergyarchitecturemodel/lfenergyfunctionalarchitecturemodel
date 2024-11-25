@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebeveiligingsrisico"
+    id="id-736140"
+    documentation="Een effect van onzekerheid ten aanzien van het behoud van de vertrouwelijkheid, de integriteit en de beschikbaarheid van informatie.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Information security risk"/>
+  <properties
+      key="Source"
+      value="information security, risk (ISO 27000:2018)"/>
+</archimate:BusinessObject>

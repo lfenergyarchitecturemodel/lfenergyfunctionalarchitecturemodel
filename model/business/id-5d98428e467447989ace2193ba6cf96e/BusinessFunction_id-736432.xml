@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiële standen beheren"
+    id="id-736432"
+    documentation="Het vermogen om financiële standen (grootboek) te beheren. Dit omvat de debiteuren en crediteuren standen.">
+  <properties
+      key="Code"
+      value="E.7.3.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage financial ledger"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

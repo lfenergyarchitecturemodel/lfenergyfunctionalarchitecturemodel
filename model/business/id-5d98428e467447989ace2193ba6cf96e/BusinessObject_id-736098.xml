@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proces"
+    id="id-736098"
+    documentation="Een ordening van repetitief uit te voeren werk, gericht op een beoogd resultaat.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Process"/>
+  <properties
+      key="Source"
+      value="proces (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="waardestroom"/>
+  <properties
+      key="Search term"
+      value="workflow"/>
+  <properties
+      key="Search term"
+      value="procesbeschrijving"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategische risico's inventariseren en bewaken"
+    id="id-718825"
+    documentation="Het vermogen om strategische bedrijfsrisico's te identificeren en mitigerende maatregelen te besturen. Dit omvat ook het uitvoeren en opvolgen van bedrijfsrisico audits.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Collect and monitor strategic risks"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

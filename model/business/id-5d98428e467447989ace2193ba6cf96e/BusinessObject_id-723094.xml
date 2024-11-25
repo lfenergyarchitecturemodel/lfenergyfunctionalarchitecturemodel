@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Congestiegebied"
+    id="id-723094"
+    documentation="Een gebied waarin de te verwachten behoefte aan transport van de in dat gebied aanwezige aangeslotenen redelijkerwijs kan leiden tot een situatie waarin de maximale transportcapaciteit van een net of netgedeelte niet voldoende is om te voorzien in die behoefte.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Congestion area"/>
+  <properties
+      key="Source"
+      value="congestiegebied (Regeling inzake tariefstructuren en voorwaarden elektriciteit)"/>
+  <properties
+      key="Search term"
+      value="transportschaarstegebied"/>
+</archimate:BusinessObject>

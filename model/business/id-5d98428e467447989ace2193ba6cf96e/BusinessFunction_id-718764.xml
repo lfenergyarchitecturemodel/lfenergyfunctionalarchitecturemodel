@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storingscompensatie bepalen"
+    id="id-718764"
+    documentation="Het vermogen om een financiële compensatie voor klanten te bepalen bij langdurige uitval van de dienstverlening.">
+  <properties
+      key="Code"
+      value="C.1.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine disturbance compensation"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine financial compensation for customers in the event of a prolonged service outage."/>
+</archimate:BusinessFunction>

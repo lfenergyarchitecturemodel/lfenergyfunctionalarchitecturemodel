@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data"
+    id="id-736102"
+    documentation="De verzameling bedrijfsobjecten nodig om data te besturen.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Data"/>
+</archimate:BusinessObject>

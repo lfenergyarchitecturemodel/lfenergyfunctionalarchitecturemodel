@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gepland in"
+    id="id-735647"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="planned in"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-469705.xml#id-469705"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-470526.xml#id-470526"/>
+</archimate:AssociationRelationship>

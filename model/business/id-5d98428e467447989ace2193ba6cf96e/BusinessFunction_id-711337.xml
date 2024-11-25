@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar krijgen metingen van energietransport en -netten"
+    id="id-711337"
+    documentation="Het vermogen om metingen van energietransport en -netten beschikbaar te krijgen.">
+  <properties
+      key="Code"
+      value="C.4.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Obtain measurements"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to make measurements of energy flows and energy grids available."/>
+</archimate:BusinessFunction>

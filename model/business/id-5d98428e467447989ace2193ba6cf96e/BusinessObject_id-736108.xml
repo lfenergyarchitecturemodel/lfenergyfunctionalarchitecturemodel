@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataset"
+    id="id-736108"
+    documentation="Een verzameling gegevens die als geheel wordt verwerkt.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Dataset"/>
+  <properties
+      key="Source"
+      value="dataset (NORA raamwerk gegevenskwaliteit)"/>
+  <properties
+      key="Search term"
+      value="metadata"/>
+  <properties
+      key="Search term"
+      value="datamodel"/>
+  <properties
+      key="Search term"
+      value="gegevensverzameling"/>
+  <properties
+      key="Search term"
+      value="informatiemodel"/>
+  <properties
+      key="Search term"
+      value="datacatalogus"/>
+</archimate:BusinessObject>

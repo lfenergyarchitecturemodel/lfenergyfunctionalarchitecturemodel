@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Externe en interne analyses uitvoeren"
+    id="id-718812"
+    documentation="Het vermogen om te analyseren welke externe en interne ontwikkelingen van invloed zijn op missie, visie en strategie van het bedrijf.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Research and analyse the market"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

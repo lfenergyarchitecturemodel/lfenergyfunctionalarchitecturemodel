@@ -1,0 +1,48 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktpartij"
+    id="id-478409"
+    documentation="Iedere partij die gerechtigd is om transacties in energie af te sluiten op de Nederlandse energiemarkt.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Market participant"/>
+  <properties
+      key="Source"
+      value="marktpartij (Begrippencode elektriciteit)"/>
+  <properties
+      key="Source"
+      value="marktdeelnemer (Elektriciteitswet 1998"/>
+  <properties
+      key="Source"
+      value="marktdeelnemer (Gaswet)"/>
+  <properties
+      key="Search term"
+      value="marktdeelnemer"/>
+  <properties
+      key="Search term"
+      value="energieleverancier (LV)"/>
+  <properties
+      key="Search term"
+      value="netbeheerder (NB)"/>
+  <properties
+      key="Search term"
+      value="programmaverantwoordelijke (PV)"/>
+  <properties
+      key="Search term"
+      value="meetverantwoordelijke (MV)"/>
+  <properties
+      key="Search term"
+      value="aggregator"/>
+  <properties
+      key="Search term"
+      value="balancing responsible party (BRP)"/>
+  <properties
+      key="Search term"
+      value="balancing service provider (BSP)"/>
+  <properties
+      key="Search term"
+      value="congestion service provider (CSP)"/>
+</archimate:BusinessObject>

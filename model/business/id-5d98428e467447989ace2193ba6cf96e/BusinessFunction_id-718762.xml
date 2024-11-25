@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energiediefstal bestrijden"
+    id="id-718762"
+    documentation="Het vermogen om technische en administratieve energiediefstal op te sporen en te verkleinen, in de energienetten (tot en met de slimme meter) en in de processen. Samenwerken met opsporingsinstanties, zoals politie en brandweer. Bedrijfsinterne klantaansluitinggerelateerde energiediefstal opsporen en verkleinen.">
+  <properties
+      key="Code"
+      value="C.1.4.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Fight energy theft"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to track down and reduce technical and administrative energy theft in the grid (including the smart meter) and in the processes. The abilitity to cooperatie with investigative agencies, like police and fire brigade. The ability to track down and reduce customer and/or connection related energy theft."/>
+</archimate:BusinessFunction>

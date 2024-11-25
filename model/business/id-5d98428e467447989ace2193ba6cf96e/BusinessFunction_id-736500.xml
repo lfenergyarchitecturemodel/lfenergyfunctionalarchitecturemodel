@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkers laten uittreden"
+    id="id-736500"
+    documentation="Het vermogen om medewerkers van werk naar werk te begeleiden, zowel op medewerkers als op werkgevers initiatief. Dit omvat ook de pensionering van medewerkers begeleiden. Dit omvat het contact houden met oud-medewerkers.">
+  <properties
+      key="Code"
+      value="E.3.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Exit empoyees"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

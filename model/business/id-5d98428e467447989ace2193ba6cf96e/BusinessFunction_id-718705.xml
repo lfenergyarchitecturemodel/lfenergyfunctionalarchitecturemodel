@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Externe regelgeving in richtlijnen vertalen"
+    id="id-718705"
+    documentation="Het vermogen om externe regelgeving te vertalen naar interne richtlijnen (beleid en standaarden).">
+  <properties
+      key="Code"
+      value="C.3.3.6"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Translate external regulations into guidelines"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to translate external regulations into internal guidelines (policies and standards)."/>
+</archimate:BusinessFunction>

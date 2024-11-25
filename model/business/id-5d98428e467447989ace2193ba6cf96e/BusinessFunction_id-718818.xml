@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsprestaties bewaken"
+    id="id-718818"
+    documentation="Het vermogen om de prestaties van het bedrijf te meten, te toetsen (tegen normen) en te vergelijken (benchmark)&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.1.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Monitor business performance"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

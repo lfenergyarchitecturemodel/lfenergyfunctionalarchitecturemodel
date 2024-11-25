@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeringsvergunning"
+    id="id-479255"
+    documentation="Een beschikking op een aanvraag, die toestaat voorgenomen activiteiten voor bepaalde tijd te verrichten die in de wet- of regelgeving verboden zijn.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Execution permit"/>
+  <properties
+      key="Source"
+      value="vergunning (Taskforce Vereenvoudiging Vergunningen)"/>
+</archimate:BusinessObject>

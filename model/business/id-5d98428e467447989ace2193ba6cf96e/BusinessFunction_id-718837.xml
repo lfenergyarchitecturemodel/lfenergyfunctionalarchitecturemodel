@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Processen besturen"
+    id="id-718837"
+    documentation="Het vermogen om processen te besturen. Dit omvat ook het definiëren, continu verbeteren en orkestreren van de  processen. Processen omvatten de waardestroom-/ ketenprocessen, hoofdprocessen, bedrijfsprocessen en werkprocessen.">
+  <properties
+      key="Code"
+      value="E.2.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Manage processes"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

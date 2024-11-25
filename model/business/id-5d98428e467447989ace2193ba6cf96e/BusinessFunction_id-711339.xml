@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energienetrichtlijnen en -patronen vaststellen"
+    id="id-711339"
+    documentation="Het vermogen om wet en regelgeving, veiligheids- en milieueisen om te zetten in richtlijnen, beleid en implementatiepatronen voor de energienetten en deze toegepast te krijgen.">
+  <properties
+      key="Code"
+      value="C.3.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Establish energy grid guidelines and patterns"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to translate laws and regulations, safety and environmental requirements into guidelines, policies and implementation patterns for the energy grids and to have them applied."/>
+</archimate:BusinessFunction>

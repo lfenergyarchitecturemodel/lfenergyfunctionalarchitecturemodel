@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Competentie"
+    id="id-468977"
+    documentation="Een verzameling van kennis, ervaring en persoonlijke vaardigheden om een functie, taak of rol met succes te vervullen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Competency"/>
+  <properties
+      key="Search term"
+      value="kwalificatie"/>
+</archimate:BusinessObject>

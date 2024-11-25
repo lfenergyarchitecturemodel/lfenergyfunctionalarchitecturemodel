@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Liquide middelen beheren"
+    id="id-736403"
+    documentation="Het vermogen om liquide middelen te beheren. Dit omvat ook het beheren van bankrekeningen.">
+  <properties
+      key="Code"
+      value="E.7.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage liquid assets"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

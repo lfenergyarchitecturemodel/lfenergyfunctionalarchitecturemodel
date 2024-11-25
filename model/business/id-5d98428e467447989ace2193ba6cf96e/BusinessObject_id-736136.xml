@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfscontinuïteitsplan"
+    id="id-736136"
+    documentation="Een document dat een organisatie gebruikt om haar activiteiten te herstellen na een ontwrichtend incident.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Business continuity plan"/>
+  <properties
+      key="Source"
+      value="business continuity plan (ISO 22301)"/>
+</archimate:BusinessObject>

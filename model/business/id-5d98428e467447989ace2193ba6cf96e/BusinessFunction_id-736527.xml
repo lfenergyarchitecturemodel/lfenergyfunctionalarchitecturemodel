@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data duurzaam bewaren"
+    id="id-736527"
+    documentation="Het vermogen om data duurzaam te bewaren en te beheren. Deze capability omvat generieke digitale archiveringsmogelijkheden en fysieke/papieren archieven.">
+  <properties
+      key="Code"
+      value="E.2.2.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Archive data"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

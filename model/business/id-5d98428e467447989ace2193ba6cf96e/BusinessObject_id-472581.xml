@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeringscapaciteit"
+    id="id-472581"
+    documentation="Het vermogen van medewerkers om werkactiviteiten uit te voeren.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Execution capacity"/>
+  <properties
+      key="Search term"
+      value="aanwijzing"/>
+  <properties
+      key="Search term"
+      value="sleutel"/>
+  <properties
+      key="Search term"
+      value="digitaal veiligheidspaspoort (DVP)"/>
+</archimate:BusinessObject>

@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crisis"
+    id="id-736128"
+    documentation="Een noodsituatie waarbij het energietransport ernstig verstoord kan raken.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Crisis"/>
+  <properties
+      key="Source"
+      value="crisis (Wikipedia)"/>
+</archimate:BusinessObject>

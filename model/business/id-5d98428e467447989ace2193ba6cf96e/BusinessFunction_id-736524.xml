@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datakwaliteit borgen"
+    id="id-736524"
+    documentation="Het vermogen om datakwaliteit te borgen. Dit omvat ook het opstellen en bewaken van data governance richtlijnen.">
+  <properties
+      key="Code"
+      value="E.2.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Assure data quality"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

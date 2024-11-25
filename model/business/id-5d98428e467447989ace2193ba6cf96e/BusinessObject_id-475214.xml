@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsgebouw"
+    id="id-475214"
+    documentation="Een gebouw waar duurzame uitoefening van de activiteiten van de netbeheerder plaatsvindt, niet zijnde een gebouw dat onderdeel uitmaakt van het energienet.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Company building"/>
+  <properties
+      key="Source"
+      value="vestiging (Handelsregisterwet 2007)"/>
+  <properties
+      key="Search term"
+      value="vestiging"/>
+  <properties
+      key="Search term"
+      value="kantoorgebouw"/>
+  <properties
+      key="Search term"
+      value="magazijn"/>
+  <properties
+      key="Search term"
+      value="ruimte"/>
+  <properties
+      key="Search term"
+      value="parkeerplaats"/>
+</archimate:BusinessObject>

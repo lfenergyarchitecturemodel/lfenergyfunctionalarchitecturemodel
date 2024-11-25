@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar stellen van netbeheerdata"
+    id="id-24459716ccb14af5bff12769ebcb5476">
+  <properties
+      key="Code"
+      value="P.H"/>
+  <properties
+      key="Name (en)"
+      value="Distribute grid operator data"/>
+</archimate:BusinessProcess>

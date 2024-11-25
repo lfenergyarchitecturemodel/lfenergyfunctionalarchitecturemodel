@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaalproductstrategie ontwikkelen en besturen"
+    id="id-736519"
+    documentation="Het vermogen om digitale-technologiestrategie te ontwikkelen en besturen. (IT4IT - Strategy)">
+  <properties
+      key="Code"
+      value="E.4.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop and manage digital technology strategy"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT - Strategy)"/>
+</archimate:BusinessFunction>

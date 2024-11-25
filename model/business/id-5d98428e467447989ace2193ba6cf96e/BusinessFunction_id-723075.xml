@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technisch netverlies inkopen en minimaliseren"
+    id="id-723075"
+    documentation="Het vermogen om technisch netverlies in te kopen en te minimaliseren.">
+  <properties
+      key="Code"
+      value="C.3.2.8"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Purchase and minimize technical grid loss"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to purchase and minimize the energetic grid losses (eg due to resistance losses caused by grid components or by leaks in the gas grid)."/>
+</archimate:BusinessFunction>

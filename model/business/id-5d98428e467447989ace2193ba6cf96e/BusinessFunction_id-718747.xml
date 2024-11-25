@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storingen classificeren"
+    id="id-718747"
+    documentation="Het vermogen om het type storing te bepalen mede aan de hand van een inschatting van lokale omstandigheden (bv locatie gaslek, aantal parts per million (PPM), gereguleerde-, sector- en interne richtlijnen, impact of mogelijke impact).">
+  <properties
+      key="Code"
+      value="C.2.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Classify disturbances"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine the type of failure partly based on an estimate of local conditions (eg location of gas leak, number of parts per million (ppm), regulated, sector and internal guidelines, impact or possible impact)."/>
+</archimate:BusinessFunction>

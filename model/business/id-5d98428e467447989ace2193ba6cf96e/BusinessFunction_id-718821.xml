@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet- en regelgeving volgen en beïnvloeden"
+    id="id-718821"
+    documentation="Het vermogen om relevante regelgeving te identificeren, te beïnvloeden, de impact te overzien en te beleggen binnen de netbeheerder.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Monitor and influence laws and regulations"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goederen en diensten overeenkomen en/of bestellen"
+    id="id-718744"
+    documentation="Het vermogen om goederen en diensten overeen te komen en/of te bestellen. Dit omvat ook het afsluiten van raamovereenkomsten en daarbinnen afroepen van goederen/diensten.">
+  <properties
+      key="Code"
+      value="E.5.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Close goods and services contracts"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

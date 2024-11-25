@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opdracht voor uitvoering van onderhoud en inspectie verstrekken en bewaken"
+    id="id-718710"
+    documentation="Het vermogen om de opdracht voor onderhoud en/of inspectie aan de uitvoering te verstrekken. Het monitoren/bewaken van onderhoud en/of inspecties inclusief input verstrekken aan (meerjaren)planning bij afwijking buiten de bandbreedte.">
+  <properties
+      key="Code"
+      value="C.3.2.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Provide and monitor maintenance and inspection orders"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to issue the contract for maintenance and/or inspection to the contractor. Monitoring/measuring maintenance and/or inspections, including providing input to (multi-year) planning in case of deviation outside the bandwidth."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsrisico"
+    id="id-736130"
+    documentation="Een effect van onzekerheid ten aanzien van de doelstellingen of resultaten van een organisatie.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Business risk"/>
+  <properties
+      key="Search term"
+      value="verzekering"/>
+  <properties
+      key="Search term"
+      value="compliancerisico"/>
+</archimate:BusinessObject>

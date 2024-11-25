@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantverzoek"
+    id="id-469958"
+    documentation="Een vraag, claim of klacht van een klant, niet zijnde een klantaanvraag.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer request"/>
+  <properties
+      key="Search term"
+      value="klacht"/>
+  <properties
+      key="Search term"
+      value="claim"/>
+  <properties
+      key="Search term"
+      value="vraag"/>
+  <properties
+      key="Search term"
+      value="melding"/>
+  <properties
+      key="Search term"
+      value="klantcase"/>
+  <properties
+      key="Search term"
+      value="klantticket"/>
+</archimate:BusinessObject>

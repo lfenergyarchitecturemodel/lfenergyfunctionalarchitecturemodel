@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantfactuur"
+    id="id-469274"
+    documentation="Een document dat een betalingsverplichting van of aan een klant weergeeft.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer invoice"/>
+  <properties
+      key="Source"
+      value="factuur (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="uitgaande factuur"/>
+  <properties
+      key="Search term"
+      value="creditnota"/>
+</archimate:BusinessObject>

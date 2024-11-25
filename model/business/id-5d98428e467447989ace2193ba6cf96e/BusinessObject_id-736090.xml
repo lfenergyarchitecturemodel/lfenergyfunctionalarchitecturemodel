@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkersplan"
+    id="id-736090"
+    documentation="Een door een organisatie in detail voorgenomen handelswijze om medewerkers te werven en inzetbaar te houden zodat zij haar doelstellingen realiseert.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Human resource plan"/>
+</archimate:BusinessObject>

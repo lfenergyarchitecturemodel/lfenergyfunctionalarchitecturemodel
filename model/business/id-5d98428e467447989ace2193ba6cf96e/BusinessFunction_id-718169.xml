@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkzaamheden uitvoeren aan energienetten"
+    id="id-718169"
+    documentation="Het vermogen om werkzaamheden aan de energienetten uit te voeren, zoals aanleg, vervanging of onderhoud, zodat de werkzaamheden efficiënt en voorspelbaar worden uitgevoerd.">
+  <properties
+      key="Code"
+      value="C.5"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Perform work on energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to perform work on energy grids, like building, replacement and maintenance, in an efficient and predictable manner."/>
+</archimate:BusinessFunction>

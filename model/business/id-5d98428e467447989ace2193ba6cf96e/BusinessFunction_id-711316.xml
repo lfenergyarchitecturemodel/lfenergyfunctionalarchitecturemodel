@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkzaamhedenportfolio opstellen en onderhouden"
+    id="id-711316"
+    documentation="Het vermogen om een portfolio aan werkzaamheden aan energienetten op te stellen en te onderhouden.">
+  <properties
+      key="Code"
+      value="C.5.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Create and maintain work portfolio"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to prepare and maintain a portfolio for work on energy grids."/>
+</archimate:BusinessFunction>

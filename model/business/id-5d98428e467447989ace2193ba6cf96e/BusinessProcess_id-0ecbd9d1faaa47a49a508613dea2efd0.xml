@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veranderen bedrijfsinrichting "
+    id="id-0ecbd9d1faaa47a49a508613dea2efd0">
+  <properties
+      key="Code"
+      value="I.B"/>
+  <properties
+      key="Name (en)"
+      value="Change business resources"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vrager op"
+    id="id-738849"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="demander on"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-729632.xml#id-729632"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-729665.xml#id-729665"/>
+</archimate:AssociationRelationship>

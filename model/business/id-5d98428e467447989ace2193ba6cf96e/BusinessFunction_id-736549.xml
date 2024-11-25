@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data herbruikbaar maken"
+    id="id-736549"
+    documentation="Het vermogen om data conform een logisch model herbruikbaar te maken (FAIR). Dit omvat ook het beschikbaarstellen van master- en/of referentiedata (bv. weerdata, kadasterdata, …).">
+  <properties
+      key="Code"
+      value="E.2.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Unlock data"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

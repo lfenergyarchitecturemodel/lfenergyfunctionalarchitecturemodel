@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="L3 E object relationships"
+    id="id-aebd4acc1c0f47d3b659b4867dcf932c"
+    documentation="SPDX-FileCopyrightText: 2017-2022 Contributors to the NBility project&#xD;&#xA;&#xD;&#xA;SPDX-License-Identifier: CC-BY-4.0&#xD;&#xA;&#xD;&#xA;Source: https://github.com/NBility-Model">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5c9ca1c05d814f5e8689d6e4348facf9"
+      textAlignment="1"
+      content="Expected in next version">
+    <bounds
+        x="12"
+        y="12"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>

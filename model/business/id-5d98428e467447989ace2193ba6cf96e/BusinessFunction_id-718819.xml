@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Externe verantwoording afleggen"
+    id="id-718819"
+    documentation="Het vermogen om verantwoording af te leggen aan niet-financiële regulatoren van netbeheerders. Het vermogen om verantwoording af te leggen aan financiële regulatoren is onderdeel van Financiën beheren.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.2.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Provide external accountability"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

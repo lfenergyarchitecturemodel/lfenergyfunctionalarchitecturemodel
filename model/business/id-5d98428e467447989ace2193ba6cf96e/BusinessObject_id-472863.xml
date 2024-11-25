@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secundaire netcomponent"
+    id="id-472863"
+    documentation="Een netcomponent bedoeld voor het meten en/of sturen (inclusief beveiligen) van energietransport.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Secondary grid component"/>
+  <properties
+      key="Search term"
+      value="secundaire asset"/>
+  <properties
+      key="Search term"
+      value="sensor"/>
+  <properties
+      key="Search term"
+      value="meter"/>
+  <properties
+      key="Search term"
+      value="actuator"/>
+  <properties
+      key="Search term"
+      value="remote terminal unit (RTU)"/>
+  <properties
+      key="Search term"
+      value="netwerkbeveiliging"/>
+  <properties
+      key="Search term"
+      value="meetinrichting"/>
+  <properties
+      key="Search term"
+      value="comptabele meter"/>
+  <properties
+      key="Search term"
+      value="slimme meter"/>
+  <properties
+      key="Search term"
+      value="klantmeter"/>
+</archimate:BusinessObject>

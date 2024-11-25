@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkzaamheden operationeel plannen"
+    id="id-718735"
+    documentation="Het vermogen om werk te plannen in beschikbare tijd van medewerkers van een capaciteitsgroep, inclusief het beheren van beschikbaarheid in de komende periode voor deze medewerkers.  Hierbij wordt onder andere rekening gehouden met gevraagde en beschikbare aanwijzingen, ervaring en reistijden. Operationeel plannen omvat het inplannen van waakdiensten. De beschikbaarheid van medewerkers wordt o.a. beïnvloed door de met de medewerker afgesproken beschikbaarheid (contracturen gecorrigeerd voor verlof), opleidingen, afdelingsgebeurtenissen. De met de medewerkers afgesproken beschikbaarheid wordt via interne waardestroom: ‘Beschikbaar maken en houden van inzetbare medewerkers’ gerealiseerd. De capaciteitsgroepen en planbare medewerkers daarbinnen worden gerealiseerd door ‘C.5.4.2 Uitvoeringscapaciteit managen’.">
+  <properties
+      key="Code"
+      value="C.5.3.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Operationally plan work"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to execute operational planning of work, like scheduling technicians."/>
+</archimate:BusinessFunction>

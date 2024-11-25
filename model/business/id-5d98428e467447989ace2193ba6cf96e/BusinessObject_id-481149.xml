@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netberekening"
+    id="id-481149"
+    documentation="Een kwantitatieve analyse om te bepalen of energietransporten in de toekomst met het huidige energienet zijn te realiseren.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid calculation"/>
+  <properties
+      key="Source"
+      value="scenario (Regeling investeringsplan en kwaliteit elektriciteit en gas)"/>
+  <properties
+      key="Search term"
+      value="scenario"/>
+  <properties
+      key="Search term"
+      value="netsimulatie"/>
+  <properties
+      key="Search term"
+      value="loadflowberekening"/>
+  <properties
+      key="Search term"
+      value="kortsluitberekening"/>
+  <properties
+      key="Search term"
+      value="stabiliteitsberekening"/>
+</archimate:BusinessObject>

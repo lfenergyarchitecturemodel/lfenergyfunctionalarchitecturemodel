@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfscontinuïteit borgen"
+    id="id-736302"
+    documentation="Het vermogen om bedrijfscontinuïteitsrisico's vast te stellen en te vertalen naar maatregelen en richtlijnen en die te bewaken.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.4.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage business continuity"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

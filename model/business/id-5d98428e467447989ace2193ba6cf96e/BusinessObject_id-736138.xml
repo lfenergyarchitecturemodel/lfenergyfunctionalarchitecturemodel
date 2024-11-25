@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacyrisico"
+    id="id-736138"
+    documentation="Een effect van onzekerheid ten aanzien van de beperking van rechten en vrijheden van personen als gevolg van de verwerking van hun persoonsgegevens.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Privacy risk"/>
+</archimate:BusinessObject>

@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Managen van beschikbare energienetcapaciteit (toekomst)"
+    id="id-4993de1666b84efcbc102bcd6102ada2">
+  <properties
+      key="Code"
+      value="P.E"/>
+  <properties
+      key="Name (en)"
+      value="Manage available energy grid capacity (future)"/>
+</archimate:BusinessProcess>

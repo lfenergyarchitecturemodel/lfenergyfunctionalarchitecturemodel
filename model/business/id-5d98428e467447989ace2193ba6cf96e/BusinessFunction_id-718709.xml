@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alternatieven voor mitigatie kwaliteitsrisico analyseren en mitigerende maatregelen bepalen"
+    id="id-718709"
+    documentation="Het vermogen om alternatieven op te stellen en te analyseren voor mitigatie van kwaliteit  netrisico's/oplossen van knelpunten en de mitigerende maatregelen te bepalen.">
+  <properties
+      key="Code"
+      value="C.3.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Analyse alternatives to mitigate quality risk and determine mitigating measures"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to formulate and analyse alternatives for mitigation of grid risk quality/bottleneck resolution and determine mitigating measures."/>
+</archimate:BusinessFunction>

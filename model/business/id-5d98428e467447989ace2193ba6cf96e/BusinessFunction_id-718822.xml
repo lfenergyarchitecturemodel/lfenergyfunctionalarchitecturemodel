@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veiligheid, gezondheid, milieu en kwaliteit borgen"
+    id="id-718822"
+    documentation="Het vermogen om richtlijnen voor persoonlijke veiligheid en gezondheid, milieu en kwaliteit (VGMK) op te stellen en te bewaken. Dit omvat ook de persoonlijke digitale veiligheid. Dit omvat ook het afhandelen van bedrijfsincidenten op gebied van VGMK.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.4.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Monitor and adjust personal safety, health, environment and quality"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

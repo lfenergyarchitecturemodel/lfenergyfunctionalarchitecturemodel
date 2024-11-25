@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geautoriseerd door"
+    id="id-228241b4690848839f301653400ad6e6"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="authorised by"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-729622.xml#id-729622"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-729629.xml#id-729629"/>
+</archimate:AssociationRelationship>

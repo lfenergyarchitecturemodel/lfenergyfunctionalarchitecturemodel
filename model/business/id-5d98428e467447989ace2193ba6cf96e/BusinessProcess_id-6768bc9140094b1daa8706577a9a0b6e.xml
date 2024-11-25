@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar maken en houden van inzetbare medewerkers"
+    id="id-6768bc9140094b1daa8706577a9a0b6e">
+  <properties
+      key="Code"
+      value="I.D"/>
+  <properties
+      key="Name (en)"
+      value="Getting and keeping employees employable"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energietransport"
+    id="id-722908"
+    documentation="Een verplaatsing van energie via een energienet.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Energy transport"/>
+  <properties
+      key="Search term"
+      value="spanningskwaliteit"/>
+  <properties
+      key="Search term"
+      value="gaskwaliteit"/>
+  <properties
+      key="Search term"
+      value="gasdruk"/>
+  <properties
+      key="Search term"
+      value="debiet"/>
+  <properties
+      key="Search term"
+      value="belasting"/>
+  <properties
+      key="Search term"
+      value="energietransmissie"/>
+  <properties
+      key="Search term"
+      value="energiedistributie"/>
+</archimate:BusinessObject>

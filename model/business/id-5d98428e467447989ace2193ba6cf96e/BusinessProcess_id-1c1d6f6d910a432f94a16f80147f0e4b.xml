@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reconstrueren van energienetten"
+    id="id-1c1d6f6d910a432f94a16f80147f0e4b">
+  <properties
+      key="Code"
+      value="P.B"/>
+  <properties
+      key="Name (en)"
+      value="Reconstruct energy grids"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsprestatie"
+    id="id-736146"
+    documentation="De mate waarin een organisatie een gesteld doel of verplichting volbrengt.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Business performance"/>
+  <properties
+      key="Source"
+      value="prestatie (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="key performance indicator (KPI)"/>
+  <properties
+      key="Search term"
+      value="objectives and key results (OKR)"/>
+  <properties
+      key="Search term"
+      value="measure"/>
+</archimate:BusinessObject>

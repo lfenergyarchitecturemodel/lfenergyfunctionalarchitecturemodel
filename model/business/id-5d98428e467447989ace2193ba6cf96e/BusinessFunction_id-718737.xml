@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energienetten opnemen in de besturing van energietransport"
+    id="id-718737"
+    documentation="Het vermogen om netcomponenten op te nemen in de besturing van het energienet, zoals zichtbaar maken in de monitoring en aanstuurbaar maken door SCADA.">
+  <properties
+      key="Code"
+      value="C.2.1.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Include energy grids in the control of energy transport"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to include net components in the operations of the energy grid, such as visibility in the monitoring and control of SCADA."/>
+</archimate:BusinessFunction>

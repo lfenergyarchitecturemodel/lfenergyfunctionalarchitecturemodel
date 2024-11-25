@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatieonderdeel"
+    id="id-470221"
+    documentation="Een groep mensen binnen een organisatie die een gezamenlijk doel nastreven.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Organisational unit"/>
+  <properties
+      key="Search term"
+      value="organisatie-eenheid"/>
+  <properties
+      key="Search term"
+      value="afdeling"/>
+  <properties
+      key="Search term"
+      value="Scrum-team"/>
+  <properties
+      key="Search term"
+      value="business unit"/>
+  <properties
+      key="Search term"
+      value="agile team"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energienet"
+    id="id-729592"
+    documentation="De verzameling bedrijfsobjecten nodig om energienetten uit te breiden, te vervangen en te vernieuwen.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Energy grid"/>
+</archimate:BusinessObject>

@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoopovereenkomst"
+    id="id-475596"
+    documentation="Een afspraak over de voorwaarden waaronder een partij goederen of diensten levert aan de netbeheerder.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Purchase agreement"/>
+  <properties
+      key="Search term"
+      value="inkoopcontract"/>
+  <properties
+      key="Search term"
+      value="verwerkersovereenkomst"/>
+  <properties
+      key="Search term"
+      value="aanbesteding"/>
+  <properties
+      key="Search term"
+      value="raamcontract"/>
+  <properties
+      key="Search term"
+      value="raamovereenkomst"/>
+</archimate:BusinessObject>

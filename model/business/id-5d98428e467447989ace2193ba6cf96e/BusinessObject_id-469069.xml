@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telecomcomponent"
+    id="id-469069"
+    documentation="Een onderdeel van een telecommunicatienetwerk bedoeld voor gegevensoverdracht van of naar een netcomponent.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Telecom component"/>
+  <properties
+      key="Search term"
+      value="telecomasset"/>
+</archimate:BusinessObject>

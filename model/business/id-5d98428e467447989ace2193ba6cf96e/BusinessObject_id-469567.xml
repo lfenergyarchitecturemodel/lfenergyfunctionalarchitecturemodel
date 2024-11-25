@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkerinzet"
+    id="id-469567"
+    documentation="Het (gevraagde, geplande of daadwerkelijke) verbruik van de capaciteit van medewerkers.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Worker deployment"/>
+  <properties
+      key="Search term"
+      value="werkrooster"/>
+  <properties
+      key="Search term"
+      value="geschreven uren"/>
+</archimate:BusinessObject>

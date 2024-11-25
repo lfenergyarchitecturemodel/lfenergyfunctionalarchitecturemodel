@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transporteren van energie (nu)"
+    id="id-afa6bf1f62714f499a365d33d9c4eb15">
+  <properties
+      key="Code"
+      value="P.F"/>
+  <properties
+      key="Name (en)"
+      value="Transport energy (now)"/>
+</archimate:BusinessProcess>

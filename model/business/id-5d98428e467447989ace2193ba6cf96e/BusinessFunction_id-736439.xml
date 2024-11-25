@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vermogen verkrijgen"
+    id="id-736439"
+    documentation="Het vermogen om eigen en vreemd vermogen te verkrijgen, bijvoorbeeld door het aangaan van een lening of  de emissie van aandelen.">
+  <properties
+      key="Code"
+      value="E.7.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Acquire financing"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

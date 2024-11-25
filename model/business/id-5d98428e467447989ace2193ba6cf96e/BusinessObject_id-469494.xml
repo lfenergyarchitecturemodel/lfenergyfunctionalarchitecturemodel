@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aansluitlocatie"
+    id="id-469494"
+    documentation="Een plek ten opzichte van de aarde waar zich het overdrachtspunt van een aansluiting bevindt.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Connection location"/>
+  <properties
+      key="Search term"
+      value="leveringsadres"/>
+  <properties
+      key="Search term"
+      value="leveringspunt"/>
+  <properties
+      key="Search term"
+      value="verbruiksplaats"/>
+  <properties
+      key="Search term"
+      value="pand"/>
+  <properties
+      key="Search term"
+      value="kadastraal perceel"/>
+  <properties
+      key="Search term"
+      value="verblijfsobject"/>
+</archimate:BusinessObject>

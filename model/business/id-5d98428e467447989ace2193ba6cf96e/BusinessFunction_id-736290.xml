@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfscontinuïteit en compliance borgen"
+    id="id-736290"
+    documentation="Het vermogen om kaders en risico's vast te stellen, te bewaken en te besturen door o.a. compliance te bewaken en policy's in te voeren.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Ensure business continuity and compliance"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

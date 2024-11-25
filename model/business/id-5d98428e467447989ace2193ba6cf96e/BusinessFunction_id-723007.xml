@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Materieel onderhouden"
+    id="id-723007"
+    documentation="Het vermogen om materieel te onderhouden. Dit omvat het (her)ijken van meetapparatuur, onderhouden van gereedschap, bedrijfskleding.">
+  <properties
+      key="Code"
+      value="C.5.4.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Maintain equipment"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to maintain equipment. This includes (re)calibrating measuring equipment, maintaining tools and work clothing."/>
+</archimate:BusinessFunction>

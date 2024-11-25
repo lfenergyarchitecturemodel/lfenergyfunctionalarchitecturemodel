@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Primaire netcomponent"
+    id="id-723048"
+    documentation="Een netcomponent bedoeld voor energietransport.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Primary grid component"/>
+  <properties
+      key="Search term"
+      value="primaire asset"/>
+</archimate:BusinessObject>

@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantaanvraag"
+    id="id-472880"
+    documentation="Een verzoek aan de netbeheerder om het doen van een aanbod voor het leveren van een product of dienst.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer quote request"/>
+  <properties
+      key="Search term"
+      value="case"/>
+</archimate:BusinessObject>

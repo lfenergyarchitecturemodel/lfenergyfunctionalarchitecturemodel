@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toewijzen van energie-uitwisseling"
+    id="id-2653d94e08524482adaf3439ed2972e3">
+  <properties
+      key="Code"
+      value="P.G"/>
+  <properties
+      key="Name (en)"
+      value="Allocate energy exchange to market parties"/>
+</archimate:BusinessProcess>

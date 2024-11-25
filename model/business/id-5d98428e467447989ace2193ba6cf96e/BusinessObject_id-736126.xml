@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risico"
+    id="id-736126"
+    documentation="De verzameling bedrijfsobjecten nodig om de bedrijfscontinuïteit en compliance te borgen.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Risk"/>
+</archimate:BusinessObject>

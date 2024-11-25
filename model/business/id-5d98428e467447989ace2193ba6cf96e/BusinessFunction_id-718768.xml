@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contactpersoon/verantwoordelijke voor locatie bepalen"
+    id="id-718768"
+    documentation="Het vermogen om de contactpersoon/verantwoordelijke voor een locatie te achterhalen. Bv. via de eigenaar van een perceel.">
+  <properties
+      key="Code"
+      value="C.1.1.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine contact person/responsible person for location"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to identify the contact person/responsible person for a location. E.g. through the land owner."/>
+</archimate:BusinessFunction>

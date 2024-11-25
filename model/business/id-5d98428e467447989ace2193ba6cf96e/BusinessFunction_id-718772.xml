@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overeenkomsten/SLA's afsluiten, aanpassen, beheren en beeïndigen"
+    id="id-718772"
+    documentation="Het vermogen om met afnemers afspraken te maken/ overeenkomsten af te sluiten over producten en dienstverlening, inclusief managen van de prestaties en het beheren van overeenkomstenregister. Dit gaat ook over aanpassen en beeïndigen van overeenkomsten en SLA's.">
+  <properties
+      key="Code"
+      value="C.1.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Close, adjust, manage and terminate contracts/SLAs"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to make agreements/contracts with customers about products and services, including performance management, contract register management and register connections. This also includes adjusting and terminating contracts and SLAs."/>
+</archimate:BusinessFunction>

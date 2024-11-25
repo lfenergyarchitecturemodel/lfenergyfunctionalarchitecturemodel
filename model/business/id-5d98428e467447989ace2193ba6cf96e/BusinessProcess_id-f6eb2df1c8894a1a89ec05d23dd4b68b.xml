@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepalen en bewaken strategie en plannen"
+    id="id-f6eb2df1c8894a1a89ec05d23dd4b68b">
+  <properties
+      key="Code"
+      value="I.A"/>
+  <properties
+      key="Name (en)"
+      value="Determine and monitor strategy and plans"/>
+</archimate:BusinessProcess>

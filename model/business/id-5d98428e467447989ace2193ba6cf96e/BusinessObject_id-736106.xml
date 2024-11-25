@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataservice"
+    id="id-736106"
+    documentation="Een verzameling handelingen die toegang biedt tot één of meer datasets.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Data service"/>
+  <properties
+      key="Source"
+      value="data service (DCAT-AP 3.0)"/>
+  <properties
+      key="Search term"
+      value="dataproduct"/>
+</archimate:BusinessObject>

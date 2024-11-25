@@ -1,0 +1,36 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energieprogramma of prognose"
+    id="id-723119"
+    documentation="Een bij een netbeheerder ingediende planning van handelstransacties (energieprogramma) en/of energie-uitwisseling (prognose).">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Energy schedule or forecast"/>
+  <properties
+      key="Source"
+      value="energieprogramma (Begrippencode elektriciteit)"/>
+  <properties
+      key="Source"
+      value="programma (Gaswet)"/>
+  <properties
+      key="Source"
+      value="prognose (Begrippencode elektriciteit)"/>
+  <properties
+      key="Search term"
+      value="E-programma"/>
+  <properties
+      key="Search term"
+      value="balanceringsportfolio"/>
+  <properties
+      key="Search term"
+      value="transportprognose"/>
+  <properties
+      key="Search term"
+      value="T-prognose"/>
+  <properties
+      key="Search term"
+      value="GLDPM"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaalproductstrategie en -portfolio ontwikkelen en beheren"
+    id="id-736318"
+    documentation="Het vermogen om digitale-technologiestrategie te onwikkelen en het portfolio van digitale producten te beheren. Het ontwikkelen van digitaal product portfolio vindt plaats als onderdeel van de veranderingen die in E.1.3. worden gemanaged. (IT4IT Strategy to Portfolio)">
+  <properties
+      key="Code"
+      value="E.4.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Develop digital technology strategy and manage digital product portfolio"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT - Strategy to portfolio)"/>
+</archimate:BusinessFunction>

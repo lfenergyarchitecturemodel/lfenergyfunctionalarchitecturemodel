@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transportberekening"
+    id="id-722927"
+    documentation="Een kwantitatieve analyse van het energietransport met als doel deze in stand te houden.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Transport calculation"/>
+  <properties
+      key="Source"
+      value="(loadflow)analyse (Netcode elektriciteit)"/>
+  <properties
+      key="Search term"
+      value="loadflowanalyse"/>
+  <properties
+      key="Search term"
+      value="netveiligheidsanalyse"/>
+  <properties
+      key="Search term"
+      value="distributieprognose"/>
+  <properties
+      key="Search term"
+      value="netberekening"/>
+</archimate:BusinessObject>

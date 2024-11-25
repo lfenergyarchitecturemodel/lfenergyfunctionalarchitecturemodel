@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overeenkomsten voor marktdiensten afsluiten"
+    id="id-718778"
+    documentation="Het vermogen om contracten voor marktdiensten af te sluiten, zoals contracten voor balanceringscapaciteit, redispatchcapaciteit of vraagsturing en restrictiecontracten.">
+  <properties
+      key="Code"
+      value="C.6.1.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Close contracts for market services"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to close contracts for market services."/>
+</archimate:BusinessFunction>

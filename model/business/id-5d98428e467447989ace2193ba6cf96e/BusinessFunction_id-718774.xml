@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktprocedures uitvoeren"
+    id="id-718774"
+    documentation="Het vermogen om wijzigingen op aansluitingen/allocatiepunten te ontvangen en af te handelen die door een marktpartij zijn geïnitieerd conform vastgestelde markprocessen. Marktprocedures die we kennen zijn onder meer SwitchenVerhuizenEindelevering (SVEL), disputen, faillissement leverancier.">
+  <properties
+      key="Code"
+      value="C.6.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Execute energy market procedures"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to accept and handle requests for changes of connections and allocation points  initiated by market parties (like switching, move in, move out and banckruptcy of supplier)"/>
+</archimate:BusinessFunction>

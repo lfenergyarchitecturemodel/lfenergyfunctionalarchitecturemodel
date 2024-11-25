@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energietransport verzorgen"
+    id="id-711318"
+    documentation="Het vermogen om in het moment vraag en aanbod vast te stellen en op elkaar af te stemmen.">
+  <properties
+      key="Code"
+      value="C.2.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Realise energy transport"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine and coordinate supply and demand in the moment."/>
+</archimate:BusinessFunction>

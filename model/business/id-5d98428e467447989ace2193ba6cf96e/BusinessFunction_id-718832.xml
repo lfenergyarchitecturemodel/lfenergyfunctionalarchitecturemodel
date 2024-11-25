@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiën verkrijgen en beheren"
+    id="id-718832"
+    documentation="Het vermogen om de financiën te besturen.">
+  <properties
+      key="Code"
+      value="E.7"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Manage finance"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage finances."/>
+</archimate:BusinessFunction>

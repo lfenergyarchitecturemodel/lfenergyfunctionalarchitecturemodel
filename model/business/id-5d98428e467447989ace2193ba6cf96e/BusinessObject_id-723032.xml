@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Omgevingsanalyse"
+    id="id-723032"
+    documentation="Een omschrijving van de fysieke leefomgeving en het eigenaarschap van de grond, waar rekening mee moet worden gehouden bij de uitvoering van de bedrijfsactiviteiten.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Environmental analysis"/>
+  <properties
+      key="Search term"
+      value="bodemkwaliteit"/>
+  <properties
+      key="Search term"
+      value="fysieke leefomgeving"/>
+  <properties
+      key="Search term"
+      value="ondergrond"/>
+</archimate:BusinessObject>

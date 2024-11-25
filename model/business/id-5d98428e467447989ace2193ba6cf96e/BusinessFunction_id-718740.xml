@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opdrachten geven aan uitvoering"
+    id="id-718740"
+    documentation="Het vermogen om opdrachten te geven aan de uitvoering binnen of buiten de netbeheerder.">
+  <properties
+      key="Code"
+      value="C.5.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Issue work to execution"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to instruct on work in progress inside or outside the grid operator."/>
+</archimate:BusinessFunction>

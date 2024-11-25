@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goederen- en dienstenstrategie opstellen"
+    id="id-736559"
+    documentation="Het vermogen om goederen- en dienstenstrategie op te stellen en te besturen.">
+  <properties
+      key="Code"
+      value="E.5.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop and manage goods and services strategy"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

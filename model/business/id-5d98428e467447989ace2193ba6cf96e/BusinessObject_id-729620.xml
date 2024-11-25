@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkportfolio"
+    id="id-729620"
+    documentation="Een globale planning van werkzaamheden aan energienetten.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Work portfolio"/>
+  <properties
+      key="Search term"
+      value="werksamenstelling"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veranderportfolio opstellen en bewaken / Roadmap opstellen en bewaken"
+    id="id-736522"
+    documentation="Het vermogen om veranderingen te definieren, prioriteren en afhankelijkheden en voortgang te managen d.m.v. een roadmap.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.3.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop change portfolio / develop a roadmap"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

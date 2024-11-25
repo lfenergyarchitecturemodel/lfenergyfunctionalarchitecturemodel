@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datadefinites ontwikkelen en beheren"
+    id="id-736312"
+    documentation="Het vermogen om data te definiëren en te beheren. Deze capability omvat het vastleggen van datamodel/metadata en het beleggen van eigenaarschap. Onderdeel hiervan is ook het opstellen van data- en kennisrichtlijnen en continu verbeteren van de datadefinities.">
+  <properties
+      key="Code"
+      value="E.2.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Define and maintain data"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

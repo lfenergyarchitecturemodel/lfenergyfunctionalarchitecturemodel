@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="op basis van"
+    id="id-735692"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="based on"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-470526.xml#id-470526"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-722996.xml#id-722996"/>
+</archimate:AssociationRelationship>

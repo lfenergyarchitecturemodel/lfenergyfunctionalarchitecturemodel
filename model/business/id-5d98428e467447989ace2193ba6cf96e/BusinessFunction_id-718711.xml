@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netrisico’s op kwaliteit bepalen en waarderen"
+    id="id-718711"
+    documentation="Het vermogen om netrisico's en knelpunten op kwaliteit te bepalen en te waarderen gegeven de toestand van de netcomponenten en het net.">
+  <properties
+      key="Code"
+      value="C.3.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine and value grid risks on quality"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine and value grid risks and bottlenecks on quality, given the condition of the grid components and the grid."/>
+</archimate:BusinessFunction>

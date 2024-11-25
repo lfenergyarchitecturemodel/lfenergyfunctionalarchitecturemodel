@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiële strategie"
+    id="id-736035"
+    documentation="Een algemene aanpak die een organisatie hanteert om financiën te besturen zodat zij haar doelstellingen realiseert.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Finance strategy"/>
+  <properties
+      key="Search term"
+      value="financieel beleid"/>
+</archimate:BusinessObject>

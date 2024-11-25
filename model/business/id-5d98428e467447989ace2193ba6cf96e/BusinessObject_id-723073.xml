@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Graafbericht"
+    id="id-723073"
+    documentation="Een bericht aan de netbeheerder van de Dienst voor het kadaster en de openbare registers nadat deze een oriëntatieverzoek of graafmelding heeft ontvangen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Digging message"/>
+  <properties
+      key="Source"
+      value="graafbericht (Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)"/>
+  <properties
+      key="Search term"
+      value="KLIC"/>
+  <properties
+      key="Search term"
+      value="graafmelding"/>
+</archimate:BusinessObject>

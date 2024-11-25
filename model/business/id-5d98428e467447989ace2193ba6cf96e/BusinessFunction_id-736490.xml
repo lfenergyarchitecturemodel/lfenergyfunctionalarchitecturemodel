@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relatie met inkoopleveranciers onderhouden"
+    id="id-736490"
+    documentation="Het vermogen om een relatie met inkoopleveranciers te onderhouden. Dit omvat strategisch, tactisch en operationeel niveau.">
+  <properties
+      key="Code"
+      value="E.5.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage supplier relations"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

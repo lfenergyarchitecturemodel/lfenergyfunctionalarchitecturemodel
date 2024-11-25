@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiën plannen"
+    id="id-736398"
+    documentation="Het vermogen om financiën (meer)jaren te plannen en te budgetteren. Dit omvat ook het begroten.">
+  <properties
+      key="Code"
+      value="E.7.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Plan finance"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

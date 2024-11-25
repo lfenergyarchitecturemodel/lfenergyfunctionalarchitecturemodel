@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsgebouwen beheren en faciliteiten beschikbaar stellen"
+    id="id-718824"
+    documentation="Het vermogen om bedrijfsgebouwen en faciliteiten te beheren. Let op dit betreft bedrijfsgebouwen en faciliteiten die geen onderdeel zijn van het net; technische gebouwen zijn een asset categorie (tertiaire assets) en worden in domein 3 beheerd. Het omvat tevens de fysieke werkplek. Dit omvat: kantoorgebouwen, magazijnen, opleidingscentra, ...">
+  <properties
+      key="Code"
+      value="E.6"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Manage company buildings and facilities"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage company buildings and facilities. Please note this concerns buildings and facilities that are not part of the grid; technical buildings are an asset category (tertiary assets) and are managed in domain 3. It also includes the physical workplace. This includes: office buildings, warehouses, training centers, ..."/>
+</archimate:BusinessFunction>

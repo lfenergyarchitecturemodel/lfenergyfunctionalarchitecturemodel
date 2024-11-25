@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Processen orkestreren"
+    id="id-736517"
+    documentation="Het vermogen om de processen te orkestreren en daarmee de realisatie van het resultaat te besturen. Dit omvat het bepalen van de uit te voeren activiteiten, het aansturen van de activiteiten (aansturen actoren), het monitoren van de voortgang en het inzicht geven in / rapporteren over de voortgang op afgesproken momenten en/of op verzoek. Dit omvat een taakflow wijze van orkestreren en een dossierflow (=zaakgericht werken) wijze van orkestreren. Deze capability kan worden gebruikt om de verschillende onderliggende capabilities aan te sturen die nodig zijn om het E2E resultaat te realiseren (b.v. toekomstbestendig energienet, aansluiting, betrouwbaar energienet, transport capaciteit, afgeleverde energie, toegewezen energie-uitwisseling, netbeheer data). Deze capability kan ook worden gebruikt binnen een capability context om een capability proces te orkestreren en daarmee de realisatie van het capability resultaat te besturen. Het object van orkestratie duiden we met ‘Case’.">
+  <properties
+      key="Code"
+      value="E.2.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Orchestrate processes"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

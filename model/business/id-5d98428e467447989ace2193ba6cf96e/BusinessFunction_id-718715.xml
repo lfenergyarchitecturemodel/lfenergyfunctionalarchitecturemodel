@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Net(componenten)toestand inventariseren en analyseren"
+    id="id-718715"
+    documentation="Het vermogen om de toestand van netcomponenten en van het net te inventariseren (o.a. gebruikmakend van (sensor) data uit/over de componenten en het net) en te analyseren/bepalen.">
+  <properties
+      key="Code"
+      value="C.3.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Inventorise and analyse grid and grid component status"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to inventorise the condition of grid components and of the grid (including using (sensor) data from/about the components and the grid) and to analyse/determine them."/>
+</archimate:BusinessFunction>

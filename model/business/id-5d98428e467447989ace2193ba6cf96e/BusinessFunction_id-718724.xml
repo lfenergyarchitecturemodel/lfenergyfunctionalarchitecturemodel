@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metingen verzamelen"
+    id="id-718724"
+    documentation="Het vermogen om metingen te verzamelen voor verwerking. Dit is inclusief het handmatig uitlezen van meterstanden.">
+  <properties
+      key="Code"
+      value="C.4.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Collect measurements"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability of collecting measurements for processing purposes."/>
+</archimate:BusinessFunction>

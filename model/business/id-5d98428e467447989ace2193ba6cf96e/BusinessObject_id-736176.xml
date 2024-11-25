@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaalproductinstantie"
+    id="id-736176"
+    documentation="Een levering van een digitaal product.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Digital product instance"/>
+  <properties
+      key="Source"
+      value="desired product instance (Open Group IT4IT)"/>
+  <properties
+      key="Source"
+      value="desired product instance (Open Group IT4IT)"/>
+  <properties
+      key="Search term"
+      value="digitale identiteit"/>
+  <properties
+      key="Search term"
+      value="user account"/>
+  <properties
+      key="Search term"
+      value="service level agreement (SLA)"/>
+  <properties
+      key="Search term"
+      value="request for change (RFC)"/>
+  <properties
+      key="Search term"
+      value="autorisatie"/>
+</archimate:BusinessObject>

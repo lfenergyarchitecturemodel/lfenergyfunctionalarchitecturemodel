@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitale producten creëren, aanpassen en verwijderen"
+    id="id-736320"
+    documentation="Het vermogen om digitale producten te creëren, aan te passen (onderhoud of functionaliteit uitbreiding doeleinden) en te verwijderen. (IT4IT - Develop)">
+  <properties
+      key="Code"
+      value="E.4.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Create, adjust and remove digital products"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT Develop)"/>
+</archimate:BusinessFunction>

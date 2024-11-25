@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel feit"
+    id="id-736013"
+    documentation="De verzameling bedrijfsobjecten nodig om gebeurtenissen financieel te verwerken en standen te beheren.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Financial fact"/>
+</archimate:BusinessObject>

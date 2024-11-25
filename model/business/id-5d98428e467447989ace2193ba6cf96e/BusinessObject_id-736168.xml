@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaal product"
+    id="id-736168"
+    documentation="Een dienst voor het leveren van beheerde software.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Digital product"/>
+  <properties
+      key="Source"
+      value="digital product (Open Group IT4IT)"/>
+  <properties
+      key="Search term"
+      value="informatiesysteem"/>
+  <properties
+      key="Search term"
+      value="applicatie"/>
+  <properties
+      key="Search term"
+      value="dataproduct"/>
+  <properties
+      key="Search term"
+      value="digitale dienst"/>
+  <properties
+      key="Search term"
+      value="solution"/>
+  <properties
+      key="Search term"
+      value="software"/>
+  <properties
+      key="Search term"
+      value="hardware"/>
+  <properties
+      key="Search term"
+      value="IT-component"/>
+  <properties
+      key="Search term"
+      value="configuratie-item"/>
+</archimate:BusinessObject>

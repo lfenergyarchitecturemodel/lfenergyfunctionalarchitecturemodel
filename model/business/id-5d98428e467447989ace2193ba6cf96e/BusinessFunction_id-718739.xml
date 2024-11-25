@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeringscapaciteit managen"
+    id="id-718739"
+    documentation="Het vermogen om uitvoeringscapaciteit te managen voldoende voor de uitvoering van de verwachte en/of afgesproken werkzaamheden. Denk ondermeer aan: toewijzen/reserveren van capaciteitsgroepen, afroepen van flexibele capaciteit, bewaken van voldoende capaciteit per benodigde aanwijzing/kwalificatie, aansturen van ontwikkelproces van uitvoeringscapaciteit. Sleutelbeheer t.b.v. toegang tot stations.">
+  <properties
+      key="Code"
+      value="C.5.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage execution capacity"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage the execution capacity needed for executing expected and/or agreed activities. Think about: assign/reserve capacity groups, call off assinging flexible capacity, monitoring capacity for needed call off/qualification, directing the development of execution capacity. Key managament for station access."/>
+</archimate:BusinessFunction>

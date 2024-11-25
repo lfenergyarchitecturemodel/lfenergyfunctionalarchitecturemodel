@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netcomponenten in/uit bedrijf nemen op locatie"
+    id="id-718725"
+    documentation="Het vermogen om netcomponenten in en uit bedrijf te nemen op locatie.">
+  <properties
+      key="Code"
+      value="C.5.3.6"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Commission and decommision grid components on premises"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to commission and decommission grid components on the premises."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Processen ontwikkelen en beheren"
+    id="id-736295"
+    documentation="Het vermogen om processen te definiëren, continu te verbeteren en te beheren. Dit omvat het vastleggen van processen, het beleggen van eigenaarschap en het monitoren van de effectiviteit van processen.">
+  <properties
+      key="Code"
+      value="E.2.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Define and improve processes"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

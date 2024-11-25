@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel verslag"
+    id="id-736033"
+    documentation="Een overzicht van de financiële situatie van een organisatie.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Financial report"/>
+  <properties
+      key="Source"
+      value="jaarrekening (Boek 2 van het Burgerlijk Wetboek, artikel 361)"/>
+  <properties
+      key="Search term"
+      value="financieel jaarverslag"/>
+  <properties
+      key="Search term"
+      value="jaarrekening"/>
+</archimate:BusinessObject>

@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Liquide middel"
+    id="id-736023"
+    documentation="Direct beschikbaar geld of direct opeisbaar tegoed.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Liquid asset"/>
+  <properties
+      key="Source"
+      value="liquide middelen (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="bankrekening"/>
+  <properties
+      key="Search term"
+      value="banktegoed"/>
+  <properties
+      key="Search term"
+      value="kastegoed"/>
+</archimate:BusinessObject>

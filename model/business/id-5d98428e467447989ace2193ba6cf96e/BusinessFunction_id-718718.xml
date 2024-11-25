@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netrisico’s op capaciteit en/of functionaliteit bepalen en waarderen"
+    id="id-718718"
+    documentation="Het vermogen om netrisico's en knelpunten op capaciteit en/of functionaliteit te bepalen en te waarderen gegeven de behoefte aan capaciteit en functionaliteit en de capaciteit en functionaliteit van het huidige energienet. Denk ondermeer aan: tactisch risicomanagement, risicomanagement methodiek.">
+  <properties
+      key="Code"
+      value="C.3.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine and value grid risks on capacity and/or functionality"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine and value grid risks and bottlenecks on capacity and/or functionality, given the need for capacity and functionality and the capacity and functionality of the current energy grid. For example: tactical risk management, risk management methodology."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Veranderde) behoefte aan capaciteit en functionaliteit inventariseren en analyseren/simuleren"
+    id="id-718702"
+    documentation="Het vermogen om (veranderende) behoefte aan capaciteit en functionaliteit te inventariseren, te analyseren en te simuleren. Denk ondermeer aan: lange termijn, investeringen/Capex planning.">
+  <properties
+      key="Code"
+      value="C.3.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Collect and analyse/simulate (changed) needs for capacity and functionality"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to collect, analyse and simulate (changing) needs for capacity and functionality. Think of: long term, investments/capex planning."/>
+</archimate:BusinessFunction>

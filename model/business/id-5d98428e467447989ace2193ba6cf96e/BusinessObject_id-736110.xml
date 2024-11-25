@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data-analysemodel"
+    id="id-736110"
+    documentation="Een algoritme bedoeld om bij toepassing op een dataset waardevolle informatie te genereren.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Data analysis model"/>
+  <properties
+      key="Search term"
+      value="gegevensanalysemodel"/>
+  <properties
+      key="Search term"
+      value="data science model"/>
+  <properties
+      key="Search term"
+      value="algoritme"/>
+  <properties
+      key="Search term"
+      value="dataproduct"/>
+</archimate:BusinessObject>

@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiële beheersmaatregel"
+    id="id-736019"
+    documentation="Een handeling waarmee een organisatie het gebruik van haar financiële middelen bewaakt.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Financial control"/>
+  <properties
+      key="Search term"
+      value="bevoegdheid"/>
+  <properties
+      key="Search term"
+      value="mandaat"/>
+  <properties
+      key="Search term"
+      value="procuratie"/>
+</archimate:BusinessObject>

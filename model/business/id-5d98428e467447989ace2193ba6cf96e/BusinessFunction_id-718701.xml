@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkzaamheden evalueren"
+    id="id-718701"
+    documentation="Het vermogen om werkzaamheden te evalueren, na afloop en bij langdurige werkzaamheden tussendoor.">
+  <properties
+      key="Code"
+      value="C.5.2.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Evaluate work execution"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to evaluate work after ending work or in case of long lasting work during the work."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metingen valideren"
+    id="id-718793"
+    documentation="Het vermogen om metingen te toetsen aan geldigheidsregels en te corrigeren. Dit omvat tevens het aanvullen van ontbrekende tijdreeksen.">
+  <properties
+      key="Code"
+      value="C.4.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Validate measurements"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to check measurements against validity rules and correct them if necessary."/>
+</archimate:BusinessFunction>

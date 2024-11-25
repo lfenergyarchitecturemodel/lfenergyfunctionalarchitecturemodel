@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Magazijnen en voorraden beheren"
+    id="id-718738"
+    documentation="Het vermogen om magazijnen en aanwezige voorraden te beheren. Denk onder meer aan opslag, uitgifte, retouren, voorraadopname.">
+  <properties
+      key="Code"
+      value="C.5.4.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage warehouses and stock"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage warehouses and stock. Think about storage, stock issueing, returns and stock taking."/>
+</archimate:BusinessFunction>

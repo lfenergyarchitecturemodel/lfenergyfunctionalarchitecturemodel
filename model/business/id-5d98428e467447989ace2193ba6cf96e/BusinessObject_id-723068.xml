@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderhouds- of inspectieopdracht"
+    id="id-723068"
+    documentation="Een autorisatie voor activiteiten die als doel hebben het in een voor de netbeheerder aanvaardbare conditie houden (of terugbrengen) van netcomponenten teneinde de gevraagde mate van functionaliteit te borgen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Maintenance or inspection order"/>
+</archimate:BusinessObject>

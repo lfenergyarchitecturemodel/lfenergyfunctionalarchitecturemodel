@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuurproduct"
+    id="id-736156"
+    documentation="Een beschrijving van de huidige en/of toekomstige structuur en werking van een organisatie om deze te begrijpen, te communiceren en te beheren.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Architecture product"/>
+  <properties
+      key="Source"
+      value="enterprise architecture (ISO/IEC/IEEE 42010:2011)"/>
+  <properties
+      key="Search term"
+      value="enterprisearchitectuur"/>
+  <properties
+      key="Search term"
+      value="architectuurartefact"/>
+  <properties
+      key="Search term"
+      value="bedrijfsobjectenmodel (BOM)"/>
+  <properties
+      key="Search term"
+      value="capability"/>
+</archimate:BusinessObject>
