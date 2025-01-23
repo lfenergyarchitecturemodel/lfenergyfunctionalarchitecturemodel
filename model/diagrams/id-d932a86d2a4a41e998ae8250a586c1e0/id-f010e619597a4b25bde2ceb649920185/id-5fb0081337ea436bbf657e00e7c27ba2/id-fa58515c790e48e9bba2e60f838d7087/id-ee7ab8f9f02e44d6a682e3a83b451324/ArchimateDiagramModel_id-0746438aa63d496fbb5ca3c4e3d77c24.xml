@@ -93,8 +93,7 @@
           font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
           lineColor="#000000"
           fillColor="#edebf9"
-          textPosition="1"
-          type="1">
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -146,8 +145,7 @@
           targetConnections="id-7798f96c2e9a42539a488e0c20700e80"
           lineColor="#000000"
           fillColor="#edebf9"
-          textPosition="1"
-          type="1">
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -238,8 +236,7 @@
           targetConnections="id-52c16dc6d9684d528e061ee1120f2ec4"
           lineColor="#000000"
           fillColor="#bfeeff"
-          textPosition="1"
-          type="1">
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -291,8 +288,7 @@
           targetConnections="id-464050786286454790386548909f69b8"
           lineColor="#000000"
           fillColor="#bfeeff"
-          textPosition="1"
-          type="1">
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -395,8 +391,7 @@
           targetConnections="id-df1a79ff0fc74e28bbe245d90583a1da"
           lineColor="#000000"
           fillColor="#e5f1d7"
-          textPosition="1"
-          type="1">
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -448,8 +443,7 @@
           targetConnections="id-6eb201eaae5a4d18befcec9f5569f1e4"
           lineColor="#000000"
           fillColor="#e5f1d7"
-          textPosition="1"
-          type="1">
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -501,8 +495,7 @@
           targetConnections="id-5e3d0ddd998e42148c3cb303600fccd7"
           lineColor="#000000"
           fillColor="#e5f1d7"
-          textPosition="1"
-          type="1">
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -602,8 +595,7 @@
           targetConnections="id-62270e86fdb2416282a3456719d778e5"
           lineColor="#000000"
           fillColor="#ffcc99"
-          textPosition="1"
-          type="1">
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -655,8 +647,7 @@
           targetConnections="id-dd751dea05e541c79c11ded299793e6e"
           lineColor="#000000"
           fillColor="#ffcc99"
-          textPosition="1"
-          type="1">
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -708,8 +699,7 @@
           targetConnections="id-b798b0afbc9c4fd5a4b59d24137133ad"
           lineColor="#000000"
           fillColor="#ffcc99"
-          textPosition="1"
-          type="1">
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -791,8 +781,7 @@
           targetConnections="id-3fa3c17a26ee4dcebdcce63360b414d1"
           lineColor="#000000"
           fillColor="#ff7c80"
-          textPosition="1"
-          type="1">
+          textPosition="1">
         <features
             name="iconVisible"
             value="2"/>

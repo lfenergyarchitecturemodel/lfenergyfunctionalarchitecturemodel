@@ -9,8 +9,7 @@
       id="id-510633526900490d98131fbde779f05d"
       targetConnections="id-ac9608c5fc5244958b4b48f3199927f9 id-8354e8a6bf4a4c889c5a2d38e45241df id-9ef232d0f0394c11ab4b02ff2e72154a"
       fillColor="#ffcc99"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -31,8 +30,7 @@
       id="id-fffc68ebcb2a4769839c60b1395f0393"
       targetConnections="id-16d1f79ca5fc46399710152450a35cb2 id-3809b91834b44ea8bb47eae80dab8a03 id-7883fd9dd0914d65a7020924c00cda12"
       fillColor="#ff7c80"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -65,8 +63,7 @@
       id="id-6d96777879ef42459699e76ecebc05dd"
       targetConnections="id-910e8bdd9ee94e4e880f832eadb108cd"
       fillColor="#bfeeff"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -110,8 +107,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fa52fa850be54e9fb5001c1efa166138"
       fillColor="#e5f1d7"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -143,8 +139,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a2123d04152844698bf179296f327291"
       fillColor="#edebf9"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -188,8 +183,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-10c5001a03694eb1bada2f02d93bea45"
       fillColor="#ffffcc"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>

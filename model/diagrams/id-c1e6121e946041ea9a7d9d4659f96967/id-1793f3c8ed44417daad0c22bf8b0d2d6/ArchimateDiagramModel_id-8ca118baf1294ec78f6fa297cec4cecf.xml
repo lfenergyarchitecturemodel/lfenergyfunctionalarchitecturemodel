@@ -18,8 +18,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9584e0ffc04a4b2d80df04926bbb6f3b"
-      type="1">
+      id="id-9584e0ffc04a4b2d80df04926bbb6f3b">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-21809c61cffd49ce9567f1d036c49fc8"
@@ -64,8 +63,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-26ef6d0541754ba6b3180782b6e4361e"
-        targetConnections="id-c0ba27e2a4a3461ea4bbdc2ef7151db4"
-        type="1">
+        targetConnections="id-c0ba27e2a4a3461ea4bbdc2ef7151db4">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e1e2fc94bd5e4a1babd1ae2774c32ecc"
@@ -96,8 +94,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-479c4a7de87f46daa4b331aaf261d20e"
-        targetConnections="id-21809c61cffd49ce9567f1d036c49fc8"
-        type="1">
+        targetConnections="id-21809c61cffd49ce9567f1d036c49fc8">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-3d879db7dd974e0582245c98f34dfeaf"
@@ -137,8 +134,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-91c9c8c841d34dc9a59f3b0e1bde0aaf"
-        targetConnections="id-c36e15d0dadb48a49abd2b38dd9dbc97"
-        type="1">
+        targetConnections="id-c36e15d0dadb48a49abd2b38dd9dbc97">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-2b05c85c29c641a4a055517ed29059b2"
@@ -160,8 +156,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a0715f21c2a641c59ace7435e6a1bd5d"
-        targetConnections="id-e9caf64526f049f1aba248f3bed5a7ac"
-        type="1">
+        targetConnections="id-e9caf64526f049f1aba248f3bed5a7ac">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-9130095087124ee7bc8fd75406f211ce"

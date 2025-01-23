@@ -9,8 +9,7 @@
       id="id-ccfb404eaf074fd2a8dc7b2e1e90c60a"
       targetConnections="id-0ceabd7a7ddd4039bec474c4d354a03b id-d82dcbef3b834a05b3794972ed738470 id-91031c40ba1d413ab53ccd83b3f835e7 id-b952512327b04ac7ad21eee7abc2a85a id-7817840fbba14c3da3aa543038b86480"
       fillColor="#ffcc99"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -31,8 +30,7 @@
       id="id-83b77d288b7e4e51a0252fb555bfa8c0"
       targetConnections="id-b6f9e27aca2541638c593c0b8fce89b6 id-46acc4995b874b83af3bfe0db00edb26 id-c75885ea946c4e798b32fbe4467d70d1 id-76e13151afaf46afbb52f50a0eab594b"
       fillColor="#ff7c80"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -89,8 +87,7 @@
       id="id-d740c5a10ce94a79ae5e41254ffc980a"
       targetConnections="id-3fd3f3dda6b84ab49f67d7e7181297c7 id-886dacda5527410987c01a3b604101f0 id-3ac85b4b70f3487983d11933f143eb3e"
       fillColor="#bfeeff"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -122,8 +119,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5d3df5ce0dba4bb9a7e7b5211512d8da"
       fillColor="#e5f1d7"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -156,8 +152,7 @@
       id="id-eee2dcac63184e3b8bb1958535b806a1"
       targetConnections="id-76a6904fdf8a4c8a994b3c66d051accc id-0a1037d5557e422cb776b4c611fbf6c0"
       fillColor="#e5f1d7"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -177,8 +172,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3d4129c924d741309eaffad73a252372"
       fillColor="#e5f1d7"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -210,8 +204,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dff2c21d75464e0181691a8985b04b3b"
       fillColor="#ffcc99"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -243,8 +236,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ee2ca2a5e1724e6eb05f36fae0597c0d"
       fillColor="#ffcc99"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -276,8 +268,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-93b6e5e7723b4fca94bf73fdeeb4c2d6"
       fillColor="#ffcc99"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -309,8 +300,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-02b6e8693388480885e0d3edc27affaf"
       fillColor="#edebf9"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -355,8 +345,7 @@
       id="id-a01fadbe372640328d67e88f1d154d26"
       targetConnections="id-2fecfd217e6344bf8ccf88bedbb929b9"
       fillColor="#ff7c80"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -389,8 +378,7 @@
       id="id-327ff1499c2b40b3982b59b575d2ee94"
       targetConnections="id-c88ec32b32144ac18c2e5b5d228e6347"
       fillColor="#ff7c80"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -411,8 +399,7 @@
       id="id-50832c12887a44b195b8f57399cb2005"
       targetConnections="id-57c858e14f9a485f8b84a8c7cd1e7d14"
       fillColor="#bfeeff"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -445,8 +432,7 @@
       id="id-a4bc7b6ae7ef448497ea1f08440d14b2"
       targetConnections="id-b9c72872b2254d54b5af894f55f16adb"
       fillColor="#bfeeff"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -479,8 +465,7 @@
       id="id-ed9e14e21edf4b6f8de70a2cf90b97da"
       targetConnections="id-84adb6510b5743bfb7da261ad788132c"
       fillColor="#ffffcc"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -513,8 +498,7 @@
       id="id-876bbdf501e442349c623f7ea97ca275"
       targetConnections="id-57a4e8a2ae77443c98f14289a049f1a3"
       fillColor="#ffffcc"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -547,8 +531,7 @@
       id="id-333b9aaee91245a395050df32b8a27b5"
       targetConnections="id-86a0b969c1534d4b968ea8aeae3ee886"
       fillColor="#ffffcc"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -634,8 +617,7 @@
       id="id-b3a02639bf9a44cbbb7f70d8badd81ea"
       targetConnections="id-bcdd056ac25143d98d2542ba2d9da91b"
       fillColor="#ffffcc"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
@@ -656,8 +638,7 @@
       id="id-d1fb4030df224a41a8a4276a9c5609a6"
       targetConnections="id-cd1f4747348b47beb95682c7ffef2093"
       fillColor="#e5f1d7"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <features
         name="iconVisible"
         value="2"/>
