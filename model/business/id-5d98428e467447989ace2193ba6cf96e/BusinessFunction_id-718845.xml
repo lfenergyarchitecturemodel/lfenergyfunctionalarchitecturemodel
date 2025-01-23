@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overeenkomsten met inkoopleveranciers afsluiten en bewaken"
+    id="id-718845"
+    documentation="Het vermogen om overeenkomsten met leveranciers af te sluiten en te bewaken. Dit omvat ook de bestellingen die binnen overeenkomsten worden gedaan.">
+  <properties
+      key="Code"
+      value="E.5.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Close and monitor contracts with suppliers"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

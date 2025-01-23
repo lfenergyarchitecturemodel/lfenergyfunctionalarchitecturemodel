@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activa waarderen"
+    id="id-736423"
+    documentation="Het vermogen om waarde van activa (waaronder netcomponenten) vast te stellen.">
+  <properties
+      key="Code"
+      value="E.7.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage asset values"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

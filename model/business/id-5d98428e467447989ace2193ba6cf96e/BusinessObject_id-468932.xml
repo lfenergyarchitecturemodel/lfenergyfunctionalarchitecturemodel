@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reisbeweging"
+    id="id-468932"
+    documentation="Een vrijwillige verplaatsing van een persoon van een bepaalde locatie naar een andere locatie.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Travel movement"/>
+  <properties
+      key="Source"
+      value="reis (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="woon-werkverkeer"/>
+  <properties
+      key="Search term"
+      value="zakelijk verkeer"/>
+</archimate:BusinessObject>

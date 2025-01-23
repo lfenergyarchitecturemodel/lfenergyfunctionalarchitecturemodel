@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opregel- en afregelbehoefte communiceren"
+    id="id-718791"
+    documentation="Het vermogen om een verwachting van de hoeveelheid energie te communiceren die moet worden opgeregeld of afgeregeld om het energietransport te handhaven.">
+  <properties
+      key="Code"
+      value="C.6.3.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Communicate upward or downward regulation demand"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to communicate upward or downward regulation demand."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verlof"
+    id="id-469029"
+    documentation="Een toestemming om gedurende een bepaalde periode afwezig te zijn op het werk.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Leave of absence"/>
+  <properties
+      key="Source"
+      value="verlof (Wikipedia)"/>
+</archimate:BusinessObject>

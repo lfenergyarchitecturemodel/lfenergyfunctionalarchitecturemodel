@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkers in- en uitstromen"
+    id="id-736306"
+    documentation="Het vermogen om medewerkers in en uit te stromen">
+  <properties
+      key="Code"
+      value="E.3.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Recruite and exit employees"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

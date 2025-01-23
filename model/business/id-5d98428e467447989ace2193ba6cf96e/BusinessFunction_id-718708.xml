@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Meer)jarenplanning voor onderhoud en inspecties bepalen"
+    id="id-718708"
+    documentation="Het vermogen om onderhoud en inspectie maatregelen in de tijd te plannen met afgesproken horizonnen (meer jaren, jaar, voortschrijdend kwartaal, …).">
+  <properties
+      key="Code"
+      value="C.3.2.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine (multi-)year planning for maintenance and inspections"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to plan maintenance and inspection measures in time with agreed horizons (multiple years, year, rolling quarter, ...)"/>
+</archimate:BusinessFunction>

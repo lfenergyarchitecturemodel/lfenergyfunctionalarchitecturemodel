@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storingscompensatie"
+    id="id-470406"
+    documentation="Een geldbedrag dat een klant krijgt voor de onderbreking van de transportdienst ten gevolge van een storing.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Disturbance compensation"/>
+  <properties
+      key="Source"
+      value="compensatievergoeding (Netcode elektriciteit)"/>
+  <properties
+      key="Source"
+      value="compensatievergoeding (Aansluit- en transportcode gas)"/>
+</archimate:BusinessObject>

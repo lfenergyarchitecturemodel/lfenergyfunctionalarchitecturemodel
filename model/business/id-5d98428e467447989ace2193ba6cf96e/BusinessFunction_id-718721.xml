@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opdracht voor uitvoeren van netaanpassing verstrekken, bewaken en administratief verwerken"
+    id="id-718721"
+    documentation="Het vermogen om de opdracht voor de aanpassing aan de uitvoering te verstrekken inclusief het functioneel ontwerp/programma van eisen. Het monitoren/bewaken van de netaanpassing inclusief input verstrekken aan (meerjaren)planning bij afwijking buiten de bandbreedte en aan functioneel ontwerp bij afwijking van het functioneel ontwerp/programma van eisen. Het borgen en mogelijk maken van verwerking van de aanpassingen van de assets in de assetregistraties.">
+  <properties
+      key="Code"
+      value="C.3.1.8"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Issue, monitor and record grid adjustments"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to provide the contract for the adjustment to the contractor including the functional design/set of requirements. Monitoring the grid adjustment, including providing input to (long-term) planning in case of deviation outside the bandwidth and to functional design in case of deviation from the functional design/set of requirements. Ensuring and enabling processing of the adjustments of the assets in the asset registrations."/>
+</archimate:BusinessFunction>

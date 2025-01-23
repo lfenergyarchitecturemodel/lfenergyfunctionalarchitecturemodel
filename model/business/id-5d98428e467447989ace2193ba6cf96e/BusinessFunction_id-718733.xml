@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkzaamheden uitvoeren"
+    id="id-718733"
+    documentation="Het vermogen om werkzaamheden uit te voeren en technisch en functioneel op te leveren. Denk hierbij aan werkzaamheden voor uitbreiden, vervangen, vernieuwen, onderhouden, inspecteren, aansluiten, reconstructies, ..">
+  <properties
+      key="Code"
+      value="C.5.3.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Execute work"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to execute work, like work on expansion, replacement, renewal, maintenance, inspection, connections and reconstructions."/>
+</archimate:BusinessFunction>

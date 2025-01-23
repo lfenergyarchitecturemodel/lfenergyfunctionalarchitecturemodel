@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaalproductwijziging"
+    id="id-736172"
+    documentation="Een verandering van een digitaal product.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Digital product release"/>
+  <properties
+      key="Source"
+      value="product release (Open Group IT4IT)"/>
+  <properties
+      key="Search term"
+      value="programmacode"/>
+  <properties
+      key="Search term"
+      value="user story"/>
+  <properties
+      key="Search term"
+      value="versie"/>
+  <properties
+      key="Search term"
+      value="release"/>
+  <properties
+      key="Search term"
+      value="software bill of materials (SBOM)"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transportprobleem"
+    id="id-729576"
+    documentation="Een in de dagelijkse voorbereiding geconstateerde moeilijkheid in het transport van energie waarvoor een oplossing gezocht moet worden.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Transport problem"/>
+  <properties
+      key="Source"
+      value="transportprobleem (Netcode elektriciteit)"/>
+  <properties
+      key="Search term"
+      value="fysieke congestie"/>
+</archimate:BusinessObject>

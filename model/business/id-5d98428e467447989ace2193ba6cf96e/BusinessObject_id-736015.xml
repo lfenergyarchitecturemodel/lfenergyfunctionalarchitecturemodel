@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiële stand"
+    id="id-736015"
+    documentation="De geldelijke waardering van een toestand.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Financial status"/>
+  <properties
+      key="Search term"
+      value="kostenplaats"/>
+  <properties
+      key="Search term"
+      value="grootboekrekening"/>
+  <properties
+      key="Search term"
+      value="rekeningstelsel"/>
+  <properties
+      key="Search term"
+      value="rekeningschema"/>
+  <properties
+      key="Search term"
+      value="financiële stamdata"/>
+  <properties
+      key="Search term"
+      value="balansspecificatie"/>
+  <properties
+      key="Search term"
+      value="balansrekening"/>
+  <properties
+      key="Search term"
+      value="balanspost"/>
+  <properties
+      key="Search term"
+      value="resultaatrekening"/>
+  <properties
+      key="Search term"
+      value="resultatenrekening"/>
+  <properties
+      key="Search term"
+      value="winst- en verliesrekening"/>
+  <properties
+      key="Search term"
+      value="kostensoort"/>
+  <properties
+      key="Search term"
+      value="kostendrager"/>
+</archimate:BusinessObject>

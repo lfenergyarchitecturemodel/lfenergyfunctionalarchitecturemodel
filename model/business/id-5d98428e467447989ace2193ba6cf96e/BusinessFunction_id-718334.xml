@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overeenkomsten verwerven en beheren"
+    id="id-718334"
+    documentation="Het vermogen om overeenkomsten met klanten aan te gaan en te beheren.">
+  <properties
+      key="Code"
+      value="C.1.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Acquire and manage contracts"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to enter into and manage agreements with customers."/>
+</archimate:BusinessFunction>

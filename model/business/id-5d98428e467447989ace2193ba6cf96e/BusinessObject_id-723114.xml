@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opregel- of afregelbehoefte"
+    id="id-723114"
+    documentation="Een verwachting van de hoeveelheid energie die moet worden opgeregeld of afgeregeld om het energietransport te handhaven.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Upward or downward regulation demand"/>
+  <properties
+      key="Source"
+      value="opregel- en afregelbehoefte (Netcode elektriciteit)"/>
+  <properties
+      key="Search term"
+      value="GOPACS-announcement"/>
+  <properties
+      key="Search term"
+      value="congestieverwachting"/>
+</archimate:BusinessObject>

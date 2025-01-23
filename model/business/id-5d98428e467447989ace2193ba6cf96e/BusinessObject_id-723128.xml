@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toestemming van aangeslotene"
+    id="id-723128"
+    documentation="Een goedkeuring door een (natuurlijk of niet-natuurlijk) persoon die beschikt over een aansluiting, aan een marktpartij om gegevens op te vragen of te verstrekken voor een bepaald doel.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Consent from system user"/>
+  <properties
+      key="Source"
+      value="toestemming (Informatiecode elektriciteit en gas)"/>
+</archimate:BusinessObject>

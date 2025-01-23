@@ -1,0 +1,63 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energie-uitwisseling"
+    id="id-723109"
+    documentation="Een afname dan wel invoeding van energie op een energienet.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Energy exchange"/>
+  <properties
+      key="Source"
+      value="meetgegevens (Begrippencode elektriciteit)"/>
+  <properties
+      key="Source"
+      value="energie-uitwisseling (Netcode elektriciteit)"/>
+  <properties
+      key="Search term"
+      value="gebruik"/>
+  <properties
+      key="Search term"
+      value="verbruik"/>
+  <properties
+      key="Search term"
+      value="meetgegevens"/>
+  <properties
+      key="Search term"
+      value="meetdata"/>
+  <properties
+      key="Search term"
+      value="meterstand"/>
+  <properties
+      key="Search term"
+      value="reconciliatievolume"/>
+  <properties
+      key="Search term"
+      value="gealloceerd verbruik"/>
+  <properties
+      key="Search term"
+      value="standaardjaarvolume"/>
+  <properties
+      key="Search term"
+      value="standaardjaarverbruik (SJV)"/>
+  <properties
+      key="Search term"
+      value="standaardjaarinvoeding (SJI)"/>
+  <properties
+      key="Search term"
+      value="standaardjaarafname (SJA)"/>
+  <properties
+      key="Search term"
+      value="netverlies"/>
+  <properties
+      key="Search term"
+      value="afname"/>
+  <properties
+      key="Search term"
+      value="invoeding"/>
+  <properties
+      key="Search term"
+      value="teruglevering"/>
+</archimate:BusinessObject>

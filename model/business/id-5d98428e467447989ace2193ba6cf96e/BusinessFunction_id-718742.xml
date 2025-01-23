@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energie-uitwisseling toewijzen aan marktpartijen"
+    id="id-718742"
+    documentation="Het vermogen om de vastgestelde energie-uitwisseling toe te wijzen aan marktpartijen. Dit omvat het alloceren en reconciliëren waarna financieel settlement volgt in het financiële ondersteunende proces.">
+  <properties
+      key="Code"
+      value="C.6.3.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Allocate energy exchange to market parties"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to allocate transported energy volumes to market parties (based on daily volume measurements or on estimations/profiles). The ability to reconcile energy volumes allocated to market parties based on actual consumption data (meter readings) and to settle volume differences between actual profiled consumption (assigned consumption) and measured consumption (meter readings)."/>
+</archimate:BusinessFunction>

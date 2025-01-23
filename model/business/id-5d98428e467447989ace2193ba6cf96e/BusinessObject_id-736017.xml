@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel feit"
+    id="id-736017"
+    documentation="De geldelijke waardering van een gebeurtenis.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Financial fact"/>
+  <properties
+      key="Source"
+      value="financieel feit (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="boeking"/>
+  <properties
+      key="Search term"
+      value="mutatie"/>
+  <properties
+      key="Search term"
+      value="journaalpost"/>
+  <properties
+      key="Search term"
+      value="inkoopfactuur"/>
+</archimate:BusinessObject>

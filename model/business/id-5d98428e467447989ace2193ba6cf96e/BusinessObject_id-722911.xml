@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netcomponentprestatie"
+    id="id-722911"
+    documentation="Het vermogen van een netcomponent om te voldoen aan functionele eisen of doelstellingen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid component performance"/>
+  <properties
+      key="Source"
+      value="prestatie in het kader van assetmanagement (ISO 55000)"/>
+</archimate:BusinessObject>

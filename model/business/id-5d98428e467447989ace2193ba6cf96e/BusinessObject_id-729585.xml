@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netkwaliteit"
+    id="id-729585"
+    documentation="De verzameling bedrijfsobjecten nodig om energienetten in stand te houden.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Grid quality"/>
+</archimate:BusinessObject>

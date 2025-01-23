@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsgebouwgebruik faciliteren"
+    id="id-736405"
+    documentation="Het vermogen om het gebruik van bedrijfsgebouwen te faciliteren. Dit omvat het schoonhouden, beschikbaarstellen van ruimtes (zalen, parkeren), beschikbaarstellen van voedsel en drank, borgen van veiligheid en verzorgen van kantoorgoederen afhandeling.">
+  <properties
+      key="Code"
+      value="E.6.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage real estate facilities"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

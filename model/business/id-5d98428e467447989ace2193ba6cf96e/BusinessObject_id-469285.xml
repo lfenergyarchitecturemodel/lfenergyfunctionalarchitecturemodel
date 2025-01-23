@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facilitair product"
+    id="id-469285"
+    documentation="Een voorwerp of dienst die het gebruik van een bedrijfsgebouw ondersteunt.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Facility product"/>
+  <properties
+      key="Search term"
+      value="toegangspas"/>
+  <properties
+      key="Search term"
+      value="ruimtereservering"/>
+  <properties
+      key="Search term"
+      value="schoonmaak"/>
+  <properties
+      key="Search term"
+      value="catering"/>
+  <properties
+      key="Search term"
+      value="verhuizing"/>
+  <properties
+      key="Search term"
+      value="poststuk"/>
+  <properties
+      key="Search term"
+      value="facilitaire dienst"/>
+</archimate:BusinessObject>

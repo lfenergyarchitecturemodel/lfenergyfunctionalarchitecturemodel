@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transformatie"
+    id="id-736150"
+    documentation="De verzameling bedrijfsobjecten nodig om de transformatie van de bedrijfsinrichting te besturen.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Transformation"/>
+</archimate:BusinessObject>

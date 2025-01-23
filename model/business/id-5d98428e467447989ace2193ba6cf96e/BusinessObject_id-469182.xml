@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedieningsplan"
+    id="id-469182"
+    documentation="Een omschrijving van de bedieningshandelingen die uitgevoerd moeten worden en die leiden tot een gewenste bedrijfssituatie.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Switching plan"/>
+  <properties
+      key="Source"
+      value="bedieningsplan (BEIVIAG)"/>
+  <properties
+      key="Search term"
+      value="schakelplan"/>
+  <properties
+      key="Search term"
+      value="schakelbrief"/>
+  <properties
+      key="Search term"
+      value="bedienplan"/>
+</archimate:BusinessObject>

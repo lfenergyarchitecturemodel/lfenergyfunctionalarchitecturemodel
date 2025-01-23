@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktdata beschikbaar maken voor derden"
+    id="id-718746"
+    documentation="Het vermogen om marktdata beschikbaar te maken voor derden. De wet kent  vier soorten data delen. Deze capability betreft data delen op verzoek (toestemming) en  dataverzoeken van derden. Dit betreft bijvoorbeeld de informatievoorziening ten behoeve van het CertiQ-proces.">
+  <properties
+      key="Code"
+      value="C.6.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Make market data available for third parties"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to exchange data by market messages, based on a legal basis or in response to issued permission, for the purpose of market facilitation."/>
+</archimate:BusinessFunction>

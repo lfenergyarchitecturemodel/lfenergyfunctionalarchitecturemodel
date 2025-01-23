@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoopleverancier"
+    id="id-475943"
+    documentation="Een partij die tegen betaling goederen of diensten levert aan de netbeheerder.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Purchasing supplier"/>
+  <properties
+      key="Search term"
+      value="aannemer"/>
+  <properties
+      key="Search term"
+      value="crediteur"/>
+</archimate:BusinessObject>

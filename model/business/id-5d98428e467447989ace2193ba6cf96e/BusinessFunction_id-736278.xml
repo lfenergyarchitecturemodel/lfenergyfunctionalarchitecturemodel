@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werking digitale producten zeker stellen"
+    id="id-736278"
+    documentation="Het vermogen om de werking van digitale producten zeker te stellen. Dit omvat het definiëren en toepassen van diagnose en herstelactiviteiten (runbooks), besturen van events en het monitoren van prestaties. Het daadwerkelijk aanpassen van de productieomgeving (bv. patchen) vindt plaats in E.4.2 en E.4.3).  (IT4IT - Assure)">
+  <properties
+      key="Code"
+      value="E.4.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Assure operation of digital products"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT - Assure)"/>
+</archimate:BusinessFunction>

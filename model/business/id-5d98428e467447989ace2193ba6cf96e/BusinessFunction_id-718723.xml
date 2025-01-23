@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tracévergunningen verkrijgen/zakelijk recht vestigen"
+    id="id-718723"
+    documentation="Het vermogen om vergunningen te verkrijgen en zakelijke rechten te vestigen, en deze te beheren.">
+  <properties
+      key="Code"
+      value="C.3.1.7"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Obtain route permits / lay down right in rem"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to obtain route permits and to lay down rights in rem."/>
+</archimate:BusinessFunction>

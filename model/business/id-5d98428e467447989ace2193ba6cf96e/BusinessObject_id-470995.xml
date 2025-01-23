@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkersbeloning"
+    id="id-470995"
+    documentation="Een (meestal financiële) vergoeding voor arbeid en de daaraan verbonden onkosten.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Worker remuneration"/>
+  <properties
+      key="Search term"
+      value="salaris"/>
+  <properties
+      key="Search term"
+      value="arbeidsloon"/>
+  <properties
+      key="Search term"
+      value="stagevergoeding"/>
+  <properties
+      key="Search term"
+      value="vrijwilligersvergoeding"/>
+  <properties
+      key="Search term"
+      value="reiskosten"/>
+  <properties
+      key="Search term"
+      value="declaratie"/>
+</archimate:BusinessObject>

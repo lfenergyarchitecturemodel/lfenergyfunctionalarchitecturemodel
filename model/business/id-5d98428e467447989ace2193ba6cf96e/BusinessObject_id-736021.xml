@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vermogen en liquiditeit"
+    id="id-736021"
+    documentation="De verzameling bedrijfsobjecten nodig om vermogen en liquiditeiten te verkrijgen en beheren.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Capital and liquidity"/>
+</archimate:BusinessObject>

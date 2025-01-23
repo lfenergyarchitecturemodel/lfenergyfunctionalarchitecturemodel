@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitale product prestatieafspraken besturen"
+    id="id-736314"
+    documentation="Het vermogen om prestatieafspraken te besturen. Dit omvat het besturen van incidenten, problems en kennis.  (IT4IT - Support)">
+  <properties
+      key="Code"
+      value="E.4.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Control digital product performance agreements"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT - Support)"/>
+</archimate:BusinessFunction>

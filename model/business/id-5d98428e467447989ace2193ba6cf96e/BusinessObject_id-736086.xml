@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkersstrategie"
+    id="id-736086"
+    documentation="De verzameling bedrijfsobjecten nodig om medewerkersstrategie en -plannen op te stellen en te besturen.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Human resource strategy"/>
+</archimate:BusinessObject>

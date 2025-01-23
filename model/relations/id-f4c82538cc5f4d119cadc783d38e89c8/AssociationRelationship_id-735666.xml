@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gevolg van"
+    id="id-735666"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="effect of"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-722923.xml#id-722923"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-469705.xml#id-469705"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsgebouwenstrategie"
+    id="id-736043"
+    documentation="Een algemene aanpak die een organisatie hanteert om bedrijfsgebouwen en faciliteiten te beheren zodat zij haar doelstellingen realiseert.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Company building strategy"/>
+  <properties
+      key="Search term"
+      value="huisvestingsplan"/>
+</archimate:BusinessObject>

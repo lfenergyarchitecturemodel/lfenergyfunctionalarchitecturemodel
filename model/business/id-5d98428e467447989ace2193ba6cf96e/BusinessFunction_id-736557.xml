@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interacteren over digitale producten"
+    id="id-736557"
+    documentation="Het vermogen om over digitale producten te interacteren. Dit omvat de interactie met (potentiële) gebruikers (help desk) en het aanbieden en bestellen van services. (IT4IT - Consume) Dit omvat het definiëren van identiteiten en toegangsrechten.">
+  <properties
+      key="Code"
+      value="E.4.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Interact on digital products"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT Consume)"/>
+</archimate:BusinessFunction>

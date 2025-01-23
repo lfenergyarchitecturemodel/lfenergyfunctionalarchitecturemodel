@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contracteren, aan- en afsluiten van gebruikers"
+    id="id-df9fefba488846358a0b0593b99c6284">
+  <properties
+      key="Code"
+      value="P.A"/>
+  <properties
+      key="Name (en)"
+      value="Agree, connect and disconnect energy users"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opregel- of afregelaanbod"
+    id="id-723122"
+    documentation="Een aanbod aan een netbeheerder om het productie- en/of belastingspatroon op een of meer aansluitingen te wijzigen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Upward or downward regulation offer"/>
+  <properties
+      key="Search term"
+      value="bieding balanceringsenergie"/>
+  <properties
+      key="Search term"
+      value="bieding redispatch"/>
+  <properties
+      key="Search term"
+      value="balanceringscapaciteit"/>
+  <properties
+      key="Search term"
+      value="redispatchcapaciteit"/>
+</archimate:BusinessObject>

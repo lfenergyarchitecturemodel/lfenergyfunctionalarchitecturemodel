@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tertiaire netcomponent"
+    id="id-723050"
+    documentation="Een facilitaire voorziening voor de fysieke bescherming en/of ondersteuning van netcomponenten.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Tertiary grid component"/>
+  <properties
+      key="Search term"
+      value="tertiaire asset"/>
+  <properties
+      key="Search term"
+      value="stationsgebouw"/>
+</archimate:BusinessObject>

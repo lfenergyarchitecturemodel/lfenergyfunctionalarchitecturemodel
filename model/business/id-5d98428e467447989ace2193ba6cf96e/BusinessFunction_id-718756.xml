@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transport plannen en analyseren"
+    id="id-718756"
+    documentation="Het vermogen om een inschatting te maken van de belasting van het energienet op korte termijn inclusief loadflowberekening, netveiligheidsanalyse, balancering analyse, contingency analyse en het verwerken van resultaten van bijsturingsacties (b.v. schakelhandelingen en directe en/of afroep van opregel/afregel aanbod). Inclusief inzicht scheppen dat nodig is om een prognose te kunnen opstellen.">
+  <properties
+      key="Code"
+      value="C.2.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Plan and analyse transport"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to estimate the load on the energy grid in the short term, including identifying congestion, balance differences and processing the results of adjustment actions (e.g. switching actions and direct and/or market flex call). Creating the inclusive insight that is necessary to be able to draw up a T-forecast (transport forecast)."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portfolio van werkzaamheden opstellen en onderhouden"
+    id="id-718712"
+    documentation="Het vermogen om een portfolio aan werkzaamheden aan energienetten op te stellen en te onderhouden die past binnen de capaciteit. Het betreft het portolio van de service provider. Denk ondermeer aan Sales&amp;OperationsPlanning (S&amp;OP) - Supply.">
+  <properties
+      key="Code"
+      value="C.5.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Prepare and maintain work portfolio"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to prepare and maintain a portfolio for work on energy grids, taking into account the capacity. The portofolio concern the service provider, like Sales&amp;OperationsPlanning (S&amp;OP) - Supply."/>
+</archimate:BusinessFunction>

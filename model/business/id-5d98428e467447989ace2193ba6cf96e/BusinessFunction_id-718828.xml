@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vermogen en liquiditeiten verkrijgen en beheren"
+    id="id-718828"
+    documentation="Het vermogen om het vermogen en liquiditeiten te beheren. Dit omvat treasury.">
+  <properties
+      key="Code"
+      value="E.7.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Acquire and manage financing"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netcomponent"
+    id="id-468873"
+    documentation="Een fysiek onderdeel van het energienet.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid component"/>
+  <properties
+      key="Source"
+      value="netcomponent (Netcode elektriciteit)"/>
+  <properties
+      key="Search term"
+      value="asset"/>
+</archimate:BusinessObject>

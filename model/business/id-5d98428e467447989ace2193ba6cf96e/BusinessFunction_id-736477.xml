@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsgebouwen verkrijgen, verbouwen en afstoten"
+    id="id-736477"
+    documentation="Het vermogen om bedrijfsgebouwen te verkrijgen, te verbouwen en af te stoten.">
+  <properties
+      key="Code"
+      value="E.6.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Obtain, renovate and dispose real estate"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

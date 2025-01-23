@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoopovereenkomst"
+    id="id-736059"
+    documentation="De verzameling bedrijfsobjecten nodig om overeenkomsten met inkoopleveranciers af te sluiten en te bewaken.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Purchase agreement"/>
+</archimate:BusinessObject>

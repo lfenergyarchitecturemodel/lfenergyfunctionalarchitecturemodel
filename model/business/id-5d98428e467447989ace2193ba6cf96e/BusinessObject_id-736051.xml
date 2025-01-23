@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoopproduct"
+    id="id-736051"
+    documentation="De verzameling bedrijfsobjecten nodig om goederen en diensten te verkrijgen.">
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Purchase product"/>
+</archimate:BusinessObject>

@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar maken en stellen goederen en diensten"
+    id="id-d78e8cc1492d47c2851e1a2407e9959f">
+  <properties
+      key="Code"
+      value="I.F"/>
+  <properties
+      key="Name (en)"
+      value="Making goods and services available"/>
+</archimate:BusinessProcess>

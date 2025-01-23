@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relatie met medewerkers onderhouden"
+    id="id-736325"
+    documentation="Het vermogen om een relatie met de medewerkers te onderhouden. Dit omvat het registreren van medewerkersgegevens, het verrichten van motivatieonderzoek en het betrokken houden van medewerkers en het leveren van arbeidsjuridisch advies.">
+  <properties
+      key="Code"
+      value="E.3.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage the relation with employees"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

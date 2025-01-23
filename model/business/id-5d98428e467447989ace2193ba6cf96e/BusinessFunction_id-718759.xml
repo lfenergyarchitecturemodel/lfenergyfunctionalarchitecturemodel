@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energienetten in/uit bedrijf nemen op afstand"
+    id="id-718759"
+    documentation="Het vermogen om stuuracties op netcomponenten te effectueren (schakelen op afstand) en een netdeel in of uit bedrijf te nemen, inclusief volgordeafhankelijkheid van dergelijke acties. Dit kan zowel in het kader van storingen onderhoud zijn als voor nieuwbouw.  Schakelplannen zijn hiervoor input.">
+  <properties
+      key="Code"
+      value="C.2.1.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Commission/decommission energy grids on distance"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to effect control actions on net components and take a grid part into or out of operation (remote switching), including sequence dependence of such actions. This can be in the context of maintenance as well as for new construction. Circuit plans are input for this."/>
+</archimate:BusinessFunction>

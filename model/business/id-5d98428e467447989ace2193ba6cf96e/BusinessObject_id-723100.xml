@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktovereenkomst"
+    id="id-723100"
+    documentation="Een afspraak tussen een marktpartij en de netbeheerder over wat ze met elkaar of voor elkaar zullen gaan doen of laten.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Market agreement"/>
+  <properties
+      key="Search term"
+      value="vraagresponsovereenkomst"/>
+  <properties
+      key="Search term"
+      value="overeenkomst voor redispatchcapaciteit"/>
+  <properties
+      key="Search term"
+      value="overeenkomst voor balanceringscapaciteit"/>
+</archimate:BusinessObject>

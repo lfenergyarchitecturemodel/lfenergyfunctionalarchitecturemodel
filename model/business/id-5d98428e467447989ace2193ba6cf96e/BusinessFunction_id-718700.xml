@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goederen fysiek distribueren"
+    id="id-718700"
+    documentation="Het vermogen om goederen fysiek te distribueren. Denk onder meer aan: van centraal magazijn naar decentraal magazijn, naar werkplaats, naar auto.">
+  <properties
+      key="Code"
+      value="C.5.4.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Distribute goods physically"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to distribute goods physically. Think about: from central warehouse to decentralised warehoud, to workplace, to car."/>
+</archimate:BusinessFunction>

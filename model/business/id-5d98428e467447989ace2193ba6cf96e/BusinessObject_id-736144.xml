@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsplan"
+    id="id-736144"
+    documentation="Een door een organisatie in detail voorgenomen handelswijze om haar doelstellingen te realiseren.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Business plan"/>
+  <properties
+      key="Search term"
+      value="jaarplan"/>
+  <properties
+      key="Search term"
+      value="meerjarenplan"/>
+</archimate:BusinessObject>

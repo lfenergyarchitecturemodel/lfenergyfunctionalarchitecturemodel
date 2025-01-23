@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gemaakt van"
+    id="id-76439a7c32e7495d9c808e842d1ace9b"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="made of"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-729592.xml#id-729592"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-729611.xml#id-729611"/>
+</archimate:AssociationRelationship>

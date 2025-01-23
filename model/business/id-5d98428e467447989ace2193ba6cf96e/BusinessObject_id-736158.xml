@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innovatie"
+    id="id-736158"
+    documentation="Een idee voor een nieuw goed, dienst of proces, of combinatie daarvan.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Innovation"/>
+  <properties
+      key="Source"
+      value="innovatie (Wikipedia)"/>
+</archimate:BusinessObject>

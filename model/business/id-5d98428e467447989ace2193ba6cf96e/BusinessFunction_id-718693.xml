@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkzaamheden en netcomponenten administratief opleveren"
+    id="id-718693"
+    documentation="Het vermogen om werkzaamheden en netcomponenten administratief op te leveren. Denk ondermeer aan tijdstippen afgeronde werkzaamheden/handelingen/taken, gewerkte uren, gebruikte materialen, in inspecties verzamelde data, data over geplaatste energienetcomponenten ten behoeve van assetadministratie.">
+  <properties
+      key="Code"
+      value="C.5.3.7"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Complete work on energy grid components administratively"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to complete work on energy grid components administratively, like time of work/acts/tasked completed, worked hours, used materials, data of inspections and data on placed energy grid components for asset administration purposes."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantervaring"
+    id="id-722942"
+    documentation="Een subjectieve beleving van een klant naar aanleiding van direct of indirect contact met de netbeheerder.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer experience"/>
+</archimate:BusinessObject>

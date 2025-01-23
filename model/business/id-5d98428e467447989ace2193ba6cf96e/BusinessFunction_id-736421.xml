@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiële beheersmaatregelen uitvoeren"
+    id="id-736421"
+    documentation="Het vermogen om financiële beheersmaatregelen (controls) uit te voeren. Dit omvat ook het borgen van de volledigheid van de opbrengsten onder meer door gemeten prestaties te vergelijken met de geboekte opbrengsten (revenue assurance).">
+  <properties
+      key="Code"
+      value="E.7.3.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Perform financial controls"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

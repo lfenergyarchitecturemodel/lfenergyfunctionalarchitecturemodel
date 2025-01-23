@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energie transporteren"
+    id="id-718168"
+    documentation="Het vermogen om energieaanbod en -afname bij elkaar te brengen, te balanceren en in continuïteit te waarborgen, zodat de klanten energie krijgen binnen de geldende eisen.">
+  <properties
+      key="Code"
+      value="C.2"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Transport energy"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to bring together, balance and ensure continuity of energy supply and consumption, so that customers receive energy within the applicable requirements."/>
+</archimate:BusinessFunction>

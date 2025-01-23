@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedieningssituatie"
+    id="id-722918"
+    documentation="De stand van een of meer regelbare eenheden (zoals schakelaars) in het energienet die van invloed zijn op het energietransport.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Switching situation"/>
+  <properties
+      key="Source"
+      value="bedieningssituatie (BEIVIAG)"/>
+  <properties
+      key="Search term"
+      value="schakeltoestand"/>
+  <properties
+      key="Search term"
+      value="actuele netconfiguratie"/>
+  <properties
+      key="Search term"
+      value="netsituatie"/>
+  <properties
+      key="Search term"
+      value="schakelstand"/>
+</archimate:BusinessObject>

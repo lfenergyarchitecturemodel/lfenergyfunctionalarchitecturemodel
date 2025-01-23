@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geprioriteerd in"
+    id="id-735696"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="prioritised in"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-469165.xml#id-469165"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-729620.xml#id-729620"/>
+</archimate:AssociationRelationship>

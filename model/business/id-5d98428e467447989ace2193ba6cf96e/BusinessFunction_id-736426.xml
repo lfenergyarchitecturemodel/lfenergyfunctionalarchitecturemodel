@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betalingen verrichten"
+    id="id-736426"
+    documentation="Het vermogen om betalingen te verrichten. Dit omvat de betaling aan crediteuren.&#xA;Het vermogen om betalingen te verrichten. Dit omvat de betaling aan crediteuren. ">
+  <properties
+      key="Code"
+      value="E.7.2.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage creditors"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

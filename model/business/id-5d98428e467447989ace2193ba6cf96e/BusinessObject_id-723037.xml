@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Functioneel ontwerp"
+    id="id-723037"
+    documentation="Een specificatie van eisen aan een netaanpassing en de gekozen oplossingsrichting.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid design"/>
+  <properties
+      key="Source"
+      value="netontwerp (Netcode elektriciteit)"/>
+  <properties
+      key="Search term"
+      value="globaal netontwerp"/>
+  <properties
+      key="Search term"
+      value="functionele specificatie"/>
+  <properties
+      key="Search term"
+      value="programma van eisen"/>
+  <properties
+      key="Search term"
+      value="tracéontwerp"/>
+</archimate:BusinessObject>

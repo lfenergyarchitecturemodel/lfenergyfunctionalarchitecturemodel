@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proces"
+    id="id-736096"
+    documentation="De verzameling bedrijfsobjecten nodig om processen te besturen.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Process"/>
+</archimate:BusinessObject>

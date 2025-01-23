@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoopleveranciersprestatie"
+    id="id-736061"
+    documentation="De mate waarin een inkoopleverancier gestelde doelen of verplichtingen volbrengt.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Purchasing supplier performance"/>
+</archimate:BusinessObject>

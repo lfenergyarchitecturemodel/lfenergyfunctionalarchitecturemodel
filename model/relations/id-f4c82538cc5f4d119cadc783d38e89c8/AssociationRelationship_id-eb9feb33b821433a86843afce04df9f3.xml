@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(dreigende) onderbreking van"
+    id="id-eb9feb33b821433a86843afce04df9f3"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="of"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-729560.xml#id-729560"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-729563.xml#id-729563"/>
+</archimate:AssociationRelationship>

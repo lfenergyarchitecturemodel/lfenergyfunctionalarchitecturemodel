@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storing"
+    id="id-469451"
+    documentation="Een niet gewenste verandering in de werking van een netcomponent, netdeel of bijbehorende bedrijfsomstandigheden.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Disturbance"/>
+  <properties
+      key="Source"
+      value="storing (Handleiding Nestor)"/>
+  <properties
+      key="Source"
+      value="storing (Regeling investeringsplan en kwaliteit elektriciteit en gas)"/>
+  <properties
+      key="Search term"
+      value="storingsmelding"/>
+</archimate:BusinessObject>

@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaard werkproduct"
+    id="id-723005"
+    documentation="Regelmatig terugkerend werk, met een norm voor de benodigde uren, materialen en/of instructies.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Standard work product"/>
+  <properties
+      key="Search term"
+      value="maakproduct"/>
+  <properties
+      key="Search term"
+      value="standaard opdrachtproduct"/>
+  <properties
+      key="Search term"
+      value="typical"/>
+  <properties
+      key="Search term"
+      value="intern product"/>
+  <properties
+      key="Search term"
+      value="bill of materials (BOM)"/>
+  <properties
+      key="Search term"
+      value="stuklijst"/>
+  <properties
+      key="Search term"
+      value="uitvoeringsbestek"/>
+</archimate:BusinessObject>

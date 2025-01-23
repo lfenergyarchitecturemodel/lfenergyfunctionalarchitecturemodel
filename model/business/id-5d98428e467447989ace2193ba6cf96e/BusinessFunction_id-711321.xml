@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energienetten uitbreiden, vervangen en vernieuwen"
+    id="id-711321"
+    documentation="Het vermogen om activiteiten te definiëren voor aanpassingen van de energienetten die de energienetten toekomstbestendig houden. Denk hierbij aan het ontwikkelen van primaire, secundaire, tertiaire en telecom netcomponenten.">
+  <properties
+      key="Code"
+      value="C.3.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Expand, replace and renew energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to define work for adjustments to the energy grids."/>
+</archimate:BusinessFunction>

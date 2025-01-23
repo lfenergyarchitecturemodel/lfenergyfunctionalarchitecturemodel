@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Producten en diensten ontwikkelen en beheren"
+    id="id-718810"
+    documentation="Het vermogen om producten en diensten te ontwikkelen en te beheren. Dit omvat ook het ontwikkelen van klantreizen per doelgroep en het beheren van tarieven.">
+  <properties
+      key="Code"
+      value="C.1.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop and manage products and services"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability fo develop and manage products and services. This includes customer journeys and tarives."/>
+</archimate:BusinessFunction>

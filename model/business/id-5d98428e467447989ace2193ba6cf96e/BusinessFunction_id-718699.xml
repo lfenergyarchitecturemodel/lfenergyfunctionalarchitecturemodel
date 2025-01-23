@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategische risico’s op energienetten vaststellen"
+    id="id-718699"
+    documentation="Het vermogen om strategische risico's op energienetten en de energievoorziening vast te stellen.">
+  <properties
+      key="Code"
+      value="C.3.3.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Identify strategic risks on energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to identify strategic risks on energy grids and the energy supply."/>
+</archimate:BusinessFunction>

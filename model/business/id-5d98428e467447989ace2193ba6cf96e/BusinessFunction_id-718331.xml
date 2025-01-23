@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delen van marktdata faciliteren"
+    id="id-718331"
+    documentation="Het vermogen om delen van marktdata te faciliteren. In BAS/MFF model worden “uitvoeren markt(systeem)processen” en “data delen” onderscheiden. De wet kent  vier soorten data delen: voor markt(systeem)processen, data delen op verzoek (toestemming), dataverzoeken van derden en open data. Deze capability vult in het data delen op verzoek (toestemming), dataverzoeken van derden en open data.">
+  <properties
+      key="Code"
+      value="C.6.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Enable market data distribution"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to enable distribution of market data (on request, to third parties and open data). Market process data is distrbuted in capability perform market processes."/>
+</archimate:BusinessFunction>

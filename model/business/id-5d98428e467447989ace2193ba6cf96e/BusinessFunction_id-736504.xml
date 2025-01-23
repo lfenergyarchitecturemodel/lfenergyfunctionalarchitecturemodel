@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goederen en diensten plannen en besturen"
+    id="id-736504"
+    documentation="Het vermogen om goederen en diensten te plannen en te besturen. Dit omvat het (strategisch en tactisch) materiaalmanagement.">
+  <properties
+      key="Code"
+      value="E.5.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop and manage goods and services plans"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

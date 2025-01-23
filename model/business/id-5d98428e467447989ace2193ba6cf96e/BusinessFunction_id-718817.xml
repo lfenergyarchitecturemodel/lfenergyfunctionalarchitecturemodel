@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprisearchitectuur definiëren"
+    id="id-718817"
+    documentation="Het vermogen om een enterprise architectuur op te stellen die richting geeft aan de veranderingen aan organisatie, processen, systemen, data en technologie.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Define enterprise architecture"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

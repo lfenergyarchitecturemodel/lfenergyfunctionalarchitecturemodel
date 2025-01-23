@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkers opleiden en certificeren"
+    id="id-736551"
+    documentation="Het vermogen om medewerkers op te leiden en te certificeren. Dit omvat niet alleen inhoudelijke opleidingen zoals de bedrijfsschool, maar ook ontwikkelen van leiderschap en andere talenten.">
+  <properties
+      key="Code"
+      value="E.3.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Educate and certificate employees"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

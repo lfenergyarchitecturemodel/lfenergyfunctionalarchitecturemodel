@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energieplanning uitwisselen"
+    id="id-718796"
+    documentation="Het vermogen om de energievoorspellingen uit te wisselen (forecast, nominatie). Denk hierbij aan energievoorspellingen met programmaverantwoordelijken.">
+  <properties
+      key="Code"
+      value="C.6.3.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Exchange energy predictions"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to exchange energy predictions (forecast, nomination). Think about energy predictions with Balance Responsible Party."/>
+</archimate:BusinessFunction>

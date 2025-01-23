@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netcomponentconditie"
+    id="id-468996"
+    documentation="(Technische) toestand waarin een netcomponent verkeert.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid component condition"/>
+  <properties
+      key="Source"
+      value="conditie (NEN 2767)"/>
+  <properties
+      key="Search term"
+      value="toestandswaardering"/>
+  <properties
+      key="Search term"
+      value="assetconditie"/>
+</archimate:BusinessObject>

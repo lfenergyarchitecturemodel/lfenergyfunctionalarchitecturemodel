@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantfactuur"
+    id="id-729643"
+    documentation="De verzameling bedrijfsobjecten nodig om te factureren en innen.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Customer invoice"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Materiaal"
+    id="id-470200"
+    documentation="Een product bestemd om verwerkt te worden tot netcomponent.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Material"/>
+  <properties
+      key="Source"
+      value="materiaal (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="artikelstam"/>
+</archimate:BusinessObject>

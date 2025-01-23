@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerker"
+    id="id-469282"
+    documentation="Een natuurlijk persoon die activiteiten uitvoert in opdracht van een organisatie.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Worker"/>
+  <properties
+      key="Source"
+      value="medewerker (HORA)"/>
+  <properties
+      key="Search term"
+      value="werknemer"/>
+  <properties
+      key="Search term"
+      value="fix fee persoon"/>
+  <properties
+      key="Search term"
+      value="interne medewerker"/>
+  <properties
+      key="Search term"
+      value="externe medewerker"/>
+  <properties
+      key="Search term"
+      value="eigen personeel (EP)"/>
+  <properties
+      key="Search term"
+      value="ander personeel (AP)"/>
+  <properties
+      key="Search term"
+      value="medewerkertevredenheid"/>
+  <properties
+      key="Search term"
+      value="sollicitant"/>
+</archimate:BusinessObject>

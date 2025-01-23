@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rechtsregel"
+    id="id-736118"
+    documentation="Een algemene bepaling in het recht die in beginsel een bindende werking heeft.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Legal rule"/>
+  <properties
+      key="Source"
+      value="rechtsregel (Wikipedia)"/>
+</archimate:BusinessObject>

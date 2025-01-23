@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Positionering bepalen en het merk definiëren"
+    id="id-718829"
+    documentation="Het vermogen om het bedrijf zijn positie te bepalen, het merk te promoten en daarmee het imago van het bedrijf vorm te geven.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Define and position brand"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

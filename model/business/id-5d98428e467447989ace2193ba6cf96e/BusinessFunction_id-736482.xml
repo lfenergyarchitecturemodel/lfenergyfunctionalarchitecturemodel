@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitale producten beschikbaar stellen"
+    id="id-736482"
+    documentation="Het vermogen om digitale producten beschikbaar te stellen aan gebruikers. Dit omvat het realiseren van autorisaties, het beschikbaarstellen van licenties en de digital product instance configuratie. (IT4IT Fulfill)">
+  <properties
+      key="Code"
+      value="E.4.3.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Fulfil digital products"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT Fulfill)"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkers ontwikkelen"
+    id="id-736531"
+    documentation="Het vermogen om medewerkers te ontwikkelen en de prestaties te evalueren. Dit omvat tevens het ontwikkelen van leiderschap.">
+  <properties
+      key="Code"
+      value="E.3.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Develop employees"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

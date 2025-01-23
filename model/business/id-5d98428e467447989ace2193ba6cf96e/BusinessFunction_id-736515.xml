@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkers gezond en vitaal houden"
+    id="id-736515"
+    documentation="Het vermogen om medewerkers gezond en vitaal te houden.">
+  <properties
+      key="Code"
+      value="E.3.4.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Realise sustainable empoyability"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

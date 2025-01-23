@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energietransport bewaken"
+    id="id-718704"
+    documentation="Het vermogen om de energievraag-/aanbodbalans van het netwerk en knelpunten te monitoren.">
+  <properties
+      key="Code"
+      value="C.2.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Monitor energy transport"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to monitor the energy supply/demand balance of the grid and bottlenecks."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectorsamenwerking ontwikkelen"
+    id="id-718811"
+    documentation="Het vermogen om samen met de energiesector partijen (bv. netbeheerders, energieleveranciers) of aanpalende sectorpartijen (bv. aannemers, gemeenten) de samenwerking te ontwikkelen en te onderhouden.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop industry collaboration"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

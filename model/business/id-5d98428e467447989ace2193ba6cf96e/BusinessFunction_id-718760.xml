@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Producten aan klanten offreren"
+    id="id-718760"
+    documentation="Het vermogen om klanten productoffertes met de juiste prijsopgave aan te bieden.">
+  <properties
+      key="Code"
+      value="C.1.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Quote products to customers"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to provide customers with appropriately product quotes."/>
+</archimate:BusinessFunction>

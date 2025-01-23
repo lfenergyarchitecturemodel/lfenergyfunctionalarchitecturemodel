@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betalingsopdracht"
+    id="id-736029"
+    documentation="Een opdracht aan een financiële instelling om geld over te dragen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Payment order"/>
+  <properties
+      key="Search term"
+      value="vlottende passiva"/>
+  <properties
+      key="Search term"
+      value="crediteur"/>
+  <properties
+      key="Search term"
+      value="factuur"/>
+</archimate:BusinessObject>

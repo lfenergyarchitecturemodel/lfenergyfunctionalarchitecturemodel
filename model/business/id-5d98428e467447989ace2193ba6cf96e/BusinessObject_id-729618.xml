@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkportfolio"
+    id="id-729618"
+    documentation="De verzameling bedrijfsobjecten nodig om een werkzaamhedenportfolio op te stellen en onderhouden.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Work portfolio"/>
+</archimate:BusinessObject>

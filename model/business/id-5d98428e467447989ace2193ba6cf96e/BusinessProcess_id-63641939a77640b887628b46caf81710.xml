@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leveren van informatie"
+    id="id-63641939a77640b887628b46caf81710">
+  <properties
+      key="Code"
+      value="I.E"/>
+  <properties
+      key="Name (en)"
+      value="Providing information"/>
+</archimate:BusinessProcess>

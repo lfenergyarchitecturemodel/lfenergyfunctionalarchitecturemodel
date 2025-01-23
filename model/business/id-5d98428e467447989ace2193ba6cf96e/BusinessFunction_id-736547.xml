@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkersplannen opstellen en besturen"
+    id="id-736547"
+    documentation="Het vermogen om medewerkersplannen op te stellen en te besturen. Deze plannen omvatten ook de formatieplannen en de (strategische en tactische) personeelsplannen (SPP/TPP).">
+  <properties
+      key="Code"
+      value="E.3.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop and manage employee plans"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

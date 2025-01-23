@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alternatieven voor mitigatie risico op capaciteit en/of functionaliteit analyseren en mitigerende maatregelen bepalen"
+    id="id-718730"
+    documentation="Het vermogen om alternatieven op te stellen en te analyseren voor mitigatie van capaciteit en/of functionaliteit netrisico's/oplossen van knelpunten en de mitigerende maatregelen te bepalen. Denk ondermeer aan: scenario's, kosten en baten, value case.">
+  <properties
+      key="Code"
+      value="C.3.1.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Analyse alternatives for mitigation risk on capacity and/or functionality and determine mitigation measures"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to prepare and analyse alternatives for mitigating capacity and/or functionality grid risks/fixing bottlenecks. For example: scenarios, costs and benefits, value case."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Meerjaren)planning voor maatregelen op capaciteit en/of functionaliteit opstellen"
+    id="id-718722"
+    documentation="Het vermogen om maatregelen in de tijd te plannen met afgesproken horizonnen (meer jaren, jaar, voortschrijdend kwartaal, …). Denk ondermeer aan: euro's en geld, binnen budgettere grenzen, programma's zoals gietijzer vervanging, afstemmen met service provider (Sales&amp;OperationsPlanning (S&amp;OP) - demand).">
+  <properties
+      key="Code"
+      value="C.3.1.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="(Long-term) plan measures on capacity and/or functionality"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to plan measures in time with agreed horizons (multiple years, year, rolling quarter, ...). For example: euros and money, within budget limits, programs such as cast iron replacement, coordination with service provider (Sales&amp;OperationsPlanning (S&amp;OP) - demand)."/>
+</archimate:BusinessFunction>

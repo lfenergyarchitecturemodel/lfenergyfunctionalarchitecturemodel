@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkersovereenkomst"
+    id="id-736079"
+    documentation="Een afspraak waarbij een natuurlijk persoon, niet als onderneming, zich verbindt in opdracht van een organisatie werk te verrichten.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Worker agreement"/>
+  <properties
+      key="Search term"
+      value="arbeidsovereenkomst"/>
+  <properties
+      key="Search term"
+      value="stageovereenkomst"/>
+  <properties
+      key="Search term"
+      value="dienstbetrekking"/>
+</archimate:BusinessObject>

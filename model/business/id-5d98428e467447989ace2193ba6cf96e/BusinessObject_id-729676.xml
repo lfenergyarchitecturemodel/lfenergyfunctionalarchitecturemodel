@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktproces"
+    id="id-729676"
+    documentation="De verzameling bedrijfsobjecten nodig om marktprocessen uit te voeren en faciliteren.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Market process"/>
+</archimate:BusinessObject>

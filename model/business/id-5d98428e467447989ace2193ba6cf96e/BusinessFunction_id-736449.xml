@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsgebouwen beheren"
+    id="id-736449"
+    documentation="Het vermogen om bedrijfsgebouwen te beheren.">
+  <properties
+      key="Code"
+      value="E.6.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Manage real estate"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

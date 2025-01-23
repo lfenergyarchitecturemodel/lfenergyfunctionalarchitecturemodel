@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goederenbeweging"
+    id="id-723015"
+    documentation="Een fysieke of logische verplaatsing van goederen. Hieronder wordt mede verstaan de ontvangst, reservering, uitgifte en retournering van goederen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Goods movement"/>
+  <properties
+      key="Source"
+      value="goods movement (SAP)"/>
+  <properties
+      key="Search term"
+      value="pakbon"/>
+  <properties
+      key="Search term"
+      value="bill of materials (BOM)"/>
+  <properties
+      key="Search term"
+      value="stuklijst"/>
+</archimate:BusinessObject>

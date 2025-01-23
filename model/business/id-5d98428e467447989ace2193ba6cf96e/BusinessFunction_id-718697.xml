@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Visie op energienetten ontwikkelen"
+    id="id-718697"
+    documentation="Het vermogen om een visie op energienetten te ontwikkelen, onder meer door gebruik te maken van innovaties.">
+  <properties
+      key="Code"
+      value="C.3.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develope a vision on energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to develop a vision for energy grids, for example by making use of innovations."/>
+</archimate:BusinessFunction>

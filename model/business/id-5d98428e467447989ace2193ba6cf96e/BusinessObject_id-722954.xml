@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantproduct"
+    id="id-722954"
+    documentation="Een al dan niet tastbaar iets dat de netbeheerder aanbiedt om aan een wens of behoefte te voldoen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer product"/>
+  <properties
+      key="Source"
+      value="product (economie) (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="tarief"/>
+  <properties
+      key="Search term"
+      value="verkoopproduct"/>
+  <properties
+      key="Search term"
+      value="dataproduct"/>
+</archimate:BusinessObject>

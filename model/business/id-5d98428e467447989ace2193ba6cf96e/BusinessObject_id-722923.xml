@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Niet-beschikbaarheid"
+    id="id-722923"
+    documentation="Een situatie waarbij een of meer netfuncties tijdelijk niet kunnen worden gebruikt.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Non-availability"/>
+  <properties
+      key="Source"
+      value="niet-beschikbaarhied (Netcode elektriciteit)"/>
+  <properties
+      key="Search term"
+      value="voorziene niet-beschikbaarheid (VNB)"/>
+  <properties
+      key="Search term"
+      value="onvoorziene niet-beschikbaarheid (ONB)"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsplannen opstellen"
+    id="id-736343"
+    documentation="Het vermogen om (meer)jarenplannen op te stellen om de strategie te realiseren.&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.1.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop business plan"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

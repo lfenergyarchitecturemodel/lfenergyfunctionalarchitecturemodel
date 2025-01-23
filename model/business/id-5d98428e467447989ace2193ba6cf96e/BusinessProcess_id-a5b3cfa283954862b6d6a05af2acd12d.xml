@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar maken en stellen financiële assets en informatie"
+    id="id-a5b3cfa283954862b6d6a05af2acd12d">
+  <properties
+      key="Code"
+      value="I.G"/>
+  <properties
+      key="Name (en)"
+      value="Making financial assets and information available"/>
+</archimate:BusinessProcess>

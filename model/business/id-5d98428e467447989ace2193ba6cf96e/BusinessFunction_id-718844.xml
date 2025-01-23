@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Juridische zaken besturen en bewaken"
+    id="id-718844"
+    documentation="Het vermogen om juridische aspecten van de organisatie te besturen en te bewaken. Dit omvat het inschatten van juridische risico's, het geven van juridische adviezen, het opstellen van juridische dossiers en juridische documenten en het voeren van juridische procedures (inclusief regulering).&#xA;.">
+  <properties
+      key="Code"
+      value="E.1.4.6"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage legal affairs"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

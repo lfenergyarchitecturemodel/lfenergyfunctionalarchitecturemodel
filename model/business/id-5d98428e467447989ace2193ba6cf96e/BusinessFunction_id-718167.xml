@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkeling en instandhouding van energienetten besturen"
+    id="id-718167"
+    documentation="Het vermogen om energienetten te ontwikkelen en op het afgesproken niveau beschikbaar te houden, zodat het energienet continu aan de gestelde eisen voldoet. Denk hierbij aan het ontwikkelen van primaire, secundaire, tertiaire en telecom netcomponenten.">
+  <properties
+      key="Code"
+      value="C.3"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Manage the development and maintenance of energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to develop energy grids and keep them available at the agreed level, to ensure the energy grid continuously meets the set requirements. E.g. the development of primary, secondary, tertiary and telecom net components."/>
+</archimate:BusinessFunction>

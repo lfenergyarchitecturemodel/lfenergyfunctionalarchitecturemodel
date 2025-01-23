@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkersstrategie opstellen en besturen"
+    id="id-736288"
+    documentation="Het vermogen om een medewerkersstrategie op te stellen en te besturen. Dit omvat ook het medewerkersbeleid en -ontwikkelstrategie, het onderhouden van arbeidsvoorwaarden en het afstemmen met OR en vakbonden.">
+  <properties
+      key="Code"
+      value="E.3.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop and manage employee strategy"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

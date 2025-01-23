@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schade verhalen veroorzaakt door derden"
+    id="id-718761"
+    documentation="Het vermogen om schade veroorzaakt door derden vergoed te krijgen. Denk hierbij aan het aansprakelijk stellen van veroorzakers van vandalisme aan het net of schade door een aannemer.">
+  <properties
+      key="Code"
+      value="C.1.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Claim damage caused by third parties"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to recover damage caused by third parties. Think of holding those responsible for vandalism to the grid or damage by a contractor."/>
+</archimate:BusinessFunction>

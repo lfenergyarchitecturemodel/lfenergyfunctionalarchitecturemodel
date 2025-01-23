@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schadevergoeding bij schade veroorzaakt door werkzaamheden bepalen"
+    id="id-718763"
+    documentation="Het vermogen om een financiële compensatie voor klanten te bepalen wanneer een werknemer of aannemer bij de klant schade heeft veroorzaakt">
+  <properties
+      key="Code"
+      value="C.1.4.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Determine compensation for damage caused by work activities"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to determine financial compensation for customers when an employee or contractor has caused damage at the customer"/>
+</archimate:BusinessFunction>

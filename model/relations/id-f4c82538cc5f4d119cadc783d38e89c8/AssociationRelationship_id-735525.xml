@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aanvaarding van"
+    id="id-735525"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="acceptance of"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-469480.xml#id-469480"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-470129.xml#id-470129"/>
+</archimate:AssociationRelationship>

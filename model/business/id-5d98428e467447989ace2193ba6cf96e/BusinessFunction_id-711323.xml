@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transport- en bedieningsplannen maken"
+    id="id-711323"
+    documentation="Het vermogen om energietransport te plannen en de werkzaamheden af te stemmen op veiligheidseisen, operationele eisen en tijdigheidseisen">
+  <properties
+      key="Code"
+      value="C.2.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Create transport and switching plans"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to plan energy transport and align operations with safety, operational and timeliness requirements"/>
+</archimate:BusinessFunction>

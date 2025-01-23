@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netfunctie"
+    id="id-469207"
+    documentation="Een taak of doel van een of meer (geplande) netcomponenten op een bepaalde locatie in het energienet.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid function"/>
+  <properties
+      key="Source"
+      value="functionele entiteit (NEN 2660)"/>
+  <properties
+      key="Search term"
+      value="assetfunctie"/>
+  <properties
+      key="Search term"
+      value="nettopologie"/>
+  <properties
+      key="Search term"
+      value="connectiviteit"/>
+  <properties
+      key="Search term"
+      value="voedingsgebied"/>
+</archimate:BusinessObject>

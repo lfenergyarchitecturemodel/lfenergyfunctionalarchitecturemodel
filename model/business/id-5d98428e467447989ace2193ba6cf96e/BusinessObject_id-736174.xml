@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaalproductinstantie"
+    id="id-736174"
+    documentation="De verzameling bedrijfsobjecten nodig om digitale producten te leveren.">
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Digital product instance"/>
+</archimate:BusinessObject>

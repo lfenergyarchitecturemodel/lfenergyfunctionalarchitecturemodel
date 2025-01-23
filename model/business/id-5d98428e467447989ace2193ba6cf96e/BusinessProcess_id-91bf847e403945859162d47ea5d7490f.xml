@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netgedreven aanpassen van energienetten"
+    id="id-91bf847e403945859162d47ea5d7490f">
+  <properties
+      key="Code"
+      value="P.C"/>
+  <properties
+      key="Name (en)"
+      value="Adjust energy grid plan driven"/>
+</archimate:BusinessProcess>

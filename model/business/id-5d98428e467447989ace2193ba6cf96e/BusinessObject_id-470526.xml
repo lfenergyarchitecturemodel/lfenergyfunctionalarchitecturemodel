@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkplan"
+    id="id-470526"
+    documentation="Een omschrijving van alle werkzaamheden die uitgevoerd moeten worden.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Work plan"/>
+  <properties
+      key="Source"
+      value="werkplan (BEIVIAG)"/>
+  <properties
+      key="Search term"
+      value="uitvoeringsplan"/>
+  <properties
+      key="Search term"
+      value="veiligheidsplan"/>
+</archimate:BusinessObject>

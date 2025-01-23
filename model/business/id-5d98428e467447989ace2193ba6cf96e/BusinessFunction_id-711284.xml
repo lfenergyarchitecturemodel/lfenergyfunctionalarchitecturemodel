@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klanten bedienen en relaties onderhouden"
+    id="id-711284"
+    documentation="Het vermogen om klanten te bedienen en relaties met klanten te onderhouden.">
+  <properties
+      key="Code"
+      value="C.1.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Serve customers and maintain relations"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to serve customers and maintain relations."/>
+</archimate:BusinessFunction>

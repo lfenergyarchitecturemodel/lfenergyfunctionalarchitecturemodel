@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Installatie"
+    id="id-479419"
+    documentation="Het samenstel van energietechnisch materiaal en leidingen van een aangeslotene, te rekenen na het overdrachtspunt van de aansluiting.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Facility"/>
+  <properties
+      key="Source"
+      value="installatie (Begrippencode elektriciteit)"/>
+  <properties
+      key="Source"
+      value="installatie (gasinstallatie (Begrippencode gas)"/>
+  <properties
+      key="Search term"
+      value="klantinstallatie"/>
+  <properties
+      key="Search term"
+      value="opwekker"/>
+  <properties
+      key="Search term"
+      value="productie-installatie"/>
+  <properties
+      key="Search term"
+      value="GCvO-installatie"/>
+  <properties
+      key="Search term"
+      value="elektriciteitsproductie-eenheid"/>
+  <properties
+      key="Search term"
+      value="verbruikseenheid"/>
+  <properties
+      key="Search term"
+      value="energieopslageenheid"/>
+  <properties
+      key="Search term"
+      value="systeemelement"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Juridisch advies"
+    id="id-736134"
+    documentation="Een raadgeving die primair verband houdt met het recht.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Legal advice"/>
+  <properties
+      key="Search term"
+      value="juridisch dossier"/>
+  <properties
+      key="Search term"
+      value="geschil"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netcomponentconfiguratie"
+    id="id-469726"
+    documentation="Een verzameling van instellingen van een netcomponent die de werking ervan bepalen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Grid component configuration"/>
+  <properties
+      key="Search term"
+      value="assetconfiguratie"/>
+  <properties
+      key="Search term"
+      value="assetfirmware"/>
+</archimate:BusinessObject>

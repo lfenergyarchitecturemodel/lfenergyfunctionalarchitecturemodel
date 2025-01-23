@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metingen beschikbaar maken"
+    id="id-718806"
+    documentation="Het vermogen om metingen  aan andere capabilities beschikbaar te stellen. Denk ondermeer aan dashboards, rapportages en/of analytics.">
+  <properties
+      key="Code"
+      value="C.4.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Make measurements available"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to make measurements of energy flows and energy grids available to other capabilities. For example for dashboard, reports, or analytics."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,57 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klant"
+    id="id-469427"
+    documentation="Een (potentiële) afnemer van een product of dienst van de netbeheerder.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Customer"/>
+  <properties
+      key="Source"
+      value="klant (Wikipedia)"/>
+  <properties
+      key="Search term"
+      value="contractant"/>
+  <properties
+      key="Search term"
+      value="afnemer"/>
+  <properties
+      key="Search term"
+      value="verbruiker"/>
+  <properties
+      key="Search term"
+      value="netgebruiker"/>
+  <properties
+      key="Search term"
+      value="aangeslotene"/>
+  <properties
+      key="Search term"
+      value="systeemgebruiker"/>
+  <properties
+      key="Search term"
+      value="aanvrager"/>
+  <properties
+      key="Search term"
+      value="zakenpartner"/>
+  <properties
+      key="Search term"
+      value="consument"/>
+  <properties
+      key="Search term"
+      value="inwoner"/>
+  <properties
+      key="Search term"
+      value="huisgenoot"/>
+  <properties
+      key="Search term"
+      value="contactpersoon"/>
+  <properties
+      key="Search term"
+      value="debiteur"/>
+  <properties
+      key="Search term"
+      value="schadeveroorzaker"/>
+</archimate:BusinessObject>

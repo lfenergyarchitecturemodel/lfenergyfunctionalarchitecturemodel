@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energietransport"
+    id="id-729558"
+    documentation="De verzameling bedrijfsobjecten nodig om energie te transporteren.">
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Energy transport"/>
+</archimate:BusinessObject>

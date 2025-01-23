@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ziekteverzuim"
+    id="id-470726"
+    documentation="Afwezigheid op het werk als gevolg van ziekte of gezondheidsproblemen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Sick leave"/>
+  <properties
+      key="Source"
+      value="verzuim (Wikipedia)"/>
+</archimate:BusinessObject>

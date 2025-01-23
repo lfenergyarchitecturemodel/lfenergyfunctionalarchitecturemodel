@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instandhouden van energienetten (onderhoud)"
+    id="id-66cbd1922333427da4a6446c460c5c85">
+  <properties
+      key="Code"
+      value="P.D.1"/>
+  <properties
+      key="Name (en)"
+      value="Maintain energy grids (maintenance)"/>
+</archimate:BusinessProcess>

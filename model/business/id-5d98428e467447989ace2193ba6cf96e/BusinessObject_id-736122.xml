@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verantwoordingsrapport"
+    id="id-736122"
+    documentation="Officiële uitleg of verklaring van de activiteiten van de netbeheerder aan een niet-financiële regulator.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Accountability report"/>
+  <properties
+      key="Search term"
+      value="MVO-rapportage (maatschappelijk verantwoord ondernemen)"/>
+</archimate:BusinessObject>

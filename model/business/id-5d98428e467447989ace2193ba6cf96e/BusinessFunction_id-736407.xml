@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebeurtenissen financieel verwerken"
+    id="id-736407"
+    documentation="Het vermogen om gebeurtenissen financieel te verwerken.">
+  <properties
+      key="Code"
+      value="E.7.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage financial transactions"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

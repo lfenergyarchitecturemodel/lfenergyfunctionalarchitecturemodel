@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capaciteitsknelpunt"
+    id="id-469215"
+    documentation="Delen van het energienet waarvan wordt verwacht dat zij vanwege een tekort aan transportcapaciteit een aanzienlijk risico vormen voor een goede uitvoering van de bij of krachtens de wet aan de netbeheerder toegekende taken.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Capacity bottleneck"/>
+  <properties
+      key="Source"
+      value="knelpunt (Regeling investeringsplan en kwaliteit elektriciteit en gas)"/>
+  <properties
+      key="Search term"
+      value="capaciteitsrisico"/>
+  <properties
+      key="Search term"
+      value="congestiepunt"/>
+</archimate:BusinessObject>

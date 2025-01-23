@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Borgen bedrijfscontinuïteit en compliance"
+    id="id-988752337f59432bb5552965cb7a96cc">
+  <properties
+      key="Code"
+      value="I.C"/>
+  <properties
+      key="Name (en)"
+      value="Ensure business continuity and compliance"/>
+</archimate:BusinessProcess>

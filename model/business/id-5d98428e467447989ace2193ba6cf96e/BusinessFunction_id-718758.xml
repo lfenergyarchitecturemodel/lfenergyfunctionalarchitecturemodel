@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werking van netcomponenten bewaken"
+    id="id-718758"
+    documentation="Het vermogen om van individuele netcomponenten die samen het energienet vormen de prestaties te monitoren, te besturen, op afstand te configureren. Denk hierbij aan primaire, secundaire, tertiaire en telecom netcomponenten. En denk hierbij aan updaten van firmware en digitale configuratie.">
+  <properties
+      key="Code"
+      value="C.2.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Monitor the operation of grid components"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to monitor, control, and remotely configure the performance of individual assets that make up the energy grid. This includes primary, secondary, tertiary and telecom net components. This includes updating firmware and digital configuration."/>
+</archimate:BusinessFunction>

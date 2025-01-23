@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsgebouwenstrategie en -plannen opstellen en besturen"
+    id="id-736465"
+    documentation="Het vermogen om bedrijfsgebouwenstrategie en -plannen op te stellen en te besturen. Dit omvat ook het huisvestingsplan.">
+  <properties
+      key="Code"
+      value="E.6.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop and manage real estate strategy and plans"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

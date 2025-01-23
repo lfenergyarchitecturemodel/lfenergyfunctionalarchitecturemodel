@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkers werven en inzetbaar houden"
+    id="id-718836"
+    documentation="Het vermogen om medewerkers te verwerven, inzetbaar te houden en te organiseren in een organisatiestructuur.">
+  <properties
+      key="Code"
+      value="E.3"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Recruit and manage human capital"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to recruit employees, keep them employable and organize them in an organizational structure."/>
+</archimate:BusinessFunction>

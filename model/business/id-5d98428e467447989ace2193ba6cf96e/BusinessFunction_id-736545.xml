@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitale producten realiseren"
+    id="id-736545"
+    documentation="Het vermogen om digitale producten te realiseren. (IT4IT - Requirement to Deploy)">
+  <properties
+      key="Code"
+      value="E.4.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Develop digital products"/>
+  <properties
+      key="Documentation (en)"
+      value="(IT4IT - Requirement to Deploy)"/>
+</archimate:BusinessFunction>

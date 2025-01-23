@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkomgevingen veiligstellen"
+    id="id-718716"
+    documentation="Het vermogen om werkomgevingen veilig te stellen. Denk onder meer aan spanningsvrij maken, weg afzetten, …">
+  <properties
+      key="Code"
+      value="C.5.3.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Secure the work environment"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to secure the working environment, like voltage free energy grid and blocking roads."/>
+</archimate:BusinessFunction>

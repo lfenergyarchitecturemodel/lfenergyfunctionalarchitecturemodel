@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contractloze situatie"
+    id="id-722964"
+    documentation="Een toestand waarin er een actieve aansluiting is zonder leveringsovereenkomst.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Contractless situation"/>
+  <properties
+      key="Search term"
+      value="energieafname zonder contract"/>
+</archimate:BusinessObject>

@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verhandeld op"
+    id="id-735561"
+    directed="true">
+  <properties
+      key="Name (en)"
+      value="traded on"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-723109.xml#id-723109"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-723105.xml#id-723105"/>
+</archimate:AssociationRelationship>

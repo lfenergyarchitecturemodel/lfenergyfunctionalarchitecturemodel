@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkooporder"
+    id="id-469299"
+    documentation="Een afspraak om goederen of diensten te leveren aan de netbeheerder tegen een overeengekomen prijs, eventueel onder de voorwaarden van een inkoopovereenkomst.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Purchase order"/>
+  <properties
+      key="Search term"
+      value="bestelling"/>
+</archimate:BusinessObject>

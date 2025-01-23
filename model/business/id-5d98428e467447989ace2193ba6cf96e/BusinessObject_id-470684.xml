@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Persoonscertificaat"
+    id="id-470684"
+    documentation="Een document dat bevestigt dat een natuurlijk persoon kennis, vaardigheden, competenties of kwalificaties heeft behaald.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Personal certificate"/>
+  <properties
+      key="Search term"
+      value="diploma"/>
+  <properties
+      key="Search term"
+      value="aanwijzingscertificaat"/>
+</archimate:BusinessObject>

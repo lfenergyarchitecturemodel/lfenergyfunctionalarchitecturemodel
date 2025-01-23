@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkers werven en selecteren"
+    id="id-736537"
+    documentation="Het vermogen om medewerkers te werven en te selecteren. &#xA;Dit omvat ook het communiceren met de arbeidsmarkt en de screening van medewerkers.">
+  <properties
+      key="Code"
+      value="E.3.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Recruite and select employees"/>
+  <properties
+      key="Documentation (en)"
+      value="0"/>
+</archimate:BusinessFunction>

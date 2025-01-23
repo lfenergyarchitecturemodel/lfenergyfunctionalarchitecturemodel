@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiering"
+    id="id-736025"
+    documentation="Een verstrekking van benodigde geldmiddelen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Financing"/>
+  <properties
+      key="Search term"
+      value="lening"/>
+  <properties
+      key="Search term"
+      value="aandeelhouder"/>
+  <properties
+      key="Search term"
+      value="subsidie"/>
+</archimate:BusinessObject>

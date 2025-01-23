@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaard werkproduct opstellen en onderhouden"
+    id="id-718734"
+    documentation="Het vermogen om standaard werkproducten inclusief bestekken op te stellen en te onderhouden. Denk onder meer aan specificatie van uitvoeringsproducten/werkzaamheden in relatie tot omgevingsfactoren zoals zachte grond inclusief benodigde arbeidstijd (normuren), materialen (norm) en materieel (norm).">
+  <properties
+      key="Code"
+      value="C.5.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Create and manage standard construction specifications"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to prepare and maintain standard work products including specifications. Consider, among other things, the specification of implementation products/activities in relation to environmental factors such as soft soil, including required labor time (standard hours), materials (standard) and equipment (standard)."/>
+</archimate:BusinessFunction>

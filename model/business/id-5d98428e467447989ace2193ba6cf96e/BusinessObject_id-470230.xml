@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktverzoek"
+    id="id-470230"
+    documentation="Een vraag van een marktpartij om iets te doen, niet zijnde een marktprocesverzoek.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Market request"/>
+  <properties
+      key="Search term"
+      value="ticket"/>
+  <properties
+      key="Search term"
+      value="case"/>
+</archimate:BusinessObject>

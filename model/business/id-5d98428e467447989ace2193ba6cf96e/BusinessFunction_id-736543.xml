@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Processen en data ontwikkelen en beheren"
+    id="id-736543"
+    documentation="Het vermogen om processen en data te ontwikkelen en te besturen.">
+  <properties
+      key="Code"
+      value="E.2"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Develop and manage processes and data"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to develop and manage processes and data."/>
+</archimate:BusinessFunction>

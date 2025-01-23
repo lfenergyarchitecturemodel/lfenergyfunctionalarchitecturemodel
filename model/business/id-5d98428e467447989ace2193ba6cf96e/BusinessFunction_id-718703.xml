@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleid en standaardisatie van energienetten opstellen en onderhouden"
+    id="id-718703"
+    documentation="Het vermogen om beleid en standaarden op te stellen en te onderhouden voor het aanpassen (uitbreiden, vervangen, vernieuwen) en in stand houden van energienetten, zoals handboek techniek.">
+  <properties
+      key="Code"
+      value="C.3.3.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Develop and maintain policies and standards on energy grids"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to develop and maintain policies and standards for adapting (expanding, replacing, renewing) and maintaining energy grids, such as a technical manual."/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regievoeren over werkzaamheden"
+    id="id-711282"
+    documentation="Het vermogen om uitvoerbare werkzaamheden aan energienetten te laten uitvoeren.">
+  <properties
+      key="Code"
+      value="C.5.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Name (en)"
+      value="Direct work execution"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to direct work execution on energy grids."/>
+</archimate:BusinessFunction>

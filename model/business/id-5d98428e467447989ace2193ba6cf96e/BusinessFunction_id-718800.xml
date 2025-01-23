@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toestemmingen beheren"
+    id="id-718800"
+    documentation="Het vermogen om toestemming tot toegang tot (markt) data te beheren. De toestemming wordt gebruikt bij het delen van data waarvoor toegang is vereist. Dit zijn onder meer de toestemmingen van klanten.">
+  <properties
+      key="Code"
+      value="C.6.4.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Manage issued permissions"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to manage, issued permissions of consumers, concerning sharing energy consumption and productiondata with allowed parties."/>
+</archimate:BusinessFunction>
