@@ -315,4 +315,6 @@
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-1f790482a7e4459db403b231f1a8c020.xml#id-1f790482a7e4459db403b231f1a8c020"/>
   </children>
+  <properties
+      key="Language=en"/>
 </archimate:ArchimateDiagramModel>

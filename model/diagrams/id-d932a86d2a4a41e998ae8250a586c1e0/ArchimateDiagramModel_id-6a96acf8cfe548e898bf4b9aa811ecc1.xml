@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mapping LFE projects on Nbility capabilities "
+    name="Mapping LFE projects on Nbility capabilities"
     id="id-6a96acf8cfe548e898bf4b9aa811ecc1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -234,4 +234,7 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-718759.xml#id-718759"/>
   </children>
+  <properties
+      key="Language=en"
+      value="not empty"/>
 </archimate:ArchimateDiagramModel>
