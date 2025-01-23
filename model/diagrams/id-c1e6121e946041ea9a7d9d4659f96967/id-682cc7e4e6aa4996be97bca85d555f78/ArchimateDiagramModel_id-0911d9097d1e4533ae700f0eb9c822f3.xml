@@ -6,7 +6,8 @@
     documentation="This is the project achitecture view of the PowSyBl  project. PowSyBl is an open source library dedicated to electrical grid modeling and simulation. For more information on PowSyBl, check out the project's page:  https://lfenergy.org/projects/powsybl/">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3614f24946414ab5ad7700bee1f6eef6">
+      id="id-3614f24946414ab5ad7700bee1f6eef6"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7521b105ea3d4de1bd8e482b4459913a"

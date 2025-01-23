@@ -6,7 +6,8 @@
     documentation="SPDX-FileCopyrightText: 2017-2022 Contributors to the NBility project&#xD;&#xA;&#xD;&#xA;SPDX-License-Identifier: CC-BY-4.0&#xD;&#xA;&#xD;&#xA;Source: https://github.com/NBility-Model">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-38eb8b42672c465f90bfa3ee9c0fe7ae">
+      id="id-38eb8b42672c465f90bfa3ee9c0fe7ae"
+      type="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>
@@ -294,7 +295,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f8130e524e804e71956ad562bebc8724">
+      id="id-f8130e524e804e71956ad562bebc8724"
+      type="1">
     <features
         name="labelExpression"
         value="${if:${property:Code}:${property:Code}. }${if:$vfolder{property:Language=en}:${property:Name (en)}:${name}}"/>

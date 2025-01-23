@@ -93,7 +93,8 @@
           font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
           lineColor="#000000"
           fillColor="#edebf9"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -145,7 +146,8 @@
           targetConnections="id-038a3e7de4cc48a4a149dfc63521d1ab"
           lineColor="#000000"
           fillColor="#edebf9"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -248,7 +250,8 @@
           targetConnections="id-94692c8393da4638aa854630f32119cb"
           lineColor="#000000"
           fillColor="#e5f1d7"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -300,7 +303,8 @@
           targetConnections="id-9215fb28060a4ae1bc2c296a57851d1f"
           lineColor="#000000"
           fillColor="#e5f1d7"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -352,7 +356,8 @@
           targetConnections="id-22e338607bf844ff8b7dcd48fae22cf8"
           lineColor="#000000"
           fillColor="#e5f1d7"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -452,7 +457,8 @@
           targetConnections="id-3c390e1538894104bdd9e16777f0ebb6"
           lineColor="#000000"
           fillColor="#ffcc99"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -504,7 +510,8 @@
           targetConnections="id-8b743a6c39a54c9ca11f6558703413fc"
           lineColor="#000000"
           fillColor="#ffcc99"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -556,7 +563,8 @@
           targetConnections="id-266401d19e1949af89e95bf09854143a"
           lineColor="#000000"
           fillColor="#ffcc99"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <features
             name="iconVisible"
             value="2"/>

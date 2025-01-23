@@ -84,7 +84,8 @@
           targetConnections="id-da78c1e358934afc84a5b8a447b25795"
           lineColor="#000000"
           fillColor="#bfbfbf"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -185,7 +186,8 @@
           targetConnections="id-03cdb5e2156b4dc0bccfcc7624c1fd74"
           lineColor="#000000"
           fillColor="#bfbfbf"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -238,7 +240,8 @@
           targetConnections="id-d54f1c2f6f2b4ff19a0ead5503f1b71f"
           lineColor="#000000"
           fillColor="#bfbfbf"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <features
             name="iconVisible"
             value="2"/>
@@ -291,7 +294,8 @@
           targetConnections="id-2613133fdc0246dca755d74dd50d508d"
           lineColor="#000000"
           fillColor="#bfbfbf"
-          textPosition="1">
+          textPosition="1"
+          type="1">
         <features
             name="iconVisible"
             value="2"/>
