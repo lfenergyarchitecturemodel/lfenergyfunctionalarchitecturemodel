@@ -1354,4 +1354,16 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-718168.xml#id-718168"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-148505d95e334ffb876293a16ab906d8"
+      font="1|Segoe UI|6.75|0|WINDOWS|1|-9|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="Copyright: 2017-2022 Contributors to the NBility project&#xD;&#xA;&#xD;&#xA;License: CC-BY-4.0&#xD;&#xA;">
+    <bounds
+        x="12"
+        y="540"
+        width="229"
+        height="49"/>
+  </children>
 </archimate:ArchimateDiagramModel>
