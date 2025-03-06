@@ -1,4 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generic Reference Architectures"
-    id="id-d932a86d2a4a41e998ae8250a586c1e0"/>
+    id="id-d932a86d2a4a41e998ae8250a586c1e0">
+  <properties
+      key="Language=en"
+      value="not empty"/>
+</archimate:Folder>
