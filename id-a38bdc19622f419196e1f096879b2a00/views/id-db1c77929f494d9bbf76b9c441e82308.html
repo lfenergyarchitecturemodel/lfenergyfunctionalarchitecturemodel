@@ -1,0 +1,428 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>OpenSTEF Realization</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>OpenSTEF Realization</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/id-db1c77929f494d9bbf76b9c441e82308.png" alt="OpenSTEF Realization" usemap="#id-db1c77929f494d9bbf76b9c441e82308map"/>
+			   <map name="id-db1c77929f494d9bbf76b9c441e82308map">
+				  		<area shape="rect" coords="779,739,995,794" href="../elements/id-1237c5e5959348e88ac82135138bbac0.html"  target="element">
+				  		<area shape="rect" coords="215,739,371,794" href="../elements/id-4c482e883eb94207859e96a770eeeb2e.html"  target="element">
+				  		<area shape="rect" coords="958,274,1164,353" href="../elements/id-9613c96de94d48f38e6ac275e550fd27.html"  target="element">
+				  		<area shape="rect" coords="503,943,695,998" href="../elements/id-2a0ac92ff43e42a78f571d35bcfe71da.html"  target="element">
+				  		<area shape="rect" coords="280,919,472,974" href="../elements/id-f1ea93408afa4784bf43c86617bb43fe.html"  target="element">
+				  		<area shape="rect" coords="707,907,899,962" href="../elements/id-e635aff004bc43ab96fbbbab8a0ace64.html"  target="element">
+				  		<area shape="rect" coords="513,835,669,920" href="../elements/id-311dd552c9a942c19308621b67e936b3.html"  target="element">
+				  		<area shape="rect" coords="490,619,669,704" href="../elements/id-4a24708a8cc74d7e84e5b2e2da8c5ac2.html"  target="element">
+				  				<area shape="rect" coords="670,460,821,540" href="../elements/id-baea3300cd9c45d8b7f026bf3d9a796a.html"  target="element">
+
+				  		<area shape="rect" coords="574,400,887,575" href="../elements/id-6e1fe141959e400e8c36c8e58226e65d.html"  target="element">
+				  		<area shape="rect" coords="274,394,441,575" href="../elements/id-73b3e9ba86384554a422b115135fdd0e.html"  target="element">
+				  		<area shape="rect" coords="958,547,1164,620" href="../elements/id-592b4795a38544189bd5a5583bd4877a.html"  target="element">
+				  		<area shape="rect" coords="958,463,1163,521" href="../elements/id-7720a8691750469d8e5109de04f27190.html"  target="element">
+				  		<area shape="rect" coords="958,383,1163,449" href="../elements/id-fb09944f37874beab0cc528a9cd5acf3.html"  target="element">
+				  		<area shape="rect" coords="592,739,744,794" href="../elements/id-fb38f59038a248139f90f77ba6828288.html"  target="element">
+				  		<area shape="rect" coords="395,739,577,794" href="../elements/id-f92dca07f65247628abef83bba7c1e0e.html"  target="element">
+				  		<area shape="rect" coords="10,538,196,611" href="../elements/id-d418055c9ad341e1a7fd2d337c9073c1.html"  target="element">
+				  		<area shape="rect" coords="10,464,196,519" href="../elements/id-5ccb7373450546ac8aa45458126b6ee9.html"  target="element">
+				  		<area shape="rect" coords="10,400,196,455" href="../elements/id-50ad46d5c0ab49d8a6f3a71a72d6e1f5.html"  target="element">
+				  		<area shape="rect" coords="260,250,456,333" href="../elements/id-12d1d8ded8be413b810e711eedf4fbdd.html"  target="element">
+				  		<area shape="rect" coords="267,130,448,215" href="../elements/id-ca8a5325bd934712a160687638d00c8a.html"  target="element">
+				  		<area shape="rect" coords="278,10,437,89" href="../elements/id-89db10d518a049c4a1613a4745909f5b.html"  target="element">
+
+			   </map>
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/id-89db10d518a049c4a1613a4745909f5b.html" target="element"> Forecasts </a> </td>
+											    <td> <a href="../elements/id-89db10d518a049c4a1613a4745909f5b.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-ca8a5325bd934712a160687638d00c8a.html" target="element"> Short Term Forecasting </a> </td>
+											    <td> <a href="../elements/id-ca8a5325bd934712a160687638d00c8a.html" target="element" class="i18n-elementtype-ApplicationFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-12d1d8ded8be413b810e711eedf4fbdd.html" target="element"> Short Term Forecaster </a> </td>
+											    <td> <a href="../elements/id-12d1d8ded8be413b810e711eedf4fbdd.html" target="element" class="i18n-elementtype-ApplicationComponent">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-50ad46d5c0ab49d8a6f3a71a72d6e1f5.html" target="element"> Contract Details </a> </td>
+											    <td> <a href="../elements/id-50ad46d5c0ab49d8a6f3a71a72d6e1f5.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-5ccb7373450546ac8aa45458126b6ee9.html" target="element"> POI's </a> </td>
+											    <td> <a href="../elements/id-5ccb7373450546ac8aa45458126b6ee9.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-d418055c9ad341e1a7fd2d337c9073c1.html" target="element"> Geo location of POI's </a> </td>
+											    <td> <a href="../elements/id-d418055c9ad341e1a7fd2d337c9073c1.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-f92dca07f65247628abef83bba7c1e0e.html" target="element"> Weather data </a> </td>
+											    <td> <a href="../elements/id-f92dca07f65247628abef83bba7c1e0e.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-fb38f59038a248139f90f77ba6828288.html" target="element"> Prices  </a> </td>
+											    <td> <a href="../elements/id-fb38f59038a248139f90f77ba6828288.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-fb09944f37874beab0cc528a9cd5acf3.html" target="element"> Transport prognosis </a> </td>
+											    <td> <a href="../elements/id-fb09944f37874beab0cc528a9cd5acf3.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-7720a8691750469d8e5109de04f27190.html" target="element"> Measurements </a> </td>
+											    <td> <a href="../elements/id-7720a8691750469d8e5109de04f27190.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-592b4795a38544189bd5a5583bd4877a.html" target="element"> Measurement forecasts </a> </td>
+											    <td> <a href="../elements/id-592b4795a38544189bd5a5583bd4877a.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-73b3e9ba86384554a422b115135fdd0e.html" target="element"> Telemetry Forecaster </a> </td>
+											    <td> <a href="../elements/id-73b3e9ba86384554a422b115135fdd0e.html" target="element" class="i18n-elementtype-ApplicationComponent">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-6e1fe141959e400e8c36c8e58226e65d.html" target="element"> Forecast Engine </a> </td>
+											    <td> <a href="../elements/id-6e1fe141959e400e8c36c8e58226e65d.html" target="element" class="i18n-elementtype-ApplicationComponent">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-baea3300cd9c45d8b7f026bf3d9a796a.html" target="element"> OpenStef </a> </td>
+													    <td> <a href="../elements/id-baea3300cd9c45d8b7f026bf3d9a796a.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-4a24708a8cc74d7e84e5b2e2da8c5ac2.html" target="element"> Predictor Storage </a> </td>
+											    <td> <a href="../elements/id-4a24708a8cc74d7e84e5b2e2da8c5ac2.html" target="element" class="i18n-elementtype-ApplicationComponent">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-311dd552c9a942c19308621b67e936b3.html" target="element"> Data Fetchers </a> </td>
+											    <td> <a href="../elements/id-311dd552c9a942c19308621b67e936b3.html" target="element" class="i18n-elementtype-ApplicationComponent">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-e635aff004bc43ab96fbbbab8a0ace64.html" target="element"> Day ahead prices </a> </td>
+											    <td> <a href="../elements/id-e635aff004bc43ab96fbbbab8a0ace64.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-f1ea93408afa4784bf43c86617bb43fe.html" target="element"> Weather Data </a> </td>
+											    <td> <a href="../elements/id-f1ea93408afa4784bf43c86617bb43fe.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-2a0ac92ff43e42a78f571d35bcfe71da.html" target="element"> GFS forecasts </a> </td>
+											    <td> <a href="../elements/id-2a0ac92ff43e42a78f571d35bcfe71da.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-9613c96de94d48f38e6ac275e550fd27.html" target="element"> Historic control actions </a> </td>
+											    <td> <a href="../elements/id-9613c96de94d48f38e6ac275e550fd27.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-4c482e883eb94207859e96a770eeeb2e.html" target="element"> Persistence </a> </td>
+											    <td> <a href="../elements/id-4c482e883eb94207859e96a770eeeb2e.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-1237c5e5959348e88ac82135138bbac0.html" target="element"> Model persistence </a> </td>
+											    <td> <a href="../elements/id-1237c5e5959348e88ac82135138bbac0.html" target="element" class="i18n-elementtype-DataObject">
+											    </a> </td>
+											</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/id-81eab524393c4e8592939fc9e623c4bd.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-81eab524393c4e8592939fc9e623c4bd.html" target="element" class="i18n-elementtype-ServingRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ca8a5325bd934712a160687638d00c8a.html" target="element"> Short Term Forecasting </a> </td>
+																		<td> <a href="../elements/id-89db10d518a049c4a1613a4745909f5b.html" target="element"> Forecasts </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-966de2d0c95640428e45094ba74f93be.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-966de2d0c95640428e45094ba74f93be.html" target="element" class="i18n-elementtype-RealizationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-12d1d8ded8be413b810e711eedf4fbdd.html" target="element"> Short Term Forecaster </a> </td>
+																		<td> <a href="../elements/id-ca8a5325bd934712a160687638d00c8a.html" target="element"> Short Term Forecasting </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-70979cb6d8a145c59ee0bfb01743a355.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-70979cb6d8a145c59ee0bfb01743a355.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-12d1d8ded8be413b810e711eedf4fbdd.html" target="element"> Short Term Forecaster </a> </td>
+																		<td> <a href="../elements/id-73b3e9ba86384554a422b115135fdd0e.html" target="element"> Telemetry Forecaster </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-fd282d2c3f824b7fa0cdfbb967380789.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-fd282d2c3f824b7fa0cdfbb967380789.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-12d1d8ded8be413b810e711eedf4fbdd.html" target="element"> Short Term Forecaster </a> </td>
+																		<td> <a href="../elements/id-6e1fe141959e400e8c36c8e58226e65d.html" target="element"> Forecast Engine </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-f7145b4ed2444cd69d9789d498aa8f37.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-f7145b4ed2444cd69d9789d498aa8f37.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-73b3e9ba86384554a422b115135fdd0e.html" target="element"> Telemetry Forecaster </a> </td>
+																		<td> <a href="../elements/id-50ad46d5c0ab49d8a6f3a71a72d6e1f5.html" target="element"> Contract Details </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-c3663c6dbaf94f5f9e9241dfd309d89d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-c3663c6dbaf94f5f9e9241dfd309d89d.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-73b3e9ba86384554a422b115135fdd0e.html" target="element"> Telemetry Forecaster </a> </td>
+																		<td> <a href="../elements/id-5ccb7373450546ac8aa45458126b6ee9.html" target="element"> POI's </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-be143747b4874a9ebdffa57ceba9402e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-be143747b4874a9ebdffa57ceba9402e.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-73b3e9ba86384554a422b115135fdd0e.html" target="element"> Telemetry Forecaster </a> </td>
+																		<td> <a href="../elements/id-d418055c9ad341e1a7fd2d337c9073c1.html" target="element"> Geo location of POI's </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-6c1eb0395b2d4b14ba501179b84f2e9a.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-6c1eb0395b2d4b14ba501179b84f2e9a.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-73b3e9ba86384554a422b115135fdd0e.html" target="element"> Telemetry Forecaster </a> </td>
+																		<td> <a href="../elements/id-6e1fe141959e400e8c36c8e58226e65d.html" target="element"> Forecast Engine </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-a84821709a5a4021a321d405a9b0cb63.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a84821709a5a4021a321d405a9b0cb63.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-6e1fe141959e400e8c36c8e58226e65d.html" target="element"> Forecast Engine </a> </td>
+																		<td> <a href="../elements/id-fb09944f37874beab0cc528a9cd5acf3.html" target="element"> Transport prognosis </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-ac627e8653304b258c69c9272348b34f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-ac627e8653304b258c69c9272348b34f.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-6e1fe141959e400e8c36c8e58226e65d.html" target="element"> Forecast Engine </a> </td>
+																		<td> <a href="../elements/id-7720a8691750469d8e5109de04f27190.html" target="element"> Measurements </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-a98d9d9dee8945cebc4d5cf87de15ad4.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a98d9d9dee8945cebc4d5cf87de15ad4.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-6e1fe141959e400e8c36c8e58226e65d.html" target="element"> Forecast Engine </a> </td>
+																		<td> <a href="../elements/id-592b4795a38544189bd5a5583bd4877a.html" target="element"> Measurement forecasts </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-178e39f5b4484f31a8c97e901b60253b.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-178e39f5b4484f31a8c97e901b60253b.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-6e1fe141959e400e8c36c8e58226e65d.html" target="element"> Forecast Engine </a> </td>
+																		<td> <a href="../elements/id-baea3300cd9c45d8b7f026bf3d9a796a.html" target="element"> OpenStef </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-18ea97fe5e4240feabc9c6ea59bb6b92.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-18ea97fe5e4240feabc9c6ea59bb6b92.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-6e1fe141959e400e8c36c8e58226e65d.html" target="element"> Forecast Engine </a> </td>
+																		<td> <a href="../elements/id-4a24708a8cc74d7e84e5b2e2da8c5ac2.html" target="element"> Predictor Storage </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-1fa487986cee45e58097decf60be83c6.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-1fa487986cee45e58097decf60be83c6.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-6e1fe141959e400e8c36c8e58226e65d.html" target="element"> Forecast Engine </a> </td>
+																		<td> <a href="../elements/id-9613c96de94d48f38e6ac275e550fd27.html" target="element"> Historic control actions </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-761c23eee4e243b1b93b32322e7aca59.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-761c23eee4e243b1b93b32322e7aca59.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-6e1fe141959e400e8c36c8e58226e65d.html" target="element"> Forecast Engine </a> </td>
+																		<td> <a href="../elements/id-1237c5e5959348e88ac82135138bbac0.html" target="element"> Model persistence </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-fbaa4cbe0ca3401ab23774d70da24bd3.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-fbaa4cbe0ca3401ab23774d70da24bd3.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-4a24708a8cc74d7e84e5b2e2da8c5ac2.html" target="element"> Predictor Storage </a> </td>
+																		<td> <a href="../elements/id-f92dca07f65247628abef83bba7c1e0e.html" target="element"> Weather data </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-f89a052bcd064c86b97629b83af3aaf1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-f89a052bcd064c86b97629b83af3aaf1.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-4a24708a8cc74d7e84e5b2e2da8c5ac2.html" target="element"> Predictor Storage </a> </td>
+																		<td> <a href="../elements/id-fb38f59038a248139f90f77ba6828288.html" target="element"> Prices  </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-e68a125c6fd24c1882ba83a4cadabd47.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e68a125c6fd24c1882ba83a4cadabd47.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-4a24708a8cc74d7e84e5b2e2da8c5ac2.html" target="element"> Predictor Storage </a> </td>
+																		<td> <a href="../elements/id-4c482e883eb94207859e96a770eeeb2e.html" target="element"> Persistence </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-dc6f1b590f4241a2a8a0b3d134bbdc42.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-dc6f1b590f4241a2a8a0b3d134bbdc42.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-311dd552c9a942c19308621b67e936b3.html" target="element"> Data Fetchers </a> </td>
+																		<td> <a href="../elements/id-f92dca07f65247628abef83bba7c1e0e.html" target="element"> Weather data </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-faa8124cdb3d4c5cbdcf7fe2e504c84e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-faa8124cdb3d4c5cbdcf7fe2e504c84e.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-311dd552c9a942c19308621b67e936b3.html" target="element"> Data Fetchers </a> </td>
+																		<td> <a href="../elements/id-fb38f59038a248139f90f77ba6828288.html" target="element"> Prices  </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-fb1ab7d9512240f09d2e88e67aee894e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-fb1ab7d9512240f09d2e88e67aee894e.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-311dd552c9a942c19308621b67e936b3.html" target="element"> Data Fetchers </a> </td>
+																		<td> <a href="../elements/id-f1ea93408afa4784bf43c86617bb43fe.html" target="element"> Weather Data </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-93ecf748a2cd409d871688bd67f0b2a2.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-93ecf748a2cd409d871688bd67f0b2a2.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-311dd552c9a942c19308621b67e936b3.html" target="element"> Data Fetchers </a> </td>
+																		<td> <a href="../elements/id-2a0ac92ff43e42a78f571d35bcfe71da.html" target="element"> GFS forecasts </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-a653aa8c2ac84ac1b26e4b5a0f76cd0f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a653aa8c2ac84ac1b26e4b5a0f76cd0f.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-311dd552c9a942c19308621b67e936b3.html" target="element"> Data Fetchers </a> </td>
+																		<td> <a href="../elements/id-e635aff004bc43ab96fbbbab8a0ace64.html" target="element"> Day ahead prices </a> </td>
+																	</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

@@ -1,0 +1,461 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>L2 C functions</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>L2 C functions</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/id-2bee05a1c5f2467795abca36384810af.png" alt="L2 C functions" usemap="#id-2bee05a1c5f2467795abca36384810afmap"/>
+			   <map name="id-2bee05a1c5f2467795abca36384810afmap">
+				          <area shape="rect" coords="10,442,239,491" href="../objects/id-df9ddf29faee454a8a35385714504adc.html" target="element" >
+				  				<area shape="rect" coords="982,334,1139,407" href="../elements/id-718331.html"  target="element">
+				  				<area shape="rect" coords="982,250,1139,323" href="../elements/id-718383.html"  target="element">
+				  				<area shape="rect" coords="982,166,1139,239" href="../elements/id-718345.html"  target="element">
+				  				<area shape="rect" coords="982,82,1139,155" href="../elements/id-718338.html"  target="element">
+
+				  		<area shape="rect" coords="970,10,1151,420" href="../elements/id-718173.html"  target="element">
+				  				<area shape="rect" coords="214,250,371,323" href="../elements/id-711323.html"  target="element">
+				  				<area shape="rect" coords="214,166,371,238" href="../elements/id-718379.html"  target="element">
+				  				<area shape="rect" coords="214,82,371,154" href="../elements/id-711318.html"  target="element">
+
+				  		<area shape="rect" coords="202,10,383,419" href="../elements/id-718168.html"  target="element">
+				  				<area shape="rect" coords="598,166,755,239" href="../elements/id-718341.html"  target="element">
+				  				<area shape="rect" coords="598,82,755,155" href="../elements/id-711337.html"  target="element">
+
+				  		<area shape="rect" coords="586,10,767,421" href="../elements/id-718170.html"  target="element">
+				  				<area shape="rect" coords="406,250,563,323" href="../elements/id-711339.html"  target="element">
+				  				<area shape="rect" coords="406,166,563,239" href="../elements/id-711342.html"  target="element">
+				  				<area shape="rect" coords="406,82,563,154" href="../elements/id-711321.html"  target="element">
+
+				  		<area shape="rect" coords="394,10,575,419" href="../elements/id-718167.html"  target="element">
+				  				<area shape="rect" coords="790,334,947,406" href="../elements/id-711280.html"  target="element">
+				  				<area shape="rect" coords="790,250,947,322" href="../elements/id-711278.html"  target="element">
+				  				<area shape="rect" coords="790,166,947,239" href="../elements/id-711282.html"  target="element">
+				  				<area shape="rect" coords="790,82,947,155" href="../elements/id-711316.html"  target="element">
+
+				  		<area shape="rect" coords="778,10,959,419" href="../elements/id-718169.html"  target="element">
+				  				<area shape="rect" coords="22,82,179,155" href="../elements/id-711284.html"  target="element">
+				  				<area shape="rect" coords="22,250,179,322" href="../elements/id-711331.html"  target="element">
+				  				<area shape="rect" coords="22,334,179,406" href="../elements/id-718342.html"  target="element">
+				  				<area shape="rect" coords="22,166,179,239" href="../elements/id-718334.html"  target="element">
+
+				  		<area shape="rect" coords="10,10,191,419" href="../elements/id-718171.html"  target="element">
+
+			   </map>
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">SPDX-FileCopyrightText: 2017-2022 Contributors to the NBility project
+
+SPDX-License-Identifier: CC-BY-4.0
+
+Source: https://github.com/NBility-Model</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/id-718171.html" target="element"> Klanten bedienen </a> </td>
+											    <td> <a href="../elements/id-718171.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-718334.html" target="element"> Overeenkomsten verwerven en beheren </a> </td>
+													    <td> <a href="../elements/id-718334.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-718342.html" target="element"> Inkomstenverlies beperken </a> </td>
+													    <td> <a href="../elements/id-718342.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-711331.html" target="element"> Factureren en innen </a> </td>
+													    <td> <a href="../elements/id-711331.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-711284.html" target="element"> Klanten bedienen en relaties onderhouden </a> </td>
+													    <td> <a href="../elements/id-711284.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-718169.html" target="element"> Werkzaamheden uitvoeren aan energienetten </a> </td>
+											    <td> <a href="../elements/id-718169.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-711316.html" target="element"> Werkzaamhedenportfolio opstellen en onderhouden </a> </td>
+													    <td> <a href="../elements/id-711316.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-711282.html" target="element"> Regievoeren over werkzaamheden </a> </td>
+													    <td> <a href="../elements/id-711282.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-711278.html" target="element"> Werkzaamheden uitvoeren </a> </td>
+													    <td> <a href="../elements/id-711278.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-711280.html" target="element"> Werkzaamheden faciliteren </a> </td>
+													    <td> <a href="../elements/id-711280.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-718167.html" target="element"> Ontwikkeling en instandhouding van energienetten besturen </a> </td>
+											    <td> <a href="../elements/id-718167.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-711321.html" target="element"> Energienetten uitbreiden, vervangen en vernieuwen </a> </td>
+													    <td> <a href="../elements/id-711321.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-711342.html" target="element"> Energienetten in stand houden </a> </td>
+													    <td> <a href="../elements/id-711342.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-711339.html" target="element"> Energienetrichtlijnen en -patronen vaststellen </a> </td>
+													    <td> <a href="../elements/id-711339.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-718170.html" target="element"> Energietransport en -netten meten </a> </td>
+											    <td> <a href="../elements/id-718170.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-711337.html" target="element"> Beschikbaar krijgen metingen van energietransport en -netten </a> </td>
+													    <td> <a href="../elements/id-711337.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-718341.html" target="element"> Beschikbaar maken metingen van energietransport en -netten </a> </td>
+													    <td> <a href="../elements/id-718341.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-718168.html" target="element"> Energie transporteren </a> </td>
+											    <td> <a href="../elements/id-718168.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-711318.html" target="element"> Energietransport verzorgen </a> </td>
+													    <td> <a href="../elements/id-711318.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-718379.html" target="element"> Energietransport herstellen </a> </td>
+													    <td> <a href="../elements/id-718379.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-711323.html" target="element"> Transport- en bedieningsplannen maken </a> </td>
+													    <td> <a href="../elements/id-711323.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-718173.html" target="element"> De energiemarkt faciliteren </a> </td>
+											    <td> <a href="../elements/id-718173.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-718338.html" target="element"> Marktpartijen bedienen en relaties onderhouden </a> </td>
+													    <td> <a href="../elements/id-718338.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-718345.html" target="element"> Marktdata beheren </a> </td>
+													    <td> <a href="../elements/id-718345.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-718383.html" target="element"> Marktprocessen uitvoeren/faciliteren </a> </td>
+													    <td> <a href="../elements/id-718383.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-718331.html" target="element"> Delen van marktdata faciliteren </a> </td>
+													    <td> <a href="../elements/id-718331.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+											
+									        <tr>
+									           <td> <a href="../objects/id-df9ddf29faee454a8a35385714504adc.html" target="element">  </a> </td>
+									           <td> <a href="../objects/id-df9ddf29faee454a8a35385714504adc.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+									        </tr>
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/id-878527.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878527.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718171.html" target="element"> Klanten bedienen </a> </td>
+																		<td> <a href="../elements/id-711331.html" target="element"> Factureren en innen </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878392.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878392.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718171.html" target="element"> Klanten bedienen </a> </td>
+																		<td> <a href="../elements/id-718334.html" target="element"> Overeenkomsten verwerven en beheren </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878804.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878804.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718171.html" target="element"> Klanten bedienen </a> </td>
+																		<td> <a href="../elements/id-711284.html" target="element"> Klanten bedienen en relaties onderhouden </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878512.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878512.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718171.html" target="element"> Klanten bedienen </a> </td>
+																		<td> <a href="../elements/id-718342.html" target="element"> Inkomstenverlies beperken </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-878327.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878327.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718169.html" target="element"> Werkzaamheden uitvoeren aan energienetten </a> </td>
+																		<td> <a href="../elements/id-711280.html" target="element"> Werkzaamheden faciliteren </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878966.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878966.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718169.html" target="element"> Werkzaamheden uitvoeren aan energienetten </a> </td>
+																		<td> <a href="../elements/id-711282.html" target="element"> Regievoeren over werkzaamheden </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878380.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878380.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718169.html" target="element"> Werkzaamheden uitvoeren aan energienetten </a> </td>
+																		<td> <a href="../elements/id-711278.html" target="element"> Werkzaamheden uitvoeren </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878855.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878855.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718169.html" target="element"> Werkzaamheden uitvoeren aan energienetten </a> </td>
+																		<td> <a href="../elements/id-711316.html" target="element"> Werkzaamhedenportfolio opstellen en onderhouden </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-878458.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878458.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718167.html" target="element"> Ontwikkeling en instandhouding van energienetten besturen </a> </td>
+																		<td> <a href="../elements/id-711321.html" target="element"> Energienetten uitbreiden, vervangen en vernieuwen </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878753.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878753.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718167.html" target="element"> Ontwikkeling en instandhouding van energienetten besturen </a> </td>
+																		<td> <a href="../elements/id-711339.html" target="element"> Energienetrichtlijnen en -patronen vaststellen </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878371.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878371.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718167.html" target="element"> Ontwikkeling en instandhouding van energienetten besturen </a> </td>
+																		<td> <a href="../elements/id-711342.html" target="element"> Energienetten in stand houden </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-878937.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878937.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718170.html" target="element"> Energietransport en -netten meten </a> </td>
+																		<td> <a href="../elements/id-718341.html" target="element"> Beschikbaar maken metingen van energietransport en -netten </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878616.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878616.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718170.html" target="element"> Energietransport en -netten meten </a> </td>
+																		<td> <a href="../elements/id-711337.html" target="element"> Beschikbaar krijgen metingen van energietransport en -netten </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-878865.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878865.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718168.html" target="element"> Energie transporteren </a> </td>
+																		<td> <a href="../elements/id-711318.html" target="element"> Energietransport verzorgen </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878826.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878826.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718168.html" target="element"> Energie transporteren </a> </td>
+																		<td> <a href="../elements/id-718379.html" target="element"> Energietransport herstellen </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878420.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878420.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718168.html" target="element"> Energie transporteren </a> </td>
+																		<td> <a href="../elements/id-711323.html" target="element"> Transport- en bedieningsplannen maken </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-878887.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878887.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718173.html" target="element"> De energiemarkt faciliteren </a> </td>
+																		<td> <a href="../elements/id-718331.html" target="element"> Delen van marktdata faciliteren </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878938.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878938.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718173.html" target="element"> De energiemarkt faciliteren </a> </td>
+																		<td> <a href="../elements/id-718338.html" target="element"> Marktpartijen bedienen en relaties onderhouden </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878900.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878900.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718173.html" target="element"> De energiemarkt faciliteren </a> </td>
+																		<td> <a href="../elements/id-718383.html" target="element"> Marktprocessen uitvoeren/faciliteren </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-878306.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-878306.html" target="element" class="i18n-elementtype-CompositionRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-718173.html" target="element"> De energiemarkt faciliteren </a> </td>
+																		<td> <a href="../elements/id-718345.html" target="element"> Marktdata beheren </a> </td>
+																	</tr>
+
+											
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
