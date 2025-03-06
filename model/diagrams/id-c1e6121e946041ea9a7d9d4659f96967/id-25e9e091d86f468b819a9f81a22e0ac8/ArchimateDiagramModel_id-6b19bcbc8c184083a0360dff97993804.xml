@@ -6,8 +6,7 @@
     documentation="This is the project achitecture view of the OpenSTEF project. OpenSTEF provides software for forecasting the load and generation of electricity on the electricity grid for the next few days. OpenSTEF uses smart algorithms to produce a forecast based on measurements, weather forecasts, pricing on the energy market, and more.. For more information on OpenSTEF, check out the project's page:  https://lfenergy.org/projects/openstef/">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-32089cd7f24e48aeb7e8bae0dec6ccc1"
-      type="1">
+      id="id-32089cd7f24e48aeb7e8bae0dec6ccc1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0412ed0582c24497bf68b548488fceaf"
