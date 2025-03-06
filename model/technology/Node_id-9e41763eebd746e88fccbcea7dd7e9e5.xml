@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtual Machine"
+    id="id-9e41763eebd746e88fccbcea7dd7e9e5">
+  <properties
+      key="attribute"
+      value="Low latency"/>
+</archimate:Node>

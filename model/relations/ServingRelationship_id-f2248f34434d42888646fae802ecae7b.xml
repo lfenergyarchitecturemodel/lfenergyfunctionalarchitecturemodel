@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="deploy and configure"
+    id="id-f2248f34434d42888646fae802ecae7b">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-c72aa70c383d45d792062fb6a372252b.xml#id-c72aa70c383d45d792062fb6a372252b"/>
+  <target
+      xsi:type="archimate:TechnologyCollaboration"
+      href="TechnologyCollaboration_id-899efa5356604060afa29a8753c6c0df.xml#id-899efa5356604060afa29a8753c6c0df"/>
+</archimate:ServingRelationship>

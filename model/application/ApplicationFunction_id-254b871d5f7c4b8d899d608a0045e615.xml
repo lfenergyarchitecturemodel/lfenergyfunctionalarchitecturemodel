@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ressource management"
+    id="id-254b871d5f7c4b8d899d608a0045e615"
+    documentation="Management of the communication between the different machines within a cluster group."/>
