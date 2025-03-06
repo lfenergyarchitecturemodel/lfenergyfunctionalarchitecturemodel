@@ -157,8 +157,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -221,8 +220,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -245,8 +243,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -300,8 +297,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -355,8 +351,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -428,8 +423,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -452,8 +446,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -476,8 +469,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -580,8 +572,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -635,8 +626,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ff7c80"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -690,8 +680,7 @@
             font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
             lineColor="#000000"
             fillColor="#ff7c80"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -833,8 +822,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -946,8 +934,7 @@
             font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1001,8 +988,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1056,8 +1042,7 @@
             font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1111,8 +1096,7 @@
             font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1251,8 +1235,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1324,8 +1307,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1348,8 +1330,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1372,8 +1353,7 @@
             font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1427,8 +1407,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1482,8 +1461,7 @@
             font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1537,8 +1515,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1592,8 +1569,7 @@
             font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1647,8 +1623,7 @@
             font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1769,8 +1744,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1824,8 +1798,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1879,8 +1852,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1934,8 +1906,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -1989,8 +1960,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#ffffcc"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2153,8 +2123,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2208,8 +2177,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2263,8 +2231,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2349,8 +2316,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2453,8 +2419,7 @@
             font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2508,8 +2473,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2563,8 +2527,7 @@
             font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2703,8 +2666,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2727,8 +2689,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2782,8 +2743,7 @@
             font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2837,8 +2797,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2892,8 +2851,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -2947,8 +2905,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -3011,8 +2968,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -3035,8 +2991,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#e5f1d7"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -3187,8 +3142,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#bfeeff"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -3211,8 +3165,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#bfeeff"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -3266,8 +3219,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#bfeeff"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -3321,8 +3273,7 @@
             font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
             lineColor="#000000"
             fillColor="#bfeeff"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -3425,8 +3376,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#bfeeff"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -3449,8 +3399,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#bfeeff"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>
@@ -3504,8 +3453,7 @@
             fontColor="#000000"
             lineColor="#000000"
             fillColor="#bfeeff"
-            textPosition="1"
-            type="1">
+            textPosition="1">
           <features
               name="iconVisible"
               value="2"/>

@@ -56,8 +56,7 @@
         targetConnections="id-e79d91f8f2be4ad59f1afad26457d2f6"
         lineColor="#000000"
         fillColor="#bfbfbf"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <features
           name="iconVisible"
           value="2"/>
@@ -108,8 +107,7 @@
         targetConnections="id-5b0dd2313f2a4cf59a4a1b988a2729f8"
         lineColor="#000000"
         fillColor="#bfbfbf"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <features
           name="iconVisible"
           value="2"/>

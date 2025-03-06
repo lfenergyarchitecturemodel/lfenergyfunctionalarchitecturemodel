@@ -7,8 +7,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000001_7413_4c24_BE34_C9991EEE5112"
       targetConnections="EAID_DC000000_BB7E_4c5b_9623_66E6092BB0CF"
-      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
-      type="1">
+      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri">
     <bounds
         x="91"
         y="476"
@@ -22,8 +21,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_8725_4490_9717_2F4C8A9EFA77"
       targetConnections="EAID_DC000000_25F6_47b6_926E_3B1F2DA3DA43"
-      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
-      type="1">
+      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri">
     <bounds
         x="91"
         y="398"
@@ -37,8 +35,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000001_D1AA_4e65_9948_F31053711580"
       targetConnections="id-8942022af9ee467c9665abc2552e8baa"
-      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
-      type="1">
+      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri">
     <bounds
         x="96"
         y="61"
@@ -229,8 +226,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_A028_471b_B1B1_DE72B890F240"
       targetConnections="EAID_DC000000_1448_4532_AD54_A53B882C0973"
-      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
-      type="1">
+      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri">
     <bounds
         x="565"
         y="138"
@@ -244,8 +240,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_EC0B_4ffd_A9EA_A4ADF2C43629"
       targetConnections="EAID_DC000000_8B48_4915_B40F_16B02F9AF5B0"
-      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
-      type="1">
+      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri">
     <bounds
         x="860"
         y="358"
@@ -254,8 +249,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_D5D0_411a_AC64_DAF632AAFE29"
-        font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
-        type="1">
+        font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri">
       <bounds
           x="28"
           y="54"
@@ -273,8 +267,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_B46C_4c49_A0E8_DA4EB482D82C"
       targetConnections="EAID_DC000000_96B6_4e5c_B137_CF0F08BA38F6"
-      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
-      type="1">
+      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri">
     <bounds
         x="91"
         y="155"
@@ -288,8 +281,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_9007_4083_8D75_715C3C767EE4"
       targetConnections="EAID_DC000000_0C60_482e_8588_A4BF0CEFC82A"
-      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
-      type="1">
+      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri">
     <bounds
         x="91"
         y="237"
@@ -303,8 +295,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_ED9E_43d9_A750_28D68CD9908F"
       targetConnections="EAID_DC000000_66B9_4342_93AE_08F8B57D699D"
-      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
-      type="1">
+      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri">
     <bounds
         x="91"
         y="319"
@@ -318,8 +309,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_073C_416e_B510_E9C4AEF3BAF3"
       targetConnections="EAID_DC000000_9FCA_4e50_8C2D_9F516DFF055D"
-      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
-      type="1">
+      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri">
     <bounds
         x="220"
         y="61"
@@ -333,8 +323,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_7DA3_4322_92C9_3033C8507824"
       targetConnections="EAID_DC000000_A5F6_4b15_929B_64FDFF7AEA5A"
-      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
-      type="1">
+      font="1|Calibri|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri">
     <bounds
         x="436"
         y="139"
@@ -347,8 +336,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_DFF5_43f8_9026_4714EB56715E"
-      targetConnections="EAID_DC000000_1A4C_4366_A0F8_7A0F8F04C1DD"
-      type="1">
+      targetConnections="EAID_DC000000_1A4C_4366_A0F8_7A0F8F04C1DD">
     <bounds
         x="91"
         y="566"

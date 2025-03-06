@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Views"
     id="id-5966e2a5f36f46b88221dfa7fcb45450"
-    type="diagrams"/>
+    type="diagrams">
+  <properties
+      key="Language=en"
+      value="not empty"/>
+</archimate:Folder>
