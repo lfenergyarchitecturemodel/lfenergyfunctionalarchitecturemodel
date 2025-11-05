@@ -6,7 +6,7 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # LF Energy Functional Architecture Model
 
-Important Note: “The LF Energy ArchiMate Special Interest Group is currently on hold, and development of the LF Energy Architecture Model has been discontinued.
+***Important Note: “The LF Energy ArchiMate Special Interest Group is currently on hold, and development of the LF Energy Architecture Model has been discontinued.***
 
 The repos in this github org contains Functional Architecture Model in Archimate language. 
 
